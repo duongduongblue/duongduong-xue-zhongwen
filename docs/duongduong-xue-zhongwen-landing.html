@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DuongDuong 学中文</title>
+  <style>
+    :root {
+      --bg: #f5efe0;
+      --bg-soft: #fbf6ea;
+      --card: #fffaf0;
+      --panel: #ffffff;
+      --primary: #c0392b;
+      --primary-dark: #9f2f24;
+      --gold: #d4a017;
+      --ink: #2c1810;
+      --muted: #7f766d;
+      --line: #e6d7ba;
+      --green: #3b6d11;
+      --green-bg: #eef6e4;
+      --blue: #185fa5;
+      --shadow: 0 16px 42px rgba(44, 24, 16, 0.08);
+      --radius-xl: 30px;
+      --radius-lg: 20px;
+      --radius-md: 14px;
+      --max: 1180px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #fcf7ee 0%, var(--bg) 56%);
+      color: var(--ink);
+    }
+
+    a { color: inherit; }
+
+    .page {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 24px 18px 60px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 28px;
+      padding: 14px 18px;
+      background: rgba(255,255,255,0.65);
+      border: 1px solid rgba(212,160,23,0.18);
+      border-radius: 999px;
+      backdrop-filter: blur(12px);
+      position: sticky;
+      top: 10px;
+      z-index: 30;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .brand-mark {
+      width: 44px;
+      height: 44px;
+      flex: 0 0 auto;
+      border-radius: 50%;
+      background: var(--primary);
+      color: #fff;
+      display: grid;
+      place-items: center;
+      font-size: 20px;
+      font-weight: 800;
+      box-shadow: var(--shadow);
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.15;
+      font-weight: 800;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      font-size: 12px;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+
+    .nav a {
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+      color: #5a4f46;
+    }
+
+    .nav a:hover { background: #fff; }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.08fr 0.92fr;
+      gap: 28px;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+
+    .hero-copy,
+    .card {
+      background: linear-gradient(180deg, #fffdf8 0%, #fff7ea 100%);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-xl);
+      box-shadow: var(--shadow);
+    }
+
+    .hero-copy {
+      padding: 34px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-copy::after {
+      content: "学";
+      position: absolute;
+      right: 18px;
+      bottom: -8px;
+      font-size: 120px;
+      font-weight: 800;
+      line-height: 1;
+      color: rgba(192,57,43,0.06);
+      pointer-events: none;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: #f6ebcf;
+      border: 1px solid rgba(212,160,23,0.35);
+      color: #8a5b0a;
+      font-size: 12px;
+      font-weight: 800;
+      margin-bottom: 16px;
+    }
+
+    .hero h2 {
+      margin: 0 0 14px;
+      font-size: clamp(34px, 6vw, 56px);
+      line-height: 1.04;
+      letter-spacing: -0.04em;
+    }
+
+    .line-vi,
+    .line-zh {
+      margin: 0 0 10px;
+      font-size: 16px;
+      line-height: 1.75;
+      max-width: 680px;
+    }
+
+    .line-vi { color: #544940; }
+    .line-zh { color: var(--ink); font-weight: 500; }
+
+    .hero-actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 22px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 13px 18px;
+      border-radius: 14px;
+      text-decoration: none;
+      border: 1px solid transparent;
+      font-size: 14px;
+      font-weight: 800;
+      transition: transform .18s ease, box-shadow .18s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 10px 24px rgba(44,24,16,0.08);
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: #fff;
+      border-color: var(--primary);
+    }
+
+    .btn-secondary {
+      background: var(--green-bg);
+      color: #27500a;
+      border-color: rgba(59,109,17,0.3);
+    }
+
+    .hero-preview {
+      display: grid;
+      gap: 14px;
+    }
+
+    .phone-shell {
+      border-radius: 36px;
+      border: 2px solid #d8c6a0;
+      overflow: hidden;
+      background: var(--panel);
+      box-shadow: var(--shadow);
+    }
+
+    .phone-top {
+      background: var(--primary);
+      color: #fff;
+      font-size: 12px;
+      padding: 10px 16px;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .phone-screen {
+      background: #fdf6e3;
+      padding: 14px;
+    }
+
+    .pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+    .pill {
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 10px;
+      font-weight: 700;
+      background: #ede0c8;
+      color: #854f0b;
+      border: 1px solid rgba(212,160,23,0.45);
+    }
+    .pill.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+    .progress-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .progress-track {
+      flex: 1;
+      height: 6px;
+      border-radius: 999px;
+      background: #ede0c8;
+      overflow: hidden;
+    }
+    .progress-fill { width: 68%; height: 100%; background: var(--primary); }
+    .progress-text { font-size: 10px; color: var(--muted); }
+
+    .flashcard {
+      background: #fff;
+      border-radius: 20px;
+      border: 1px solid var(--line);
+      min-height: 240px;
+      padding: 22px 16px;
+      margin-bottom: 10px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 8px;
+      text-align: center;
+    }
+
+    .bookmark {
+      position: absolute;
+      top: 14px;
+      right: 16px;
+      color: var(--gold);
+      font-size: 18px;
+    }
+
+    .hanzi { font-size: 66px; line-height: 1; font-weight: 800; }
+    .pinyin { font-size: 15px; letter-spacing: 2px; }
+    .t1 { color: #185FA5; }
+    .t2 { color: #3B6D11; }
+    .t3 { color: #854F0B; }
+    .t4 { color: #C0392B; }
+    .meaning { font-size: 16px; font-weight: 700; }
+    .example { font-size: 11px; line-height: 1.65; color: var(--muted); }
+
+    .hint-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 10px;
+      color: #a49d94;
+      margin-bottom: 10px;
+      padding: 0 4px;
+    }
+
+    .button-row { display: flex; gap: 8px; }
+    .mini-btn {
+      flex: 1;
+      text-align: center;
+      padding: 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 800;
+      border: 1px solid;
+    }
+    .mini-btn.red { background: #fdecea; color: var(--primary); border-color: var(--primary); }
+    .mini-btn.green { background: #eaf3de; color: #27500a; border-color: #3b6d11; }
+
+    .share-card {
+      background: #fff;
+      border: 1px dashed rgba(192,57,43,0.28);
+      border-radius: 18px;
+      padding: 16px;
+    }
+
+    .share-card strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 13px;
+      color: var(--primary);
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+
+    .share-card p {
+      margin: 0;
+      font-size: 13px;
+      line-height: 1.7;
+      color: #5c5148;
+    }
+
+    .section { margin-top: 18px; display: grid; gap: 18px; }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    .card { padding: 22px; }
+
+    .mini-label {
+      font-size: 12px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 20px;
+      line-height: 1.3;
+    }
+
+    .card p {
+      margin: 0;
+      color: #5a4f46;
+      line-height: 1.72;
+      font-size: 14px;
+    }
+
+    .icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      background: #f6ebcf;
+      color: var(--primary);
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+      margin-bottom: 14px;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: 1.08fr 0.92fr;
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .lesson-list { display: grid; gap: 10px; margin-top: 12px; }
+    .lesson-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+    }
+    .lesson-item strong { font-size: 14px; }
+    .lesson-item span { font-size: 12px; color: var(--muted); }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+    .stat-box {
+      padding: 16px;
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+    }
+    .num { font-size: 24px; font-weight: 800; margin-bottom: 4px; }
+    .lab { font-size: 12px; color: var(--muted); }
+
+    .heatmap {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 5px;
+      margin-top: 12px;
+    }
+    .cell { aspect-ratio: 1; border-radius: 4px; }
+    .c0 { background: #ede0c8; }
+    .c1 { background: #f4b0a9; }
+    .c2 { background: #e26a5f; }
+    .c3 { background: var(--primary); }
+
+    .shot-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .shot {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 14px;
+    }
+
+    .shot-top {
+      font-size: 11px;
+      color: var(--muted);
+      margin-bottom: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+
+    .shot-body {
+      min-height: 122px;
+      border-radius: 14px;
+      background: linear-gradient(180deg, #fff9ef 0%, #fdf1dd 100%);
+      border: 1px solid #f0dfbe;
+      padding: 12px;
+      display: grid;
+      align-content: start;
+      gap: 8px;
+    }
+
+    .shot-hanzi { font-size: 30px; font-weight: 800; }
+    .shot-line { font-size: 12px; color: var(--muted); }
+    .shot-tag {
+      display: inline-block;
+      width: fit-content;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: #fff;
+      border: 1px solid var(--line);
+      font-size: 10px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .cta-band {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 18px;
+      align-items: center;
+      padding: 24px;
+      border-radius: var(--radius-xl);
+      background: linear-gradient(135deg, #fff6e8 0%, #fffaf5 100%);
+      border: 1px solid var(--line);
+      box-shadow: var(--shadow);
+    }
+
+    .cta-band h3 {
+      margin: 0 0 10px;
+      font-size: 28px;
+    }
+
+    .cta-band p {
+      margin: 0;
+      color: #5b5047;
+      line-height: 1.75;
+      font-size: 15px;
+    }
+
+    .qr-box {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 18px;
+      text-align: center;
+    }
+
+    .qr {
+      width: 110px;
+      height: 110px;
+      margin: 0 auto 12px;
+      border-radius: 14px;
+      background:
+        linear-gradient(90deg, #2c1810 10px, transparent 10px) 0 0/22px 22px,
+        linear-gradient(#2c1810 10px, transparent 10px) 0 0/22px 22px,
+        #fff;
+      border: 8px solid #fff;
+      box-shadow: inset 0 0 0 1px var(--line);
+    }
+
+    .qr-title { font-weight: 800; margin-bottom: 4px; }
+    .qr-sub { font-size: 12px; color: var(--muted); }
+
+    .footer {
+      margin-top: 26px;
+      padding: 18px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    @media (max-width: 980px) {
+      .hero,
+      .split,
+      .grid-3,
+      .cta-band,
+      .shot-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .page { padding: 14px 12px 36px; }
+      .topbar {
+        flex-direction: column;
+        align-items: flex-start;
+        border-radius: 24px;
+        padding: 14px;
+      }
+      .nav { justify-content: flex-start; }
+      .hero-copy,
+      .card,
+      .cta-band { padding: 18px; }
+      .hero h2 { font-size: 34px; }
+      .stats-grid,
+      .shot-grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">学</div>
+        <div>
+          <h1>DuongDuong 学中文</h1>
+          <p>App học tiếng Trung nhẹ nhàng · 温暖、现代的中文学习 App</p>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="#features">Tính năng</a>
+        <a href="#preview">Preview</a>
+        <a href="#shots">Ảnh demo</a>
+        <a href="#about">Giới thiệu</a>
+      </nav>
+    </header>
+
+    <section class="hero" id="top">
+      <div class="hero-copy">
+        <div class="eyebrow">Soft • Warm • Daily Chinese Study</div>
+        <h2>Học tiếng Trung theo cách nhẹ nhàng, đơn giản và đều đặn mỗi ngày.</h2>
+        <p class="line-vi">
+          DuongDuong 学中文 giúp bạn học từ vựng qua bài học nhỏ, flashcard, quiz ngắn và progress hằng ngày trong một giao diện mềm, ấm và dễ quay lại sử dụng.
+        </p>
+        <p class="line-zh">
+          DuongDuong 学中文 通过小课程、翻卡复习、短测验和每日进度追踪，帮助你用轻松、稳定、温暖的方式学习中文。
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="/app">Mở app web</a>
+          <a class="btn btn-secondary" href="/preview">查看预览 / Xem preview</a>
+        </div>
+      </div>
+
+      <div class="hero-preview" id="preview">
+        <div class="phone-shell">
+          <div class="phone-top"><span>9:41</span><span>●●●</span></div>
+          <div class="phone-screen">
+            <div class="pills">
+              <div class="pill active">HSK 1</div>
+              <div class="pill">HSK 2</div>
+              <div class="pill">HSK 3</div>
+              <div class="pill">HSK 4</div>
+              <div class="pill">HSK 5</div>
+            </div>
+            <div class="progress-row">
+              <div class="progress-track"><div class="progress-fill"></div></div>
+              <div class="progress-text">68 / 100 từ</div>
+            </div>
+            <div class="flashcard">
+              <div class="bookmark">♥</div>
+              <div class="hanzi">学习</div>
+              <div class="pinyin"><span class="t2">xué</span> <span class="t2">xí</span></div>
+              <div class="meaning">học tập · to study</div>
+              <div class="example">
+                我每天学习中文。<br />
+                Tôi học tiếng Trung mỗi ngày. / 我每天都学中文。
+              </div>
+            </div>
+            <div class="hint-row"><span>← 不知道</span><span>知道了 →</span></div>
+            <div class="button-row">
+              <div class="mini-btn red">✕ 不知道</div>
+              <div class="mini-btn green">✓ 知道了</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="share-card">
+          <strong>Share-ready summary</strong>
+          <p>
+            DuongDuong 学中文 là concept app học tiếng Trung mobile-first, tập trung vào từ vựng, flashcard, quiz ngắn và streak-based progress. 这是一个移动优先的中文学习产品概念，专注于词汇、翻卡、短测验和每日进步。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="features">
+      <div class="grid-3">
+        <div class="card">
+          <div class="icon">词</div>
+          <div class="mini-label">Bài học từ vựng / 词汇课程</div>
+          <h3>Học theo từng bài nhỏ</h3>
+          <p>Chia từ vựng thành các lesson ngắn, dễ học và dễ quay lại ôn. 把词汇分成小课程，让学习和复习都更轻松。</p>
+        </div>
+        <div class="card">
+          <div class="icon">复</div>
+          <div class="mini-label">Flashcard review / 翻卡复习</div>
+          <h3>Lật thẻ, nhớ từ, học đều</h3>
+          <p>Flow biết / chưa biết giúp việc ôn từ diễn ra nhanh, nhẹ và không tạo áp lực. 用“知道 / 不知道”的方式，快速复习，不增加负担。</p>
+        </div>
+        <div class="card">
+          <div class="icon">考</div>
+          <div class="mini-label">Short quiz / 短测验</div>
+          <h3>Quiz ngắn để nhớ chắc hơn</h3>
+          <p>Kiểm tra nghĩa, nhận diện và khả năng nhớ lại theo từng lesson. 按课程检测词义、识别与回忆能力。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section split">
+      <div class="card">
+        <div class="mini-label">Lesson flow / 学习流程</div>
+        <h3>Một vòng học gọn, rõ và dễ duy trì</h3>
+        <p>
+          Bắt đầu với một bài học, chuyển sang flashcard để ôn, sau đó làm quiz ngắn và xem progress cuối ngày. 从一课开始，接着翻卡复习，再做短测验，最后查看当天进度。
+        </p>
+        <div class="lesson-list">
+          <div class="lesson-item"><div><strong>Lesson 1</strong><br /><span>Chào hỏi / 问候语</span></div><span>8 từ</span></div>
+          <div class="lesson-item"><div><strong>Lesson 2</strong><br /><span>Đại từ / 人称代词</span></div><span>8 từ</span></div>
+          <div class="lesson-item"><div><strong>Lesson 3</strong><br /><span>Sinh hoạt hằng ngày / 日常生活</span></div><span>8 từ</span></div>
+          <div class="lesson-item"><div><strong>Lesson 4</strong><br /><span>Từ để hỏi / 疑问词</span></div><span>8 từ</span></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="mini-label">Progress motivation / 学习动力</div>
+        <h3>Progress nhẹ nhàng nhưng nhìn thấy rõ</h3>
+        <div class="stats-grid">
+          <div class="stat-box"><div class="num">68</div><div class="lab">từ đã học / 已学习词汇</div></div>
+          <div class="stat-box"><div class="num">91%</div><div class="lab">độ chính xác / 正确率</div></div>
+          <div class="stat-box"><div class="num">12</div><div class="lab">cần ôn lại / 待复习</div></div>
+          <div class="stat-box"><div class="num">21</div><div class="lab">streak / 连续天数</div></div>
+        </div>
+        <div class="heatmap">
+          <div class="cell c0"></div><div class="cell c1"></div><div class="cell c2"></div><div class="cell c3"></div><div class="cell c2"></div><div class="cell c1"></div><div class="cell c3"></div>
+          <div class="cell c2"></div><div class="cell c0"></div><div class="cell c1"></div><div class="cell c3"></div><div class="cell c2"></div><div class="cell c3"></div><div class="cell c3"></div>
+          <div class="cell c1"></div><div class="cell c2"></div><div class="cell c3"></div><div class="cell c2"></div><div class="cell c0"></div><div class="cell c1"></div><div class="cell c3"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="shots">
+      <div class="card">
+        <div class="mini-label">Screenshot-ready blocks</div>
+        <h3>Bộ ảnh demo sẵn để chia sẻ / 可用于展示的截图结构</h3>
+        <div class="shot-grid">
+          <div class="shot">
+            <div class="shot-top">Home</div>
+            <div class="shot-body">
+              <div class="shot-tag">Warm daily overview</div>
+              <div class="shot-hanzi">今日学习</div>
+              <div class="shot-line">Streak, learned words, review words</div>
+            </div>
+          </div>
+          <div class="shot">
+            <div class="shot-top">Learn</div>
+            <div class="shot-body">
+              <div class="shot-tag">Lesson-based study</div>
+              <div class="shot-hanzi">学习</div>
+              <div class="shot-line">HSK pills, card, example sentence</div>
+            </div>
+          </div>
+          <div class="shot">
+            <div class="shot-top">Flashcards</div>
+            <div class="shot-body">
+              <div class="shot-tag">Core habit loop</div>
+              <div class="shot-hanzi">复习</div>
+              <div class="shot-line">Know / don’t know review flow</div>
+            </div>
+          </div>
+          <div class="shot">
+            <div class="shot-top">Progress</div>
+            <div class="shot-body">
+              <div class="shot-tag">Motivation</div>
+              <div class="shot-hanzi">进度</div>
+              <div class="shot-line">Heatmap, stats, daily rhythm</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="about">
+      <div class="cta-band">
+        <div>
+          <div class="mini-label">Product positioning / 产品定位</div>
+          <h3>DuongDuong 学中文 dành cho người muốn học ít nhưng đều.</h3>
+          <p>
+            Đây là app học tiếng Trung mobile-first, giao diện mềm, ấm và không gây áp lực. 这是一个移动优先、温和、轻松、不制造压力的中文学习 App。
+          </p>
+          <div class="hero-actions" style="margin-top:18px;">
+            <a class="btn btn-primary" href="/preview">Mở preview</a>
+            <a class="btn btn-secondary" href="/app">Mở app web</a>
+          </div>
+        </div>
+        <div class="qr-box">
+          <div class="qr"></div>
+          <div class="qr-title">Demo-ready package</div>
+          <div class="qr-sub">Landing + Preview + Guide + Working App</div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      DuongDuong 学中文 — App học tiếng Trung nhẹ nhàng, hiện đại và dễ duy trì mỗi ngày · 温暖、现代、适合每日坚持的中文学习 App
+    </footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+# dependencies
+node_modules/
+
+# Expo / React Native / Web build outputs
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# system files
+.DS_Store
+Thumbs.db
+
+# environment files
+.env
+.env.*
+
+# local IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# temporary files
+*.tmp
+*.temp
+
+# OS-specific
+Desktop.ini
+
+# test / coverage
+coverage/
+
+# local generated files if added later
+*.local
