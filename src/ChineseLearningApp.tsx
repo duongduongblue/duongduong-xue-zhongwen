@@ -76,6 +76,28 @@ function SectionCard({ children }: { children: React.ReactNode }) {
   return <View style={styles.sectionCard}>{children}</View>;
 }
 
+const shortenLessonTopic = (topic: string) => {
+  const shortMap: Record<string, string> = {
+    'Chào hỏi & lịch sự': 'Chào hỏi',
+    'Con người & giới thiệu': 'Con người',
+    'Từ để hỏi': 'Hỏi đáp',
+    'Số đếm cơ bản': 'Số đếm',
+    'Thời gian & lịch': 'Thời gian',
+    'Trường lớp': 'Trường lớp',
+    'Sinh hoạt thường ngày': 'Sinh hoạt',
+    'Đồ ăn & thức uống': 'Ăn uống',
+    'Gia đình': 'Gia đình',
+    'Tính từ cơ bản': 'Tính từ',
+    'Động từ & mẫu câu cơ bản': 'Động từ',
+    'Thời tiết': 'Thời tiết',
+    'Mua sắm & tiền': 'Mua sắm',
+    'Di chuyển & địa điểm': 'Di chuyển',
+    'Ngôn ngữ': 'Ngôn ngữ',
+  };
+
+  return shortMap[topic] ?? topic;
+};
+
 export default function ChineseLearningApp() {
   const [activeTab, setActiveTab] = useState<TabKey>('home');
   const [selectedLessonId, setSelectedLessonId] = useState(lessons[0].id);
@@ -237,7 +259,7 @@ export default function ChineseLearningApp() {
             ]}
           >
             <Text style={[styles.lessonPillText, isActive && styles.lessonPillTextActive]}>
-              {lesson.title}
+              {shortenLessonTopic(lesson.topic)}
             </Text>
           </Pressable>
         );
@@ -282,15 +304,17 @@ export default function ChineseLearningApp() {
   const renderHome = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <View style={styles.heroCard}>
-        <Text style={styles.heroEyebrow}>DuongDuong 学中文 • HSK1 Daily Review</Text>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          App học từ vựng tiếng Trung cho HSK1 self-study với lesson theo nhóm, flashcards, quiz và tiến độ học tập.
+          HSK1 lessons · flashcards · quiz · progress
         </Text>
+        <View style={styles.currentLessonPill}>
+          <Text style={styles.currentLessonPillText}>当前课程 · {shortenLessonTopic(selectedLesson.topic)}</Text>
+        </View>
         <View style={styles.heroActions}>
           <ActionButton label="开始学习" onPress={() => setActiveTab('learn')} />
           <ActionButton
-            label="翻卡复习"
+            label="复习"
             onPress={() => setActiveTab('flashcards')}
             variant="secondary"
           />
@@ -306,18 +330,20 @@ export default function ChineseLearningApp() {
 
       <SectionCard>
         <Text style={styles.sectionTitle}>今日学习</Text>
-        <Text style={styles.sectionSubtitle}>{selectedLesson.title}: {selectedLesson.topic}</Text>
+        <Text style={styles.sectionSubtitle}>{shortenLessonTopic(selectedLesson.topic)}</Text>
         <Text style={styles.bodyText}>
-          Mục tiêu hôm nay: học {selectedLesson.words.length} từ, ôn {reviewIds.length} từ cần nhớ lại và giữ streak {currentStreak} ngày.
+          Học {selectedLesson.words.length} từ · Ôn {reviewIds.length} từ · Giữ streak {currentStreak} ngày
         </Text>
       </SectionCard>
 
       <SectionCard>
         <Text style={styles.sectionTitle}>学习路径</Text>
-        <View style={styles.checkItem}><Text style={styles.checkEmoji}>✦</Text><Text style={styles.bodyText}>Học từ theo từng bài ngắn</Text></View>
-        <View style={styles.checkItem}><Text style={styles.checkEmoji}>✦</Text><Text style={styles.bodyText}>Flashcard biết / chưa biết</Text></View>
-        <View style={styles.checkItem}><Text style={styles.checkEmoji}>✦</Text><Text style={styles.bodyText}>Quiz ngắn để ôn lại</Text></View>
-        <View style={styles.checkItem}><Text style={styles.checkEmoji}>✦</Text><Text style={styles.bodyText}>Theo dõi progress mỗi ngày</Text></View>
+        <View style={styles.pathRow}>
+          <View style={styles.pathChip}><Text style={styles.pathChipText}>1. Lesson</Text></View>
+          <View style={styles.pathChip}><Text style={styles.pathChipText}>2. Flashcards</Text></View>
+          <View style={styles.pathChip}><Text style={styles.pathChipText}>3. Quiz</Text></View>
+          <View style={styles.pathChip}><Text style={styles.pathChipText}>4. Progress</Text></View>
+        </View>
       </SectionCard>
     </ScrollView>
   );
@@ -328,7 +354,6 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Chọn bài học</Text>
         {renderHSKPills()}
         {renderMiniProgress()}
-        <Text style={styles.sectionSubtitle}>HSK1 lessons • vocabulary • flashcards • quiz</Text>
         {renderLessonPicker()}
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
       </SectionCard>
@@ -608,7 +633,7 @@ export default function ChineseLearningApp() {
         <View style={styles.topBar}>
           <View>
             <Text style={styles.topBarTitle}>DuongDuong 学中文</Text>
-            <Text style={styles.topBarSubtitle}>Chinese vocabulary app • HSK1 lessons • flashcards • quiz</Text>
+            <Text style={styles.topBarSubtitle}>HSK1 vocabulary lessons</Text>
           </View>
           <View style={styles.streakBadge}>
             <Text style={styles.streakBadgeText}>🔥 {currentStreak}</Text>
@@ -659,14 +684,14 @@ const styles = StyleSheet.create({
     backgroundColor: '#C0392B',
   },
   topBarTitle: {
-    fontSize: 24,
+    fontSize: 22,
     fontWeight: '700',
     color: '#FFFFFF',
   },
   topBarSubtitle: {
-    marginTop: 4,
-    fontSize: 12,
-    color: 'rgba(255,255,255,0.8)',
+    marginTop: 2,
+    fontSize: 11,
+    color: 'rgba(255,255,255,0.82)',
   },
   streakBadge: {
     backgroundColor: 'rgba(255,255,255,0.14)',
@@ -685,88 +710,108 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingTop: 14,
     paddingBottom: 120,
-    gap: 14,
+    gap: 12,
   },
   heroCard: {
     backgroundColor: '#FDF6E3',
-    borderRadius: 24,
-    padding: 20,
-    gap: 10,
+    borderRadius: 20,
+    padding: 18,
+    gap: 8,
     borderWidth: 1,
     borderColor: '#DDD0B0',
   },
-  heroEyebrow: {
-    color: '#888780',
-    fontSize: 12,
-    fontWeight: '600',
-  },
   heroTitle: {
     color: '#2C1810',
-    fontSize: 30,
+    fontSize: 28,
     fontWeight: '700',
   },
   heroDescription: {
     color: '#5F5E5A',
-    fontSize: 14,
-    lineHeight: 21,
+    fontSize: 13,
+    lineHeight: 19,
   },
   heroActions: {
     flexDirection: 'row',
-    gap: 12,
-    marginTop: 6,
+    gap: 10,
+    marginTop: 4,
+  },
+  currentLessonPill: {
+    alignSelf: 'flex-start',
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    borderRadius: 999,
+    backgroundColor: '#F6EBCF',
+    borderWidth: 1,
+    borderColor: '#D4A017',
+  },
+  currentLessonPillText: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: '#8A5B0A',
   },
   statsGrid: {
     flexDirection: 'row',
     flexWrap: 'wrap',
-    gap: 12,
+    gap: 10,
   },
   statCard: {
     flexBasis: '47%',
     backgroundColor: '#FFFFFF',
-    borderRadius: 14,
+    borderRadius: 12,
     borderWidth: 1,
-    padding: 14,
-    gap: 4,
+    padding: 12,
+    gap: 2,
+    minHeight: 84,
   },
   statValue: {
-    fontSize: 22,
+    fontSize: 20,
     fontWeight: '700',
     color: '#2C1810',
   },
   statLabel: {
-    fontSize: 11,
+    fontSize: 10,
     color: '#888780',
   },
   sectionCard: {
     backgroundColor: '#FFFFFF',
-    borderRadius: 18,
-    padding: 16,
-    gap: 10,
+    borderRadius: 16,
+    padding: 14,
+    gap: 8,
     borderWidth: 1,
     borderColor: '#DDD0B0',
   },
   sectionTitle: {
-    fontSize: 18,
+    fontSize: 17,
     fontWeight: '700',
     color: '#2C1810',
   },
   sectionSubtitle: {
     fontSize: 12,
     color: '#888780',
-    lineHeight: 18,
+    lineHeight: 17,
   },
   bodyText: {
-    fontSize: 14,
+    fontSize: 13,
     color: '#5F5E5A',
-    lineHeight: 21,
+    lineHeight: 19,
   },
-  checkItem: {
+  pathRow: {
     flexDirection: 'row',
-    alignItems: 'center',
-    gap: 10,
+    flexWrap: 'wrap',
+    gap: 8,
   },
-  checkEmoji: {
-    fontSize: 16,
+  pathChip: {
+    paddingHorizontal: 10,
+    paddingVertical: 8,
+    borderRadius: 999,
+    backgroundColor: '#F7F1E3',
+    borderWidth: 1,
+    borderColor: '#E6D7BA',
+  },
+  pathChipText: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: '#6B5E53',
   },
   lessonRow: {
     flexDirection: 'row',
