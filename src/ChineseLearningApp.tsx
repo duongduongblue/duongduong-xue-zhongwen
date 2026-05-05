@@ -369,9 +369,9 @@ export default function ChineseLearningApp() {
         </View>
         {renderWordMeta(currentLearnWord)}
         <View style={styles.wordActionRow}>
-          <ActionButton label="Đánh dấu đã học" onPress={() => markLearned(currentLearnWord.id)} />
+          <ActionButton label="Đã học" onPress={() => markLearned(currentLearnWord.id)} />
           <ActionButton
-            label="Flashcard"
+            label="Ôn bằng thẻ"
             onPress={() => {
               setFlashIndex(learnIndex);
               setShowFlashBack(false);
@@ -413,14 +413,15 @@ export default function ChineseLearningApp() {
         style={styles.flashcard}
       >
         <Text style={styles.flashcardHint}>{showFlashBack ? 'Mặt sau' : 'Mặt trước'}</Text>
+        <Text style={styles.flashcardCounter}>第 {flashIndex + 1} / {selectedLesson.words.length}</Text>
         {showFlashBack ? (
-          <View>
+          <View style={styles.flashBackContent}>
             <Text style={styles.flashMeaning}>{currentFlashWord.meaningVi}</Text>
-            <Text style={styles.flashExample}>{currentFlashWord.exampleVi}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
+            <Text style={styles.flashExample}>{currentFlashWord.exampleVi}</Text>
           </View>
         ) : (
-          <View>
+          <View style={styles.flashFrontContent}>
             <Text style={styles.flashHanzi}>{currentFlashWord.hanzi}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
           </View>
@@ -451,7 +452,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
             ? 'Bạn đã hoàn thành bài quiz của lesson này.'
-            : `${selectedLesson.title} • Câu ${quizIndex + 1}/${quizQuestions.length}`}
+            : `${shortenLessonTopic(selectedLesson.topic)} • Câu ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
       </SectionCard>
 
@@ -885,12 +886,13 @@ const styles = StyleSheet.create({
     borderRadius: 18,
     borderWidth: 1,
     padding: 18,
-    gap: 10,
+    gap: 12,
   },
   wordHeaderRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
+    gap: 10,
   },
   badge: {
     backgroundColor: '#EDE0C8',
@@ -903,27 +905,28 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   favoriteButton: {
-    fontSize: 16,
+    fontSize: 15,
     fontWeight: '700',
     color: '#D4A017',
   },
   hanziText: {
-    fontSize: 52,
+    fontSize: 56,
     fontWeight: '700',
     color: '#2C1810',
     textAlign: 'center',
+    lineHeight: 64,
   },
   pinyinText: {
-    fontSize: 16,
+    fontSize: 14,
     color: '#185FA5',
-    fontWeight: '600',
+    fontWeight: '700',
     textAlign: 'center',
-    letterSpacing: 1.5,
+    letterSpacing: 1.2,
   },
   meaningText: {
-    fontSize: 17,
+    fontSize: 18,
     color: '#2C1810',
-    fontWeight: '600',
+    fontWeight: '700',
     textAlign: 'center',
   },
   divider: {
@@ -951,12 +954,12 @@ const styles = StyleSheet.create({
   },
   wordActionRow: {
     flexDirection: 'row',
-    gap: 12,
-    marginTop: 8,
+    gap: 10,
+    marginTop: 10,
   },
   stepperRow: {
     flexDirection: 'row',
-    gap: 12,
+    gap: 10,
   },
   swipeHintRow: {
     flexDirection: 'row',
@@ -971,12 +974,13 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#C0392B',
     borderRadius: 12,
-    paddingVertical: 12,
+    paddingVertical: 13,
     paddingHorizontal: 14,
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
     borderColor: '#C0392B',
+    minHeight: 46,
   },
   secondaryButton: {
     backgroundColor: '#EAF3DE',
@@ -986,6 +990,7 @@ const styles = StyleSheet.create({
     color: '#FFFFFF',
     fontSize: 13,
     fontWeight: '700',
+    textAlign: 'center',
   },
   secondaryButtonText: {
     color: '#27500A',
@@ -995,11 +1000,11 @@ const styles = StyleSheet.create({
     transform: [{ scale: 0.99 }],
   },
   flashcard: {
-    minHeight: 280,
+    minHeight: 300,
     borderRadius: 18,
-    padding: 24,
+    padding: 22,
     justifyContent: 'center',
-    gap: 12,
+    gap: 10,
     backgroundColor: '#FFFFFF',
     borderWidth: 1,
     borderColor: '#DDD0B0',
@@ -1011,36 +1016,52 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
     letterSpacing: 1,
   },
+  flashcardCounter: {
+    alignSelf: 'center',
+    fontSize: 10,
+    color: '#B1A79A',
+  },
+  flashFrontContent: {
+    alignItems: 'center',
+    gap: 10,
+  },
+  flashBackContent: {
+    alignItems: 'center',
+    gap: 8,
+  },
   flashHanzi: {
     color: '#2C1810',
-    fontSize: 68,
+    fontSize: 74,
     fontWeight: '700',
     textAlign: 'center',
+    lineHeight: 82,
   },
   flashMeaning: {
     color: '#2C1810',
-    fontSize: 24,
+    fontSize: 26,
     fontWeight: '700',
     textAlign: 'center',
   },
   flashPinyin: {
     color: '#185FA5',
-    fontSize: 16,
-    marginTop: 8,
-    fontWeight: '600',
+    fontSize: 15,
+    marginTop: 2,
+    fontWeight: '700',
     textAlign: 'center',
-    letterSpacing: 2,
+    letterSpacing: 1.8,
   },
   flashExample: {
     color: '#888780',
     fontSize: 12,
     lineHeight: 18,
-    marginTop: 6,
+    marginTop: 2,
     textAlign: 'center',
+    maxWidth: 260,
   },
   quizHeaderCenter: {
     alignItems: 'center',
-    gap: 4,
+    gap: 6,
+    paddingBottom: 4,
   },
   quizCounter: {
     fontSize: 10,
@@ -1085,33 +1106,39 @@ const styles = StyleSheet.create({
     marginBottom: 8,
   },
   quizPrompt: {
-    fontSize: 26,
+    fontSize: 24,
     fontWeight: '700',
     color: '#2C1810',
-    lineHeight: 32,
+    lineHeight: 30,
     textAlign: 'center',
+    maxWidth: 320,
   },
   quizSupportingText: {
     fontSize: 11,
     color: '#888780',
     textAlign: 'center',
+    maxWidth: 280,
+    lineHeight: 16,
   },
   quizOptions: {
-    gap: 8,
-    marginTop: 8,
+    gap: 10,
+    marginTop: 10,
   },
   quizOption: {
     borderWidth: 1,
     borderColor: '#DDD0B0',
-    borderRadius: 12,
-    paddingHorizontal: 13,
-    paddingVertical: 12,
+    borderRadius: 14,
+    paddingHorizontal: 14,
+    paddingVertical: 14,
     backgroundColor: '#FFFFFF',
+    minHeight: 52,
+    justifyContent: 'center',
   },
   quizOptionText: {
-    fontSize: 12,
+    fontSize: 13,
     fontWeight: '600',
     color: '#2C1810',
+    lineHeight: 18,
   },
   optionCorrect: {
     borderColor: '#3B6D11',

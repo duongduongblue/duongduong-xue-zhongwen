@@ -79,6 +79,24 @@ const TOPIC_ALIASES: Record<string, string> = {
   language: 'language',
 };
 
+const TOPIC_SHORT_TITLE: Record<string, string> = {
+  greeting: 'Chào hỏi',
+  people: 'Con người',
+  'question word': 'Hỏi đáp',
+  number: 'Số đếm',
+  time: 'Thời gian',
+  education: 'Trường lớp',
+  'daily life': 'Sinh hoạt',
+  food: 'Ăn uống',
+  family: 'Gia đình',
+  adjective: 'Tính từ',
+  verb: 'Động từ',
+  weather: 'Thời tiết',
+  shopping: 'Mua sắm',
+  transport: 'Di chuyển',
+  language: 'Ngôn ngữ',
+};
+
 const FALLBACK_META = { topic: 'Từ vựng mở rộng', color: '#9B59B6' };
 
 export type AppSeedBundle = {
@@ -120,13 +138,13 @@ export function buildLessonsFromSeed(words: SeedWord[]): Lesson[] {
     ...Array.from(grouped.keys()).filter((key) => !TOPIC_ORDER.includes(key as (typeof TOPIC_ORDER)[number])),
   ];
 
-  return orderedKeys.map((key, index) => {
+  return orderedKeys.map((key) => {
     const meta = TOPIC_META[key] ?? FALLBACK_META;
     const group = grouped.get(key) ?? [];
 
     return {
       id: key.replace(/\s+/g, '-'),
-      title: 'Bài ' + (index + 1),
+      title: TOPIC_SHORT_TITLE[key] ?? meta.topic,
       topic: meta.topic,
       color: meta.color,
       words: group.slice(0, 8).map(mapSeedWordToVocabWord),
