@@ -2,25 +2,84 @@ import type { Lesson, QuizQuestion, VocabWord } from '../types';
 import { seedProgress, seedWords, type SeedProgress, type SeedWord } from '../data/app-seed';
 import type { PersistedProgress } from '../storage/progress';
 
-const TOPIC_META: Record<string, { title: string; topic: string; color: string }> = {
-  greeting: { title: 'Bài 1', topic: 'Chào hỏi cơ bản', color: '#C0392B' },
-  polite: { title: 'Bài 2', topic: 'Lịch sự hằng ngày', color: '#D4A017' },
-  pronoun: { title: 'Bài 3', topic: 'Đại từ nhân xưng', color: '#2D6A4F' },
-  'question word': { title: 'Bài 4', topic: 'Từ để hỏi', color: '#6C5CE7' },
-  education: { title: 'Bài 5', topic: 'Trường lớp', color: '#00A8E8' },
-  'daily life': { title: 'Bài 6', topic: 'Sinh hoạt thường ngày', color: '#FF8A65' },
-  time: { title: 'Bài 7', topic: 'Thời gian & lịch', color: '#7F8C8D' },
-  number: { title: 'Bài 8', topic: 'Số đếm cơ bản', color: '#8E44AD' },
-  adjective: { title: 'Bài 9', topic: 'Tính từ thông dụng', color: '#16A085' },
-  verb: { title: 'Bài 10', topic: 'Động từ nền tảng', color: '#2980B9' },
-  weather: { title: 'Bài 11', topic: 'Thời tiết', color: '#3498DB' },
-  shopping: { title: 'Bài 12', topic: 'Mua sắm', color: '#E67E22' },
-  family: { title: 'Bài 13', topic: 'Gia đình', color: '#E84393' },
-  transport: { title: 'Bài 14', topic: 'Di chuyển', color: '#34495E' },
-  language: { title: 'Bài 15', topic: 'Ngôn ngữ', color: '#27AE60' },
+const TOPIC_META: Record<string, { topic: string; color: string }> = {
+  greeting: { topic: 'Chào hỏi & lịch sự', color: '#C0392B' },
+  people: { topic: 'Con người & giới thiệu', color: '#2D6A4F' },
+  'question word': { topic: 'Từ để hỏi', color: '#6C5CE7' },
+  number: { topic: 'Số đếm cơ bản', color: '#8E44AD' },
+  time: { topic: 'Thời gian & lịch', color: '#7F8C8D' },
+  education: { topic: 'Trường lớp', color: '#00A8E8' },
+  'daily life': { topic: 'Sinh hoạt thường ngày', color: '#FF8A65' },
+  food: { topic: 'Đồ ăn & thức uống', color: '#D4A017' },
+  family: { topic: 'Gia đình', color: '#E84393' },
+  adjective: { topic: 'Tính từ cơ bản', color: '#16A085' },
+  verb: { topic: 'Động từ & mẫu câu cơ bản', color: '#2980B9' },
+  weather: { topic: 'Thời tiết', color: '#3498DB' },
+  shopping: { topic: 'Mua sắm & tiền', color: '#E67E22' },
+  transport: { topic: 'Di chuyển & địa điểm', color: '#34495E' },
+  language: { topic: 'Ngôn ngữ', color: '#27AE60' },
 };
 
-const FALLBACK_META = { title: 'Bài thêm', topic: 'Từ vựng mở rộng', color: '#9B59B6' };
+const TOPIC_ORDER = [
+  'greeting',
+  'people',
+  'question word',
+  'number',
+  'time',
+  'education',
+  'daily life',
+  'food',
+  'family',
+  'adjective',
+  'verb',
+  'weather',
+  'shopping',
+  'transport',
+  'language',
+] as const;
+
+const TOPIC_ALIASES: Record<string, string> = {
+  greeting: 'greeting',
+  polite: 'greeting',
+  introduction: 'greeting',
+  pronoun: 'people',
+  demonstrative: 'people',
+  people: 'people',
+  relationship: 'people',
+  country: 'people',
+  'question word': 'question word',
+  number: 'number',
+  time: 'time',
+  education: 'education',
+  'daily life': 'daily life',
+  object: 'daily life',
+  place: 'daily life',
+  animal: 'daily life',
+  health: 'daily life',
+  food: 'food',
+  drink: 'food',
+  fruit: 'food',
+  family: 'family',
+  adjective: 'adjective',
+  emotion: 'adjective',
+  quantity: 'adjective',
+  verb: 'verb',
+  'basic grammar': 'verb',
+  negation: 'verb',
+  possession: 'verb',
+  modal: 'verb',
+  desire: 'verb',
+  preference: 'verb',
+  movement: 'verb',
+  job: 'verb',
+  weather: 'weather',
+  shopping: 'shopping',
+  money: 'shopping',
+  transport: 'transport',
+  language: 'language',
+};
+
+const FALLBACK_META = { topic: 'Từ vựng mở rộng', color: '#9B59B6' };
 
 export type AppSeedBundle = {
   words: VocabWord[];
@@ -44,17 +103,30 @@ export function mapSeedWordToVocabWord(word: SeedWord): VocabWord {
 
 export function buildLessonsFromSeed(words: SeedWord[]): Lesson[] {
   const grouped = new Map<string, SeedWord[]>();
+
   for (const word of words) {
-    const key = word.tags?.[0] ?? 'misc';
-    const current = grouped.get(key) ?? [];
+    const tags = word.tags ?? [];
+    const resolvedKey = tags
+      .map((tag) => TOPIC_ALIASES[tag] ?? tag)
+      .find((tag) => tag in TOPIC_META) ?? 'misc';
+
+    const current = grouped.get(resolvedKey) ?? [];
     current.push(word);
-    grouped.set(key, current);
+    grouped.set(resolvedKey, current);
   }
-  return Array.from(grouped.entries()).map(([key, group], index) => {
+
+  const orderedKeys = [
+    ...TOPIC_ORDER.filter((key) => grouped.has(key)),
+    ...Array.from(grouped.keys()).filter((key) => !TOPIC_ORDER.includes(key as (typeof TOPIC_ORDER)[number])),
+  ];
+
+  return orderedKeys.map((key, index) => {
     const meta = TOPIC_META[key] ?? FALLBACK_META;
+    const group = grouped.get(key) ?? [];
+
     return {
       id: key.replace(/\s+/g, '-'),
-      title: meta.title || ('Bài ' + (index + 1)),
+      title: 'Bài ' + (index + 1),
       topic: meta.topic,
       color: meta.color,
       words: group.slice(0, 8).map(mapSeedWordToVocabWord),
