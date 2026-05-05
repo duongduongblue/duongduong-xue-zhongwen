@@ -116,10 +116,10 @@
 
     .hero {
       display: grid;
-      grid-template-columns: 1.08fr 0.92fr;
-      gap: 28px;
+      grid-template-columns: 1.02fr 0.98fr;
+      gap: 22px;
       align-items: center;
-      margin-bottom: 24px;
+      margin-bottom: 22px;
     }
 
     .hero-copy,
@@ -131,7 +131,7 @@
     }
 
     .hero-copy {
-      padding: 34px;
+      padding: 28px;
       position: relative;
       overflow: hidden;
     }
@@ -149,18 +149,19 @@
     }
 
     .hero h2 {
-      margin: 0 0 14px;
-      font-size: clamp(34px, 6vw, 56px);
-      line-height: 1.04;
+      margin: 0 0 12px;
+      font-size: clamp(32px, 5.2vw, 50px);
+      line-height: 1.06;
       letter-spacing: -0.04em;
+      max-width: 11ch;
     }
 
     .line-vi,
     .line-zh {
-      margin: 0 0 10px;
-      font-size: 16px;
-      line-height: 1.75;
-      max-width: 680px;
+      margin: 0 0 8px;
+      font-size: 15px;
+      line-height: 1.68;
+      max-width: 520px;
     }
 
     .line-vi { color: #544940; }
@@ -336,15 +337,15 @@
       color: #5c5148;
     }
 
-    .section { margin-top: 18px; display: grid; gap: 18px; }
+    .section { margin-top: 16px; display: grid; gap: 14px; }
 
     .grid-3 {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
+      gap: 14px;
     }
 
-    .card { padding: 22px; }
+    .card { padding: 18px; }
 
     .mini-label {
       font-size: 12px;
@@ -463,15 +464,7 @@
     .shot-hanzi { font-size: 30px; font-weight: 800; }
     .shot-line { font-size: 12px; color: var(--muted); }
     .shot-tag {
-      display: inline-block;
-      width: fit-content;
-      padding: 4px 8px;
-      border-radius: 999px;
-      background: #fff;
-      border: 1px solid var(--line);
-      font-size: 10px;
-      font-weight: 700;
-      color: var(--primary);
+      display: none;
     }
 
     .cta-band {
@@ -565,7 +558,7 @@
         <div class="brand-mark">学</div>
         <div>
           <h1>DuongDuong 学中文</h1>
-          <p>App học từ vựng tiếng Trung · HSK1 lessons · flashcards · quiz</p>
+          <p>App học từ vựng tiếng Trung · HSK1 · Flashcards · Quiz</p>
         </div>
       </div>
       <nav class="nav">
@@ -578,12 +571,12 @@
 
     <section class="hero" id="top">
       <div class="hero-copy">
-        <h2>Học từ vựng tiếng Trung với lesson, flashcard và quiz ngắn.</h2>
+        <h2>Học từ vựng tiếng Trung theo bài, ôn bằng flashcard và kiểm tra bằng quiz.</h2>
         <p class="line-vi">
-          Học từ vựng qua lesson nhỏ, flashcard và quiz ngắn trong một giao diện ấm và dễ dùng.
+          Bắt đầu với HSK1. Học theo bài, ôn lại bằng flashcard và kiểm tra nhanh sau mỗi lesson.
         </p>
         <p class="line-zh">
-          通过小课程、翻卡复习和短测验，用轻松简单的方式学习中文词汇。
+          从 HSK1 开始。按课程学习，用翻卡复习，并在每课后做短测验。
         </p>
         <div class="hero-actions">
           <a class="btn btn-primary" href="/app">Mở app web</a>
@@ -626,7 +619,7 @@
 
         <div class="share-card">
           <p>
-            DuongDuong 学中文 · lesson nhỏ · flashcard · quiz ngắn · daily progress
+            HSK1 · Bài học · Flashcards · Quiz · Tiến độ
           </p>
         </div>
       </div>
@@ -636,30 +629,30 @@
       <div class="grid-3">
         <div class="card">
           <div class="icon">词</div>
-          <div class="mini-label">Bài học từ vựng / 词汇课程</div>
-          <h3>Học theo từng bài nhỏ</h3>
-          <p>Lesson ngắn, dễ học và dễ ôn lại. 小课程，轻松学习。</p>
+          <div class="mini-label">Bài học / 课程</div>
+          <h3>Học theo từng bài</h3>
+          <p>Học từ vựng theo nhóm rõ ràng. 按清晰分组学习词汇。</p>
         </div>
         <div class="card">
           <div class="icon">复</div>
-          <div class="mini-label">Flashcard review / 翻卡复习</div>
-          <h3>Lật thẻ, nhớ từ</h3>
-          <p>Biết / chưa biết để ôn nhanh mỗi ngày. 用翻卡快速复习。</p>
+          <div class="mini-label">Flashcards / 翻卡复习</div>
+          <h3>Lật thẻ, ôn từ</h3>
+          <p>Biết / chưa biết để ôn lại nhanh. 用翻卡快速复习。</p>
         </div>
         <div class="card">
           <div class="icon">考</div>
-          <div class="mini-label">Short quiz / 短测验</div>
+          <div class="mini-label">Quiz / 测验</div>
           <h3>Quiz ngắn</h3>
-          <p>Kiểm tra nhanh sau mỗi lesson. 每课后短测验。</p>
+          <p>Kiểm tra nhanh sau mỗi bài. 每课后快速检测。</p>
         </div>
       </div>
     </section>
 
     <section class="section split">
       <div class="card">
-        <h3>Một vòng học gọn và rõ</h3>
+        <h3>Học → Ôn → Kiểm tra</h3>
         <p>
-          Học bài → lật thẻ → quiz ngắn → xem tiến độ. 学习 → 翻卡 → 测验 → 进度。
+          Học bài → flashcard → quiz → tiến độ. 课程 → 翻卡 → 测验 → 进度。
         </p>
         <div class="lesson-list">
           <div class="lesson-item"><div><strong>Lesson 1</strong><br /><span>Chào hỏi / 问候语</span></div><span>8 từ</span></div>
@@ -670,7 +663,7 @@
       </div>
 
       <div class="card">
-        <h3>Progress rõ ràng, dễ theo dõi</h3>
+        <h3>Tiến độ học tập</h3>
         <div class="stats-grid">
           <div class="stat-box"><div class="num">68</div><div class="lab">từ đã học / 已学习词汇</div></div>
           <div class="stat-box"><div class="num">91%</div><div class="lab">độ chính xác / 正确率</div></div>
@@ -687,39 +680,35 @@
 
     <section class="section" id="shots">
       <div class="card">
-        <div class="mini-label">Screens / 页面展示</div>
-        <h3>Bộ màn hình demo chính</h3>
+        <div class="mini-label">Screens / 页面</div>
+        <h3>Màn hình chính</h3>
         <div class="shot-grid">
           <div class="shot">
             <div class="shot-top">Home</div>
             <div class="shot-body">
-              <div class="shot-tag">Warm daily overview</div>
               <div class="shot-hanzi">今日学习</div>
-              <div class="shot-line">Streak, learned words, review words</div>
+              <div class="shot-line">Streak · Learned · Review</div>
             </div>
           </div>
           <div class="shot">
             <div class="shot-top">Learn</div>
             <div class="shot-body">
-              <div class="shot-tag">Lesson-based study</div>
               <div class="shot-hanzi">学习</div>
-              <div class="shot-line">HSK pills, card, example sentence</div>
+              <div class="shot-line">Lesson · Card · Example</div>
             </div>
           </div>
           <div class="shot">
             <div class="shot-top">Flashcards</div>
             <div class="shot-body">
-              <div class="shot-tag">Core habit loop</div>
               <div class="shot-hanzi">复习</div>
-              <div class="shot-line">Know / don’t know review flow</div>
+              <div class="shot-line">Know / Don’t know flow</div>
             </div>
           </div>
           <div class="shot">
             <div class="shot-top">Progress</div>
             <div class="shot-body">
-              <div class="shot-tag">Motivation</div>
               <div class="shot-hanzi">进度</div>
-              <div class="shot-line">Heatmap, stats, daily rhythm</div>
+              <div class="shot-line">Heatmap · Stats · Progress</div>
             </div>
           </div>
         </div>
@@ -730,9 +719,9 @@
       <div class="cta-band">
         <div>
           <div class="mini-label">About / 关于产品</div>
-          <h3>DuongDuong 学中文 dành cho người muốn học ít nhưng đều.</h3>
+          <h3>DuongDuong 学中文 dành cho người học HSK1 theo từng bước.</h3>
           <p>
-            App học tiếng Trung mobile-first, tập trung vào từ vựng và thói quen học mỗi ngày。一个专注词汇和每日学习节奏的中文学习 App。
+            Tập trung vào bài học, flashcards, quiz và tiến độ học tập。专注于课程、翻卡、测验和学习进度。
           </p>
           <div class="hero-actions" style="margin-top:18px;">
             <a class="btn btn-primary" href="/preview">Mở preview</a>
@@ -748,7 +737,7 @@
     </section>
 
     <footer class="footer">
-      DuongDuong 学中文 — HSK1 vocabulary lessons, flashcards, quiz and progress · 中文词汇课程、翻卡复习、短测验与学习进度
+      DuongDuong 学中文 — HSK1 lessons · flashcards · quiz · progress · HSK1 课程 · 翻卡复习 · 测验 · 学习进度
     </footer>
   </div>
 </body>

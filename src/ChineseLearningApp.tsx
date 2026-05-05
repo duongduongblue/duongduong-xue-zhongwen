@@ -285,7 +285,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.heroEyebrow}>DuongDuong 学中文 • HSK1 Daily Review</Text>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          App học từ vựng tiếng Trung với lesson theo nhóm, flashcard, quiz ngắn và progress rõ ràng cho HSK1 self-study.
+          App học từ vựng tiếng Trung cho HSK1 self-study với lesson theo nhóm, flashcards, quiz và tiến độ học tập.
         </Text>
         <View style={styles.heroActions}>
           <ActionButton label="开始学习" onPress={() => setActiveTab('learn')} />
@@ -328,7 +328,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Chọn bài học</Text>
         {renderHSKPills()}
         {renderMiniProgress()}
-        <Text style={styles.sectionSubtitle}>HSK 1 lessons • vocabulary, flashcards, quiz</Text>
+        <Text style={styles.sectionSubtitle}>HSK1 lessons • vocabulary • flashcards • quiz</Text>
         {renderLessonPicker()}
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
       </SectionCard>
@@ -380,7 +380,7 @@ export default function ChineseLearningApp() {
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
-        <Text style={styles.sectionSubtitle}>Chạm vào thẻ để lật mặt trước / sau và review nhanh theo lesson hiện tại.</Text>
+        <Text style={styles.sectionSubtitle}>Chạm để lật thẻ và review nhanh theo lesson hiện tại.</Text>
       </SectionCard>
 
       <Pressable
@@ -608,7 +608,7 @@ export default function ChineseLearningApp() {
         <View style={styles.topBar}>
           <View>
             <Text style={styles.topBarTitle}>DuongDuong 学中文</Text>
-            <Text style={styles.topBarSubtitle}>Chinese vocabulary app • HSK1 lessons, flashcards and quiz</Text>
+            <Text style={styles.topBarSubtitle}>Chinese vocabulary app • HSK1 lessons • flashcards • quiz</Text>
           </View>
           <View style={styles.streakBadge}>
             <Text style={styles.streakBadgeText}>🔥 {currentStreak}</Text>
