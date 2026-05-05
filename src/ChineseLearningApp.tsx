@@ -78,21 +78,21 @@ function SectionCard({ children }: { children: React.ReactNode }) {
 
 const shortenLessonTopic = (topic: string) => {
   const shortMap: Record<string, string> = {
-    'Chào hỏi & lịch sự': 'Chào hỏi',
-    'Con người & giới thiệu': 'Con người',
-    'Từ để hỏi': 'Hỏi đáp',
-    'Số đếm cơ bản': 'Số đếm',
-    'Thời gian & lịch': 'Thời gian',
-    'Trường lớp': 'Trường lớp',
-    'Sinh hoạt thường ngày': 'Sinh hoạt',
-    'Đồ ăn & thức uống': 'Ăn uống',
-    'Gia đình': 'Gia đình',
-    'Tính từ cơ bản': 'Tính từ',
-    'Động từ & mẫu câu cơ bản': 'Động từ',
-    'Thời tiết': 'Thời tiết',
-    'Mua sắm & tiền': 'Mua sắm',
-    'Di chuyển & địa điểm': 'Di chuyển',
-    'Ngôn ngữ': 'Ngôn ngữ',
+    'Chào hỏi & lịch sự': 'Chào hỏi / 问候',
+    'Con người & giới thiệu': 'Con người / 人物',
+    'Từ để hỏi': 'Hỏi đáp / 提问',
+    'Số đếm cơ bản': 'Số đếm / 数字',
+    'Thời gian & lịch': 'Thời gian / 时间',
+    'Trường lớp': 'Trường lớp / 学校',
+    'Sinh hoạt thường ngày': 'Sinh hoạt / 日常',
+    'Đồ ăn & thức uống': 'Ăn uống / 饮食',
+    'Gia đình': 'Gia đình / 家庭',
+    'Tính từ cơ bản': 'Mô tả / 描述',
+    'Động từ & mẫu câu cơ bản': 'Hành động / 动作',
+    'Thời tiết': 'Thời tiết / 天气',
+    'Mua sắm & tiền': 'Mua sắm / 购物',
+    'Di chuyển & địa điểm': 'Di chuyển / 出行',
+    'Ngôn ngữ': 'Ngôn ngữ / 语言',
   };
 
   return shortMap[topic] ?? topic;
@@ -322,22 +322,22 @@ export default function ChineseLearningApp() {
       </View>
 
       <View style={styles.statsGrid}>
-        <StatCard label="Streak" value={`${currentStreak} ngày`} accent="#FF8A65" />
-        <StatCard label="Đã học" value={`${learnedIds.length}/${allWords.length}`} accent="#4DB6AC" />
-        <StatCard label="Cần ôn" value={`${reviewIds.length}`} accent="#9575CD" />
+        <StatCard label="Streak" value={`🔥 ${currentStreak}`} accent="#FF8A65" />
+        <StatCard label="Learned" value={`${learnedIds.length}/${allWords.length}`} accent="#4DB6AC" />
+        <StatCard label="Review" value={`${reviewIds.length}`} accent="#9575CD" />
         <StatCard label="Accuracy" value={`${sessionAccuracy}%`} accent="#5C6BC0" />
       </View>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>今日学习</Text>
+        <Text style={styles.sectionTitle}>Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{shortenLessonTopic(selectedLesson.topic)}</Text>
         <Text style={styles.bodyText}>
-          Học {selectedLesson.words.length} từ · Ôn {reviewIds.length} từ · Giữ streak {currentStreak} ngày
+          Hôm nay học {selectedLesson.words.length} từ, ôn {reviewIds.length} từ và giữ streak {currentStreak} ngày.
         </Text>
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>学习路径</Text>
+        <Text style={styles.sectionTitle}>Learning Path</Text>
         <View style={styles.pathRow}>
           <View style={styles.pathChip}><Text style={styles.pathChipText}>1. Lesson</Text></View>
           <View style={styles.pathChip}><Text style={styles.pathChipText}>2. Flashcards</Text></View>
@@ -351,7 +351,7 @@ export default function ChineseLearningApp() {
   const renderLearn = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
-        <Text style={styles.sectionTitle}>Chọn bài học</Text>
+        <Text style={styles.sectionTitle}>Choose Lesson</Text>
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
@@ -369,9 +369,9 @@ export default function ChineseLearningApp() {
         </View>
         {renderWordMeta(currentLearnWord)}
         <View style={styles.wordActionRow}>
-          <ActionButton label="Đã học" onPress={() => markLearned(currentLearnWord.id)} />
+          <ActionButton label="Mark Learned" onPress={() => markLearned(currentLearnWord.id)} />
           <ActionButton
-            label="Ôn bằng thẻ"
+            label="Review Cards"
             onPress={() => {
               setFlashIndex(learnIndex);
               setShowFlashBack(false);
@@ -401,11 +401,11 @@ export default function ChineseLearningApp() {
   const renderFlashcards = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
-        <Text style={styles.sectionTitle}>学 Flashcard Review</Text>
+        <Text style={styles.sectionTitle}>Flashcard Review</Text>
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
-        <Text style={styles.sectionSubtitle}>Chạm để lật thẻ và review nhanh theo lesson hiện tại.</Text>
+        <Text style={styles.sectionSubtitle}>Chạm để lật thẻ và ôn nhanh theo lesson hiện tại.</Text>
       </SectionCard>
 
       <Pressable
@@ -447,23 +447,23 @@ export default function ChineseLearningApp() {
   const renderQuiz = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
-        <Text style={styles.sectionTitle}>考 Quiz</Text>
+        <Text style={styles.sectionTitle}>Quiz</Text>
         {renderHSKPills()}
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
             ? 'Bạn đã hoàn thành bài quiz của lesson này.'
-            : `${shortenLessonTopic(selectedLesson.topic)} • Câu ${quizIndex + 1}/${quizQuestions.length}`}
+            : `${shortenLessonTopic(selectedLesson.topic)} • Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
       </SectionCard>
 
       {isQuizFinished ? (
         <SectionCard>
           <Text style={styles.resultEmoji}>🎉</Text>
-          <Text style={styles.resultTitle}>Hoàn thành quiz</Text>
+          <Text style={styles.resultTitle}>Quiz Complete</Text>
           <Text style={styles.resultText}>
             Bạn trả lời đúng {quizCorrectCount}/{quizQuestions.length} câu ({sessionAccuracy}%).
           </Text>
-          <ActionButton label="Làm lại" onPress={restartQuiz} />
+          <ActionButton label="Restart Quiz" onPress={restartQuiz} />
         </SectionCard>
       ) : (
         <SectionCard>
@@ -509,7 +509,7 @@ export default function ChineseLearningApp() {
                   ? 'Chính xác! Tiếp tục nhé.'
                   : `Đáp án đúng là: ${currentQuestion.correctAnswer}`}
               </Text>
-              <ActionButton label="Câu tiếp theo" onPress={goToNextQuestion} />
+              <ActionButton label="Next Question" onPress={goToNextQuestion} />
             </>
           ) : null}
         </SectionCard>

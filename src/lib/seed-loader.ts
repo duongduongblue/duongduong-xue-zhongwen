@@ -80,21 +80,21 @@ const TOPIC_ALIASES: Record<string, string> = {
 };
 
 const TOPIC_SHORT_TITLE: Record<string, string> = {
-  greeting: 'Chào hỏi',
-  people: 'Con người',
-  'question word': 'Hỏi đáp',
-  number: 'Số đếm',
-  time: 'Thời gian',
-  education: 'Trường lớp',
-  'daily life': 'Sinh hoạt',
-  food: 'Ăn uống',
-  family: 'Gia đình',
-  adjective: 'Tính từ',
-  verb: 'Động từ',
-  weather: 'Thời tiết',
-  shopping: 'Mua sắm',
-  transport: 'Di chuyển',
-  language: 'Ngôn ngữ',
+  greeting: 'Chào hỏi / 问候',
+  people: 'Con người / 人物',
+  'question word': 'Hỏi đáp / 提问',
+  number: 'Số đếm / 数字',
+  time: 'Thời gian / 时间',
+  education: 'Trường lớp / 学校',
+  'daily life': 'Sinh hoạt / 日常',
+  food: 'Ăn uống / 饮食',
+  family: 'Gia đình / 家庭',
+  adjective: 'Mô tả / 描述',
+  verb: 'Hành động / 动作',
+  weather: 'Thời tiết / 天气',
+  shopping: 'Mua sắm / 购物',
+  transport: 'Di chuyển / 出行',
+  language: 'Ngôn ngữ / 语言',
 };
 
 const FALLBACK_META = { topic: 'Từ vựng mở rộng', color: '#9B59B6' };
