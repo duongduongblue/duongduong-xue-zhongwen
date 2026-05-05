@@ -306,10 +306,15 @@ export default function ChineseLearningApp() {
       <View style={styles.heroCard}>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          HSK1 lessons · flashcards · quiz · progress
+          HSK 1–5 roadmap · lessons · flashcards · quiz
         </Text>
-        <View style={styles.currentLessonPill}>
-          <Text style={styles.currentLessonPillText}>当前课程 · {shortenLessonTopic(selectedLesson.topic)}</Text>
+        <View style={styles.heroMetaRow}>
+          <View style={styles.currentLessonPill}>
+            <Text style={styles.currentLessonPillText}>当前课程 · {shortenLessonTopic(selectedLesson.topic)}</Text>
+          </View>
+          <View style={styles.currentLessonPill}>
+            <Text style={styles.currentLessonPillText}>Current content · HSK1</Text>
+          </View>
         </View>
         <View style={styles.heroActions}>
           <ActionButton label="开始学习" onPress={() => setActiveTab('learn')} />
@@ -332,18 +337,8 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{shortenLessonTopic(selectedLesson.topic)}</Text>
         <Text style={styles.bodyText}>
-          Hôm nay học {selectedLesson.words.length} từ, ôn {reviewIds.length} từ và giữ streak {currentStreak} ngày.
+          Hôm nay học {selectedLesson.words.length} từ · Ôn {reviewIds.length} từ · 🔥 Streak {currentStreak}
         </Text>
-      </SectionCard>
-
-      <SectionCard>
-        <Text style={styles.sectionTitle}>Learning Path</Text>
-        <View style={styles.pathRow}>
-          <View style={styles.pathChip}><Text style={styles.pathChipText}>1. Lesson</Text></View>
-          <View style={styles.pathChip}><Text style={styles.pathChipText}>2. Flashcards</Text></View>
-          <View style={styles.pathChip}><Text style={styles.pathChipText}>3. Quiz</Text></View>
-          <View style={styles.pathChip}><Text style={styles.pathChipText}>4. Progress</Text></View>
-        </View>
       </SectionCard>
     </ScrollView>
   );
@@ -634,7 +629,7 @@ export default function ChineseLearningApp() {
         <View style={styles.topBar}>
           <View>
             <Text style={styles.topBarTitle}>DuongDuong 学中文</Text>
-            <Text style={styles.topBarSubtitle}>HSK1 vocabulary lessons</Text>
+            <Text style={styles.topBarSubtitle}>HSK 1–5 roadmap • current content: HSK1</Text>
           </View>
           <View style={styles.streakBadge}>
             <Text style={styles.streakBadgeText}>🔥 {currentStreak}</Text>
@@ -734,7 +729,12 @@ const styles = StyleSheet.create({
   heroActions: {
     flexDirection: 'row',
     gap: 10,
-    marginTop: 4,
+    marginTop: 2,
+  },
+  heroMetaRow: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 8,
   },
   currentLessonPill: {
     alignSelf: 'flex-start',
