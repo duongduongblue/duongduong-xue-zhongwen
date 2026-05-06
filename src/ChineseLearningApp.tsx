@@ -316,7 +316,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
         <Text style={styles.bodyText}>
-          {selectedLesson.words.length} new words · {reviewIds.length} reviews · 🔥 Streak {currentStreak}
+          {selectedLesson.words.length} new words · {reviewIds.length} reviews
         </Text>
       </SectionCard>
     </ScrollView>
@@ -333,6 +333,7 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <View style={styles.wordCard}> 
+        <Text style={styles.wordCardTopic}>{selectedLesson.title}</Text>
         <View style={styles.wordHeaderRow}>
           <Text style={styles.badge}>第 {learnIndex + 1} / {selectedLesson.words.length} 词</Text>
           <Pressable onPress={() => toggleFavorite(currentLearnWord.id)}>
@@ -379,7 +380,7 @@ export default function ChineseLearningApp() {
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
-        <Text style={styles.sectionSubtitle}>Tap to flip and review the current lesson.</Text>
+        <Text style={styles.sectionSubtitle}>Tap to flip the card.</Text>
       </SectionCard>
 
       <Pressable
@@ -426,7 +427,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
             ? 'You completed this lesson quiz.'
-            : `${selectedLesson.title} • Question ${quizIndex + 1}/${quizQuestions.length}`}
+            : `Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
       </SectionCard>
 
@@ -442,7 +443,7 @@ export default function ChineseLearningApp() {
       ) : (
         <SectionCard>
           <View style={styles.quizHeaderCenter}>
-            <Text style={styles.quizCounter}>Câu {quizIndex + 1} / {quizQuestions.length}</Text>
+            <Text style={styles.quizCounter}>Question {quizIndex + 1} / {quizQuestions.length}</Text>
             <Text style={styles.quizPrompt}>{currentQuestion.prompt}</Text>
             <Text style={styles.quizSupportingText}>{currentQuestion.supportingText}</Text>
           </View>
@@ -611,7 +612,7 @@ export default function ChineseLearningApp() {
             <Text style={styles.topBarSubtitle}>Chinese vocabulary learning app</Text>
           </View>
           <View style={styles.streakBadge}>
-            <Text style={styles.streakBadgeText}>🔥 Streak {currentStreak}</Text>
+            <Text style={styles.streakBadgeText}>{`🔥 Streak ${currentStreak}`}</Text>
           </View>
         </View>
 
@@ -865,7 +866,14 @@ const styles = StyleSheet.create({
     borderRadius: 18,
     borderWidth: 1,
     padding: 18,
-    gap: 12,
+    gap: 14,
+  },
+  wordCardTopic: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#8A5B0A',
+    textTransform: 'uppercase',
+    letterSpacing: 0.6,
   },
   wordHeaderRow: {
     flexDirection: 'row',
@@ -930,6 +938,7 @@ const styles = StyleSheet.create({
     color: '#888780',
     lineHeight: 18,
     textAlign: 'center',
+    marginTop: 2,
   },
   wordActionRow: {
     flexDirection: 'row',
@@ -979,11 +988,11 @@ const styles = StyleSheet.create({
     transform: [{ scale: 0.99 }],
   },
   flashcard: {
-    minHeight: 300,
+    minHeight: 320,
     borderRadius: 18,
-    padding: 22,
+    padding: 24,
     justifyContent: 'center',
-    gap: 10,
+    gap: 12,
     backgroundColor: '#FFFFFF',
     borderWidth: 1,
     borderColor: '#DDD0B0',
@@ -1006,7 +1015,7 @@ const styles = StyleSheet.create({
   },
   flashBackContent: {
     alignItems: 'center',
-    gap: 8,
+    gap: 10,
   },
   flashHanzi: {
     color: '#2C1810',
@@ -1039,8 +1048,8 @@ const styles = StyleSheet.create({
   },
   quizHeaderCenter: {
     alignItems: 'center',
-    gap: 6,
-    paddingBottom: 4,
+    gap: 8,
+    paddingBottom: 6,
   },
   quizCounter: {
     fontSize: 10,
@@ -1050,7 +1059,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 8,
-    marginTop: 6,
+    marginTop: 8,
+    marginBottom: 4,
   },
   quizTimerTrack: {
     flex: 1,
@@ -1101,7 +1111,7 @@ const styles = StyleSheet.create({
   },
   quizOptions: {
     gap: 10,
-    marginTop: 10,
+    marginTop: 12,
   },
   quizOption: {
     borderWidth: 1,
@@ -1128,7 +1138,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#FDECEA',
   },
   feedbackText: {
-    marginTop: 8,
+    marginTop: 10,
     fontSize: 12,
     color: '#5F5E5A',
     lineHeight: 18,
