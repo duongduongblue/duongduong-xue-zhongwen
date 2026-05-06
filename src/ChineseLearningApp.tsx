@@ -289,9 +289,6 @@ export default function ChineseLearningApp() {
         </Text>
         <View style={styles.heroMetaRow}>
           <View style={styles.currentLessonPill}>
-            <Text style={styles.currentLessonPillText}>Current lesson · {selectedLesson.title}</Text>
-          </View>
-          <View style={styles.currentLessonPill}>
             <Text style={styles.currentLessonPillText}>HSK 1 available</Text>
           </View>
           <View style={styles.currentLessonPill}>
@@ -299,9 +296,9 @@ export default function ChineseLearningApp() {
           </View>
         </View>
         <View style={styles.heroActions}>
-          <ActionButton label="开始学习" onPress={() => setActiveTab('learn')} />
+          <ActionButton label="Start Learning" onPress={() => setActiveTab('learn')} />
           <ActionButton
-            label="复习"
+            label="Review"
             onPress={() => setActiveTab('flashcards')}
             variant="secondary"
           />
@@ -319,7 +316,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
         <Text style={styles.bodyText}>
-          {selectedLesson.words.length} words to learn · {reviewIds.length} words to review · 🔥 Streak {currentStreak}
+          {selectedLesson.words.length} new words · {reviewIds.length} reviews · 🔥 Streak {currentStreak}
         </Text>
       </SectionCard>
     </ScrollView>
@@ -346,7 +343,7 @@ export default function ChineseLearningApp() {
         </View>
         {renderWordMeta(currentLearnWord)}
         <View style={styles.wordActionRow}>
-          <ActionButton label="Mark Learned" onPress={() => markLearned(currentLearnWord.id)} />
+          <ActionButton label="Learned" onPress={() => markLearned(currentLearnWord.id)} />
           <ActionButton
             label="Review Cards"
             onPress={() => {
@@ -382,14 +379,14 @@ export default function ChineseLearningApp() {
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
-        <Text style={styles.sectionSubtitle}>Chạm để lật thẻ và ôn nhanh theo lesson hiện tại.</Text>
+        <Text style={styles.sectionSubtitle}>Tap to flip and review the current lesson.</Text>
       </SectionCard>
 
       <Pressable
         onPress={() => setShowFlashBack((current) => !current)}
         style={styles.flashcard}
       >
-        <Text style={styles.flashcardHint}>{showFlashBack ? 'Mặt sau' : 'Mặt trước'}</Text>
+        <Text style={styles.flashcardHint}>{showFlashBack ? 'Back' : 'Front'}</Text>
         <Text style={styles.flashcardCounter}>第 {flashIndex + 1} / {selectedLesson.words.length}</Text>
         {showFlashBack ? (
           <View style={styles.flashBackContent}>
@@ -412,11 +409,11 @@ export default function ChineseLearningApp() {
 
       <View style={styles.stepperRow}>
         <ActionButton
-          label="✕ 不知道"
+          label="✕ Don't know"
           variant="secondary"
           onPress={() => handleFlashResult(currentFlashWord.id, false)}
         />
-        <ActionButton label="✓ 知道了" onPress={() => handleFlashResult(currentFlashWord.id, true)} />
+        <ActionButton label="✓ Know it" onPress={() => handleFlashResult(currentFlashWord.id, true)} />
       </View>
     </ScrollView>
   );
@@ -428,7 +425,7 @@ export default function ChineseLearningApp() {
         {renderHSKPills()}
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
-            ? 'Bạn đã hoàn thành bài quiz của lesson này.'
+            ? 'You completed this lesson quiz.'
             : `${selectedLesson.title} • Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
       </SectionCard>
@@ -438,7 +435,7 @@ export default function ChineseLearningApp() {
           <Text style={styles.resultEmoji}>🎉</Text>
           <Text style={styles.resultTitle}>Quiz Complete</Text>
           <Text style={styles.resultText}>
-            Bạn trả lời đúng {quizCorrectCount}/{quizQuestions.length} câu ({sessionAccuracy}%).
+            You answered {quizCorrectCount}/{quizQuestions.length} correctly ({sessionAccuracy}%).
           </Text>
           <ActionButton label="Restart Quiz" onPress={restartQuiz} />
         </SectionCard>
@@ -483,8 +480,8 @@ export default function ChineseLearningApp() {
             <>
               <Text style={styles.feedbackText}>
                 {selectedAnswer === currentQuestion.correctAnswer
-                  ? 'Chính xác! Tiếp tục nhé.'
-                  : `Đáp án đúng là: ${currentQuestion.correctAnswer}`}
+                  ? 'Correct. Keep going.'
+                  : `Correct answer: ${currentQuestion.correctAnswer}`}
               </Text>
               <ActionButton label="Next Question" onPress={goToNextQuestion} />
             </>
@@ -614,7 +611,7 @@ export default function ChineseLearningApp() {
             <Text style={styles.topBarSubtitle}>Chinese vocabulary learning app</Text>
           </View>
           <View style={styles.streakBadge}>
-            <Text style={styles.streakBadgeText}>🔥 {currentStreak}</Text>
+            <Text style={styles.streakBadgeText}>🔥 Streak {currentStreak}</Text>
           </View>
         </View>
 
