@@ -285,14 +285,17 @@ export default function ChineseLearningApp() {
       <View style={styles.heroCard}>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          {activeLevel.displayName} roadmap · lessons · flashcards · quiz
+          HSK 1 available · HSK 2–5 planned
         </Text>
         <View style={styles.heroMetaRow}>
           <View style={styles.currentLessonPill}>
             <Text style={styles.currentLessonPillText}>Current lesson · {selectedLesson.title}</Text>
           </View>
           <View style={styles.currentLessonPill}>
-            <Text style={styles.currentLessonPillText}>{currentModule.title} · {currentModule.subtitle}</Text>
+            <Text style={styles.currentLessonPillText}>HSK 1 available</Text>
+          </View>
+          <View style={styles.currentLessonPill}>
+            <Text style={styles.currentLessonPillText}>HSK 2–5 planned</Text>
           </View>
         </View>
         <View style={styles.heroActions}>
@@ -316,7 +319,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
         <Text style={styles.bodyText}>
-          Hôm nay học {selectedLesson.words.length} từ · Ôn {reviewIds.length} từ · 🔥 Streak {currentStreak}
+          {selectedLesson.words.length} words to learn · {reviewIds.length} words to review · 🔥 Streak {currentStreak}
         </Text>
       </SectionCard>
     </ScrollView>
@@ -608,7 +611,7 @@ export default function ChineseLearningApp() {
         <View style={styles.topBar}>
           <View>
             <Text style={styles.topBarTitle}>DuongDuong 学中文</Text>
-            <Text style={styles.topBarSubtitle}>HSK 1–5 roadmap • current content: HSK1</Text>
+            <Text style={styles.topBarSubtitle}>Chinese vocabulary learning app</Text>
           </View>
           <View style={styles.streakBadge}>
             <Text style={styles.streakBadgeText}>🔥 {currentStreak}</Text>
