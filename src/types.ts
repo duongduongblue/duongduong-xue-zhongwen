@@ -6,10 +6,30 @@ export type VocabWord = {
   exampleCn: string;
   exampleVi: string;
   level: 'HSK1';
+  lessonId?: string;
+  moduleId?: string;
+};
+
+export type Level = {
+  id: string;
+  displayName: string;
+  available: boolean;
+  description?: string;
+  targetWordCount?: number;
+};
+
+export type Module = {
+  id: string;
+  levelId: string;
+  title: string;
+  subtitle: string;
+  order: number;
 };
 
 export type Lesson = {
   id: string;
+  levelId: string;
+  moduleId: string;
   title: string;
   topic: string;
   color: string;

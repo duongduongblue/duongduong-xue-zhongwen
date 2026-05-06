@@ -9,7 +9,7 @@ import {
   View,
 } from 'react-native';
 
-import { allWords, buildQuizQuestions, lessons } from './data/hsk1';
+import { allWords, buildQuizQuestions, lessons, levels, modules } from './data/hsk1';
 import { seedProgress } from './data/app-seed';
 import { mapMockProgressToPersistedProgress } from './lib/seed-loader';
 import { loadProgress, saveProgress } from './storage/progress';
@@ -23,7 +23,6 @@ const tabs: Array<{ key: TabKey; label: string; icon: string }> = [
   { key: 'progress', label: '我', icon: '我' },
 ];
 
-const hskPills = ['HSK 1', 'HSK 2', 'HSK 3', 'HSK 4', 'HSK 5'];
 const heatmapLevels = [
   0, 1, 2, 3, 2, 1, 3,
   2, 0, 1, 3, 2, 3, 3,
@@ -76,28 +75,6 @@ function SectionCard({ children }: { children: React.ReactNode }) {
   return <View style={styles.sectionCard}>{children}</View>;
 }
 
-const shortenLessonTopic = (topic: string) => {
-  const shortMap: Record<string, string> = {
-    'Chào hỏi & lịch sự': 'Chào hỏi / 问候',
-    'Con người & giới thiệu': 'Con người / 人物',
-    'Từ để hỏi': 'Hỏi đáp / 提问',
-    'Số đếm cơ bản': 'Số đếm / 数字',
-    'Thời gian & lịch': 'Thời gian / 时间',
-    'Trường lớp': 'Trường lớp / 学校',
-    'Sinh hoạt thường ngày': 'Sinh hoạt / 日常',
-    'Đồ ăn & thức uống': 'Ăn uống / 饮食',
-    'Gia đình': 'Gia đình / 家庭',
-    'Tính từ cơ bản': 'Mô tả / 描述',
-    'Động từ & mẫu câu cơ bản': 'Hành động / 动作',
-    'Thời tiết': 'Thời tiết / 天气',
-    'Mua sắm & tiền': 'Mua sắm / 购物',
-    'Di chuyển & địa điểm': 'Di chuyển / 出行',
-    'Ngôn ngữ': 'Ngôn ngữ / 语言',
-  };
-
-  return shortMap[topic] ?? topic;
-};
-
 export default function ChineseLearningApp() {
   const [activeTab, setActiveTab] = useState<TabKey>('home');
   const [selectedLessonId, setSelectedLessonId] = useState(lessons[0].id);
@@ -117,6 +94,8 @@ export default function ChineseLearningApp() {
   const [hasLoadedProgress, setHasLoadedProgress] = useState(false);
 
   const selectedLesson = lessons.find((lesson) => lesson.id === selectedLessonId) ?? lessons[0];
+  const currentModule = modules.find((module) => module.id === selectedLesson.moduleId) ?? modules[0];
+  const activeLevel = levels.find((level) => level.id === selectedLesson.levelId) ?? levels[0];
   const quizQuestions = useMemo<QuizQuestion[]>(() => buildQuizQuestions(selectedLesson.words), [selectedLesson]);
   const currentLearnWord = selectedLesson.words[learnIndex] ?? selectedLesson.words[0];
   const currentFlashWord = selectedLesson.words[flashIndex] ?? selectedLesson.words[0];
@@ -259,7 +238,7 @@ export default function ChineseLearningApp() {
             ]}
           >
             <Text style={[styles.lessonPillText, isActive && styles.lessonPillTextActive]}>
-              {shortenLessonTopic(lesson.topic)}
+              {lesson.title}
             </Text>
           </Pressable>
         );
@@ -269,11 +248,11 @@ export default function ChineseLearningApp() {
 
   const renderHSKPills = () => (
     <View style={styles.hskRow}>
-      {hskPills.map((pill, index) => {
-        const isActive = index === 0;
+      {levels.map((level) => {
+        const isActive = level.id === activeLevel.id;
         return (
-          <View key={pill} style={[styles.hskPill, isActive && styles.hskPillActive]}>
-            <Text style={[styles.hskPillText, isActive && styles.hskPillTextActive]}>{pill}</Text>
+          <View key={level.id} style={[styles.hskPill, isActive && styles.hskPillActive]}>
+            <Text style={[styles.hskPillText, isActive && styles.hskPillTextActive]}>{level.displayName}</Text>
           </View>
         );
       })}
@@ -306,14 +285,14 @@ export default function ChineseLearningApp() {
       <View style={styles.heroCard}>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          HSK 1–5 roadmap · lessons · flashcards · quiz
+          {activeLevel.displayName} roadmap · lessons · flashcards · quiz
         </Text>
         <View style={styles.heroMetaRow}>
           <View style={styles.currentLessonPill}>
-            <Text style={styles.currentLessonPillText}>当前课程 · {shortenLessonTopic(selectedLesson.topic)}</Text>
+            <Text style={styles.currentLessonPillText}>Current lesson · {selectedLesson.title}</Text>
           </View>
           <View style={styles.currentLessonPill}>
-            <Text style={styles.currentLessonPillText}>Current content · HSK1</Text>
+            <Text style={styles.currentLessonPillText}>{currentModule.title} · {currentModule.subtitle}</Text>
           </View>
         </View>
         <View style={styles.heroActions}>
@@ -335,7 +314,7 @@ export default function ChineseLearningApp() {
 
       <SectionCard>
         <Text style={styles.sectionTitle}>Today's Focus</Text>
-        <Text style={styles.sectionSubtitle}>{shortenLessonTopic(selectedLesson.topic)}</Text>
+        <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
         <Text style={styles.bodyText}>
           Hôm nay học {selectedLesson.words.length} từ · Ôn {reviewIds.length} từ · 🔥 Streak {currentStreak}
         </Text>
@@ -447,7 +426,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
             ? 'Bạn đã hoàn thành bài quiz của lesson này.'
-            : `${shortenLessonTopic(selectedLesson.topic)} • Question ${quizIndex + 1}/${quizQuestions.length}`}
+            : `${selectedLesson.title} • Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
       </SectionCard>
 
@@ -521,7 +500,7 @@ export default function ChineseLearningApp() {
           </View>
           <View>
             <Text style={styles.avatarName}>Học viên</Text>
-            <Text style={styles.avatarLevel}>HSK 1 · Streak {currentStreak} ngày</Text>
+            <Text style={styles.avatarLevel}>{activeLevel.displayName} · Streak {currentStreak} days</Text>
           </View>
         </View>
       </SectionCard>

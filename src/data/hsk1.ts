@@ -3,6 +3,8 @@ import { buildQuizQuestionsFromSeed, createAppSeedBundle } from '../lib/seed-loa
 
 const appSeed = createAppSeedBundle();
 
+export const levels = appSeed.levels;
+export const modules = appSeed.modules;
 export const lessons = appSeed.lessons;
 export const allWords: VocabWord[] = appSeed.words;
 

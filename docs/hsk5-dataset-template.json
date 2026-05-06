@@ -1,0 +1,55 @@
+{
+  "levels": [
+    {
+      "id": "HSK5",
+      "displayName": "HSK 5",
+      "targetWordCount": 3600,
+      "cefrApprox": "B2",
+      "description": "Advanced functional and reading Chinese"
+    }
+  ],
+  "modules": [
+    {
+      "id": "hsk5-module-1",
+      "level": "HSK5",
+      "title_vi": "Chủ đề trừu tượng",
+      "title_zh": "抽象主题",
+      "order": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "HSK5-M1-L1",
+      "level": "HSK5",
+      "moduleId": "hsk5-module-1",
+      "title_vi": "Xã hội và thay đổi",
+      "title_zh": "社会与变化",
+      "shortTitle_vi": "Xã hội",
+      "shortTitle_zh": "社会",
+      "order": 1,
+      "goal": "Biết đọc và dùng từ vựng về xã hội, thay đổi và các vấn đề chung.",
+      "targetWordCount": 40,
+      "grammarFocus": ["abstract expression", "formal register"],
+      "quizFocus": ["reading comprehension", "register choice"],
+      "tags": ["society", "change", "advanced"]
+    }
+  ],
+  "words": [
+    {
+      "id": "hsk5_001",
+      "level": "HSK5",
+      "moduleId": "hsk5-module-1",
+      "lessonId": "HSK5-M1-L1",
+      "hanzi": "变化",
+      "pinyin": "biànhuà",
+      "meaning_vi": "sự thay đổi",
+      "meaning_en": "change",
+      "part_of_speech": "noun",
+      "example_cn": "社会变化得很快。",
+      "example_translation": "Xã hội thay đổi rất nhanh.",
+      "tags": ["society", "change"],
+      "difficulty_order": 1,
+      "frequency_band": "high"
+    }
+  ]
+}

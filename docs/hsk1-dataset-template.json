@@ -1,0 +1,69 @@
+{
+  "levels": [
+    {
+      "id": "HSK1",
+      "displayName": "HSK 1",
+      "targetWordCount": 300,
+      "cefrApprox": "A1",
+      "description": "Beginner survival Chinese"
+    }
+  ],
+  "modules": [
+    {
+      "id": "hsk1-module-1",
+      "level": "HSK1",
+      "title_vi": "Cơ bản sinh tồn",
+      "title_zh": "基础生存",
+      "order": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "HSK1-M1-L1",
+      "level": "HSK1",
+      "moduleId": "hsk1-module-1",
+      "title_vi": "Chào hỏi cơ bản",
+      "title_zh": "问候语",
+      "shortTitle_vi": "Chào hỏi",
+      "shortTitle_zh": "问候",
+      "order": 1,
+      "goal": "Biết chào, cảm ơn, xin lỗi, tạm biệt trong tình huống cơ bản.",
+      "targetWordCount": 24,
+      "grammarFocus": [
+        "phrase usage",
+        "politeness phrases"
+      ],
+      "quizFocus": [
+        "meaning recognition",
+        "situational choice"
+      ],
+      "tags": [
+        "greeting",
+        "polite",
+        "beginner"
+      ]
+    }
+  ],
+  "words": [
+    {
+      "id": "hsk1_001",
+      "level": "HSK1",
+      "moduleId": "hsk1-module-1",
+      "lessonId": "HSK1-M1-L1",
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "meaning_vi": "xin chào",
+      "meaning_en": "hello",
+      "part_of_speech": "phrase",
+      "example_cn": "你好，很高兴认识你。",
+      "example_translation": "Xin chào, rất vui được gặp bạn.",
+      "tags": [
+        "greeting",
+        "polite",
+        "beginner"
+      ],
+      "difficulty_order": 1,
+      "frequency_band": "high"
+    }
+  ]
+}

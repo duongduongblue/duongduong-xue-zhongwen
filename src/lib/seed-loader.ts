@@ -1,105 +1,11 @@
-import type { Lesson, QuizQuestion, VocabWord } from '../types';
+import type { Lesson, Level, Module, QuizQuestion, VocabWord } from '../types';
 import { seedProgress, seedWords, type SeedProgress, type SeedWord } from '../data/app-seed';
+import { hsk1LessonDefs, levels, modules } from '../data/curriculum-hsk1';
 import type { PersistedProgress } from '../storage/progress';
 
-const TOPIC_META: Record<string, { topic: string; color: string }> = {
-  greeting: { topic: 'Chào hỏi & lịch sự', color: '#C0392B' },
-  people: { topic: 'Con người & giới thiệu', color: '#2D6A4F' },
-  'question word': { topic: 'Từ để hỏi', color: '#6C5CE7' },
-  number: { topic: 'Số đếm cơ bản', color: '#8E44AD' },
-  time: { topic: 'Thời gian & lịch', color: '#7F8C8D' },
-  education: { topic: 'Trường lớp', color: '#00A8E8' },
-  'daily life': { topic: 'Sinh hoạt thường ngày', color: '#FF8A65' },
-  food: { topic: 'Đồ ăn & thức uống', color: '#D4A017' },
-  family: { topic: 'Gia đình', color: '#E84393' },
-  adjective: { topic: 'Tính từ cơ bản', color: '#16A085' },
-  verb: { topic: 'Động từ & mẫu câu cơ bản', color: '#2980B9' },
-  weather: { topic: 'Thời tiết', color: '#3498DB' },
-  shopping: { topic: 'Mua sắm & tiền', color: '#E67E22' },
-  transport: { topic: 'Di chuyển & địa điểm', color: '#34495E' },
-  language: { topic: 'Ngôn ngữ', color: '#27AE60' },
-};
-
-const TOPIC_ORDER = [
-  'greeting',
-  'people',
-  'question word',
-  'number',
-  'time',
-  'education',
-  'daily life',
-  'food',
-  'family',
-  'adjective',
-  'verb',
-  'weather',
-  'shopping',
-  'transport',
-  'language',
-] as const;
-
-const TOPIC_ALIASES: Record<string, string> = {
-  greeting: 'greeting',
-  polite: 'greeting',
-  introduction: 'greeting',
-  pronoun: 'people',
-  demonstrative: 'people',
-  people: 'people',
-  relationship: 'people',
-  country: 'people',
-  'question word': 'question word',
-  number: 'number',
-  time: 'time',
-  education: 'education',
-  'daily life': 'daily life',
-  object: 'daily life',
-  place: 'daily life',
-  animal: 'daily life',
-  health: 'daily life',
-  food: 'food',
-  drink: 'food',
-  fruit: 'food',
-  family: 'family',
-  adjective: 'adjective',
-  emotion: 'adjective',
-  quantity: 'adjective',
-  verb: 'verb',
-  'basic grammar': 'verb',
-  negation: 'verb',
-  possession: 'verb',
-  modal: 'verb',
-  desire: 'verb',
-  preference: 'verb',
-  movement: 'verb',
-  job: 'verb',
-  weather: 'weather',
-  shopping: 'shopping',
-  money: 'shopping',
-  transport: 'transport',
-  language: 'language',
-};
-
-const TOPIC_SHORT_TITLE: Record<string, string> = {
-  greeting: 'Chào hỏi / 问候',
-  people: 'Con người / 人物',
-  'question word': 'Hỏi đáp / 提问',
-  number: 'Số đếm / 数字',
-  time: 'Thời gian / 时间',
-  education: 'Trường lớp / 学校',
-  'daily life': 'Sinh hoạt / 日常',
-  food: 'Ăn uống / 饮食',
-  family: 'Gia đình / 家庭',
-  adjective: 'Mô tả / 描述',
-  verb: 'Hành động / 动作',
-  weather: 'Thời tiết / 天气',
-  shopping: 'Mua sắm / 购物',
-  transport: 'Di chuyển / 出行',
-  language: 'Ngôn ngữ / 语言',
-};
-
-const FALLBACK_META = { topic: 'Từ vựng mở rộng', color: '#9B59B6' };
-
 export type AppSeedBundle = {
+  levels: Level[];
+  modules: Module[];
   words: VocabWord[];
   lessons: Lesson[];
   quizQuestions: QuizQuestion[];
@@ -107,7 +13,7 @@ export type AppSeedBundle = {
   mockProgress: SeedProgress;
 };
 
-export function mapSeedWordToVocabWord(word: SeedWord): VocabWord {
+export function mapSeedWordToVocabWord(word: SeedWord, lessonId?: string, moduleId?: string): VocabWord {
   return {
     id: word.id,
     hanzi: word.hanzi,
@@ -116,40 +22,26 @@ export function mapSeedWordToVocabWord(word: SeedWord): VocabWord {
     exampleCn: word.example_cn ?? '',
     exampleVi: word.example_translation ?? '',
     level: 'HSK1',
+    lessonId,
+    moduleId,
   };
 }
 
 export function buildLessonsFromSeed(words: SeedWord[]): Lesson[] {
-  const grouped = new Map<string, SeedWord[]>();
+  const wordByHanzi = new Map(words.map((word) => [word.hanzi, word]));
 
-  for (const word of words) {
-    const tags = word.tags ?? [];
-    const resolvedKey = tags
-      .map((tag) => TOPIC_ALIASES[tag] ?? tag)
-      .find((tag) => tag in TOPIC_META) ?? 'misc';
-
-    const current = grouped.get(resolvedKey) ?? [];
-    current.push(word);
-    grouped.set(resolvedKey, current);
-  }
-
-  const orderedKeys = [
-    ...TOPIC_ORDER.filter((key) => grouped.has(key)),
-    ...Array.from(grouped.keys()).filter((key) => !TOPIC_ORDER.includes(key as (typeof TOPIC_ORDER)[number])),
-  ];
-
-  return orderedKeys.map((key) => {
-    const meta = TOPIC_META[key] ?? FALLBACK_META;
-    const group = grouped.get(key) ?? [];
-
-    return {
-      id: key.replace(/\s+/g, '-'),
-      title: TOPIC_SHORT_TITLE[key] ?? meta.topic,
-      topic: meta.topic,
-      color: meta.color,
-      words: group.slice(0, 8).map(mapSeedWordToVocabWord),
-    };
-  });
+  return hsk1LessonDefs.map((lessonDef) => ({
+    id: lessonDef.id,
+    levelId: lessonDef.levelId,
+    moduleId: lessonDef.moduleId,
+    title: lessonDef.title,
+    topic: lessonDef.topic,
+    color: lessonDef.color,
+    words: lessonDef.words
+      .map((hanzi) => wordByHanzi.get(hanzi))
+      .filter(Boolean)
+      .map((word) => mapSeedWordToVocabWord(word as SeedWord, lessonDef.id, lessonDef.moduleId)),
+  }));
 }
 
 function uniqueOptions(correct: string, distractors: string[]) {
@@ -190,7 +82,7 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
 export function mapMockProgressToPersistedProgress(mock: SeedProgress = seedProgress): PersistedProgress {
   const progressItems = Object.values(mock.progress ?? {});
   return {
-    selectedLessonId: 'greeting',
+    selectedLessonId: 'HSK1-M1-L1',
     learnedIds: progressItems.filter((item) => item.status !== 'new').map((item) => item.word_id),
     masteredIds: progressItems.filter((item) => item.status === 'mastered').map((item) => item.word_id),
     reviewIds: progressItems.filter((item) => item.status === 'learning' || item.status === 'reviewing').map((item) => item.word_id),
@@ -204,6 +96,8 @@ export function createAppSeedBundle(): AppSeedBundle {
   const lessons = buildLessonsFromSeed(seedWords);
   const words = lessons.flatMap((lesson) => lesson.words);
   return {
+    levels,
+    modules,
     words,
     lessons,
     quizQuestions: buildQuizQuestionsFromSeed(seedWords),

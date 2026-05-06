@@ -1,0 +1,55 @@
+{
+  "levels": [
+    {
+      "id": "HSK4",
+      "displayName": "HSK 4",
+      "targetWordCount": 2000,
+      "cefrApprox": "B1",
+      "description": "Independent functional Chinese"
+    }
+  ],
+  "modules": [
+    {
+      "id": "hsk4-module-1",
+      "level": "HSK4",
+      "title_vi": "Công việc và trách nhiệm",
+      "title_zh": "工作与责任",
+      "order": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "HSK4-M1-L1",
+      "level": "HSK4",
+      "moduleId": "hsk4-module-1",
+      "title_vi": "Vai trò và trách nhiệm",
+      "title_zh": "角色与责任",
+      "shortTitle_vi": "Trách nhiệm",
+      "shortTitle_zh": "责任",
+      "order": 1,
+      "goal": "Biết nói về vai trò công việc, nhiệm vụ và trách nhiệm cá nhân.",
+      "targetWordCount": 36,
+      "grammarFocus": ["workplace expression", "reasoning"],
+      "quizFocus": ["usage in context", "collocation check"],
+      "tags": ["work", "responsibility", "intermediate"]
+    }
+  ],
+  "words": [
+    {
+      "id": "hsk4_001",
+      "level": "HSK4",
+      "moduleId": "hsk4-module-1",
+      "lessonId": "HSK4-M1-L1",
+      "hanzi": "负责",
+      "pinyin": "fùzé",
+      "meaning_vi": "chịu trách nhiệm",
+      "meaning_en": "to be responsible for",
+      "part_of_speech": "verb",
+      "example_cn": "她负责这个项目。",
+      "example_translation": "Cô ấy phụ trách dự án này.",
+      "tags": ["work", "responsibility"],
+      "difficulty_order": 1,
+      "frequency_band": "high"
+    }
+  ]
+}

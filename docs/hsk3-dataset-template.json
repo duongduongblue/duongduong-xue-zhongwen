@@ -1,0 +1,55 @@
+{
+  "levels": [
+    {
+      "id": "HSK3",
+      "displayName": "HSK 3",
+      "targetWordCount": 1000,
+      "cefrApprox": "A2",
+      "description": "Independent basic communication Chinese"
+    }
+  ],
+  "modules": [
+    {
+      "id": "hsk3-module-1",
+      "level": "HSK3",
+      "title_vi": "Trải nghiệm cá nhân",
+      "title_zh": "个人经历",
+      "order": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "HSK3-M1-L1",
+      "level": "HSK3",
+      "moduleId": "hsk3-module-1",
+      "title_vi": "Kể về trải nghiệm",
+      "title_zh": "讲经历",
+      "shortTitle_vi": "Trải nghiệm",
+      "shortTitle_zh": "经历",
+      "order": 1,
+      "goal": "Biết kể ngắn gọn về trải nghiệm cá nhân và điều đã xảy ra.",
+      "targetWordCount": 32,
+      "grammarFocus": ["past experience", "connectors"],
+      "quizFocus": ["situational choice", "sentence ordering"],
+      "tags": ["experience", "story", "daily independence"]
+    }
+  ],
+  "words": [
+    {
+      "id": "hsk3_001",
+      "level": "HSK3",
+      "moduleId": "hsk3-module-1",
+      "lessonId": "HSK3-M1-L1",
+      "hanzi": "经验",
+      "pinyin": "jīngyàn",
+      "meaning_vi": "kinh nghiệm",
+      "meaning_en": "experience",
+      "part_of_speech": "noun",
+      "example_cn": "这是一次很有意思的经验。",
+      "example_translation": "Đây là một trải nghiệm rất thú vị.",
+      "tags": ["experience", "story"],
+      "difficulty_order": 1,
+      "frequency_band": "medium"
+    }
+  ]
+}

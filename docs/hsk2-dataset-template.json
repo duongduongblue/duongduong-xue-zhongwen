@@ -1,0 +1,55 @@
+{
+  "levels": [
+    {
+      "id": "HSK2",
+      "displayName": "HSK 2",
+      "targetWordCount": 500,
+      "cefrApprox": "A1/A2 bridge",
+      "description": "Everyday communication Chinese"
+    }
+  ],
+  "modules": [
+    {
+      "id": "hsk2-module-1",
+      "level": "HSK2",
+      "title_vi": "Giao tiếp hằng ngày",
+      "title_zh": "日常交流",
+      "order": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "HSK2-M1-L1",
+      "level": "HSK2",
+      "moduleId": "hsk2-module-1",
+      "title_vi": "Trò chuyện thường ngày",
+      "title_zh": "日常聊天",
+      "shortTitle_vi": "Trò chuyện",
+      "shortTitle_zh": "聊天",
+      "order": 1,
+      "goal": "Biết phản hồi và duy trì hội thoại thường ngày ngắn.",
+      "targetWordCount": 28,
+      "grammarFocus": ["simple connectors", "daily interaction"],
+      "quizFocus": ["meaning recognition", "dialogue completion"],
+      "tags": ["conversation", "daily life", "beginner-plus"]
+    }
+  ],
+  "words": [
+    {
+      "id": "hsk2_001",
+      "level": "HSK2",
+      "moduleId": "hsk2-module-1",
+      "lessonId": "HSK2-M1-L1",
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "meaning_vi": "có thể; được",
+      "meaning_en": "can; may",
+      "part_of_speech": "modal verb",
+      "example_cn": "现在可以开始吗？",
+      "example_translation": "Bây giờ có thể bắt đầu không?",
+      "tags": ["conversation", "daily life"],
+      "difficulty_order": 1,
+      "frequency_band": "high"
+    }
+  ]
+}
