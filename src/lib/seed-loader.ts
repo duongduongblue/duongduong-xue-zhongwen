@@ -91,6 +91,7 @@ export function mapMockProgressToPersistedProgress(mock: SeedProgress = seedProg
     completedQuestionIds: [],
     studyDates: [],
     startedAt: undefined,
+    lastStudyAt: undefined,
   };
 }
 

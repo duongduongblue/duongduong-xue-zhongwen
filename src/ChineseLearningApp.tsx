@@ -62,6 +62,13 @@ const formatStartedAt = (startedAt?: string) => {
   return date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 };
 
+const formatLastStudyAt = (lastStudyAt?: string) => {
+  if (!lastStudyAt) return 'No study session yet';
+  const date = new Date(lastStudyAt);
+  if (Number.isNaN(date.getTime())) return 'No study session yet';
+  return date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+};
+
 function StatCard({ label, value, accent }: { label: string; value: string; accent: string }) {
   return (
     <View style={[styles.statCard, { borderColor: accent }]}> 
@@ -116,6 +123,7 @@ export default function ChineseLearningApp() {
   const [completedQuestionIds, setCompletedQuestionIds] = useState<string[]>([]);
   const [studyDates, setStudyDates] = useState<string[]>([]);
   const [startedAt, setStartedAt] = useState<string | undefined>(undefined);
+  const [lastStudyAt, setLastStudyAt] = useState<string | undefined>(undefined);
   const [currentStreak, setCurrentStreak] = useState(0);
   const [historicalAccuracy, setHistoricalAccuracy] = useState(seedProgress.summary.accuracy_percentage);
   const [hasLoadedProgress, setHasLoadedProgress] = useState(false);
@@ -139,6 +147,7 @@ export default function ChineseLearningApp() {
   const favoriteWords = allWords.filter((word) => favoriteIds.includes(word.id));
   const reviewWords = allWords.filter((word) => reviewIds.includes(word.id));
   const startedAtLabel = formatStartedAt(startedAt);
+  const lastStudyAtLabel = formatLastStudyAt(lastStudyAt);
 
   useEffect(() => {
     const hydrateProgress = async () => {
@@ -161,6 +170,7 @@ export default function ChineseLearningApp() {
       const loadedStudyDates = initialProgress.studyDates ?? [];
       setStudyDates(loadedStudyDates);
       setStartedAt(initialProgress.startedAt);
+      setLastStudyAt(initialProgress.lastStudyAt);
       setCurrentStreak(calculateStreak(loadedStudyDates));
       setHistoricalAccuracy(seedProgress.summary.accuracy_percentage);
 
@@ -185,6 +195,7 @@ export default function ChineseLearningApp() {
       completedQuestionIds,
       studyDates,
       startedAt,
+      lastStudyAt,
     });
   }, [
     completedQuestionIds,
@@ -197,6 +208,7 @@ export default function ChineseLearningApp() {
     selectedLessonId,
     studyDates,
     startedAt,
+    lastStudyAt,
   ]);
 
   const selectLesson = (lessonId: string) => {
@@ -215,13 +227,16 @@ export default function ChineseLearningApp() {
   };
 
   const registerStudyActivity = () => {
-    const today = formatStudyDate(new Date());
+    const now = new Date();
+    const today = formatStudyDate(now);
     setStudyDates((current) => {
       const next = addUnique(current, today);
       setCurrentStreak(calculateStreak(next));
       return next;
     });
-    setStartedAt((current) => current ?? new Date().toISOString());
+    const nowIso = now.toISOString();
+    setStartedAt((current) => current ?? nowIso);
+    setLastStudyAt(nowIso);
   };
 
   const markLearned = (wordId: string) => {
@@ -370,6 +385,7 @@ export default function ChineseLearningApp() {
         {renderMiniProgress()}
         {renderLessonPicker()}
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
+        <Text style={styles.metaNote}>Module: {currentModule.title}</Text>
       </SectionCard>
 
       <View style={styles.wordCard}> 
@@ -399,12 +415,12 @@ export default function ChineseLearningApp() {
 
       <View style={styles.stepperRow}>
         <ActionButton
-          label="上一个"
+          label="Previous"
           variant="secondary"
           onPress={() => setLearnIndex((current) => Math.max(0, current - 1))}
         />
         <ActionButton
-          label="下一个"
+          label="Next"
           onPress={() =>
             setLearnIndex((current) => Math.min(selectedLesson.words.length - 1, current + 1))
           }
@@ -421,6 +437,7 @@ export default function ChineseLearningApp() {
         {renderMiniProgress()}
         {renderLessonPicker()}
         <Text style={styles.sectionSubtitle}>Tap to flip the card.</Text>
+        <Text style={styles.metaNote}>Last study: {lastStudyAtLabel}</Text>
       </SectionCard>
 
       <Pressable
@@ -433,6 +450,7 @@ export default function ChineseLearningApp() {
           <View style={styles.flashBackContent}>
             <Text style={styles.flashMeaning}>{currentFlashWord.meaningVi}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
+            <Text style={styles.flashExampleLabel}>Example</Text>
             <Text style={styles.flashExample}>{currentFlashWord.exampleVi}</Text>
           </View>
         ) : (
@@ -469,6 +487,7 @@ export default function ChineseLearningApp() {
             ? 'You completed this lesson quiz.'
             : `${selectedLesson.title} · Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
+        <Text style={styles.metaNote}>Last study: {lastStudyAtLabel}</Text>
       </SectionCard>
 
       {isQuizFinished ? (
@@ -521,8 +540,8 @@ export default function ChineseLearningApp() {
             <>
               <Text style={styles.feedbackText}>
                 {selectedAnswer === currentQuestion.correctAnswer
-                  ? 'Correct. Keep going.'
-                  : `Correct answer: ${currentQuestion.correctAnswer}`}
+                  ? 'Correct — keep going.'
+                  : `Answer: ${currentQuestion.correctAnswer}`}
               </Text>
               <ActionButton label="Next Question" onPress={goToNextQuestion} />
             </>
@@ -562,10 +581,10 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <View style={styles.showcaseStatsGrid}>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{learnedIds.length}</Text><Text style={styles.showcaseStatLabel}>từ đã học</Text></View>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{sessionAccuracy}%</Text><Text style={styles.showcaseStatLabel}>độ chính xác</Text></View>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{favoriteWords.length}</Text><Text style={styles.showcaseStatLabel}>từ yêu thích</Text></View>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>HSK 1</Text><Text style={styles.showcaseStatLabel}>cấp độ hiện tại</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{learnedIds.length}</Text><Text style={styles.showcaseStatLabel}>words learned</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{sessionAccuracy}%</Text><Text style={styles.showcaseStatLabel}>accuracy</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{favoriteWords.length}</Text><Text style={styles.showcaseStatLabel}>saved words</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{studyDates.length}</Text><Text style={styles.showcaseStatLabel}>study days</Text></View>
       </View>
 
       <SectionCard>
@@ -635,10 +654,10 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Thống kê quiz</Text>
-        <Text style={styles.bodyText}>Đã làm trong phiên này: {completedQuestionIds.length} câu</Text>
-        <Text style={styles.bodyText}>Số câu đúng trong phiên này: {quizCorrectCount}</Text>
-        <Text style={styles.bodyText}>Tỷ lệ đúng hiện tại: {sessionAccuracy}%</Text>
+        <Text style={styles.sectionTitle}>Quiz Stats</Text>
+        <Text style={styles.bodyText}>Questions answered this session: {completedQuestionIds.length}</Text>
+        <Text style={styles.bodyText}>Correct answers this session: {quizCorrectCount}</Text>
+        <Text style={styles.bodyText}>Current accuracy: {sessionAccuracy}%</Text>
       </SectionCard>
     </ScrollView>
   );
@@ -1082,6 +1101,12 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     textAlign: 'center',
     letterSpacing: 1.8,
+  },
+  flashExampleLabel: {
+    fontSize: 10,
+    color: '#B1A79A',
+    textTransform: 'uppercase',
+    letterSpacing: 0.8,
   },
   flashExample: {
     color: '#888780',
