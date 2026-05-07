@@ -1,0 +1,133 @@
+{
+  "level": "HSK1",
+  "totalLessons": 12,
+  "totalWords": 100,
+  "modules": [
+    "hsk1-module-1 | Survival Basics",
+    "hsk1-module-2 | People & Daily Life",
+    "hsk1-module-3 | Numbers, Time & Movement",
+    "hsk1-module-4 | Core Actions & Description"
+  ],
+  "lessons": [
+    {
+      "lessonId": "HSK1-M1-L1",
+      "moduleId": "hsk1-module-1",
+      "moduleTitle": "Survival Basics",
+      "lessonTitleVi": "Chào hỏi cơ bản",
+      "lessonTitleZh": "问候语",
+      "shortTitleVi": "Chào hỏi",
+      "shortTitleZh": "问候",
+      "wordCount": 6
+    },
+    {
+      "lessonId": "HSK1-M1-L2",
+      "moduleId": "hsk1-module-1",
+      "moduleTitle": "Survival Basics",
+      "lessonTitleVi": "Giới thiệu bản thân",
+      "lessonTitleZh": "自我介绍",
+      "shortTitleVi": "Giới thiệu",
+      "shortTitleZh": "介绍",
+      "wordCount": 9
+    },
+    {
+      "lessonId": "HSK1-M1-L3",
+      "moduleId": "hsk1-module-1",
+      "moduleTitle": "Survival Basics",
+      "lessonTitleVi": "Hỏi đáp cơ bản",
+      "lessonTitleZh": "基本问答",
+      "shortTitleVi": "Hỏi đáp",
+      "shortTitleZh": "提问",
+      "wordCount": 7
+    },
+    {
+      "lessonId": "HSK1-M2-L4",
+      "moduleId": "hsk1-module-2",
+      "moduleTitle": "People & Daily Life",
+      "lessonTitleVi": "Gia đình và người thân",
+      "lessonTitleZh": "家庭",
+      "shortTitleVi": "Gia đình",
+      "shortTitleZh": "家庭",
+      "wordCount": 7
+    },
+    {
+      "lessonId": "HSK1-M2-L5",
+      "moduleId": "hsk1-module-2",
+      "moduleTitle": "People & Daily Life",
+      "lessonTitleVi": "Trường lớp và học tập",
+      "lessonTitleZh": "学校",
+      "shortTitleVi": "Trường lớp",
+      "shortTitleZh": "学校",
+      "wordCount": 10
+    },
+    {
+      "lessonId": "HSK1-M2-L6",
+      "moduleId": "hsk1-module-2",
+      "moduleTitle": "People & Daily Life",
+      "lessonTitleVi": "Ăn uống hằng ngày",
+      "lessonTitleZh": "吃喝",
+      "shortTitleVi": "Ăn uống",
+      "shortTitleZh": "饮食",
+      "wordCount": 7
+    },
+    {
+      "lessonId": "HSK1-M3-L7",
+      "moduleId": "hsk1-module-3",
+      "moduleTitle": "Numbers, Time & Movement",
+      "lessonTitleVi": "Số đếm cơ bản",
+      "lessonTitleZh": "数字",
+      "shortTitleVi": "Số đếm",
+      "shortTitleZh": "数字",
+      "wordCount": 10
+    },
+    {
+      "lessonId": "HSK1-M3-L8",
+      "moduleId": "hsk1-module-3",
+      "moduleTitle": "Numbers, Time & Movement",
+      "lessonTitleVi": "Thời gian và lịch",
+      "lessonTitleZh": "时间",
+      "shortTitleVi": "Thời gian",
+      "shortTitleZh": "时间",
+      "wordCount": 9
+    },
+    {
+      "lessonId": "HSK1-M3-L9",
+      "moduleId": "hsk1-module-3",
+      "moduleTitle": "Numbers, Time & Movement",
+      "lessonTitleVi": "Đi lại và nơi chốn",
+      "lessonTitleZh": "出行",
+      "shortTitleVi": "Di chuyển",
+      "shortTitleZh": "出行",
+      "wordCount": 10
+    },
+    {
+      "lessonId": "HSK1-M4-L10",
+      "moduleId": "hsk1-module-4",
+      "moduleTitle": "Core Actions & Description",
+      "lessonTitleVi": "Hành động cơ bản",
+      "lessonTitleZh": "基本动作",
+      "shortTitleVi": "Hành động",
+      "shortTitleZh": "动作",
+      "wordCount": 9
+    },
+    {
+      "lessonId": "HSK1-M4-L11",
+      "moduleId": "hsk1-module-4",
+      "moduleTitle": "Core Actions & Description",
+      "lessonTitleVi": "Mô tả cơ bản",
+      "lessonTitleZh": "基本描述",
+      "shortTitleVi": "Mô tả",
+      "shortTitleZh": "描述",
+      "wordCount": 10
+    },
+    {
+      "lessonId": "HSK1-M4-L12",
+      "moduleId": "hsk1-module-4",
+      "moduleTitle": "Core Actions & Description",
+      "lessonTitleVi": "Tình huống hằng ngày",
+      "lessonTitleZh": "日常情景",
+      "shortTitleVi": "Tình huống",
+      "shortTitleZh": "情景",
+      "wordCount": 6
+    }
+  ]
+}

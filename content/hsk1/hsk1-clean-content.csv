@@ -1,0 +1,101 @@
+lessonId,moduleId,moduleTitle,lessonTitleVi,lessonTitleZh,shortTitleVi,shortTitleZh,id,hanzi,pinyin,meaning_vi,meaning_en,part_of_speech,example_cn,example_translation,tags,frequency_band
+HSK1-M1-L1,hsk1-module-1,Survival Basics,Chào hỏi cơ bản,问候语,Chào hỏi,问候,hsk1_001,你好,nǐ hǎo,xin chào,hello,phrase,你好，很高兴认识你。,"Xin chào, rất vui được gặp bạn.",greeting,high
+HSK1-M1-L1,hsk1-module-1,Survival Basics,Chào hỏi cơ bản,问候语,Chào hỏi,问候,hsk1_002,谢谢,xièxie,cảm ơn,thank you,phrase,谢谢你的帮助。,Cảm ơn sự giúp đỡ của bạn.,greeting|polite,high
+HSK1-M1-L1,hsk1-module-1,Survival Basics,Chào hỏi cơ bản,问候语,Chào hỏi,问候,hsk1_003,再见,zàijiàn,tạm biệt,goodbye,phrase,老师，再见！,Tạm biệt thầy/cô ạ!,greeting,high
+HSK1-M1-L1,hsk1-module-1,Survival Basics,Chào hỏi cơ bản,问候语,Chào hỏi,问候,hsk1_004,请,qǐng,"mời, xin",please,verb,请坐。,Mời ngồi.,polite,high
+HSK1-M1-L1,hsk1-module-1,Survival Basics,Chào hỏi cơ bản,问候语,Chào hỏi,问候,hsk1_005,对不起,duìbuqǐ,xin lỗi,sorry,phrase,对不起，我来晚了。,"Xin lỗi, tôi đến muộn rồi.",polite,high
+HSK1-M1-L1,hsk1-module-1,Survival Basics,Chào hỏi cơ bản,问候语,Chào hỏi,问候,hsk1_006,没关系,méi guānxi,không sao đâu,it doesn't matter,phrase,没关系，我们可以再试一次。,"Không sao, chúng ta có thể thử lại lần nữa.",polite,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_011,我,wǒ,tôi,"I, me",pronoun,我喜欢中文。,Tôi thích tiếng Trung.,pronoun,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_012,你,nǐ,bạn,you,pronoun,你好吗？,Bạn có khỏe không?,pronoun,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_013,他,tā,anh ấy,"he, him",pronoun,他是我的朋友。,Anh ấy là bạn của tôi.,pronoun,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_014,她,tā,cô ấy,"she, her",pronoun,她很忙。,Cô ấy rất bận.,pronoun,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_015,我们,wǒmen,chúng tôi / chúng ta,"we, us",pronoun,我们一起学习。,Chúng ta cùng học nhé.,pronoun,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_024,名字,míngzi,tên,name,noun,我的名字叫安。,Tên tôi là An.,people|introduction,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_090,叫,jiào,"tên là, gọi",to be called; call,verb,我叫Sunnyoo。,Tôi tên là Sunnyoo.,verb|introduction,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_007,是,shì,là,to be,verb,我是学生。,Tôi là học sinh/sinh viên.,basic grammar,high
+HSK1-M1-L2,hsk1-module-1,Survival Basics,Giới thiệu bản thân,自我介绍,Giới thiệu,介绍,hsk1_025,中国,Zhōngguó,Trung Quốc,China,noun,我想去中国。,Tôi muốn đến Trung Quốc.,country,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_016,这,zhè,"đây, cái này",this,pronoun,这是什么？,Đây là cái gì?,demonstrative,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_017,那,nà,"kia, cái đó",that,pronoun,那是我的包。,Kia là túi của tôi.,demonstrative,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_018,什么,shénme,cái gì,what,pronoun,你叫什么名字？,Bạn tên là gì?,question word,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_019,哪,nǎ,"nào, đâu","which, where",pronoun,你去哪儿？,Bạn đi đâu vậy?,question word,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_020,谁,shéi,ai,who,pronoun,他是谁？,Anh ấy là ai?,question word,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_021,几,jǐ,"mấy, bao nhiêu",how many,pronoun,你家有几口人？,Nhà bạn có mấy người?,question word|number,high
+HSK1-M1-L3,hsk1-module-1,Survival Basics,Hỏi đáp cơ bản,基本问答,Hỏi đáp,提问,hsk1_022,多少,duōshao,bao nhiêu,"how much, how many",pronoun,这个多少钱？,Cái này giá bao nhiêu?,question word|shopping,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_023,人,rén,người,"person, people",noun,教室里有很多人。,Trong lớp có rất nhiều người.,people,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_038,家,jiā,"nhà, gia đình","home, family",noun,我现在回家。,Bây giờ tôi về nhà.,place|family,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_039,妈妈,māma,mẹ,mother,noun,我妈妈是老师。,Mẹ tôi là giáo viên.,family,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_040,爸爸,bàba,bố,father,noun,我爸爸很忙。,Bố tôi rất bận.,family,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_041,朋友,péngyou,"bạn bè, người bạn",friend,noun,她是我的好朋友。,Cô ấy là bạn tốt của tôi.,people|relationship,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_036,猫,māo,mèo,cat,noun,我家有一只猫。,Nhà tôi có một con mèo.,animal,high
+HSK1-M2-L4,hsk1-module-2,People & Daily Life,Gia đình và người thân,家庭,Gia đình,家庭,hsk1_037,狗,gǒu,chó,dog,noun,那只狗很可爱。,Con chó đó rất dễ thương.,animal,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_026,学生,xuésheng,"học sinh, sinh viên",student,noun,她是大学生。,Cô ấy là sinh viên đại học.,education,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_027,老师,lǎoshī,giáo viên,teacher,noun,王老师很好。,Thầy/cô Vương rất tốt.,education,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_028,学校,xuéxiào,trường học,school,noun,我的学校很大。,Trường của tôi rất lớn.,education|place,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_029,书,shū,sách,book,noun,这本书很好看。,Quyển sách này rất hay.,object,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_100,汉语,Hànyǔ,tiếng Trung,Chinese language,noun,汉语很有意思。,Tiếng Trung rất thú vị.,language|education,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_083,学习,xuéxí,học,to study,verb,我学习汉语。,Tôi học tiếng Trung.,verb|education,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_077,读,dú,đọc,"to read aloud, study",verb,我每天读中文。,Tôi đọc tiếng Trung mỗi ngày.,verb|education,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_078,写,xiě,viết,to write,verb,请写你的名字。,Hãy viết tên của bạn.,verb|education,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_075,听,tīng,nghe,to listen,verb,请听老师说。,Hãy nghe giáo viên nói.,verb,high
+HSK1-M2-L5,hsk1-module-2,People & Daily Life,Trường lớp và học tập,学校,Trường lớp,学校,hsk1_076,说,shuō,nói,"to speak, to say",verb,他会说汉语。,Anh ấy biết nói tiếng Trung.,verb|language,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_030,水,shuǐ,nước,water,noun,我想喝水。,Tôi muốn uống nước.,daily life|food,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_033,茶,chá,trà,tea,noun,我想喝一杯茶。,Tôi muốn uống một tách trà.,food|drink,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_034,饭,fàn,"cơm, bữa ăn","meal, rice",noun,我们一起吃饭吧。,Chúng ta cùng ăn cơm nhé.,food,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_035,苹果,píngguǒ,táo,apple,noun,这个苹果很大。,Quả táo này rất to.,food|fruit,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_031,吃,chī,ăn,to eat,verb,你吃饭了吗？,Bạn ăn cơm chưa?,daily life|food,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_032,喝,hē,uống,to drink,verb,他喜欢喝茶。,Anh ấy thích uống trà.,daily life|food,high
+HSK1-M2-L6,hsk1-module-2,People & Daily Life,Ăn uống hằng ngày,吃喝,Ăn uống,饮食,hsk1_089,想,xiǎng,"muốn, nghĩ","to want, to think",verb,我想喝水。,Tôi muốn uống nước.,verb|desire,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_051,一,yī,một,one,number,我有一个问题。,Tôi có một câu hỏi.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_052,二,èr,hai,two,number,我们有两个老师。,Chúng tôi có hai giáo viên.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_053,三,sān,ba,three,number,我买了三个苹果。,Tôi đã mua ba quả táo.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_054,四,sì,bốn,four,number,桌子上有四本书。,Trên bàn có bốn quyển sách.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_055,五,wǔ,năm,five,number,我家有五口人。,Nhà tôi có năm người.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_056,六,liù,sáu,six,number,现在六点了。,Bây giờ là sáu giờ rồi.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_057,七,qī,bảy,seven,number,我七点起床。,Tôi dậy lúc bảy giờ.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_058,八,bā,tám,eight,number,他八岁。,Cậu ấy tám tuổi.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_059,九,jiǔ,chín,nine,number,我买了九本书。,Tôi mua chín quyển sách.,number,high
+HSK1-M3-L7,hsk1-module-3,"Numbers, Time & Movement",Số đếm cơ bản,数字,Số đếm,数字,hsk1_060,十,shí,mười,ten,number,我十点睡觉。,Tôi đi ngủ lúc mười giờ.,number,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_042,今天,jīntiān,hôm nay,today,noun,今天天气很好。,Hôm nay thời tiết rất đẹp.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_043,明天,míngtiān,ngày mai,tomorrow,noun,明天我去学校。,Ngày mai tôi đi học.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_044,昨天,zuótiān,hôm qua,yesterday,noun,昨天我很累。,Hôm qua tôi rất mệt.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_045,现在,xiànzài,bây giờ,now,noun,我现在很忙。,Bây giờ tôi rất bận.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_046,点,diǎn,giờ,o'clock,measure word,现在三点。,Bây giờ là ba giờ.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_047,分钟,fēnzhōng,phút,minute,noun,请等我五分钟。,Vui lòng đợi tôi năm phút.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_048,月,yuè,tháng,month,noun,这个月我很忙。,Tháng này tôi rất bận.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_049,日,rì,ngày,"day, date",noun,今天是二十日。,Hôm nay là ngày hai mươi.,time,high
+HSK1-M3-L8,hsk1-module-3,"Numbers, Time & Movement",Thời gian và lịch,时间,Thời gian,时间,hsk1_050,星期,xīngqī,tuần,week,noun,今天星期三。,Hôm nay là thứ Tư.,time,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_071,去,qù,đi,to go,verb,我下午去公司。,Chiều nay tôi đi công ty.,verb|movement,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_072,来,lái,đến,to come,verb,你什么时候来？,Bạn khi nào đến?,verb|movement,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_073,回,huí,trở về,to return,verb,他晚上回家。,Buổi tối anh ấy về nhà.,verb|movement,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_082,住,zhù,"sống, ở","to live, reside",verb,我住在岘港。,Tôi sống ở Đà Nẵng.,verb|place,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_093,车,chē,xe,"car, vehicle",noun,我坐车去公司。,Tôi đi xe đến công ty.,transport,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_094,出租车,chūzūchē,taxi,taxi,noun,我们坐出租车吧。,Chúng ta đi taxi nhé.,transport,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_095,飞机,fēijī,máy bay,airplane,noun,他坐飞机去北京。,Anh ấy đi Bắc Kinh bằng máy bay.,transport,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_096,门,mén,cửa,door,noun,门开着。,Cửa đang mở.,object|place,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_097,医院,yīyuàn,bệnh viện,hospital,noun,她在医院工作。,Cô ấy làm việc ở bệnh viện.,place|health,high
+HSK1-M3-L9,hsk1-module-3,"Numbers, Time & Movement",Đi lại và nơi chốn,出行,Di chuyển,出行,hsk1_098,商店,shāngdiàn,cửa hàng,"shop, store",noun,前面有一家商店。,Phía trước có một cửa hàng.,place|shopping,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_074,看,kàn,"nhìn, xem, đọc","to look, to read",verb,我喜欢看书。,Tôi thích đọc sách.,verb,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_079,买,mǎi,mua,to buy,verb,我想买一杯茶。,Tôi muốn mua một cốc trà.,shopping|verb,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_080,开,kāi,mở,to open,verb,请开门。,Làm ơn mở cửa.,verb|daily life,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_081,坐,zuò,ngồi,to sit,verb,请坐在这里。,Mời ngồi ở đây.,verb|daily life,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_084,工作,gōngzuò,"làm việc, công việc",to work; work,verb,她在医院工作。,Cô ấy làm việc ở bệnh viện.,verb|job,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_087,会,huì,"biết, có thể","can, to know how to",modal verb,我会说一点中文。,Tôi biết nói một chút tiếng Trung.,modal|ability,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_088,能,néng,có thể,"can, be able to",modal verb,你能帮我吗？,Bạn có thể giúp tôi không?,modal|ability,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_086,爱,ài,"yêu, yêu thích",to love,verb,我爱我的家人。,Tôi yêu gia đình của mình.,verb|emotion,high
+HSK1-M4-L10,hsk1-module-4,Core Actions & Description,Hành động cơ bản,基本动作,Hành động,动作,hsk1_085,喜欢,xǐhuan,thích,to like,verb,我喜欢喝咖啡。,Tôi thích uống cà phê.,verb|preference,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_061,大,dà,"to, lớn",big,adjective,这个房子很大。,Ngôi nhà này rất lớn.,adjective,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_062,小,xiǎo,nhỏ,small,adjective,那只猫很小。,Con mèo đó rất nhỏ.,adjective,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_063,多,duō,nhiều,"many, much",adjective,这里人很多。,Ở đây có rất nhiều người.,adjective|quantity,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_064,少,shǎo,ít,"few, little",adjective,今天作业很少。,Hôm nay bài tập rất ít.,adjective|quantity,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_065,好,hǎo,tốt,good,adjective,这个老师很好。,Giáo viên này rất tốt.,adjective,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_066,冷,lěng,lạnh,cold,adjective,今天很冷。,Hôm nay rất lạnh.,weather|adjective,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_067,热,rè,nóng,hot,adjective,夏天很热。,Mùa hè rất nóng.,weather|adjective,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_068,忙,máng,bận,busy,adjective,我今天很忙。,Hôm nay tôi rất bận.,adjective|daily life,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_069,累,lèi,mệt,tired,adjective,工作以后我很累。,Sau khi làm việc tôi rất mệt.,adjective|daily life,high
+HSK1-M4-L11,hsk1-module-4,Core Actions & Description,Mô tả cơ bản,基本描述,Mô tả,描述,hsk1_070,高兴,gāoxìng,vui,happy,adjective,见到你我很高兴。,Gặp bạn tôi rất vui.,emotion,high
+HSK1-M4-L12,hsk1-module-4,Core Actions & Description,Tình huống hằng ngày,日常情景,Tình huống,情景,hsk1_008,不,bù,không,not,adverb,我不是老师。,Tôi không phải là giáo viên.,basic grammar|negation,high
+HSK1-M4-L12,hsk1-module-4,Core Actions & Description,Tình huống hằng ngày,日常情景,Tình huống,情景,hsk1_009,有,yǒu,có,to have,verb,我有一本书。,Tôi có một quyển sách.,basic grammar|possession,high
+HSK1-M4-L12,hsk1-module-4,Core Actions & Description,Tình huống hằng ngày,日常情景,Tình huống,情景,hsk1_010,没有,méiyǒu,không có,to not have,verb,我今天没有课。,Hôm nay tôi không có lớp.,basic grammar|negation,high
+HSK1-M4-L12,hsk1-module-4,Core Actions & Description,Tình huống hằng ngày,日常情景,Tình huống,情景,hsk1_091,天气,tiānqì,thời tiết,weather,noun,今天天气不错。,Hôm nay thời tiết không tệ.,weather,high
+HSK1-M4-L12,hsk1-module-4,Core Actions & Description,Tình huống hằng ngày,日常情景,Tình huống,情景,hsk1_092,下雨,xiàyǔ,mưa,to rain,verb,今天下午下雨了。,Chiều nay trời mưa rồi.,weather,high
+HSK1-M4-L12,hsk1-module-4,Core Actions & Description,Tình huống hằng ngày,日常情景,Tình huống,情景,hsk1_099,钱,qián,tiền,money,noun,我没有很多钱。,Tôi không có nhiều tiền.,shopping|money,high
