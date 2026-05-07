@@ -334,14 +334,6 @@ export default function ChineseLearningApp() {
         <Text style={styles.heroDescription}>
           HSK 1 available · HSK 2–5 planned
         </Text>
-        <View style={styles.heroMetaRow}>
-          <View style={styles.currentLessonPill}>
-            <Text style={styles.currentLessonPillText}>HSK 1 available</Text>
-          </View>
-          <View style={styles.currentLessonPill}>
-            <Text style={styles.currentLessonPillText}>HSK 2–5 planned</Text>
-          </View>
-        </View>
         <View style={styles.heroActions}>
           <ActionButton label="Start Learning" onPress={() => setActiveTab('learn')} />
           <ActionButton
@@ -353,7 +345,7 @@ export default function ChineseLearningApp() {
       </View>
 
       <View style={styles.statsGrid}>
-        <StatCard label="Streak" value={`🔥 ${currentStreak}`} accent="#FF8A65" />
+        <StatCard label="Level" value={activeLevel.displayName} accent="#FF8A65" />
         <StatCard label="Learned" value={`${learnedIds.length}/${allWords.length}`} accent="#4DB6AC" />
         <StatCard label="Review" value={`${reviewIds.length}`} accent="#9575CD" />
         <StatCard label="Accuracy" value={`${sessionAccuracy}%`} accent="#5C6BC0" />
@@ -365,7 +357,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.bodyText}>
           {selectedLesson.words.length} new words · {reviewIds.length} reviews
         </Text>
-        <Text style={styles.metaNote}>Started tracking: {startedAtLabel}</Text>
+        <Text style={styles.metaNote}>{startedAt ? `Started on ${startedAtLabel}` : 'Start learning to begin tracking'}</Text>
       </SectionCard>
     </ScrollView>
   );
