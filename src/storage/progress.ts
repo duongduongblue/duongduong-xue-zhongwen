@@ -8,6 +8,8 @@ export type PersistedProgress = {
   favoriteIds: string[];
   quizCorrectCount: number;
   completedQuestionIds: string[];
+  studyDates: string[];
+  startedAt?: string;
 };
 
 const STORAGE_KEY = 'trung-moi-ngay-progress';
@@ -35,6 +37,8 @@ export async function loadProgress(): Promise<Partial<PersistedProgress> | null>
       quizCorrectCount:
         typeof parsed.quizCorrectCount === 'number' ? parsed.quizCorrectCount : 0,
       completedQuestionIds: ensureStringArray(parsed.completedQuestionIds),
+      studyDates: ensureStringArray(parsed.studyDates),
+      startedAt: typeof parsed.startedAt === 'string' ? parsed.startedAt : undefined,
     };
   } catch (error) {
     console.warn('Không thể tải tiến độ đã lưu:', error);

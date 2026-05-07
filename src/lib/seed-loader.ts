@@ -89,6 +89,8 @@ export function mapMockProgressToPersistedProgress(mock: SeedProgress = seedProg
     favoriteIds: progressItems.filter((item) => item.bookmarked).map((item) => item.word_id),
     quizCorrectCount: (mock.recentSessions ?? []).filter((item) => item.mode === 'quiz').reduce((sum, item) => sum + (item.correct_count ?? 0), 0),
     completedQuestionIds: [],
+    studyDates: [],
+    startedAt: undefined,
   };
 }
 

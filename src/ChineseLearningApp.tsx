@@ -37,6 +37,31 @@ const removeItem = (items: string[], value: string) => items.filter((item) => it
 const progressPercent = (done: number, total: number) =>
   total === 0 ? 0 : Math.round((done / total) * 100);
 
+const formatStudyDate = (date: Date) => date.toISOString().slice(0, 10);
+
+const calculateStreak = (studyDates: string[]) => {
+  if (!studyDates.length) return 0;
+
+  const unique = Array.from(new Set(studyDates)).sort();
+  const dateSet = new Set(unique);
+  let cursor = new Date();
+  let streak = 0;
+
+  while (dateSet.has(formatStudyDate(cursor))) {
+    streak += 1;
+    cursor.setDate(cursor.getDate() - 1);
+  }
+
+  return streak;
+};
+
+const formatStartedAt = (startedAt?: string) => {
+  if (!startedAt) return 'Start tracking after your first study action';
+  const date = new Date(startedAt);
+  if (Number.isNaN(date.getTime())) return 'Start tracking after your first study action';
+  return date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+};
+
 function StatCard({ label, value, accent }: { label: string; value: string; accent: string }) {
   return (
     <View style={[styles.statCard, { borderColor: accent }]}> 
@@ -89,7 +114,9 @@ export default function ChineseLearningApp() {
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [quizCorrectCount, setQuizCorrectCount] = useState(0);
   const [completedQuestionIds, setCompletedQuestionIds] = useState<string[]>([]);
-  const [currentStreak, setCurrentStreak] = useState(seedProgress.summary.current_streak);
+  const [studyDates, setStudyDates] = useState<string[]>([]);
+  const [startedAt, setStartedAt] = useState<string | undefined>(undefined);
+  const [currentStreak, setCurrentStreak] = useState(0);
   const [historicalAccuracy, setHistoricalAccuracy] = useState(seedProgress.summary.accuracy_percentage);
   const [hasLoadedProgress, setHasLoadedProgress] = useState(false);
 
@@ -111,6 +138,7 @@ export default function ChineseLearningApp() {
 
   const favoriteWords = allWords.filter((word) => favoriteIds.includes(word.id));
   const reviewWords = allWords.filter((word) => reviewIds.includes(word.id));
+  const startedAtLabel = formatStartedAt(startedAt);
 
   useEffect(() => {
     const hydrateProgress = async () => {
@@ -130,7 +158,10 @@ export default function ChineseLearningApp() {
       setFavoriteIds(initialProgress.favoriteIds ?? []);
       setQuizCorrectCount(0);
       setCompletedQuestionIds([]);
-      setCurrentStreak(seedProgress.summary.current_streak);
+      const loadedStudyDates = initialProgress.studyDates ?? [];
+      setStudyDates(loadedStudyDates);
+      setStartedAt(initialProgress.startedAt);
+      setCurrentStreak(calculateStreak(loadedStudyDates));
       setHistoricalAccuracy(seedProgress.summary.accuracy_percentage);
 
       setHasLoadedProgress(true);
@@ -152,6 +183,8 @@ export default function ChineseLearningApp() {
       favoriteIds,
       quizCorrectCount,
       completedQuestionIds,
+      studyDates,
+      startedAt,
     });
   }, [
     completedQuestionIds,
@@ -162,6 +195,8 @@ export default function ChineseLearningApp() {
     quizCorrectCount,
     reviewIds,
     selectedLessonId,
+    studyDates,
+    startedAt,
   ]);
 
   const selectLesson = (lessonId: string) => {
@@ -179,7 +214,18 @@ export default function ChineseLearningApp() {
     );
   };
 
+  const registerStudyActivity = () => {
+    const today = formatStudyDate(new Date());
+    setStudyDates((current) => {
+      const next = addUnique(current, today);
+      setCurrentStreak(calculateStreak(next));
+      return next;
+    });
+    setStartedAt((current) => current ?? new Date().toISOString());
+  };
+
   const markLearned = (wordId: string) => {
+    registerStudyActivity();
     setLearnedIds((current) => addUnique(current, wordId));
   };
 
@@ -203,6 +249,7 @@ export default function ChineseLearningApp() {
       return;
     }
 
+    registerStudyActivity();
     setSelectedAnswer(answer);
     setCompletedQuestionIds((current) => addUnique(current, question.id));
 
@@ -318,6 +365,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.bodyText}>
           {selectedLesson.words.length} new words · {reviewIds.length} reviews
         </Text>
+        <Text style={styles.metaNote}>Started tracking: {startedAtLabel}</Text>
       </SectionCard>
     </ScrollView>
   );
@@ -427,7 +475,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
             ? 'You completed this lesson quiz.'
-            : `Question ${quizIndex + 1}/${quizQuestions.length}`}
+            : `${selectedLesson.title} · Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
       </SectionCard>
 
@@ -502,6 +550,7 @@ export default function ChineseLearningApp() {
           <View>
             <Text style={styles.avatarName}>Học viên</Text>
             <Text style={styles.avatarLevel}>{activeLevel.displayName} · Streak {currentStreak} days</Text>
+            <Text style={styles.avatarStarted}>Started: {startedAtLabel}</Text>
           </View>
         </View>
       </SectionCard>
@@ -775,6 +824,10 @@ const styles = StyleSheet.create({
     fontSize: 13,
     color: '#5F5E5A',
     lineHeight: 19,
+  },
+  metaNote: {
+    fontSize: 11,
+    color: '#9A8F84',
   },
   pathRow: {
     flexDirection: 'row',
@@ -1169,6 +1222,11 @@ const styles = StyleSheet.create({
   avatarLevel: {
     fontSize: 10,
     color: '#888780',
+    marginTop: 2,
+  },
+  avatarStarted: {
+    fontSize: 10,
+    color: '#B1A79A',
     marginTop: 2,
   },
   streakCardRow: {
