@@ -1,0 +1,409 @@
+[
+  {
+    "id": "hsk5_batch1_001",
+    "level": "HSK5",
+    "hanzi": "变化",
+    "traditional": "變化",
+    "pinyin": "biànhuà",
+    "meaning_vi": "thay đổi; sự thay đổi",
+    "meaning_en": "change; to change",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": ["society", "change"],
+    "exam_tags": ["reading", "meaning", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "变化 + 很大 / 发生变化 / 变化趋势",
+    "collocations": ["发生变化", "巨大变化", "变化趋势"],
+    "near_synonyms": [
+      {
+        "word": "改变",
+        "difference_vi": "改变 nhấn mạnh hành động thay đổi một điều gì đó; 变化 nhấn mạnh bản thân sự thay đổi hoặc trạng thái thay đổi."
+      }
+    ],
+    "app_synonym_note_vi": "变化 = sự thay đổi; 改变 = hành động thay đổi.",
+    "antonyms": ["稳定"],
+    "example_sentences": [
+      {
+        "zh": "这几年城市发生了很大的变化。",
+        "pinyin": "Zhè jǐ nián chéngshì fāshēng le hěn dà de biànhuà.",
+        "vi": "Những năm gần đây thành phố đã có những thay đổi rất lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dùng 变化 như động từ trong mọi ngữ cảnh; nhiều câu cần hiểu nó là danh từ “sự thay đổi”."
+    ],
+    "app_note_vi": "Thường dùng như “sự thay đổi” trong các câu phân tích.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "变化 nghĩa là gì?", "answer": "thay đổi; sự thay đổi" },
+      { "type": "cloze", "prompt": "这几年城市发生了很大的____。", "answer": "变化" },
+      { "type": "synonym", "prompt": "变化 khác 改变 ở điểm nào?", "answer": "变化 nhấn mạnh sự thay đổi; 改变 nhấn mạnh hành động thay đổi." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_002",
+    "level": "HSK5",
+    "hanzi": "发展",
+    "traditional": "發展",
+    "pinyin": "fāzhǎn",
+    "meaning_vi": "phát triển; sự phát triển",
+    "meaning_en": "development; to develop",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": ["society", "growth"],
+    "exam_tags": ["reading", "meaning", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "发展 + 经济 / 发展机会 / 发展方向",
+    "collocations": ["经济发展", "快速发展", "发展方向"],
+    "near_synonyms": [
+      {
+        "word": "进步",
+        "difference_vi": "进步 nhấn mạnh tiến bộ tích cực; 发展 rộng hơn, có thể dùng cho kinh tế, xã hội, sự vật hoặc quá trình mở rộng."
+      }
+    ],
+    "app_synonym_note_vi": "进步 = tiến bộ; 发展 = phát triển rộng hơn.",
+    "antonyms": ["落后"],
+    "example_sentences": [
+      {
+        "zh": "科技的发展改变了我们的生活方式。",
+        "pinyin": "Kējì de fāzhǎn gǎibiàn le wǒmen de shēnghuó fāngshì.",
+        "vi": "Sự phát triển của công nghệ đã thay đổi cách sống của chúng ta.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dịch cứng 发展 chỉ là “phát triển”; cần xét nó đang là danh từ hay động từ."
+    ],
+    "app_note_vi": "Hay gặp trong các chủ đề xã hội, công nghệ và tăng trưởng.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "发展 nghĩa là gì?", "answer": "phát triển; sự phát triển" },
+      { "type": "cloze", "prompt": "科技的____改变了我们的生活方式。", "answer": "发展" },
+      { "type": "collocation", "prompt": "Chọn collocation tự nhiên với 发展", "answer": "经济发展" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_003",
+    "level": "HSK5",
+    "hanzi": "社会",
+    "traditional": "社會",
+    "pinyin": "shèhuì",
+    "meaning_vi": "xã hội",
+    "meaning_en": "society",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["society"],
+    "exam_tags": ["reading", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "社会 + 问题 / 现象 / 发展",
+    "collocations": ["社会问题", "现代社会", "社会发展"],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "现代社会对沟通能力的要求越来越高。",
+        "pinyin": "Xiàndài shèhuì duì gōutōng nénglì de yāoqiú yuèláiyuè gāo.",
+        "vi": "Xã hội hiện đại ngày càng yêu cầu cao hơn về năng lực giao tiếp.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "社会 không chỉ là “xã hội” chung chung; trong bài đọc thường gắn với vấn đề, hiện tượng hoặc phát triển."
+    ],
+    "app_note_vi": "Từ nền rất hay gặp trong đọc hiểu HSK5.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "社会 nghĩa là gì?", "answer": "xã hội" },
+      { "type": "cloze", "prompt": "现代____对沟通能力的要求越来越高。", "answer": "社会" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_004",
+    "level": "HSK5",
+    "hanzi": "文化",
+    "traditional": "文化",
+    "pinyin": "wénhuà",
+    "meaning_vi": "văn hóa",
+    "meaning_en": "culture",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["culture", "society"],
+    "exam_tags": ["reading", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "文化 + 差异 / 背景 / 传统",
+    "collocations": ["文化差异", "文化背景", "传统文化"],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "了解一个国家的文化有助于更好地学习它的语言。",
+        "pinyin": "Liǎojiě yí gè guójiā de wénhuà yǒuzhù yú gèng hǎo de xuéxí tā de yǔyán.",
+        "vi": "Hiểu văn hóa của một quốc gia giúp học ngôn ngữ của nước đó tốt hơn.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "文化 thường đi với 差异, 背景, 传统; nên học theo collocation để dùng tự nhiên hơn."
+    ],
+    "app_note_vi": "Nên nhớ cùng các cụm như 文化差异 và 文化背景.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "文化 nghĩa là gì?", "answer": "văn hóa" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 文化 là gì?", "answer": "文化差异" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_005",
+    "level": "HSK5",
+    "hanzi": "现象",
+    "traditional": "現象",
+    "pinyin": "xiànxiàng",
+    "meaning_vi": "hiện tượng",
+    "meaning_en": "phenomenon",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "analysis"],
+    "exam_tags": ["reading", "formal"],
+    "register": "formal",
+    "grammar_pattern": "一种现象 / 社会现象 / 这种现象说明…",
+    "collocations": ["社会现象", "普遍现象", "这种现象"],
+    "near_synonyms": [
+      {
+        "word": "情况",
+        "difference_vi": "情况 thiên về tình hình/trường hợp; 现象 thiên về hiện tượng có thể quan sát và phân tích."
+      }
+    ],
+    "app_synonym_note_vi": "现象 = hiện tượng; 情况 = tình hình/trường hợp.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种现象在大城市里很常见。",
+        "pinyin": "Zhè zhǒng xiànxiàng zài dà chéngshì lǐ hěn chángjiàn.",
+        "vi": "Hiện tượng này rất phổ biến ở các thành phố lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ hiểu 现象 là “tình huống”; ở HSK5 nó thường dùng trong ngữ cảnh phân tích hoặc mô tả xã hội."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc phân tích xã hội.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "现象 nghĩa là gì?", "answer": "hiện tượng" },
+      { "type": "cloze", "prompt": "这种____在大城市里很常见。", "answer": "现象" },
+      { "type": "synonym", "prompt": "现象 khác 情况 như thế nào?", "answer": "现象 là hiện tượng để quan sát/phân tích; 情况 là tình hình/trường hợp." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_006",
+    "level": "HSK5",
+    "hanzi": "影响",
+    "traditional": "影響",
+    "pinyin": "yǐngxiǎng",
+    "meaning_vi": "ảnh hưởng; tác động",
+    "meaning_en": "influence; impact; to affect",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": ["society", "argument", "effect"],
+    "exam_tags": ["reading", "cloze", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "对……有影响 / 受到影响 / 产生影响",
+    "collocations": ["产生影响", "受到影响", "对健康有影响"],
+    "near_synonyms": [
+      {
+        "word": "作用",
+        "difference_vi": "作用 thiên về tác dụng/chức năng; 影响 nhấn mạnh ảnh hưởng, tác động lên kết quả hoặc người khác."
+      }
+    ],
+    "app_synonym_note_vi": "影响 = ảnh hưởng; 作用 = tác dụng/chức năng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "环境的变化对孩子的成长有很大影响。",
+        "pinyin": "Huánjìng de biànhuà duì háizi de chéngzhǎng yǒu hěn dà yǐngxiǎng.",
+        "vi": "Sự thay đổi của môi trường có ảnh hưởng rất lớn đến sự trưởng thành của trẻ em.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khi dùng như động từ, nên chú ý cấu trúc 对……有影响 / 影响…… để tránh dịch máy móc."
+    ],
+    "app_note_vi": "Thường đi trong cấu trúc 对……有影响.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "影响 nghĩa là gì?", "answer": "ảnh hưởng; tác động" },
+      { "type": "cloze", "prompt": "环境的变化对孩子的成长有很大____。", "answer": "影响" },
+      { "type": "collocation", "prompt": "Chọn collocation đúng với 影响", "answer": "产生影响" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_007",
+    "level": "HSK5",
+    "hanzi": "环境",
+    "traditional": "環境",
+    "pinyin": "huánjìng",
+    "meaning_vi": "môi trường; hoàn cảnh",
+    "meaning_en": "environment; surroundings; circumstances",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "daily life"],
+    "exam_tags": ["reading", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "生活环境 / 工作环境 / 改善环境",
+    "collocations": ["生活环境", "工作环境", "保护环境"],
+    "near_synonyms": [
+      {
+        "word": "条件",
+        "difference_vi": "条件 thiên về điều kiện; 环境 thiên về môi trường, bối cảnh, surroundings."
+      }
+    ],
+    "app_synonym_note_vi": "环境 = môi trường/bối cảnh; 条件 = điều kiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一个安静的环境更适合学习。",
+        "pinyin": "Yí gè ānjìng de huánjìng gèng shìhé xuéxí.",
+        "vi": "Một môi trường yên tĩnh phù hợp cho việc học hơn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "环境 không chỉ là môi trường thiên nhiên; còn có thể là bối cảnh sống, làm việc hoặc học tập."
+    ],
+    "app_note_vi": "Không chỉ là môi trường tự nhiên; còn là hoàn cảnh sống và học tập.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "环境 nghĩa là gì?", "answer": "môi trường; hoàn cảnh" },
+      { "type": "cloze", "prompt": "一个安静的____更适合学习。", "answer": "环境" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_008",
+    "level": "HSK5",
+    "hanzi": "责任",
+    "traditional": "責任",
+    "pinyin": "zérèn",
+    "meaning_vi": "trách nhiệm",
+    "meaning_en": "responsibility",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "work", "values"],
+    "exam_tags": ["reading", "meaning", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "承担责任 / 责任感 / 对……负责",
+    "collocations": ["承担责任", "责任感", "社会责任"],
+    "near_synonyms": [
+      {
+        "word": "义务",
+        "difference_vi": "义务 thiên về nghĩa vụ, bổn phận; 责任 thiên về trách nhiệm phải gánh vác hoặc chịu trách nhiệm."
+      }
+    ],
+    "app_synonym_note_vi": "责任 = trách nhiệm; 义务 = nghĩa vụ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "成年人应该对自己的决定负责。",
+        "pinyin": "Chéngniánrén yīnggāi duì zìjǐ de juédìng fùzé.",
+        "vi": "Người trưởng thành nên chịu trách nhiệm về quyết định của mình.",
+        "context": "values"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên nhầm 责任 với 义务 trong mọi ngữ cảnh; hai từ này gần nhau nhưng không thay thế hoàn toàn."
+    ],
+    "app_note_vi": "Hay gặp trong các chủ đề giá trị, công việc và xã hội.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "责任 nghĩa là gì?", "answer": "trách nhiệm" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 责任 là gì?", "answer": "承担责任" },
+      { "type": "synonym", "prompt": "责任 khác 义务 như thế nào?", "answer": "责任 là trách nhiệm phải chịu/gánh; 义务 là nghĩa vụ, bổn phận." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_009",
+    "level": "HSK5",
+    "hanzi": "趋势",
+    "traditional": "趨勢",
+    "pinyin": "qūshì",
+    "meaning_vi": "xu hướng",
+    "meaning_en": "trend; tendency",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "analysis", "media"],
+    "exam_tags": ["reading", "headline", "meaning"],
+    "register": "formal",
+    "grammar_pattern": "发展趋势 / 总体趋势 / 呈现趋势",
+    "collocations": ["发展趋势", "总体趋势", "下降趋势"],
+    "near_synonyms": [
+      {
+        "word": "倾向",
+        "difference_vi": "倾向 thiên về khuynh hướng/ngả về một phía; 趋势 thường là xu thế chung có thể quan sát rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "趋势 = xu thế chung; 倾向 = khuynh hướng/ngả về một phía.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "从数据来看，这种趋势还会继续。",
+        "pinyin": "Cóng shùjù láikàn, zhè zhǒng qūshì hái huì jìxù.",
+        "vi": "Nhìn từ dữ liệu, xu hướng này còn sẽ tiếp tục.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "趋势 thường xuất hiện trong phân tích, báo chí, dữ liệu; không nên thay bằng 习惯 hay 方向 một cách tùy tiện."
+    ],
+    "app_note_vi": "Rất hay gặp trong phân tích, báo chí và bài đọc dữ liệu.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "趋势 nghĩa là gì?", "answer": "xu hướng" },
+      { "type": "cloze", "prompt": "从数据来看，这种____还会继续。", "answer": "趋势" },
+      { "type": "synonym", "prompt": "趋势 khác 倾向 như thế nào?", "answer": "趋势 là xu thế chung; 倾向 là khuynh hướng/ngả về một phía." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_010",
+    "level": "HSK5",
+    "hanzi": "现状",
+    "traditional": "現狀",
+    "pinyin": "xiànzhuàng",
+    "meaning_vi": "hiện trạng",
+    "meaning_en": "current situation; status quo",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "analysis"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "formal",
+    "grammar_pattern": "改变现状 / 了解现状 / 面对现状",
+    "collocations": ["改变现状", "了解现状", "社会现状"],
+    "near_synonyms": [
+      {
+        "word": "情况",
+        "difference_vi": "情况 rộng và linh hoạt hơn; 现状 thiên về tình trạng hiện tại như một đối tượng phân tích hoặc đánh giá."
+      }
+    ],
+    "app_synonym_note_vi": "现状 = hiện trạng; 情况 = tình hình/trường hợp rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "如果不了解现状，就很难提出有效的建议。",
+        "pinyin": "Rúguǒ bù liǎojiě xiànzhuàng, jiù hěn nán tíchū yǒuxiào de jiànyì.",
+        "vi": "Nếu không hiểu hiện trạng thì rất khó đưa ra đề xuất hiệu quả.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "现状 thường dùng khi phân tích tình trạng hiện tại; đừng thay bằng 情况 nếu muốn nhấn mạnh khía cạnh đánh giá hiện trạng."
+    ],
+    "app_note_vi": "Thường gặp trong câu phân tích tình hình hiện tại.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "现状 nghĩa là gì?", "answer": "hiện trạng" },
+      { "type": "cloze", "prompt": "如果不了解____，就很难提出有效的建议。", "answer": "现状" },
+      { "type": "collocation", "prompt": "Một collocation phù hợp với 现状 là gì?", "answer": "改变现状" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]

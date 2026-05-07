@@ -1,0 +1,422 @@
+[
+  {
+    "id": "hsk5_batch1_011",
+    "level": "HSK5",
+    "hanzi": "安排",
+    "traditional": "安排",
+    "pinyin": "ānpái",
+    "meaning_vi": "sắp xếp; bố trí",
+    "meaning_en": "to arrange; to schedule",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["work", "schedule", "daily life"],
+    "exam_tags": ["meaning", "cloze", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "安排 + 时间 / 工作 / 会议",
+    "collocations": ["安排时间", "安排工作", "安排会议"],
+    "near_synonyms": [
+      {
+        "word": "计划",
+        "difference_vi": "计划 nhấn mạnh kế hoạch; 安排 nhấn mạnh việc bố trí, sắp xếp cụ thể để thực hiện."
+      }
+    ],
+    "app_synonym_note_vi": "安排 = sắp xếp cụ thể; 计划 = kế hoạch.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我已经安排好了明天的会议。",
+        "pinyin": "Wǒ yǐjīng ānpái hǎo le míngtiān de huìyì.",
+        "vi": "Tôi đã sắp xếp xong cuộc họp ngày mai.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dùng lẫn với 计划; 安排 thường cụ thể hơn và gần với hành động triển khai."
+    ],
+    "app_note_vi": "Hay dùng cho lịch, công việc và cuộc họp.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "安排 nghĩa là gì?", "answer": "sắp xếp; bố trí" },
+      { "type": "cloze", "prompt": "我已经____好了明天的会议。", "answer": "安排" },
+      { "type": "synonym", "prompt": "安排 khác 计划 ở điểm nào?", "answer": "安排 là sắp xếp cụ thể; 计划 là kế hoạch." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_012",
+    "level": "HSK5",
+    "hanzi": "负责",
+    "traditional": "負責",
+    "pinyin": "fùzé",
+    "meaning_vi": "phụ trách; chịu trách nhiệm",
+    "meaning_en": "to be responsible for",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["work", "responsibility"],
+    "exam_tags": ["meaning", "collocation", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "负责 + 项目 / 工作 / 部门",
+    "collocations": ["负责项目", "负责工作", "对结果负责"],
+    "near_synonyms": [
+      {
+        "word": "管理",
+        "difference_vi": "负责 nhấn mạnh trách nhiệm đối với một việc; 管理 nhấn mạnh quản lý, điều hành người hoặc hệ thống."
+      }
+    ],
+    "app_synonym_note_vi": "负责 = chịu trách nhiệm; 管理 = quản lý, điều hành.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她负责这个项目的日常沟通。",
+        "pinyin": "Tā fùzé zhège xiàngmù de rìcháng gōutōng.",
+        "vi": "Cô ấy phụ trách phần giao tiếp hằng ngày của dự án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không phải lúc nào 负责 cũng dịch là “quản lý”; nhiều khi chỉ là “chịu trách nhiệm”."
+    ],
+    "app_note_vi": "Thường đi với 项目, 工作 và 结果.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "负责 nghĩa là gì?", "answer": "phụ trách; chịu trách nhiệm" },
+      { "type": "cloze", "prompt": "她____这个项目的日常沟通。", "answer": "负责" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 负责 là gì?", "answer": "负责项目" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_013",
+    "level": "HSK5",
+    "hanzi": "管理",
+    "traditional": "管理",
+    "pinyin": "guǎnlǐ",
+    "meaning_vi": "quản lý; quản trị",
+    "meaning_en": "to manage; management",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["work", "organization"],
+    "exam_tags": ["meaning", "reading", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "管理 + 公司 / 团队 / 时间",
+    "collocations": ["管理公司", "团队管理", "时间管理"],
+    "near_synonyms": [
+      {
+        "word": "控制",
+        "difference_vi": "管理 thiên về tổ chức, điều hành; 控制 thiên về kiểm soát hoặc khống chế."
+      }
+    ],
+    "app_synonym_note_vi": "管理 = điều hành, quản lý; 控制 = kiểm soát.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "时间管理对工作效率有很大影响。",
+        "pinyin": "Shíjiān guǎnlǐ duì gōngzuò xiàolǜ yǒu hěn dà yǐngxiǎng.",
+        "vi": "Quản lý thời gian có ảnh hưởng lớn đến hiệu quả công việc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên nhầm 管理 với 控制; 管理 có sắc thái điều hành hợp lý hơn."
+    ],
+    "app_note_vi": "Rất hữu ích trong ngữ cảnh công việc và tổ chức.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "管理 nghĩa là gì?", "answer": "quản lý; quản trị" },
+      { "type": "cloze", "prompt": "时间____对工作效率有很大影响。", "answer": "管理" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 管理 là gì?", "answer": "时间管理" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_014",
+    "level": "HSK5",
+    "hanzi": "效率",
+    "traditional": "效率",
+    "pinyin": "xiàolǜ",
+    "meaning_vi": "hiệu suất; hiệu quả",
+    "meaning_en": "efficiency",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["work", "study", "productivity"],
+    "exam_tags": ["meaning", "reading", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "提高效率 / 工作效率 / 学习效率",
+    "collocations": ["提高效率", "工作效率", "学习效率"],
+    "near_synonyms": [
+      {
+        "word": "效果",
+        "difference_vi": "效率 nói về mức độ nhanh gọn hoặc hiệu suất của quá trình; 效果 nói về kết quả hoặc tác dụng cuối cùng."
+      }
+    ],
+    "app_synonym_note_vi": "效率 = hiệu suất; 效果 = kết quả/tác dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "合理安排时间可以提高学习效率。",
+        "pinyin": "Hélǐ ānpái shíjiān kěyǐ tígāo xuéxí xiàolǜ.",
+        "vi": "Sắp xếp thời gian hợp lý có thể nâng cao hiệu suất học tập.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng nhầm 效率 với 效果; một từ nói về quá trình, một từ nói về kết quả."
+    ],
+    "app_note_vi": "Hay đi với 提高, 工作, 学习.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "效率 nghĩa là gì?", "answer": "hiệu suất; hiệu quả" },
+      { "type": "cloze", "prompt": "合理安排时间可以提高学习____。", "answer": "效率" },
+      { "type": "synonym", "prompt": "效率 khác 效果 ở điểm nào?", "answer": "效率 là hiệu suất của quá trình; 效果 là tác dụng/kết quả cuối cùng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_015",
+    "level": "HSK5",
+    "hanzi": "沟通",
+    "traditional": "溝通",
+    "pinyin": "gōutōng",
+    "meaning_vi": "giao tiếp; trao đổi",
+    "meaning_en": "communication; to communicate",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": ["work", "relationship"],
+    "exam_tags": ["meaning", "usage", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "沟通 + 问题 / 能力 / 方式",
+    "collocations": ["沟通能力", "沟通方式", "缺乏沟通"],
+    "near_synonyms": [
+      {
+        "word": "交流",
+        "difference_vi": "交流 thiên về trao đổi qua lại rộng hơn; 沟通 nhấn mạnh quá trình làm cho đôi bên hiểu nhau."
+      }
+    ],
+    "app_synonym_note_vi": "沟通 = làm cho hiểu nhau; 交流 = trao đổi rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "良好的沟通能够减少误会。",
+        "pinyin": "Liánghǎo de gōutōng nénggòu jiǎnshǎo wùhuì.",
+        "vi": "Giao tiếp tốt có thể giảm hiểu lầm.",
+        "context": "relationship"
+      }
+    ],
+    "common_mistakes_vi": [
+      "沟通 không chỉ là “nói chuyện”; nó nhấn mạnh việc hiểu nhau qua trao đổi."
+    ],
+    "app_note_vi": "Rất hay dùng trong công việc và các mối quan hệ.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "沟通 nghĩa là gì?", "answer": "giao tiếp; trao đổi" },
+      { "type": "cloze", "prompt": "良好的____能够减少误会。", "answer": "沟通" },
+      { "type": "synonym", "prompt": "沟通 khác 交流 như thế nào?", "answer": "沟通 nhấn mạnh làm cho đôi bên hiểu nhau; 交流 rộng hơn về trao đổi." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_016",
+    "level": "HSK5",
+    "hanzi": "竞争",
+    "traditional": "競爭",
+    "pinyin": "jìngzhēng",
+    "meaning_vi": "cạnh tranh",
+    "meaning_en": "competition; to compete",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": ["work", "society", "economy"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "neutral",
+    "grammar_pattern": "竞争 + 激烈 / 优势 / 压力",
+    "collocations": ["激烈竞争", "竞争优势", "市场竞争"],
+    "near_synonyms": [
+      {
+        "word": "比赛",
+        "difference_vi": "比赛 thường là cuộc thi/thi đấu cụ thể; 竞争 rộng hơn, dùng cho môi trường học tập, công việc, thị trường."
+      }
+    ],
+    "app_synonym_note_vi": "竞争 = cạnh tranh rộng; 比赛 = cuộc thi/thi đấu cụ thể.",
+    "antonyms": ["合作"],
+    "example_sentences": [
+      {
+        "zh": "在激烈的市场竞争中，创新非常重要。",
+        "pinyin": "Zài jīliè de shìchǎng jìngzhēng zhōng, chuàngxīn fēicháng zhòngyào.",
+        "vi": "Trong cạnh tranh thị trường khốc liệt, đổi mới là vô cùng quan trọng.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng giới hạn 竞争 trong nghĩa “thi đấu”; ở HSK5 nó thường mang sắc thái xã hội, học tập, kinh tế."
+    ],
+    "app_note_vi": "Thường gặp trong chủ đề thị trường, xã hội và công việc.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "竞争 nghĩa là gì?", "answer": "cạnh tranh" },
+      { "type": "cloze", "prompt": "在激烈的市场____中，创新非常重要。", "answer": "竞争" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 竞争 là gì?", "answer": "竞争优势" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_017",
+    "level": "HSK5",
+    "hanzi": "判断",
+    "traditional": "判斷",
+    "pinyin": "pànduàn",
+    "meaning_vi": "phán đoán; đánh giá",
+    "meaning_en": "judgment; to judge",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": ["reasoning", "decision"],
+    "exam_tags": ["meaning", "reading", "logic"],
+    "register": "neutral",
+    "grammar_pattern": "判断 + 标准 / 能力 / 是否",
+    "collocations": ["做出判断", "判断标准", "判断是否正确"],
+    "near_synonyms": [
+      {
+        "word": "决定",
+        "difference_vi": "判断 là quá trình đánh giá/phán đoán; 决定 là bước chốt lựa chọn sau khi đã cân nhắc."
+      }
+    ],
+    "app_synonym_note_vi": "判断 = phán đoán; 决定 = quyết định cuối cùng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "在不了解情况的时候，不要急着做出判断。",
+        "pinyin": "Zài bù liǎojiě qíngkuàng de shíhou, búyào jí zhe zuòchū pànduàn.",
+        "vi": "Khi chưa hiểu rõ tình hình, đừng vội đưa ra phán đoán.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "判断 thường là đánh giá/phán đoán, chưa hẳn là quyết định cuối cùng."
+    ],
+    "app_note_vi": "Dùng khi đánh giá trước khi quyết định.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "判断 nghĩa là gì?", "answer": "phán đoán; đánh giá" },
+      { "type": "cloze", "prompt": "在不了解情况的时候，不要急着做出____。", "answer": "判断" },
+      { "type": "synonym", "prompt": "判断 khác 决定 như thế nào?", "answer": "判断 là đánh giá/phán đoán; 决定 là quyết định cuối cùng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_018",
+    "level": "HSK5",
+    "hanzi": "选择",
+    "traditional": "選擇",
+    "pinyin": "xuǎnzé",
+    "meaning_vi": "lựa chọn; chọn",
+    "meaning_en": "choice; to choose",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": ["decision", "daily life"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "选择 + 方法 / 方向 / 机会",
+    "collocations": ["做出选择", "选择方向", "选择机会"],
+    "near_synonyms": [
+      {
+        "word": "挑选",
+        "difference_vi": "挑选 thiên về chọn lựa từ nhiều thứ cụ thể; 选择 rộng hơn, có thể dùng cho quyết định, định hướng, cơ hội."
+      }
+    ],
+    "app_synonym_note_vi": "选择 = chọn theo quyết định; 挑选 = chọn vật/cái cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "面对机会的时候，我们需要认真选择。",
+        "pinyin": "Miànduì jīhuì de shíhou, wǒmen xūyào rènzhēn xuǎnzé.",
+        "vi": "Khi đối diện với cơ hội, chúng ta cần lựa chọn một cách nghiêm túc.",
+        "context": "decision"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên thu hẹp 选择 chỉ vào nghĩa chọn đồ vật; ở HSK5 nó thường dùng cho quyết định, cơ hội, định hướng."
+    ],
+    "app_note_vi": "Rộng hơn “chọn đồ”; thường dùng cho cơ hội và quyết định.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "选择 nghĩa là gì?", "answer": "lựa chọn; chọn" },
+      { "type": "cloze", "prompt": "面对机会的时候，我们需要认真____。", "answer": "选择" },
+      { "type": "synonym", "prompt": "选择 khác 挑选 như thế nào?", "answer": "选择 rộng hơn, dùng cho quyết định và định hướng; 挑选 thiên về chọn cụ thể." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_019",
+    "level": "HSK5",
+    "hanzi": "目标",
+    "traditional": "目標",
+    "pinyin": "mùbiāo",
+    "meaning_vi": "mục tiêu",
+    "meaning_en": "goal; target",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["planning", "growth", "work"],
+    "exam_tags": ["meaning", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "目标 + 明确 / 实现 / 设定",
+    "collocations": ["明确目标", "实现目标", "设定目标"],
+    "near_synonyms": [
+      {
+        "word": "目的",
+        "difference_vi": "目的 thiên về mục đích/lý do của hành động; 目标 thiên về mục tiêu cụ thể muốn đạt tới."
+      }
+    ],
+    "app_synonym_note_vi": "目标 = đích đến; 目的 = mục đích/lý do.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "只有目标明确，努力才更有方向。",
+        "pinyin": "Zhǐyǒu mùbiāo míngquè, nǔlì cái gèng yǒu fāngxiàng.",
+        "vi": "Chỉ khi mục tiêu rõ ràng, nỗ lực mới có phương hướng hơn.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mục tiêu (目标) khác với mục đích (目的); một bên là đích đến, một bên là lý do."
+    ],
+    "app_note_vi": "Rất hay gặp trong học tập, công việc và phát triển bản thân.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "目标 nghĩa là gì?", "answer": "mục tiêu" },
+      { "type": "cloze", "prompt": "只有____明确，努力才更有方向。", "answer": "目标" },
+      { "type": "synonym", "prompt": "目标 khác 目的 như thế nào?", "answer": "目标 là đích đến; 目的 là mục đích/lý do." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_020",
+    "level": "HSK5",
+    "hanzi": "结果",
+    "traditional": "結果",
+    "pinyin": "jiéguǒ",
+    "meaning_vi": "kết quả",
+    "meaning_en": "result; outcome",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["cause-effect", "reasoning"],
+    "exam_tags": ["meaning", "reading", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "结果 + 表明 / 说明 / 不同",
+    "collocations": ["研究结果", "最后结果", "结果表明"],
+    "near_synonyms": [
+      {
+        "word": "后果",
+        "difference_vi": "结果 là kết quả trung tính; 后果 thường mang sắc thái hậu quả, hay nghiêng tiêu cực hơn."
+      }
+    ],
+    "app_synonym_note_vi": "结果 = kết quả trung tính; 后果 = hậu quả, thường tiêu cực hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "结果表明，这种方法比以前有效得多。",
+        "pinyin": "Jiéguǒ biǎomíng, zhè zhǒng fāngfǎ bǐ yǐqián yǒuxiào de duō.",
+        "vi": "Kết quả cho thấy phương pháp này hiệu quả hơn nhiều so với trước đây.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên nhầm 结果 với 后果; một từ trung tính, một từ dễ thiên về hậu quả tiêu cực."
+    ],
+    "app_note_vi": "Hay gặp trong câu kết luận, báo cáo và phân tích.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "结果 nghĩa là gì?", "answer": "kết quả" },
+      { "type": "cloze", "prompt": "____表明，这种方法比以前有效得多。", "answer": "结果" },
+      { "type": "synonym", "prompt": "结果 khác 后果 như thế nào?", "answer": "结果 trung tính; 后果 thường thiên về hậu quả tiêu cực." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
