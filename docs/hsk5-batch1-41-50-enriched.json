@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch1_041",
+    "level": "HSK5",
+    "hanzi": "报道",
+    "pinyin": "bàodào",
+    "display_meaning_vi": "đưa tin; bài đưa tin",
+    "meaning_en": "to report; report coverage",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["media", "news"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "neutral",
+    "grammar_pattern": "报道 + 新闻 / 事件 / 情况",
+    "collocations": ["新闻报道", "媒体报道", "相关报道"],
+    "near_synonyms": [
+      {
+        "word": "报告",
+        "difference_vi": "报道 thiên về đưa tin cho công chúng; 报告 thiên về báo cáo hoặc trình bày cho một đối tượng cụ thể hơn."
+      }
+    ],
+    "app_synonym_note_vi": "报道 = đưa tin; 报告 = báo cáo / trình bày.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件事已经被多家媒体报道了。",
+        "pinyin": "Zhè jiàn shì yǐjīng bèi duō jiā méitǐ bàodào le.",
+        "vi": "Sự việc này đã được nhiều cơ quan truyền thông đưa tin.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng nhầm 报道 với 报告; một từ nghiêng về đưa tin, một từ nghiêng về báo cáo/trình bày."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc báo chí và truyền thông.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "报道 nghĩa là gì?", "answer": "đưa tin; bài đưa tin" },
+      { "type": "cloze", "prompt": "这件事已经被多家媒体____了。", "answer": "报道" },
+      { "type": "synonym", "prompt": "报道 khác 报告 như thế nào?", "answer": "报道 là đưa tin; 报告 là báo cáo/trình bày." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_042",
+    "level": "HSK5",
+    "hanzi": "采访",
+    "pinyin": "cǎifǎng",
+    "display_meaning_vi": "phỏng vấn",
+    "meaning_en": "to interview; interview",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["media", "communication"],
+    "exam_tags": ["reading", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "采访 + 对象 / 记者 / 过程",
+    "collocations": ["接受采访", "独家采访", "记者采访"],
+    "near_synonyms": [
+      {
+        "word": "访问",
+        "difference_vi": "采访 thiên về phỏng vấn để lấy thông tin; 访问 thiên về thăm viếng, tiếp xúc hoặc visit chính thức hơn."
+      }
+    ],
+    "app_synonym_note_vi": "采访 = phỏng vấn; 访问 = thăm/tiếp xúc chính thức hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这位作家最近接受了一次电视采访。",
+        "pinyin": "Zhè wèi zuòjiā zuìjìn jiēshòu le yí cì diànshì cǎifǎng.",
+        "vi": "Nhà văn này gần đây đã nhận một cuộc phỏng vấn truyền hình.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "采访 thường gắn với nhà báo/truyền thông; không nên thay bằng 访问 trong mọi ngữ cảnh."
+    ],
+    "app_note_vi": "Hay đi với 接受采访 và 记者采访.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "采访 nghĩa là gì?", "answer": "phỏng vấn" },
+      { "type": "cloze", "prompt": "这位作家最近接受了一次电视____。", "answer": "采访" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 采访 là gì?", "answer": "接受采访" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_043",
+    "level": "HSK5",
+    "hanzi": "资料",
+    "pinyin": "zīliào",
+    "display_meaning_vi": "tư liệu; tài liệu",
+    "meaning_en": "materials; data; reference materials",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["study", "reading", "academic"],
+    "exam_tags": ["reading", "meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "资料 + 收集 / 整理 / 查阅",
+    "collocations": ["收集资料", "参考资料", "查找资料"],
+    "near_synonyms": [
+      {
+        "word": "材料",
+        "difference_vi": "资料 thiên về tư liệu, thông tin để tra cứu; 材料 rộng hơn, có thể là tài liệu hoặc vật liệu/nguyên liệu."
+      }
+    ],
+    "app_synonym_note_vi": "资料 = tư liệu/thông tin tra cứu; 材料 = tài liệu hoặc vật liệu rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "写报告之前，需要先收集相关资料。",
+        "pinyin": "Xiě bàogào zhīqián, xūyào xiān shōují xiāngguān zīliào.",
+        "vi": "Trước khi viết báo cáo, cần thu thập tư liệu liên quan trước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "资料 không phải lúc nào cũng là “tài liệu giấy”; nó có thể là thông tin, dữ liệu để tra cứu."
+    ],
+    "app_note_vi": "Rất hữu ích trong học tập, đọc hiểu và viết báo cáo.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "资料 nghĩa là gì?", "answer": "tư liệu; tài liệu" },
+      { "type": "cloze", "prompt": "写报告之前，需要先收集相关____。", "answer": "资料" },
+      { "type": "synonym", "prompt": "资料 khác 材料 như thế nào?", "answer": "资料 là tư liệu/thông tin; 材料 rộng hơn và có thể là vật liệu." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_044",
+    "level": "HSK5",
+    "hanzi": "内容",
+    "pinyin": "nèiróng",
+    "display_meaning_vi": "nội dung",
+    "meaning_en": "content",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["media", "reading", "academic"],
+    "exam_tags": ["reading", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "内容 + 丰富 / 详细 / 主要",
+    "collocations": ["主要内容", "内容丰富", "详细内容"],
+    "near_synonyms": [
+      {
+        "word": "信息",
+        "difference_vi": "内容 là nội dung toàn thể; 信息 thường là thông tin cụ thể, từng mẩu dữ liệu."
+      }
+    ],
+    "app_synonym_note_vi": "内容 = nội dung tổng thể; 信息 = thông tin cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本书的内容很丰富，值得一读。",
+        "pinyin": "Zhè běn shū de nèiróng hěn fēngfù, zhídé yì dú.",
+        "vi": "Nội dung của cuốn sách này rất phong phú, đáng để đọc.",
+        "context": "reading"
+      }
+    ],
+    "common_mistakes_vi": [
+      "内容 là nội dung nói chung; đừng luôn thay bằng 信息 nếu đang nói về tổng thể bài viết, sách hay chương trình."
+    ],
+    "app_note_vi": "Là từ nền rất hay gặp trong bài viết, sách và truyền thông.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "内容 nghĩa là gì?", "answer": "nội dung" },
+      { "type": "cloze", "prompt": "这本书的____很丰富，值得一读。", "answer": "内容" },
+      { "type": "synonym", "prompt": "内容 khác 信息 như thế nào?", "answer": "内容 là nội dung tổng thể; 信息 là thông tin cụ thể." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_045",
+    "level": "HSK5",
+    "hanzi": "结构",
+    "pinyin": "jiégòu",
+    "display_meaning_vi": "cấu trúc",
+    "meaning_en": "structure",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["reading", "writing", "analysis"],
+    "exam_tags": ["reading", "meaning", "formal"],
+    "register": "formal",
+    "grammar_pattern": "结构 + 清楚 / 合理 / 复杂",
+    "collocations": ["文章结构", "结构清楚", "句子结构"],
+    "near_synonyms": [
+      {
+        "word": "形式",
+        "difference_vi": "结构 nhấn mạnh cách các phần được tổ chức bên trong; 形式 thiên về hình thức hoặc cách biểu hiện bề ngoài."
+      }
+    ],
+    "app_synonym_note_vi": "结构 = cấu trúc bên trong; 形式 = hình thức thể hiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这篇文章的结构很清楚，读起来很容易。",
+        "pinyin": "Zhè piān wénzhāng de jiégòu hěn qīngchu, dú qǐlái hěn róngyì.",
+        "vi": "Cấu trúc của bài viết này rất rõ ràng, đọc lên rất dễ hiểu.",
+        "context": "writing"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结构 không chỉ dùng trong kỹ thuật; còn rất hay dùng trong bài viết, câu văn và logic trình bày."
+    ],
+    "app_note_vi": "Rất quan trọng khi đọc viết và phân tích văn bản.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "结构 nghĩa là gì?", "answer": "cấu trúc" },
+      { "type": "cloze", "prompt": "这篇文章的____很清楚。", "answer": "结构" },
+      { "type": "synonym", "prompt": "结构 khác 形式 như thế nào?", "answer": "结构 là cấu trúc bên trong; 形式 là hình thức thể hiện." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_046",
+    "level": "HSK5",
+    "hanzi": "正式",
+    "pinyin": "zhèngshì",
+    "display_meaning_vi": "trang trọng; chính thức",
+    "meaning_en": "formal; official",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": ["register", "formal"],
+    "exam_tags": ["meaning", "register", "usage"],
+    "register": "formal",
+    "grammar_pattern": "正式 + 场合 / 文件 / 开始",
+    "collocations": ["正式场合", "正式文件", "正式开始"],
+    "near_synonyms": [
+      {
+        "word": "正式的",
+        "difference_vi": "正式 tự bản thân đã là tính từ; 正式的 chỉ là hình thức đầy đủ khi bổ nghĩa trực tiếp, không khác nghĩa cốt lõi."
+      }
+    ],
+    "app_synonym_note_vi": "正式 = trang trọng/chính thức; thường dùng trong ngữ cảnh formal.",
+    "antonyms": ["随便"],
+    "example_sentences": [
+      {
+        "zh": "在正式场合，说话要注意语气。",
+        "pinyin": "Zài zhèngshì chǎnghé, shuōhuà yào zhùyì yǔqì.",
+        "vi": "Trong những dịp trang trọng, cần chú ý đến cách nói chuyện.",
+        "context": "register"
+      }
+    ],
+    "common_mistakes_vi": [
+      "正式 thường nói về mức độ trang trọng/chính thức của ngữ cảnh, tài liệu hoặc cách biểu đạt."
+    ],
+    "app_note_vi": "Từ nền quan trọng để phân biệt register ở HSK5.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "正式 nghĩa là gì?", "answer": "trang trọng; chính thức" },
+      { "type": "cloze", "prompt": "在____场合，说话要注意语气。", "answer": "正式" },
+      { "type": "register", "prompt": "正式 thường dùng trong kiểu ngữ cảnh nào?", "answer": "formal / official context" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_047",
+    "level": "HSK5",
+    "hanzi": "甚至",
+    "pinyin": "shènzhì",
+    "display_meaning_vi": "thậm chí",
+    "meaning_en": "even; to the extent that",
+    "part_of_speech": "adverb/conjunction",
+    "difficulty": 3,
+    "topic_tags": ["connector", "reading"],
+    "exam_tags": ["reading", "cloze", "logic"],
+    "register": "neutral",
+    "grammar_pattern": "甚至 + 还 / 都 / 连",
+    "collocations": ["甚至还", "甚至都", "甚至连"],
+    "near_synonyms": [
+      {
+        "word": "连",
+        "difference_vi": "甚至 nhấn mạnh mức độ vượt hơn mong đợi; 连 thường đi trong cấu trúc nhấn mạnh “ngay cả… cũng…”."
+      }
+    ],
+    "app_synonym_note_vi": "甚至 = thậm chí; 连 = ngay cả… cũng…",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他太忙了，甚至连饭都没时间吃。",
+        "pinyin": "Tā tài máng le, shènzhì lián fàn dōu méi shíjiān chī.",
+        "vi": "Anh ấy bận đến mức thậm chí cả ăn cơm cũng không có thời gian.",
+        "context": "connector"
+      }
+    ],
+    "common_mistakes_vi": [
+      "甚至 thường nhấn mạnh mức độ bất ngờ hoặc vượt mong đợi; đừng dùng như một từ nối chung chung."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc và câu nhấn mạnh mức độ.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "甚至 nghĩa là gì?", "answer": "thậm chí" },
+      { "type": "cloze", "prompt": "他太忙了，____连饭都没时间吃。", "answer": "甚至" },
+      { "type": "usage", "prompt": "甚至 thường nhấn mạnh điều gì?", "answer": "mức độ vượt mong đợi / gây bất ngờ" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_048",
+    "level": "HSK5",
+    "hanzi": "此外",
+    "pinyin": "cǐwài",
+    "display_meaning_vi": "ngoài ra; hơn nữa",
+    "meaning_en": "besides; in addition",
+    "part_of_speech": "connector",
+    "difficulty": 3,
+    "topic_tags": ["connector", "formal"],
+    "exam_tags": ["reading", "cloze", "writing"],
+    "register": "formal",
+    "grammar_pattern": "此外，…… / 除此之外",
+    "collocations": ["此外", "除此之外", "此外还"],
+    "near_synonyms": [
+      {
+        "word": "另外",
+        "difference_vi": "此外 formal hơn, hay gặp trong viết và đọc; 另外 dùng rộng hơn trong văn nói lẫn văn viết."
+      }
+    ],
+    "app_synonym_note_vi": "此外 = ngoài ra (formal hơn); 另外 = ngoài ra, dùng rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家餐厅环境不错，此外，服务也很好。",
+        "pinyin": "Zhè jiā cāntīng huánjìng búcuò, cǐwài, fúwù yě hěn hǎo.",
+        "vi": "Nhà hàng này có môi trường khá tốt, ngoài ra dịch vụ cũng rất tốt.",
+        "context": "formal connector"
+      }
+    ],
+    "common_mistakes_vi": [
+      "此外 thường phù hợp hơn trong văn viết hoặc văn đọc formal; 另外 linh hoạt hơn trong nói hằng ngày."
+    ],
+    "app_note_vi": "Từ nối rất hữu ích cho writing và reading formal.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "此外 nghĩa là gì?", "answer": "ngoài ra; hơn nữa" },
+      { "type": "cloze", "prompt": "这家餐厅环境不错，____，服务也很好。", "answer": "此外" },
+      { "type": "register", "prompt": "此外 hay 另外 formal hơn?", "answer": "此外 formal hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_049",
+    "level": "HSK5",
+    "hanzi": "普遍",
+    "pinyin": "pǔbiàn",
+    "display_meaning_vi": "phổ biến",
+    "meaning_en": "common; widespread",
+    "part_of_speech": "adjective/adverb",
+    "difficulty": 3,
+    "topic_tags": ["formal", "society", "reading"],
+    "exam_tags": ["reading", "meaning", "usage"],
+    "register": "formal",
+    "grammar_pattern": "普遍 + 存在 / 认为 / 现象",
+    "collocations": ["普遍存在", "普遍认为", "普遍现象"],
+    "near_synonyms": [
+      {
+        "word": "常见",
+        "difference_vi": "常见 gần gũi hơn và thiên về “thường thấy”; 普遍 formal hơn, dùng khi nói tính phổ biến rộng ở mức xã hội/khái quát."
+      }
+    ],
+    "app_synonym_note_vi": "普遍 = phổ biến rộng; 常见 = thường thấy.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种看法在年轻人中比较普遍。",
+        "pinyin": "Zhè zhǒng kànfǎ zài niánqīngrén zhōng bǐjiào pǔbiàn.",
+        "vi": "Cách nhìn này khá phổ biến trong giới trẻ.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "普遍 formal hơn 常见; đừng luôn thay thế hai từ này cho nhau trong mọi ngữ cảnh."
+    ],
+    "app_note_vi": "Rất hay gặp trong đọc hiểu, xã hội và bài viết khái quát.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "普遍 nghĩa là gì?", "answer": "phổ biến" },
+      { "type": "cloze", "prompt": "这种看法在年轻人中比较____。", "answer": "普遍" },
+      { "type": "synonym", "prompt": "普遍 khác 常见 như thế nào?", "answer": "普遍 formal và rộng hơn; 常见 gần gũi hơn, thiên về thường thấy." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_050",
+    "level": "HSK5",
+    "hanzi": "形成",
+    "pinyin": "xíngchéng",
+    "display_meaning_vi": "hình thành",
+    "meaning_en": "to form; to take shape",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["process", "reading", "formal"],
+    "exam_tags": ["reading", "cloze", "meaning"],
+    "register": "formal",
+    "grammar_pattern": "形成 + 习惯 / 结构 / 共识",
+    "collocations": ["形成习惯", "形成结构", "形成共识"],
+    "near_synonyms": [
+      {
+        "word": "产生",
+        "difference_vi": "形成 thiên về quá trình dần tạo thành trạng thái/cấu trúc; 产生 thiên về phát sinh hoặc sinh ra kết quả/tác động."
+      }
+    ],
+    "app_synonym_note_vi": "形成 = dần hình thành; 产生 = phát sinh/sinh ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "良好的学习习惯不是一天就能形成的。",
+        "pinyin": "Liánghǎo de xuéxí xíguàn bú shì yì tiān jiù néng xíngchéng de.",
+        "vi": "Thói quen học tập tốt không thể hình thành chỉ trong một ngày.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "形成 nhấn mạnh quá trình dần dần tạo thành; không phải lúc nào cũng giống 产生."
+    ],
+    "app_note_vi": "Hay dùng để nói quá trình hình thành thói quen, cấu trúc hoặc đồng thuận.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "形成 nghĩa là gì?", "answer": "hình thành" },
+      { "type": "cloze", "prompt": "良好的学习习惯不是一天就能____的。", "answer": "形成" },
+      { "type": "synonym", "prompt": "形成 khác 产生 như thế nào?", "answer": "形成 là dần hình thành; 产生 là phát sinh/sinh ra." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
