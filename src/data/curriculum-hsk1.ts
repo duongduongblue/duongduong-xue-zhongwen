@@ -5,7 +5,7 @@ export const levels: Level[] = [
   { id: 'HSK2', displayName: 'HSK 2', available: false, description: 'Planned', targetWordCount: 500 },
   { id: 'HSK3', displayName: 'HSK 3', available: false, description: 'Planned', targetWordCount: 1000 },
   { id: 'HSK4', displayName: 'HSK 4', available: false, description: 'Planned', targetWordCount: 2000 },
-  { id: 'HSK5', displayName: 'HSK 5', available: false, description: 'Planned', targetWordCount: 3600 },
+  { id: 'HSK5', displayName: 'HSK 5', available: true, description: 'Prototype', targetWordCount: 3600 },
 ];
 
 export const modules: Module[] = [
@@ -13,6 +13,8 @@ export const modules: Module[] = [
   { id: 'hsk1-module-2', levelId: 'HSK1', title: 'People & Daily Life', subtitle: '人物与日常', order: 2 },
   { id: 'hsk1-module-3', levelId: 'HSK1', title: 'Numbers, Time & Movement', subtitle: '数字、时间与出行', order: 3 },
   { id: 'hsk1-module-4', levelId: 'HSK1', title: 'Core Actions & Description', subtitle: '基本动作与描述', order: 4 },
+  { id: 'hsk5-module-1', levelId: 'HSK5', title: 'HSK5 Focus Mode', subtitle: 'HSK5重点复习', order: 1 },
+  { id: 'hsk5-module-2', levelId: 'HSK5', title: 'HSK5 Reasoning & Work', subtitle: '推理与工作', order: 2 },
 ];
 
 export const hsk1LessonDefs = [

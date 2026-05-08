@@ -1,4 +1,6 @@
 /* Auto-generated from datasets/chinese-daily-hsk1-full-100.json */
+import type { HSKLevelId } from '../types';
+
 export type SeedWord = {
   id: string;
   hanzi: string;
@@ -8,7 +10,7 @@ export type SeedWord = {
   part_of_speech?: string;
   example_cn?: string;
   example_translation?: string;
-  level: 'HSK1';
+  level: HSKLevelId;
   tags?: string[];
   audio_text?: string;
 };

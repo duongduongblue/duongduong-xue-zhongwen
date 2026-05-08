@@ -220,6 +220,12 @@ export default function ChineseLearningApp() {
     setShowFlashBack(false);
   };
 
+  const selectLevel = (levelId: string) => {
+    const firstLesson = lessons.find((lesson) => lesson.levelId === levelId);
+    if (!firstLesson) return;
+    selectLesson(firstLesson.id);
+  };
+
   const toggleFavorite = (wordId: string) => {
     setFavoriteIds((current) =>
       current.includes(wordId) ? removeItem(current, wordId) : [...current, wordId],
@@ -313,9 +319,13 @@ export default function ChineseLearningApp() {
       {levels.map((level) => {
         const isActive = level.id === activeLevel.id;
         return (
-          <View key={level.id} style={[styles.hskPill, isActive && styles.hskPillActive]}>
-            <Text style={[styles.hskPillText, isActive && styles.hskPillTextActive]}>{level.displayName}</Text>
-          </View>
+          <Pressable
+            key={level.id}
+            onPress={() => level.available && selectLevel(level.id)}
+            style={[styles.hskPill, isActive && styles.hskPillActive, !level.available && styles.hskPillDisabled]}
+          >
+            <Text style={[styles.hskPillText, isActive && styles.hskPillTextActive, !level.available && styles.hskPillTextDisabled]}>{level.displayName}</Text>
+          </Pressable>
         );
       })}
     </View>
@@ -347,7 +357,7 @@ export default function ChineseLearningApp() {
       <View style={styles.heroCard}>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          HSK 1 available · HSK 2–5 planned
+          HSK 1 available · HSK 5 focus prototype ready
         </Text>
         <View style={styles.heroActions}>
           <ActionButton label="Start Learning" onPress={() => setActiveTab('learn')} />
@@ -356,6 +366,9 @@ export default function ChineseLearningApp() {
             onPress={() => setActiveTab('flashcards')}
             variant="secondary"
           />
+        </View>
+        <View style={styles.heroActions}>
+          <ActionButton label="HSK5 Focus" onPress={() => { selectLevel('HSK5'); setActiveTab('learn'); }} />
         </View>
       </View>
 
@@ -385,7 +398,7 @@ export default function ChineseLearningApp() {
         {renderMiniProgress()}
         {renderLessonPicker()}
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
-        <Text style={styles.metaNote}>Module: {currentModule.title}</Text>
+        <Text style={styles.metaNote}>Module: {currentModule.title} · {currentModule.subtitle}</Text>
       </SectionCard>
 
       <View style={styles.wordCard}> 
@@ -402,7 +415,7 @@ export default function ChineseLearningApp() {
         <View style={styles.wordActionRow}>
           <ActionButton label="Learned" onPress={() => markLearned(currentLearnWord.id)} />
           <ActionButton
-            label="Review Cards"
+            label={activeLevel.id === 'HSK5' ? 'Focus Review' : 'Review Cards'}
             onPress={() => {
               setFlashIndex(learnIndex);
               setShowFlashBack(false);
@@ -880,6 +893,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#C0392B',
     borderColor: '#C0392B',
   },
+  hskPillDisabled: {
+    opacity: 0.45,
+  },
   hskPillText: {
     fontSize: 10,
     fontWeight: '600',
@@ -887,6 +903,9 @@ const styles = StyleSheet.create({
   },
   hskPillTextActive: {
     color: '#FFFFFF',
+  },
+  hskPillTextDisabled: {
+    color: '#8F867D',
   },
   miniProgressRow: {
     flexDirection: 'row',

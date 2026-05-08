@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch1_021",
+    "level": "HSK5",
+    "hanzi": "解释",
+    "pinyin": "jiěshì",
+    "meaning_vi": "giải thích",
+    "meaning_en": "to explain",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["reasoning", "communication"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "解释 + 原因 / 问题 / 现象",
+    "collocations": ["解释原因", "作出解释", "无法解释"],
+    "near_synonyms": [
+      {
+        "word": "说明",
+        "difference_vi": "解释 thiên về làm rõ nguyên nhân/ý nghĩa; 说明 rộng hơn, thiên về trình bày hoặc minh họa."
+      }
+    ],
+    "app_synonym_note_vi": "解释 = giải thích; 说明 = trình bày/làm rõ rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师让他解释为什么迟到了。",
+        "pinyin": "Lǎoshī ràng tā jiěshì wèishénme chídào le.",
+        "vi": "Giáo viên yêu cầu cậu ấy giải thích vì sao đến muộn.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dùng 解释 quá hẹp như 'phiên dịch'; ở đây nó là làm rõ nguyên nhân hoặc ý nghĩa."
+    ],
+    "app_note_vi": "Hay gặp khi cần nói rõ lý do hoặc nguyên nhân.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "解释 nghĩa là gì?", "answer": "giải thích" },
+      { "type": "cloze", "prompt": "老师让他____为什么迟到了。", "answer": "解释" },
+      { "type": "synonym", "prompt": "解释 khác 说明 như thế nào?", "answer": "解释 nhấn mạnh giải thích; 说明 thiên về trình bày/làm rõ rộng hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_022",
+    "level": "HSK5",
+    "hanzi": "分析",
+    "pinyin": "fēnxī",
+    "meaning_vi": "phân tích",
+    "meaning_en": "to analyze; analysis",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["reasoning", "academic"],
+    "exam_tags": ["reading", "meaning", "logic"],
+    "register": "formal",
+    "grammar_pattern": "分析 + 原因 / 问题 / 数据",
+    "collocations": ["分析问题", "数据分析", "具体分析"],
+    "near_synonyms": [
+      {
+        "word": "研究",
+        "difference_vi": "分析 thiên về tách và xem xét các yếu tố; 研究 rộng hơn, thiên về nghiên cứu có chiều sâu và hệ thống."
+      }
+    ],
+    "app_synonym_note_vi": "分析 = phân tích; 研究 = nghiên cứu sâu hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们先分析问题，再决定怎么做。",
+        "pinyin": "Wǒmen xiān fēnxī wèntí, zài juédìng zěnme zuò.",
+        "vi": "Chúng ta phân tích vấn đề trước, rồi mới quyết định làm thế nào.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên dùng 分析 cho mọi loại “nghĩ”; từ này có sắc thái xem xét có hệ thống hơn."
+    ],
+    "app_note_vi": "Rất mạnh cho reading, học thuật và giải thích logic.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "分析 nghĩa là gì?", "answer": "phân tích" },
+      { "type": "cloze", "prompt": "我们先____问题，再决定怎么做。", "answer": "分析" },
+      { "type": "synonym", "prompt": "分析 khác 研究 như thế nào?", "answer": "分析 là phân tích; 研究 là nghiên cứu sâu hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_023",
+    "level": "HSK5",
+    "hanzi": "证明",
+    "pinyin": "zhèngmíng",
+    "meaning_vi": "chứng minh",
+    "meaning_en": "to prove; proof",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["argument", "logic"],
+    "exam_tags": ["reading", "cloze", "meaning"],
+    "register": "formal",
+    "grammar_pattern": "证明 + 观点 / 自己 / 结果",
+    "collocations": ["事实证明", "证明自己", "证明观点"],
+    "near_synonyms": [
+      {
+        "word": "说明",
+        "difference_vi": "证明 nhấn mạnh có bằng chứng để chứng minh; 说明 thiên về giải thích hoặc trình bày rõ."
+      }
+    ],
+    "app_synonym_note_vi": "证明 = chứng minh có bằng chứng; 说明 = giải thích/làm rõ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "事实证明，这个方法确实有效。",
+        "pinyin": "Shìshí zhèngmíng, zhège fāngfǎ quèshí yǒuxiào.",
+        "vi": "Thực tế chứng minh rằng phương pháp này thực sự hiệu quả.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng dùng 证明 khi chỉ muốn “giải thích”; từ này thường cần cảm giác có bằng chứng rõ hơn."
+    ],
+    "app_note_vi": "Thường đi cùng事实 hoặc các lập luận có bằng chứng.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "证明 nghĩa là gì?", "answer": "chứng minh" },
+      { "type": "cloze", "prompt": "事实____，这个方法确实有效。", "answer": "证明" },
+      { "type": "synonym", "prompt": "证明 khác 说明 như thế nào?", "answer": "证明 nhấn mạnh bằng chứng; 说明 thiên về giải thích." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_024",
+    "level": "HSK5",
+    "hanzi": "结论",
+    "pinyin": "jiélùn",
+    "meaning_vi": "kết luận",
+    "meaning_en": "conclusion",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["argument", "academic"],
+    "exam_tags": ["reading", "meaning", "logic"],
+    "register": "formal",
+    "grammar_pattern": "得出结论 / 最后的结论 / 结论是…",
+    "collocations": ["得出结论", "最后结论", "结论明确"],
+    "near_synonyms": [
+      {
+        "word": "结果",
+        "difference_vi": "结果 là kết quả chung; 结论 là kết luận sau khi phân tích hoặc suy luận."
+      }
+    ],
+    "app_synonym_note_vi": "结论 = kết luận; 结果 = kết quả chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "在没有足够证据之前，不要急着下结论。",
+        "pinyin": "Zài méiyǒu zúgòu zhèngjù zhīqián, búyào jí zhe xià jiélùn.",
+        "vi": "Trước khi có đủ bằng chứng, đừng vội đưa ra kết luận.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结论 không phải chỉ là “kết quả”; nó là phần kết luận sau quá trình suy luận/phân tích."
+    ],
+    "app_note_vi": "Hay dùng trong bài viết phân tích, nghiên cứu và lập luận.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "结论 nghĩa là gì?", "answer": "kết luận" },
+      { "type": "cloze", "prompt": "在没有足够证据之前，不要急着下____。", "answer": "结论" },
+      { "type": "synonym", "prompt": "结论 khác 结果 như thế nào?", "answer": "结论 là kết luận sau phân tích; 结果 là kết quả chung." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_025",
+    "level": "HSK5",
+    "hanzi": "观点",
+    "pinyin": "guāndiǎn",
+    "meaning_vi": "quan điểm",
+    "meaning_en": "viewpoint; opinion",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["argument", "discussion"],
+    "exam_tags": ["reading", "meaning", "opinion"],
+    "register": "neutral",
+    "grammar_pattern": "观点 + 不同 / 明确 / 一致",
+    "collocations": ["表达观点", "不同观点", "个人观点"],
+    "near_synonyms": [
+      {
+        "word": "看法",
+        "difference_vi": "看法 gần với “cách nhìn/ý kiến”; 观点 thường trang trọng hơn và xuất hiện nhiều trong bài viết, tranh luận."
+      }
+    ],
+    "app_synonym_note_vi": "观点 = quan điểm trang trọng hơn; 看法 = cách nhìn/ý kiến gần gũi hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "每个人都可以有不同的观点。",
+        "pinyin": "Měi gèrén dōu kěyǐ yǒu bùtóng de guāndiǎn.",
+        "vi": "Mỗi người đều có thể có những quan điểm khác nhau.",
+        "context": "discussion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "观点 thường phù hợp trong tranh luận, phân tích và bài viết; không phải lúc nào cũng thay hoàn toàn cho 看法."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài nêu ý kiến và đọc hiểu quan điểm.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "观点 nghĩa là gì?", "answer": "quan điểm" },
+      { "type": "cloze", "prompt": "每个人都可以有不同的____。", "answer": "观点" },
+      { "type": "synonym", "prompt": "观点 khác 看法 như thế nào?", "answer": "观点 trang trọng hơn; 看法 gần gũi hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_026",
+    "level": "HSK5",
+    "hanzi": "根据",
+    "pinyin": "gēnjù",
+    "meaning_vi": "căn cứ vào; theo",
+    "meaning_en": "according to; on the basis of",
+    "part_of_speech": "preposition/noun",
+    "difficulty": 3,
+    "topic_tags": ["argument", "formal"],
+    "exam_tags": ["reading", "cloze", "logic"],
+    "register": "formal",
+    "grammar_pattern": "根据 + 数据 / 情况 / 规定",
+    "collocations": ["根据数据", "根据情况", "根据规定"],
+    "near_synonyms": [
+      {
+        "word": "按照",
+        "difference_vi": "按照 thiên về làm theo quy tắc/cách thức; 根据 thiên về căn cứ trên dữ liệu, tình huống hoặc cơ sở nào đó."
+      }
+    ],
+    "app_synonym_note_vi": "根据 = căn cứ vào; 按照 = làm theo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "根据目前的情况，我们需要调整计划。",
+        "pinyin": "Gēnjù mùqián de qíngkuàng, wǒmen xūyào tiáozhěng jìhuà.",
+        "vi": "Căn cứ vào tình hình hiện tại, chúng ta cần điều chỉnh kế hoạch.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên dùng 根据 như một từ “theo” đơn giản trong mọi ngữ cảnh; nó mang nghĩa có căn cứ/cơ sở."
+    ],
+    "app_note_vi": "Rất hay dùng trong bài viết formal và câu giải thích có căn cứ.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "根据 nghĩa là gì?", "answer": "căn cứ vào; theo" },
+      { "type": "cloze", "prompt": "____目前的情况，我们需要调整计划。", "answer": "根据" },
+      { "type": "synonym", "prompt": "根据 khác 按照 như thế nào?", "answer": "根据 là căn cứ vào; 按照 là làm theo." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_027",
+    "level": "HSK5",
+    "hanzi": "讨论",
+    "pinyin": "tǎolùn",
+    "meaning_vi": "thảo luận",
+    "meaning_en": "to discuss; discussion",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": ["communication", "work", "study"],
+    "exam_tags": ["meaning", "usage", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "讨论 + 问题 / 方案 / 结果",
+    "collocations": ["讨论问题", "共同讨论", "公开讨论"],
+    "near_synonyms": [
+      {
+        "word": "谈论",
+        "difference_vi": "谈论 thiên về nói về một chủ đề; 讨论 nhấn mạnh trao đổi qua lại để phân tích hoặc tìm giải pháp."
+      }
+    ],
+    "app_synonym_note_vi": "讨论 = bàn/thảo luận có trao đổi; 谈论 = nói về một chủ đề.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们需要一起讨论这个问题。",
+        "pinyin": "Wǒmen xūyào yìqǐ tǎolùn zhège wèntí.",
+        "vi": "Chúng ta cần cùng nhau thảo luận vấn đề này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "讨论 thường có sắc thái trao đổi để đi đến hiểu biết/giải pháp, không chỉ đơn giản là nói về một chủ đề."
+    ],
+    "app_note_vi": "Hay gặp trong họp, học tập và trao đổi ý kiến.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "讨论 nghĩa là gì?", "answer": "thảo luận" },
+      { "type": "cloze", "prompt": "我们需要一起____这个问题。", "answer": "讨论" },
+      { "type": "synonym", "prompt": "讨论 khác 谈论 như thế nào?", "answer": "讨论 có trao đổi hai chiều; 谈论 là nói về một chủ đề." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_028",
+    "level": "HSK5",
+    "hanzi": "研究",
+    "pinyin": "yánjiū",
+    "meaning_vi": "nghiên cứu",
+    "meaning_en": "to research; research",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["academic", "analysis"],
+    "exam_tags": ["reading", "meaning", "formal"],
+    "register": "formal",
+    "grammar_pattern": "研究 + 问题 / 方法 / 结果",
+    "collocations": ["研究问题", "研究方法", "研究结果"],
+    "near_synonyms": [
+      {
+        "word": "分析",
+        "difference_vi": "分析 là phân tích; 研究 là nghiên cứu rộng hơn, có chiều sâu và hệ thống hơn."
+      }
+    ],
+    "app_synonym_note_vi": "研究 = nghiên cứu sâu; 分析 = phân tích.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题值得进一步研究。",
+        "pinyin": "Zhège wèntí zhídé jìnyíbù yánjiū.",
+        "vi": "Vấn đề này đáng để nghiên cứu thêm.",
+        "context": "academic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "研究 không chỉ dùng trong học thuật; nhưng nó vẫn mang sắc thái nghiêm túc hơn 分析 hoặc 看."
+    ],
+    "app_note_vi": "Rất mạnh cho bài đọc, học thuật và văn phong formal.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "研究 nghĩa là gì?", "answer": "nghiên cứu" },
+      { "type": "cloze", "prompt": "这个问题值得进一步____。", "answer": "研究" },
+      { "type": "synonym", "prompt": "研究 khác 分析 như thế nào?", "answer": "研究 là nghiên cứu sâu hơn; 分析 là phân tích." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_029",
+    "level": "HSK5",
+    "hanzi": "证据",
+    "pinyin": "zhèngjù",
+    "display_meaning_vi": "bằng chứng",
+    "meaning_en": "evidence",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["argument", "logic"],
+    "exam_tags": ["reading", "meaning", "cloze"],
+    "register": "formal",
+    "grammar_pattern": "证据 + 足够 / 表明 / 证明",
+    "collocations": ["有力证据", "提供证据", "缺乏证据"],
+    "near_synonyms": [
+      {
+        "word": "证明",
+        "difference_vi": "证据 là bằng chứng cụ thể; 证明 là hành động hoặc kết quả chứng minh."
+      }
+    ],
+    "app_synonym_note_vi": "证据 = bằng chứng; 证明 = chứng minh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "没有足够的证据，就不能下结论。",
+        "pinyin": "Méiyǒu zúgòu de zhèngjù, jiù bùnéng xià jiélùn.",
+        "vi": "Nếu không có đủ bằng chứng thì không thể đưa ra kết luận.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "证据 là danh từ chỉ bằng chứng; đừng dùng như động từ “chứng minh”."
+    ],
+    "app_note_vi": "Hay đi cùng 结论, 证明 và các bài đọc lập luận.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "证据 nghĩa là gì?", "answer": "bằng chứng" },
+      { "type": "cloze", "prompt": "没有足够的____，就不能下结论。", "answer": "证据" },
+      { "type": "synonym", "prompt": "证据 khác 证明 như thế nào?", "answer": "证据 là bằng chứng; 证明 là chứng minh." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_030",
+    "level": "HSK5",
+    "hanzi": "理由",
+    "pinyin": "lǐyóu",
+    "display_meaning_vi": "lý do",
+    "meaning_en": "reason",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["argument", "reasoning"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "理由 + 充分 / 合理 / 不明确",
+    "collocations": ["充分的理由", "合理的理由", "给出理由"],
+    "near_synonyms": [
+      {
+        "word": "原因",
+        "difference_vi": "原因 thường là nguyên nhân khách quan; 理由 thường là lý do được nêu ra để giải thích hoặc biện minh."
+      }
+    ],
+    "app_synonym_note_vi": "理由 = lý do nêu ra; 原因 = nguyên nhân khách quan.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他没有说明迟到的理由。",
+        "pinyin": "Tā méiyǒu shuōmíng chídào de lǐyóu.",
+        "vi": "Anh ấy không giải thích lý do đến muộn.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng luôn coi 理由 và 原因 là hoàn toàn giống nhau; một từ thiên về lý do nêu ra, một từ thiên về nguyên nhân."
+    ],
+    "app_note_vi": "Hay gặp trong giải thích, tranh luận và biện minh.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "理由 nghĩa là gì?", "answer": "lý do" },
+      { "type": "cloze", "prompt": "他没有说明迟到的____。", "answer": "理由" },
+      { "type": "synonym", "prompt": "理由 khác 原因 như thế nào?", "answer": "理由 là lý do được nêu ra; 原因 là nguyên nhân khách quan." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]

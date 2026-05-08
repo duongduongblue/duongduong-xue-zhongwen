@@ -1,0 +1,452 @@
+[
+  {
+    "order": 1,
+    "hanzi": "变化",
+    "pinyin": "biànhuà",
+    "meaning_vi": "sự thay đổi",
+    "topic_bucket": "Society & Change",
+    "why_priority": "high-frequency abstract word used broadly",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 2,
+    "hanzi": "发展",
+    "pinyin": "fāzhǎn",
+    "meaning_vi": "sự phát triển; phát triển",
+    "topic_bucket": "Society & Change",
+    "why_priority": "core word in reading and discussion",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 3,
+    "hanzi": "社会",
+    "pinyin": "shèhuì",
+    "meaning_vi": "xã hội",
+    "topic_bucket": "Society & Change",
+    "why_priority": "essential topic word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 4,
+    "hanzi": "文化",
+    "pinyin": "wénhuà",
+    "meaning_vi": "văn hóa",
+    "topic_bucket": "Society & Change",
+    "why_priority": "core social/cultural reading word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 5,
+    "hanzi": "现象",
+    "pinyin": "xiànxiàng",
+    "meaning_vi": "hiện tượng",
+    "topic_bucket": "Society & Change",
+    "why_priority": "important for analysis and reading",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 6,
+    "hanzi": "影响",
+    "pinyin": "yǐngxiǎng",
+    "meaning_vi": "ảnh hưởng; tác động",
+    "topic_bucket": "Society & Change",
+    "why_priority": "very common advanced-use word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 7,
+    "hanzi": "环境",
+    "pinyin": "huánjìng",
+    "meaning_vi": "môi trường; hoàn cảnh",
+    "topic_bucket": "Society & Change",
+    "why_priority": "common in social and daily topics",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 8,
+    "hanzi": "责任",
+    "pinyin": "zérèn",
+    "meaning_vi": "trách nhiệm",
+    "topic_bucket": "Society & Change",
+    "why_priority": "high-value abstract/practical word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 9,
+    "hanzi": "趋势",
+    "pinyin": "qūshì",
+    "meaning_vi": "xu hướng",
+    "topic_bucket": "Society & Change",
+    "why_priority": "very useful in reading and formal explanation",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 10,
+    "hanzi": "现状",
+    "pinyin": "xiànzhuàng",
+    "meaning_vi": "hiện trạng",
+    "topic_bucket": "Society & Change",
+    "why_priority": "strong current-state reading word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 11,
+    "hanzi": "安排",
+    "pinyin": "ānpái",
+    "meaning_vi": "sắp xếp; bố trí",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "very useful in work/schedule contexts",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 12,
+    "hanzi": "负责",
+    "pinyin": "fùzé",
+    "meaning_vi": "phụ trách; chịu trách nhiệm",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "high-frequency workplace word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 13,
+    "hanzi": "管理",
+    "pinyin": "guǎnlǐ",
+    "meaning_vi": "quản lý; quản trị",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "important for work/organization topics",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 14,
+    "hanzi": "效率",
+    "pinyin": "xiàolǜ",
+    "meaning_vi": "hiệu quả; hiệu suất",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "common in workplace and study contexts",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 15,
+    "hanzi": "沟通",
+    "pinyin": "gōutōng",
+    "meaning_vi": "giao tiếp; trao đổi",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "core relationship/work word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 16,
+    "hanzi": "竞争",
+    "pinyin": "jìngzhēng",
+    "meaning_vi": "cạnh tranh",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "common in society/work reading",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 17,
+    "hanzi": "判断",
+    "pinyin": "pànduàn",
+    "meaning_vi": "phán đoán; đánh giá",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "useful in reasoning and decision contexts",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 18,
+    "hanzi": "选择",
+    "pinyin": "xuǎnzé",
+    "meaning_vi": "lựa chọn; chọn",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "high-frequency but still advanced-useful",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 19,
+    "hanzi": "目标",
+    "pinyin": "mùbiāo",
+    "meaning_vi": "mục tiêu",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "very useful in planning and growth topics",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 20,
+    "hanzi": "结果",
+    "pinyin": "jiéguǒ",
+    "meaning_vi": "kết quả",
+    "topic_bucket": "Work & Decision",
+    "why_priority": "essential for cause-effect expression",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 21,
+    "hanzi": "解释",
+    "pinyin": "jiěshì",
+    "meaning_vi": "giải thích",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "core explanation verb",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 22,
+    "hanzi": "分析",
+    "pinyin": "fēnxī",
+    "meaning_vi": "phân tích",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "important for academic/reading use",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 23,
+    "hanzi": "证明",
+    "pinyin": "zhèngmíng",
+    "meaning_vi": "chứng minh",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "high-value reasoning word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 24,
+    "hanzi": "结论",
+    "pinyin": "jiélùn",
+    "meaning_vi": "kết luận",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "useful in structured explanation",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 25,
+    "hanzi": "观点",
+    "pinyin": "guāndiǎn",
+    "meaning_vi": "quan điểm",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "core discussion/opinion word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 26,
+    "hanzi": "根据",
+    "pinyin": "gēnjù",
+    "meaning_vi": "căn cứ vào; theo",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "common formal-support word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 27,
+    "hanzi": "讨论",
+    "pinyin": "tǎolùn",
+    "meaning_vi": "thảo luận",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "high-frequency communication word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 28,
+    "hanzi": "研究",
+    "pinyin": "yánjiū",
+    "meaning_vi": "nghiên cứu",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "important in academic/formal reading",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 29,
+    "hanzi": "证据",
+    "pinyin": "zhèngjù",
+    "meaning_vi": "bằng chứng",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "high-value argument word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 30,
+    "hanzi": "理由",
+    "pinyin": "lǐyóu",
+    "meaning_vi": "lý do",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "core reasoning noun",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 31,
+    "hanzi": "说明",
+    "pinyin": "shuōmíng",
+    "meaning_vi": "giải thích; minh họa",
+    "topic_bucket": "Argument & Logic",
+    "why_priority": "useful in formal and neutral contexts",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 32,
+    "hanzi": "压力",
+    "pinyin": "yālì",
+    "meaning_vi": "áp lực",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "very useful modern-life word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 33,
+    "hanzi": "信心",
+    "pinyin": "xìnxīn",
+    "meaning_vi": "sự tự tin",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "common in personal growth and psychology",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 34,
+    "hanzi": "适应",
+    "pinyin": "shìyìng",
+    "meaning_vi": "thích nghi",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "high-frequency real-life advanced word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 35,
+    "hanzi": "独立",
+    "pinyin": "dúlì",
+    "meaning_vi": "độc lập; tự lập",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "important abstract/personal word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 36,
+    "hanzi": "冷静",
+    "pinyin": "lěngjìng",
+    "meaning_vi": "bình tĩnh",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "useful emotional regulation word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 37,
+    "hanzi": "失望",
+    "pinyin": "shīwàng",
+    "meaning_vi": "thất vọng",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "high-utility feeling word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 38,
+    "hanzi": "后悔",
+    "pinyin": "hòuhuǐ",
+    "meaning_vi": "hối hận",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "common emotional reaction word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 39,
+    "hanzi": "满意",
+    "pinyin": "mǎnyì",
+    "meaning_vi": "hài lòng",
+    "topic_bucket": "Emotion & Psychology",
+    "why_priority": "frequent evaluation/reaction word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 40,
+    "hanzi": "标题",
+    "pinyin": "biāotí",
+    "meaning_vi": "tiêu đề",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "useful in reading/article structure",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 41,
+    "hanzi": "报道",
+    "pinyin": "bàodào",
+    "meaning_vi": "bài đưa tin; đưa tin",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "common media word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 42,
+    "hanzi": "采访",
+    "pinyin": "cǎifǎng",
+    "meaning_vi": "phỏng vấn; phỏng vấn ai",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "frequent article/media vocabulary",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 43,
+    "hanzi": "资料",
+    "pinyin": "zīliào",
+    "meaning_vi": "tư liệu; tài liệu",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "high-utility reading/study word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 44,
+    "hanzi": "内容",
+    "pinyin": "nèiróng",
+    "meaning_vi": "nội dung",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "broadly useful academic/media word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 45,
+    "hanzi": "结构",
+    "pinyin": "jiégòu",
+    "meaning_vi": "cấu trúc",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "important for reading/writing discussion",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 46,
+    "hanzi": "正式",
+    "pinyin": "zhèngshì",
+    "meaning_vi": "trang trọng; chính thức",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "important register word",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 47,
+    "hanzi": "甚至",
+    "pinyin": "shènzhì",
+    "meaning_vi": "thậm chí",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "high-frequency connector in advanced reading",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 48,
+    "hanzi": "此外",
+    "pinyin": "cǐwài",
+    "meaning_vi": "ngoài ra; hơn nữa",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "high-value formal connector",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 49,
+    "hanzi": "普遍",
+    "pinyin": "pǔbiàn",
+    "meaning_vi": "phổ biến",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "very common formal reading adjective",
+    "verification_status": "needs_reference_check"
+  },
+  {
+    "order": 50,
+    "hanzi": "形成",
+    "pinyin": "xíngchéng",
+    "meaning_vi": "hình thành",
+    "topic_bucket": "Media & Formal Usage",
+    "why_priority": "important process/result word in articles",
+    "verification_status": "needs_reference_check"
+  }
+]

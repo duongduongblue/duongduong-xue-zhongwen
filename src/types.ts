@@ -1,3 +1,5 @@
+export type HSKLevelId = 'HSK1' | 'HSK2' | 'HSK3' | 'HSK4' | 'HSK5';
+
 export type VocabWord = {
   id: string;
   hanzi: string;
@@ -5,13 +7,16 @@ export type VocabWord = {
   meaningVi: string;
   exampleCn: string;
   exampleVi: string;
-  level: 'HSK1';
+  level: HSKLevelId;
   lessonId?: string;
   moduleId?: string;
+  appNoteVi?: string;
+  appSynonymNoteVi?: string;
+  collocationTop?: string[];
 };
 
 export type Level = {
-  id: string;
+  id: HSKLevelId;
   displayName: string;
   available: boolean;
   description?: string;

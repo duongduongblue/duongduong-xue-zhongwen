@@ -1,0 +1,51 @@
+order,hanzi,pinyin,meaning_vi,topic_bucket,why_priority,verification_status
+1,变化,biànhuà,sự thay đổi,Society & Change,high-frequency abstract word used broadly,needs_reference_check
+2,发展,fāzhǎn,sự phát triển; phát triển,Society & Change,core word in reading and discussion,needs_reference_check
+3,社会,shèhuì,xã hội,Society & Change,essential topic word,needs_reference_check
+4,文化,wénhuà,văn hóa,Society & Change,core social/cultural reading word,needs_reference_check
+5,传统,chuántǒng,truyền thống,Society & Change,frequent in comparison and culture topics,needs_reference_check
+6,现代,xiàndài,hiện đại,Society & Change,high-utility contrast word,needs_reference_check
+7,现象,xiànxiàng,hiện tượng,Society & Change,important for analysis and reading,needs_reference_check
+8,影响,yǐngxiǎng,ảnh hưởng; tác động,Society & Change,very common advanced-use word,needs_reference_check
+9,环境,huánjìng,môi trường; hoàn cảnh,Society & Change,common in social and daily topics,needs_reference_check
+10,责任,zérèn,trách nhiệm,Society & Change,high-value abstract/practical word,needs_reference_check
+11,安排,ānpái,sắp xếp; bố trí,Work & Decision,very useful in work/schedule contexts,needs_reference_check
+12,负责,fùzé,phụ trách; chịu trách nhiệm,Work & Decision,high-frequency workplace word,needs_reference_check
+13,管理,guǎnlǐ,quản lý; quản trị,Work & Decision,important for work/organization topics,needs_reference_check
+14,效率,xiàolǜ,hiệu quả; hiệu suất,Work & Decision,common in workplace and study contexts,needs_reference_check
+15,沟通,gōutōng,giao tiếp; trao đổi,Work & Decision,core relationship/work word,needs_reference_check
+16,竞争,jìngzhēng,cạnh tranh,Work & Decision,common in society/work reading,needs_reference_check
+17,判断,pànduàn,phán đoán; đánh giá,Work & Decision,useful in reasoning and decision contexts,needs_reference_check
+18,选择,xuǎnzé,lựa chọn; chọn,Work & Decision,high-frequency but still advanced-useful,needs_reference_check
+19,目标,mùbiāo,mục tiêu,Work & Decision,very useful in planning and growth topics,needs_reference_check
+20,结果,jiéguǒ,kết quả,Work & Decision,essential for cause-effect expression,needs_reference_check
+21,解释,jiěshì,giải thích,Argument & Logic,core explanation verb,needs_reference_check
+22,分析,fēnxī,phân tích,Argument & Logic,important for academic/reading use,needs_reference_check
+23,证明,zhèngmíng,chứng minh,Argument & Logic,high-value reasoning word,needs_reference_check
+24,结论,jiélùn,kết luận,Argument & Logic,useful in structured explanation,needs_reference_check
+25,观点,guāndiǎn,quan điểm,Argument & Logic,core discussion/opinion word,needs_reference_check
+26,根据,gēnjù,căn cứ vào; theo,Argument & Logic,common formal-support word,needs_reference_check
+27,讨论,tǎolùn,thảo luận,Argument & Logic,high-frequency communication word,needs_reference_check
+28,研究,yánjiū,nghiên cứu,Argument & Logic,important in academic/formal reading,needs_reference_check
+29,发表,fābiǎo,phát biểu; công bố,Argument & Logic,common in formal communication,needs_reference_check
+30,证据,zhèngjù,bằng chứng,Argument & Logic,high-value argument word,needs_reference_check
+31,理由,lǐyóu,lý do,Argument & Logic,core reasoning connector noun,needs_reference_check
+32,说明,shuōmíng,giải thích; minh họa,Argument & Logic,useful in formal/neutral contexts,needs_reference_check
+33,压力,yālì,áp lực,Emotion & Psychology,very useful modern-life word,needs_reference_check
+34,信心,xìnxīn,sự tự tin,Emotion & Psychology,common in personal growth and psychology,needs_reference_check
+35,适应,shìyìng,thích nghi,Emotion & Psychology,high-frequency real-life advanced word,needs_reference_check
+36,独立,dúlì,độc lập; tự lập,Emotion & Psychology,important abstract/personal word,needs_reference_check
+37,冷静,lěngjìng,bình tĩnh,Emotion & Psychology,useful emotional regulation word,needs_reference_check
+38,失望,shīwàng,thất vọng,Emotion & Psychology,high-utility feeling word,needs_reference_check
+39,后悔,hòuhuǐ,hối hận,Emotion & Psychology,common emotional reaction word,needs_reference_check
+40,满意,mǎnyì,hài lòng,Emotion & Psychology,frequent evaluation/reaction word,needs_reference_check
+41,标题,biāotí,tiêu đề,Media & Formal Usage,useful in reading/article structure,needs_reference_check
+42,报道,bàodào,bài đưa tin; đưa tin,Media & Formal Usage,common media word,needs_reference_check
+43,采访,cǎifǎng,phỏng vấn; phỏng vấn ai,Media & Formal Usage,frequent article/media vocabulary,needs_reference_check
+44,资料,zīliào,tư liệu; tài liệu,Media & Formal Usage,high-utility reading/study word,needs_reference_check
+45,内容,nèiróng,nội dung,Media & Formal Usage,broadly useful academic/media word,needs_reference_check
+46,结构,jiégòu,cấu trúc,Media & Formal Usage,important for reading/writing discussion,needs_reference_check
+47,语气,yǔqì,ngữ khí; giọng điệu,Media & Formal Usage,useful for nuanced language learning,needs_reference_check
+48,正式,zhèngshì,trang trọng; chính thức,Media & Formal Usage,important register word,needs_reference_check
+49,甚至,shènzhì,thậm chí,Media & Formal Usage,high-frequency connector in advanced reading,needs_reference_check
+50,此外,cǐwài,ngoài ra; hơn nữa,Media & Formal Usage,high-value formal connector,needs_reference_check
