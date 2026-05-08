@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch1_031",
+    "level": "HSK5",
+    "hanzi": "说明",
+    "pinyin": "shuōmíng",
+    "display_meaning_vi": "giải thích; cho thấy",
+    "meaning_en": "to explain; to illustrate; to show",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["argument", "formal"],
+    "exam_tags": ["meaning", "reading", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "说明 + 问题 / 原因 / 情况",
+    "collocations": ["说明问题", "进一步说明", "这说明"],
+    "near_synonyms": [
+      {
+        "word": "解释",
+        "difference_vi": "解释 nhấn mạnh việc giải thích rõ một nguyên nhân hay ý nghĩa; 说明 rộng hơn, có thể là giải thích, minh họa hoặc cho thấy điều gì."
+      }
+    ],
+    "app_synonym_note_vi": "说明 = giải thích/cho thấy; 解释 = giải thích rõ nguyên nhân hoặc ý nghĩa.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个结果说明我们的方法是有效的。",
+        "pinyin": "Zhège jiéguǒ shuōmíng wǒmen de fāngfǎ shì yǒuxiào de.",
+        "vi": "Kết quả này cho thấy phương pháp của chúng ta là hiệu quả.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ nhầm 说明 chỉ là “giải thích”; trong nhiều câu nó mang nghĩa “cho thấy” hoặc “chứng tỏ”."
+    ],
+    "app_note_vi": "Rất hay dùng trong câu kết luận và giải thích formal.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "说明 nghĩa là gì?", "answer": "giải thích; cho thấy" },
+      { "type": "cloze", "prompt": "这个结果____我们的方法是有效的。", "answer": "说明" },
+      { "type": "synonym", "prompt": "说明 khác 解释 như thế nào?", "answer": "说明 rộng hơn và có thể nghĩa là cho thấy; 解释 là giải thích rõ." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_032",
+    "level": "HSK5",
+    "hanzi": "压力",
+    "pinyin": "yālì",
+    "display_meaning_vi": "áp lực",
+    "meaning_en": "pressure; stress",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["emotion", "psychology"],
+    "exam_tags": ["meaning", "context"],
+    "register": "neutral",
+    "grammar_pattern": "压力 + 很大 / 过大 / 来自",
+    "collocations": ["心理压力", "工作压力", "减轻压力"],
+    "near_synonyms": [
+      {
+        "word": "负担",
+        "difference_vi": "压力 thiên về áp lực tinh thần hoặc sức ép; 负担 thiên về gánh nặng, trách nhiệm hoặc chi phí phải mang."
+      }
+    ],
+    "app_synonym_note_vi": "压力 = áp lực; 负担 = gánh nặng/trách nhiệm phải mang.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "面对考试时，很多学生都会感到压力。",
+        "pinyin": "Miànduì kǎoshì shí, hěnduō xuéshēng dōu huì gǎndào yālì.",
+        "vi": "Khi đối diện với kỳ thi, nhiều học sinh đều cảm thấy áp lực.",
+        "context": "psychology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "压力 thường đi với cảm xúc hoặc sức ép; không phải lúc nào cũng thay cho 负担."
+    ],
+    "app_note_vi": "Rất thường gặp trong các chủ đề học tập, công việc và cảm xúc.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "压力 nghĩa là gì?", "answer": "áp lực" },
+      { "type": "cloze", "prompt": "面对考试时，很多学生都会感到____。", "answer": "压力" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 压力 là gì?", "answer": "工作压力" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_033",
+    "level": "HSK5",
+    "hanzi": "信心",
+    "pinyin": "xìnxīn",
+    "display_meaning_vi": "sự tự tin",
+    "meaning_en": "confidence",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["emotion", "growth"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "有信心 / 缺乏信心 / 增强信心",
+    "collocations": ["有信心", "增强信心", "失去信心"],
+    "near_synonyms": [
+      {
+        "word": "自信",
+        "difference_vi": "自信 có thể là tính từ hoặc danh từ thiên về trạng thái tự tin bản thân; 信心 là niềm tin, sự tin tưởng vào khả năng hoặc kết quả."
+      }
+    ],
+    "app_synonym_note_vi": "信心 = niềm tin/sự tự tin; 自信 = trạng thái tự tin của bản thân.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "只要准备充分，就会更有信心。",
+        "pinyin": "Zhǐyào zhǔnbèi chōngfèn, jiù huì gèng yǒu xìnxīn.",
+        "vi": "Chỉ cần chuẩn bị đầy đủ thì sẽ tự tin hơn.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng luôn coi 信心 và 自信 là giống hệt nhau; 信心 nhấn mạnh niềm tin vào khả năng hoặc kết quả."
+    ],
+    "app_note_vi": "Hay dùng trong các chủ đề thi cử, trưởng thành và tâm lý.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "信心 nghĩa là gì?", "answer": "sự tự tin" },
+      { "type": "cloze", "prompt": "只要准备充分，就会更有____。", "answer": "信心" },
+      { "type": "synonym", "prompt": "信心 khác 自信 như thế nào?", "answer": "信心 là niềm tin; 自信 là trạng thái tự tin của bản thân." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_034",
+    "level": "HSK5",
+    "hanzi": "适应",
+    "pinyin": "shìyìng",
+    "display_meaning_vi": "thích nghi",
+    "meaning_en": "to adapt; to get used to",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["emotion", "daily life", "growth"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "适应 + 环境 / 生活 / 变化",
+    "collocations": ["适应环境", "适应生活", "逐渐适应"],
+    "near_synonyms": [
+      {
+        "word": "习惯",
+        "difference_vi": "习惯 nhấn mạnh quen với điều gì đó; 适应 nhấn mạnh quá trình điều chỉnh để phù hợp với hoàn cảnh mới."
+      }
+    ],
+    "app_synonym_note_vi": "适应 = thích nghi; 习惯 = quen dần với điều gì đó.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "刚开始的时候不容易，但后来慢慢适应了。",
+        "pinyin": "Gāng kāishǐ de shíhou bù róngyì, dàn hòulái mànmàn shìyìng le.",
+        "vi": "Lúc mới bắt đầu không dễ, nhưng sau đó dần dần đã thích nghi được.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "适应 nhấn mạnh quá trình thay đổi bản thân để phù hợp; không chỉ đơn giản là “quen”."
+    ],
+    "app_note_vi": "Rất hay gặp khi nói về môi trường mới, công việc mới hoặc cuộc sống mới.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "适应 nghĩa là gì?", "answer": "thích nghi" },
+      { "type": "cloze", "prompt": "后来慢慢____了新的环境。", "answer": "适应" },
+      { "type": "synonym", "prompt": "适应 khác 习惯 như thế nào?", "answer": "适应 là thích nghi; 习惯 là quen với điều gì đó." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_035",
+    "level": "HSK5",
+    "hanzi": "独立",
+    "pinyin": "dúlì",
+    "display_meaning_vi": "độc lập",
+    "meaning_en": "independent; independence",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 3,
+    "topic_tags": ["growth", "values"],
+    "exam_tags": ["meaning", "reading"],
+    "register": "neutral",
+    "grammar_pattern": "独立 + 思考 / 完成 / 生活",
+    "collocations": ["独立思考", "独立完成", "经济独立"],
+    "near_synonyms": [
+      {
+        "word": "自主",
+        "difference_vi": "自主 nhấn mạnh tự chủ, tự quyết; 独立 nhấn mạnh không phụ thuộc vào người khác."
+      }
+    ],
+    "app_synonym_note_vi": "独立 = độc lập; 自主 = tự chủ, tự quyết.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "培养独立思考的能力很重要。",
+        "pinyin": "Péiyǎng dúlì sīkǎo de nénglì hěn zhòngyào.",
+        "vi": "Rèn luyện năng lực tư duy độc lập là rất quan trọng.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "独立 không chỉ là sống một mình; nó còn dùng cho tư duy, hoàn thành công việc và khả năng tự chủ."
+    ],
+    "app_note_vi": "Hay dùng trong học tập, công việc và phát triển bản thân.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "独立 nghĩa là gì?", "answer": "độc lập" },
+      { "type": "cloze", "prompt": "培养____思考的能力很重要。", "answer": "独立" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 独立 là gì?", "answer": "独立思考" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_036",
+    "level": "HSK5",
+    "hanzi": "冷静",
+    "pinyin": "lěngjìng",
+    "display_meaning_vi": "bình tĩnh",
+    "meaning_en": "calm; composed",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 2,
+    "topic_tags": ["emotion", "psychology"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "保持冷静 / 冷静下来 / 比较冷静",
+    "collocations": ["保持冷静", "冷静下来", "头脑冷静"],
+    "near_synonyms": [
+      {
+        "word": "平静",
+        "difference_vi": "平静 thiên về yên tĩnh, không xáo động; 冷静 nhấn mạnh bình tĩnh, kiểm soát cảm xúc và suy nghĩ trong tình huống áp lực."
+      }
+    ],
+    "app_synonym_note_vi": "冷静 = bình tĩnh, giữ đầu óc tỉnh táo; 平静 = yên tĩnh, bình yên hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "遇到问题的时候，先冷静下来再想办法。",
+        "pinyin": "Yùdào wèntí de shíhou, xiān lěngjìng xiàlái zài xiǎng bànfǎ.",
+        "vi": "Khi gặp vấn đề, hãy bình tĩnh lại trước rồi mới nghĩ cách giải quyết.",
+        "context": "psychology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "冷静 thường dùng khi cần giữ đầu óc tỉnh táo; không phải chỉ đơn giản là “yên lặng” hay “bình yên”."
+    ],
+    "app_note_vi": "Hay gặp trong lời khuyên, tâm lý và xử lý vấn đề.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "冷静 nghĩa là gì?", "answer": "bình tĩnh" },
+      { "type": "cloze", "prompt": "先____下来再想办法。", "answer": "冷静" },
+      { "type": "synonym", "prompt": "冷静 khác 平静 như thế nào?", "answer": "冷静 là bình tĩnh có kiểm soát; 平静 là yên tĩnh/bình yên." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_037",
+    "level": "HSK5",
+    "hanzi": "失望",
+    "pinyin": "shīwàng",
+    "display_meaning_vi": "thất vọng",
+    "meaning_en": "to be disappointed; disappointment",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": ["emotion", "reaction"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "对……失望 / 感到失望 / 让人失望",
+    "collocations": ["感到失望", "让人失望", "对结果失望"],
+    "near_synonyms": [
+      {
+        "word": "灰心",
+        "difference_vi": "失望 nhấn mạnh cảm giác thất vọng trước kết quả hay người khác; 灰心 nhấn mạnh nản chí, mất tinh thần làm tiếp."
+      }
+    ],
+    "app_synonym_note_vi": "失望 = thất vọng; 灰心 = nản chí, mất động lực.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "虽然结果不理想，但你别太失望。",
+        "pinyin": "Suīrán jiéguǒ bù lǐxiǎng, dàn nǐ bié tài shīwàng.",
+        "vi": "Dù kết quả không như mong muốn, nhưng bạn đừng quá thất vọng.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "失望 không giống 灰心: một bên là thất vọng, một bên là nản chí và muốn bỏ cuộc."
+    ],
+    "app_note_vi": "Dùng khi phản ứng với kết quả, người khác hoặc kỳ vọng không đạt.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "失望 nghĩa là gì?", "answer": "thất vọng" },
+      { "type": "cloze", "prompt": "虽然结果不理想，但你别太____。", "answer": "失望" },
+      { "type": "synonym", "prompt": "失望 khác 灰心 như thế nào?", "answer": "失望 là thất vọng; 灰心 là nản chí, mất tinh thần tiếp tục." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_038",
+    "level": "HSK5",
+    "hanzi": "后悔",
+    "pinyin": "hòuhuǐ",
+    "display_meaning_vi": "hối hận",
+    "meaning_en": "to regret; regret",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": ["emotion", "reflection"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "后悔 + 决定 / 没有 + verb",
+    "collocations": ["感到后悔", "后悔当初", "后悔没有去"],
+    "near_synonyms": [
+      {
+        "word": "遗憾",
+        "difference_vi": "后悔 nhấn mạnh hối hận về lựa chọn của mình; 遗憾 thiên về tiếc nuối, không nhất thiết do lỗi cá nhân."
+      }
+    ],
+    "app_synonym_note_vi": "后悔 = hối hận; 遗憾 = tiếc nuối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "如果不努力，将来一定会后悔。",
+        "pinyin": "Rúguǒ bù nǔlì, jiānglái yídìng huì hòuhuǐ.",
+        "vi": "Nếu không cố gắng, sau này nhất định sẽ hối hận.",
+        "context": "reflection"
+      }
+    ],
+    "common_mistakes_vi": [
+      "后悔 thường liên quan tới lựa chọn hoặc việc đã làm; 遗憾 có sắc thái nhẹ hơn và rộng hơn."
+    ],
+    "app_note_vi": "Hay dùng trong tự nhìn lại bản thân và các quyết định đã qua.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "后悔 nghĩa là gì?", "answer": "hối hận" },
+      { "type": "cloze", "prompt": "如果不努力，将来一定会____。", "answer": "后悔" },
+      { "type": "synonym", "prompt": "后悔 khác 遗憾 như thế nào?", "answer": "后悔 là hối hận; 遗憾 là tiếc nuối." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_039",
+    "level": "HSK5",
+    "hanzi": "满意",
+    "pinyin": "mǎnyì",
+    "display_meaning_vi": "hài lòng",
+    "meaning_en": "satisfied; satisfaction",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 2,
+    "topic_tags": ["emotion", "evaluation"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "对……满意 / 感到满意 / 不太满意",
+    "collocations": ["非常满意", "对结果满意", "服务满意度"],
+    "near_synonyms": [
+      {
+        "word": "满足",
+        "difference_vi": "满意 nhấn mạnh cảm giác hài lòng; 满足 ngoài nghĩa thỏa mãn còn có thể nhấn mạnh việc đáp ứng nhu cầu/điều kiện."
+      }
+    ],
+    "app_synonym_note_vi": "满意 = hài lòng; 满足 = thỏa mãn/đáp ứng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "客户对这次服务很满意。",
+        "pinyin": "Kèhù duì zhè cì fúwù hěn mǎnyì.",
+        "vi": "Khách hàng rất hài lòng với lần phục vụ này.",
+        "context": "evaluation"
+      }
+    ],
+    "common_mistakes_vi": [
+      "满意 thường thiên về cảm giác hài lòng; 满足 có thể là đáp ứng nhu cầu hoặc điều kiện."
+    ],
+    "app_note_vi": "Hay gặp trong đánh giá chất lượng, dịch vụ và kết quả.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "满意 nghĩa là gì?", "answer": "hài lòng" },
+      { "type": "cloze", "prompt": "客户对这次服务很____。", "answer": "满意" },
+      { "type": "synonym", "prompt": "满意 khác 满足 như thế nào?", "answer": "满意 là hài lòng; 满足 là thỏa mãn/đáp ứng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_040",
+    "level": "HSK5",
+    "hanzi": "标题",
+    "pinyin": "biāotí",
+    "display_meaning_vi": "tiêu đề",
+    "meaning_en": "title; headline",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["media", "reading"],
+    "exam_tags": ["reading", "meaning", "headline"],
+    "register": "neutral",
+    "grammar_pattern": "标题 + 吸引人 / 简短 / 明确",
+    "collocations": ["文章标题", "新闻标题", "标题明确"],
+    "near_synonyms": [
+      {
+        "word": "题目",
+        "difference_vi": "题目 rộng hơn, có thể là đề bài/chủ đề; 标题 thiên về tiêu đề của bài viết, tin tức hoặc nội dung."
+      }
+    ],
+    "app_synonym_note_vi": "标题 = tiêu đề bài viết/tin tức; 题目 = đề bài/chủ đề rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "好的标题往往能吸引读者继续看下去。",
+        "pinyin": "Hǎo de biāotí wǎngwǎng néng xīyǐn dúzhě jìxù kàn xiàqù.",
+        "vi": "Một tiêu đề hay thường có thể thu hút người đọc đọc tiếp.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "标题 không phải lúc nào cũng thay cho 题目; 标题 thiên về tiêu đề của văn bản hoặc tin tức."
+    ],
+    "app_note_vi": "Rất hữu ích cho đọc báo, bài viết và cấu trúc văn bản.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "标题 nghĩa là gì?", "answer": "tiêu đề" },
+      { "type": "cloze", "prompt": "好的____往往能吸引读者继续看下去。", "answer": "标题" },
+      { "type": "synonym", "prompt": "标题 khác 题目 như thế nào?", "answer": "标题 là tiêu đề bài viết/tin tức; 题目 là đề bài/chủ đề rộng hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
