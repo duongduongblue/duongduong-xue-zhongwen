@@ -137,15 +137,21 @@ export default function ChineseLearningApp() {
   const currentQuestion = quizQuestions[quizIndex];
   const isQuizFinished = quizIndex >= quizQuestions.length;
 
-  const learningPercent = progressPercent(learnedIds.length, allWords.length);
-  const masteredPercent = progressPercent(masteredIds.length, allWords.length);
-  const reviewPercent = progressPercent(reviewIds.length, allWords.length);
+  const activeLevelWords = allWords.filter((word) => word.level === activeLevel.id);
+  const activeLevelWordIds = new Set(activeLevelWords.map((word) => word.id));
+  const activeLevelLearnedCount = learnedIds.filter((id) => activeLevelWordIds.has(id)).length;
+  const activeLevelMasteredCount = masteredIds.filter((id) => activeLevelWordIds.has(id)).length;
+  const activeLevelReviewCount = reviewIds.filter((id) => activeLevelWordIds.has(id)).length;
+
+  const learningPercent = progressPercent(activeLevelLearnedCount, activeLevelWords.length);
+  const masteredPercent = progressPercent(activeLevelMasteredCount, activeLevelWords.length);
+  const reviewPercent = progressPercent(activeLevelReviewCount, activeLevelWords.length);
   const sessionAccuracy = completedQuestionIds.length
     ? Math.round((quizCorrectCount / completedQuestionIds.length) * 100)
     : historicalAccuracy;
 
-  const favoriteWords = allWords.filter((word) => favoriteIds.includes(word.id));
-  const reviewWords = allWords.filter((word) => reviewIds.includes(word.id));
+  const favoriteWords = activeLevelWords.filter((word) => favoriteIds.includes(word.id));
+  const reviewWords = activeLevelWords.filter((word) => reviewIds.includes(word.id));
   const startedAtLabel = formatStartedAt(startedAt);
   const lastStudyAtLabel = formatLastStudyAt(lastStudyAt);
 
@@ -293,7 +299,7 @@ export default function ChineseLearningApp() {
 
   const renderLessonPicker = () => (
     <View style={styles.lessonRow}>
-      {lessons.map((lesson) => {
+      {lessons.filter((lesson) => lesson.levelId === activeLevel.id).map((lesson) => {
         const isActive = lesson.id === selectedLessonId;
         return (
           <Pressable
@@ -336,7 +342,7 @@ export default function ChineseLearningApp() {
       <View style={styles.miniProgressTrack}>
         <View style={[styles.miniProgressFill, { width: `${learningPercent}%` }]} />
       </View>
-      <Text style={styles.miniProgressText}>{learnedIds.length} / {allWords.length} từ</Text>
+      <Text style={styles.miniProgressText}>{activeLevelLearnedCount} / {activeLevelWords.length} từ</Text>
     </View>
   );
 
@@ -374,8 +380,8 @@ export default function ChineseLearningApp() {
 
       <View style={styles.statsGrid}>
         <StatCard label="Level" value={activeLevel.displayName} accent="#FF8A65" />
-        <StatCard label="Learned" value={`${learnedIds.length}/${allWords.length}`} accent="#4DB6AC" />
-        <StatCard label="Review" value={`${reviewIds.length}`} accent="#9575CD" />
+        <StatCard label="Learned" value={`${activeLevelLearnedCount}/${activeLevelWords.length}`} accent="#4DB6AC" />
+        <StatCard label="Review" value={`${activeLevelReviewCount}`} accent="#9575CD" />
         <StatCard label="Accuracy" value={`${sessionAccuracy}%`} accent="#5C6BC0" />
       </View>
 
@@ -383,7 +389,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
         <Text style={styles.bodyText}>
-          {selectedLesson.words.length} new words · {reviewIds.length} reviews
+          {selectedLesson.words.length} new words · {activeLevelReviewCount} reviews
         </Text>
         <Text style={styles.metaNote}>{startedAt ? `Started on ${startedAtLabel}` : 'Start learning to begin tracking'}</Text>
       </SectionCard>
@@ -623,19 +629,19 @@ export default function ChineseLearningApp() {
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${learningPercent}%`, backgroundColor: '#4DB6AC' }]} />
         </View>
-        <Text style={styles.progressValue}>{learningPercent}% • {learnedIds.length}/{allWords.length} từ</Text>
+        <Text style={styles.progressValue}>{learningPercent}% • {activeLevelLearnedCount}/{activeLevelWords.length} từ</Text>
 
         <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Từ đã thuộc</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${masteredPercent}%`, backgroundColor: '#9575CD' }]} />
         </View>
-        <Text style={styles.progressValue}>{masteredPercent}% • {masteredIds.length}/{allWords.length} từ</Text>
+        <Text style={styles.progressValue}>{masteredPercent}% • {activeLevelMasteredCount}/{activeLevelWords.length} từ</Text>
 
         <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Từ cần ôn lại</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${reviewPercent}%`, backgroundColor: '#F59E0B' }]} />
         </View>
-        <Text style={styles.progressValue}>{reviewPercent}% • {reviewIds.length}/{allWords.length} từ</Text>
+        <Text style={styles.progressValue}>{reviewPercent}% • {activeLevelReviewCount}/{activeLevelWords.length} từ</Text>
       </SectionCard>
 
       <SectionCard>
