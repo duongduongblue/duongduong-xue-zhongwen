@@ -1,0 +1,3203 @@
+[
+  {
+    "id": "hsk5_batch1_001",
+    "level": "HSK5",
+    "hanzi": "变化",
+    "traditional": "變化",
+    "pinyin": "biànhuà",
+    "meaning_vi": "thay đổi; sự thay đổi",
+    "meaning_en": "change; to change",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "change"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "变化 + 很大 / 发生变化 / 变化趋势",
+    "collocations": [
+      "发生变化",
+      "巨大变化",
+      "变化趋势"
+    ],
+    "near_synonyms": [
+      {
+        "word": "改变",
+        "difference_vi": "改变 nhấn mạnh hành động thay đổi một điều gì đó; 变化 nhấn mạnh bản thân sự thay đổi hoặc trạng thái thay đổi."
+      }
+    ],
+    "app_synonym_note_vi": "变化 = sự thay đổi; 改变 = hành động thay đổi.",
+    "antonyms": [
+      "稳定"
+    ],
+    "example_sentences": [
+      {
+        "zh": "这几年城市发生了很大的变化。",
+        "pinyin": "Zhè jǐ nián chéngshì fāshēng le hěn dà de biànhuà.",
+        "vi": "Những năm gần đây thành phố đã có những thay đổi rất lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dùng 变化 như động từ trong mọi ngữ cảnh; nhiều câu cần hiểu nó là danh từ “sự thay đổi”."
+    ],
+    "app_note_vi": "Thường dùng như “sự thay đổi” trong các câu phân tích.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "变化 nghĩa là gì?",
+        "answer": "thay đổi; sự thay đổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这几年城市发生了很大的____。",
+        "answer": "变化"
+      },
+      {
+        "type": "synonym",
+        "prompt": "变化 khác 改变 ở điểm nào?",
+        "answer": "变化 nhấn mạnh sự thay đổi; 改变 nhấn mạnh hành động thay đổi."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_002",
+    "level": "HSK5",
+    "hanzi": "发展",
+    "traditional": "發展",
+    "pinyin": "fāzhǎn",
+    "meaning_vi": "phát triển; sự phát triển",
+    "meaning_en": "development; to develop",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "growth"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "发展 + 经济 / 发展机会 / 发展方向",
+    "collocations": [
+      "经济发展",
+      "快速发展",
+      "发展方向"
+    ],
+    "near_synonyms": [
+      {
+        "word": "进步",
+        "difference_vi": "进步 nhấn mạnh tiến bộ tích cực; 发展 rộng hơn, có thể dùng cho kinh tế, xã hội, sự vật hoặc quá trình mở rộng."
+      }
+    ],
+    "app_synonym_note_vi": "进步 = tiến bộ; 发展 = phát triển rộng hơn.",
+    "antonyms": [
+      "落后"
+    ],
+    "example_sentences": [
+      {
+        "zh": "科技的发展改变了我们的生活方式。",
+        "pinyin": "Kējì de fāzhǎn gǎibiàn le wǒmen de shēnghuó fāngshì.",
+        "vi": "Sự phát triển của công nghệ đã thay đổi cách sống của chúng ta.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dịch cứng 发展 chỉ là “phát triển”; cần xét nó đang là danh từ hay động từ."
+    ],
+    "app_note_vi": "Hay gặp trong các chủ đề xã hội, công nghệ và tăng trưởng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发展 nghĩa là gì?",
+        "answer": "phát triển; sự phát triển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "科技的____改变了我们的生活方式。",
+        "answer": "发展"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Chọn collocation tự nhiên với 发展",
+        "answer": "经济发展"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_003",
+    "level": "HSK5",
+    "hanzi": "社会",
+    "traditional": "社會",
+    "pinyin": "shèhuì",
+    "meaning_vi": "xã hội",
+    "meaning_en": "society",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "社会 + 问题 / 现象 / 发展",
+    "collocations": [
+      "社会问题",
+      "现代社会",
+      "社会发展"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "现代社会对沟通能力的要求越来越高。",
+        "pinyin": "Xiàndài shèhuì duì gōutōng nénglì de yāoqiú yuèláiyuè gāo.",
+        "vi": "Xã hội hiện đại ngày càng yêu cầu cao hơn về năng lực giao tiếp.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "社会 không chỉ là “xã hội” chung chung; trong bài đọc thường gắn với vấn đề, hiện tượng hoặc phát triển."
+    ],
+    "app_note_vi": "Từ nền rất hay gặp trong đọc hiểu HSK5.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "社会 nghĩa là gì?",
+        "answer": "xã hội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "现代____对沟通能力的要求越来越高。",
+        "answer": "社会"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_004",
+    "level": "HSK5",
+    "hanzi": "文化",
+    "traditional": "文化",
+    "pinyin": "wénhuà",
+    "meaning_vi": "văn hóa",
+    "meaning_en": "culture",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "society"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "文化 + 差异 / 背景 / 传统",
+    "collocations": [
+      "文化差异",
+      "文化背景",
+      "传统文化"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "了解一个国家的文化有助于更好地学习它的语言。",
+        "pinyin": "Liǎojiě yí gè guójiā de wénhuà yǒuzhù yú gèng hǎo de xuéxí tā de yǔyán.",
+        "vi": "Hiểu văn hóa của một quốc gia giúp học ngôn ngữ của nước đó tốt hơn.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "文化 thường đi với 差异, 背景, 传统; nên học theo collocation để dùng tự nhiên hơn."
+    ],
+    "app_note_vi": "Nên nhớ cùng các cụm như 文化差异 và 文化背景.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "文化 nghĩa là gì?",
+        "answer": "văn hóa"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 文化 là gì?",
+        "answer": "文化差异"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_005",
+    "level": "HSK5",
+    "hanzi": "现象",
+    "traditional": "現象",
+    "pinyin": "xiànxiàng",
+    "meaning_vi": "hiện tượng",
+    "meaning_en": "phenomenon",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "analysis"
+    ],
+    "exam_tags": [
+      "reading",
+      "formal"
+    ],
+    "register": "formal",
+    "grammar_pattern": "一种现象 / 社会现象 / 这种现象说明…",
+    "collocations": [
+      "社会现象",
+      "普遍现象",
+      "这种现象"
+    ],
+    "near_synonyms": [
+      {
+        "word": "情况",
+        "difference_vi": "情况 thiên về tình hình/trường hợp; 现象 thiên về hiện tượng có thể quan sát và phân tích."
+      }
+    ],
+    "app_synonym_note_vi": "现象 = hiện tượng; 情况 = tình hình/trường hợp.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种现象在大城市里很常见。",
+        "pinyin": "Zhè zhǒng xiànxiàng zài dà chéngshì lǐ hěn chángjiàn.",
+        "vi": "Hiện tượng này rất phổ biến ở các thành phố lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ hiểu 现象 là “tình huống”; ở HSK5 nó thường dùng trong ngữ cảnh phân tích hoặc mô tả xã hội."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc phân tích xã hội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "现象 nghĩa là gì?",
+        "answer": "hiện tượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种____在大城市里很常见。",
+        "answer": "现象"
+      },
+      {
+        "type": "synonym",
+        "prompt": "现象 khác 情况 như thế nào?",
+        "answer": "现象 là hiện tượng để quan sát/phân tích; 情况 là tình hình/trường hợp."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_006",
+    "level": "HSK5",
+    "hanzi": "影响",
+    "traditional": "影響",
+    "pinyin": "yǐngxiǎng",
+    "meaning_vi": "ảnh hưởng; tác động",
+    "meaning_en": "influence; impact; to affect",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "argument",
+      "effect"
+    ],
+    "exam_tags": [
+      "reading",
+      "cloze",
+      "meaning"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对……有影响 / 受到影响 / 产生影响",
+    "collocations": [
+      "产生影响",
+      "受到影响",
+      "对健康有影响"
+    ],
+    "near_synonyms": [
+      {
+        "word": "作用",
+        "difference_vi": "作用 thiên về tác dụng/chức năng; 影响 nhấn mạnh ảnh hưởng, tác động lên kết quả hoặc người khác."
+      }
+    ],
+    "app_synonym_note_vi": "影响 = ảnh hưởng; 作用 = tác dụng/chức năng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "环境的变化对孩子的成长有很大影响。",
+        "pinyin": "Huánjìng de biànhuà duì háizi de chéngzhǎng yǒu hěn dà yǐngxiǎng.",
+        "vi": "Sự thay đổi của môi trường có ảnh hưởng rất lớn đến sự trưởng thành của trẻ em.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khi dùng như động từ, nên chú ý cấu trúc 对……有影响 / 影响…… để tránh dịch máy móc."
+    ],
+    "app_note_vi": "Thường đi trong cấu trúc 对……有影响.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "影响 nghĩa là gì?",
+        "answer": "ảnh hưởng; tác động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "环境的变化对孩子的成长有很大____。",
+        "answer": "影响"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Chọn collocation đúng với 影响",
+        "answer": "产生影响"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_007",
+    "level": "HSK5",
+    "hanzi": "环境",
+    "traditional": "環境",
+    "pinyin": "huánjìng",
+    "meaning_vi": "môi trường; hoàn cảnh",
+    "meaning_en": "environment; surroundings; circumstances",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "daily life"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生活环境 / 工作环境 / 改善环境",
+    "collocations": [
+      "生活环境",
+      "工作环境",
+      "保护环境"
+    ],
+    "near_synonyms": [
+      {
+        "word": "条件",
+        "difference_vi": "条件 thiên về điều kiện; 环境 thiên về môi trường, bối cảnh, surroundings."
+      }
+    ],
+    "app_synonym_note_vi": "环境 = môi trường/bối cảnh; 条件 = điều kiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一个安静的环境更适合学习。",
+        "pinyin": "Yí gè ānjìng de huánjìng gèng shìhé xuéxí.",
+        "vi": "Một môi trường yên tĩnh phù hợp cho việc học hơn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "环境 không chỉ là môi trường thiên nhiên; còn có thể là bối cảnh sống, làm việc hoặc học tập."
+    ],
+    "app_note_vi": "Không chỉ là môi trường tự nhiên; còn là hoàn cảnh sống và học tập.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "环境 nghĩa là gì?",
+        "answer": "môi trường; hoàn cảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一个安静的____更适合学习。",
+        "answer": "环境"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_008",
+    "level": "HSK5",
+    "hanzi": "责任",
+    "traditional": "責任",
+    "pinyin": "zérèn",
+    "meaning_vi": "trách nhiệm",
+    "meaning_en": "responsibility",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "work",
+      "values"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "承担责任 / 责任感 / 对……负责",
+    "collocations": [
+      "承担责任",
+      "责任感",
+      "社会责任"
+    ],
+    "near_synonyms": [
+      {
+        "word": "义务",
+        "difference_vi": "义务 thiên về nghĩa vụ, bổn phận; 责任 thiên về trách nhiệm phải gánh vác hoặc chịu trách nhiệm."
+      }
+    ],
+    "app_synonym_note_vi": "责任 = trách nhiệm; 义务 = nghĩa vụ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "成年人应该对自己的决定负责。",
+        "pinyin": "Chéngniánrén yīnggāi duì zìjǐ de juédìng fùzé.",
+        "vi": "Người trưởng thành nên chịu trách nhiệm về quyết định của mình.",
+        "context": "values"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên nhầm 责任 với 义务 trong mọi ngữ cảnh; hai từ này gần nhau nhưng không thay thế hoàn toàn."
+    ],
+    "app_note_vi": "Hay gặp trong các chủ đề giá trị, công việc và xã hội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "责任 nghĩa là gì?",
+        "answer": "trách nhiệm"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 责任 là gì?",
+        "answer": "承担责任"
+      },
+      {
+        "type": "synonym",
+        "prompt": "责任 khác 义务 như thế nào?",
+        "answer": "责任 là trách nhiệm phải chịu/gánh; 义务 là nghĩa vụ, bổn phận."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_009",
+    "level": "HSK5",
+    "hanzi": "趋势",
+    "traditional": "趨勢",
+    "pinyin": "qūshì",
+    "meaning_vi": "xu hướng",
+    "meaning_en": "trend; tendency",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "analysis",
+      "media"
+    ],
+    "exam_tags": [
+      "reading",
+      "headline",
+      "meaning"
+    ],
+    "register": "formal",
+    "grammar_pattern": "发展趋势 / 总体趋势 / 呈现趋势",
+    "collocations": [
+      "发展趋势",
+      "总体趋势",
+      "下降趋势"
+    ],
+    "near_synonyms": [
+      {
+        "word": "倾向",
+        "difference_vi": "倾向 thiên về khuynh hướng/ngả về một phía; 趋势 thường là xu thế chung có thể quan sát rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "趋势 = xu thế chung; 倾向 = khuynh hướng/ngả về một phía.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "从数据来看，这种趋势还会继续。",
+        "pinyin": "Cóng shùjù láikàn, zhè zhǒng qūshì hái huì jìxù.",
+        "vi": "Nhìn từ dữ liệu, xu hướng này còn sẽ tiếp tục.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "趋势 thường xuất hiện trong phân tích, báo chí, dữ liệu; không nên thay bằng 习惯 hay 方向 một cách tùy tiện."
+    ],
+    "app_note_vi": "Rất hay gặp trong phân tích, báo chí và bài đọc dữ liệu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "趋势 nghĩa là gì?",
+        "answer": "xu hướng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "从数据来看，这种____还会继续。",
+        "answer": "趋势"
+      },
+      {
+        "type": "synonym",
+        "prompt": "趋势 khác 倾向 như thế nào?",
+        "answer": "趋势 là xu thế chung; 倾向 là khuynh hướng/ngả về một phía."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_010",
+    "level": "HSK5",
+    "hanzi": "现状",
+    "traditional": "現狀",
+    "pinyin": "xiànzhuàng",
+    "meaning_vi": "hiện trạng",
+    "meaning_en": "current situation; status quo",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "analysis"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "context"
+    ],
+    "register": "formal",
+    "grammar_pattern": "改变现状 / 了解现状 / 面对现状",
+    "collocations": [
+      "改变现状",
+      "了解现状",
+      "社会现状"
+    ],
+    "near_synonyms": [
+      {
+        "word": "情况",
+        "difference_vi": "情况 rộng và linh hoạt hơn; 现状 thiên về tình trạng hiện tại như một đối tượng phân tích hoặc đánh giá."
+      }
+    ],
+    "app_synonym_note_vi": "现状 = hiện trạng; 情况 = tình hình/trường hợp rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "如果不了解现状，就很难提出有效的建议。",
+        "pinyin": "Rúguǒ bù liǎojiě xiànzhuàng, jiù hěn nán tíchū yǒuxiào de jiànyì.",
+        "vi": "Nếu không hiểu hiện trạng thì rất khó đưa ra đề xuất hiệu quả.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "现状 thường dùng khi phân tích tình trạng hiện tại; đừng thay bằng 情况 nếu muốn nhấn mạnh khía cạnh đánh giá hiện trạng."
+    ],
+    "app_note_vi": "Thường gặp trong câu phân tích tình hình hiện tại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "现状 nghĩa là gì?",
+        "answer": "hiện trạng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "如果不了解____，就很难提出有效的建议。",
+        "answer": "现状"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation phù hợp với 现状 là gì?",
+        "answer": "改变现状"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_011",
+    "level": "HSK5",
+    "hanzi": "安排",
+    "traditional": "安排",
+    "pinyin": "ānpái",
+    "meaning_vi": "sắp xếp; bố trí",
+    "meaning_en": "to arrange; to schedule",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "schedule",
+      "daily life"
+    ],
+    "exam_tags": [
+      "meaning",
+      "cloze",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "安排 + 时间 / 工作 / 会议",
+    "collocations": [
+      "安排时间",
+      "安排工作",
+      "安排会议"
+    ],
+    "near_synonyms": [
+      {
+        "word": "计划",
+        "difference_vi": "计划 nhấn mạnh kế hoạch; 安排 nhấn mạnh việc bố trí, sắp xếp cụ thể để thực hiện."
+      }
+    ],
+    "app_synonym_note_vi": "安排 = sắp xếp cụ thể; 计划 = kế hoạch.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我已经安排好了明天的会议。",
+        "pinyin": "Wǒ yǐjīng ānpái hǎo le míngtiān de huìyì.",
+        "vi": "Tôi đã sắp xếp xong cuộc họp ngày mai.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dùng lẫn với 计划; 安排 thường cụ thể hơn và gần với hành động triển khai."
+    ],
+    "app_note_vi": "Hay dùng cho lịch, công việc và cuộc họp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "安排 nghĩa là gì?",
+        "answer": "sắp xếp; bố trí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我已经____好了明天的会议。",
+        "answer": "安排"
+      },
+      {
+        "type": "synonym",
+        "prompt": "安排 khác 计划 ở điểm nào?",
+        "answer": "安排 là sắp xếp cụ thể; 计划 là kế hoạch."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_012",
+    "level": "HSK5",
+    "hanzi": "负责",
+    "traditional": "負責",
+    "pinyin": "fùzé",
+    "meaning_vi": "phụ trách; chịu trách nhiệm",
+    "meaning_en": "to be responsible for",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "responsibility"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "负责 + 项目 / 工作 / 部门",
+    "collocations": [
+      "负责项目",
+      "负责工作",
+      "对结果负责"
+    ],
+    "near_synonyms": [
+      {
+        "word": "管理",
+        "difference_vi": "负责 nhấn mạnh trách nhiệm đối với một việc; 管理 nhấn mạnh quản lý, điều hành người hoặc hệ thống."
+      }
+    ],
+    "app_synonym_note_vi": "负责 = chịu trách nhiệm; 管理 = quản lý, điều hành.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她负责这个项目的日常沟通。",
+        "pinyin": "Tā fùzé zhège xiàngmù de rìcháng gōutōng.",
+        "vi": "Cô ấy phụ trách phần giao tiếp hằng ngày của dự án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không phải lúc nào 负责 cũng dịch là “quản lý”; nhiều khi chỉ là “chịu trách nhiệm”."
+    ],
+    "app_note_vi": "Thường đi với 项目, 工作 và 结果.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "负责 nghĩa là gì?",
+        "answer": "phụ trách; chịu trách nhiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____这个项目的日常沟通。",
+        "answer": "负责"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 负责 là gì?",
+        "answer": "负责项目"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_013",
+    "level": "HSK5",
+    "hanzi": "管理",
+    "traditional": "管理",
+    "pinyin": "guǎnlǐ",
+    "meaning_vi": "quản lý; quản trị",
+    "meaning_en": "to manage; management",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "organization"
+    ],
+    "exam_tags": [
+      "meaning",
+      "reading",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "管理 + 公司 / 团队 / 时间",
+    "collocations": [
+      "管理公司",
+      "团队管理",
+      "时间管理"
+    ],
+    "near_synonyms": [
+      {
+        "word": "控制",
+        "difference_vi": "管理 thiên về tổ chức, điều hành; 控制 thiên về kiểm soát hoặc khống chế."
+      }
+    ],
+    "app_synonym_note_vi": "管理 = điều hành, quản lý; 控制 = kiểm soát.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "时间管理对工作效率有很大影响。",
+        "pinyin": "Shíjiān guǎnlǐ duì gōngzuò xiàolǜ yǒu hěn dà yǐngxiǎng.",
+        "vi": "Quản lý thời gian có ảnh hưởng lớn đến hiệu quả công việc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên nhầm 管理 với 控制; 管理 có sắc thái điều hành hợp lý hơn."
+    ],
+    "app_note_vi": "Rất hữu ích trong ngữ cảnh công việc và tổ chức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "管理 nghĩa là gì?",
+        "answer": "quản lý; quản trị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "时间____对工作效率有很大影响。",
+        "answer": "管理"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 管理 là gì?",
+        "answer": "时间管理"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_014",
+    "level": "HSK5",
+    "hanzi": "效率",
+    "traditional": "效率",
+    "pinyin": "xiàolǜ",
+    "meaning_vi": "hiệu suất; hiệu quả",
+    "meaning_en": "efficiency",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "study",
+      "productivity"
+    ],
+    "exam_tags": [
+      "meaning",
+      "reading",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "提高效率 / 工作效率 / 学习效率",
+    "collocations": [
+      "提高效率",
+      "工作效率",
+      "学习效率"
+    ],
+    "near_synonyms": [
+      {
+        "word": "效果",
+        "difference_vi": "效率 nói về mức độ nhanh gọn hoặc hiệu suất của quá trình; 效果 nói về kết quả hoặc tác dụng cuối cùng."
+      }
+    ],
+    "app_synonym_note_vi": "效率 = hiệu suất; 效果 = kết quả/tác dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "合理安排时间可以提高学习效率。",
+        "pinyin": "Hélǐ ānpái shíjiān kěyǐ tígāo xuéxí xiàolǜ.",
+        "vi": "Sắp xếp thời gian hợp lý có thể nâng cao hiệu suất học tập.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng nhầm 效率 với 效果; một từ nói về quá trình, một từ nói về kết quả."
+    ],
+    "app_note_vi": "Hay đi với 提高, 工作, 学习.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "效率 nghĩa là gì?",
+        "answer": "hiệu suất; hiệu quả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "合理安排时间可以提高学习____。",
+        "answer": "效率"
+      },
+      {
+        "type": "synonym",
+        "prompt": "效率 khác 效果 ở điểm nào?",
+        "answer": "效率 là hiệu suất của quá trình; 效果 là tác dụng/kết quả cuối cùng."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_015",
+    "level": "HSK5",
+    "hanzi": "沟通",
+    "traditional": "溝通",
+    "pinyin": "gōutōng",
+    "meaning_vi": "giao tiếp; trao đổi",
+    "meaning_en": "communication; to communicate",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "relationship"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "沟通 + 问题 / 能力 / 方式",
+    "collocations": [
+      "沟通能力",
+      "沟通方式",
+      "缺乏沟通"
+    ],
+    "near_synonyms": [
+      {
+        "word": "交流",
+        "difference_vi": "交流 thiên về trao đổi qua lại rộng hơn; 沟通 nhấn mạnh quá trình làm cho đôi bên hiểu nhau."
+      }
+    ],
+    "app_synonym_note_vi": "沟通 = làm cho hiểu nhau; 交流 = trao đổi rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "良好的沟通能够减少误会。",
+        "pinyin": "Liánghǎo de gōutōng nénggòu jiǎnshǎo wùhuì.",
+        "vi": "Giao tiếp tốt có thể giảm hiểu lầm.",
+        "context": "relationship"
+      }
+    ],
+    "common_mistakes_vi": [
+      "沟通 không chỉ là “nói chuyện”; nó nhấn mạnh việc hiểu nhau qua trao đổi."
+    ],
+    "app_note_vi": "Rất hay dùng trong công việc và các mối quan hệ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "沟通 nghĩa là gì?",
+        "answer": "giao tiếp; trao đổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "良好的____能够减少误会。",
+        "answer": "沟通"
+      },
+      {
+        "type": "synonym",
+        "prompt": "沟通 khác 交流 như thế nào?",
+        "answer": "沟通 nhấn mạnh làm cho đôi bên hiểu nhau; 交流 rộng hơn về trao đổi."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_016",
+    "level": "HSK5",
+    "hanzi": "竞争",
+    "traditional": "競爭",
+    "pinyin": "jìngzhēng",
+    "meaning_vi": "cạnh tranh",
+    "meaning_en": "competition; to compete",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "society",
+      "economy"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "context"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "竞争 + 激烈 / 优势 / 压力",
+    "collocations": [
+      "激烈竞争",
+      "竞争优势",
+      "市场竞争"
+    ],
+    "near_synonyms": [
+      {
+        "word": "比赛",
+        "difference_vi": "比赛 thường là cuộc thi/thi đấu cụ thể; 竞争 rộng hơn, dùng cho môi trường học tập, công việc, thị trường."
+      }
+    ],
+    "app_synonym_note_vi": "竞争 = cạnh tranh rộng; 比赛 = cuộc thi/thi đấu cụ thể.",
+    "antonyms": [
+      "合作"
+    ],
+    "example_sentences": [
+      {
+        "zh": "在激烈的市场竞争中，创新非常重要。",
+        "pinyin": "Zài jīliè de shìchǎng jìngzhēng zhōng, chuàngxīn fēicháng zhòngyào.",
+        "vi": "Trong cạnh tranh thị trường khốc liệt, đổi mới là vô cùng quan trọng.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng giới hạn 竞争 trong nghĩa “thi đấu”; ở HSK5 nó thường mang sắc thái xã hội, học tập, kinh tế."
+    ],
+    "app_note_vi": "Thường gặp trong chủ đề thị trường, xã hội và công việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "竞争 nghĩa là gì?",
+        "answer": "cạnh tranh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "在激烈的市场____中，创新非常重要。",
+        "answer": "竞争"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 竞争 là gì?",
+        "answer": "竞争优势"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_017",
+    "level": "HSK5",
+    "hanzi": "判断",
+    "traditional": "判斷",
+    "pinyin": "pànduàn",
+    "meaning_vi": "phán đoán; đánh giá",
+    "meaning_en": "judgment; to judge",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "reasoning",
+      "decision"
+    ],
+    "exam_tags": [
+      "meaning",
+      "reading",
+      "logic"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "判断 + 标准 / 能力 / 是否",
+    "collocations": [
+      "做出判断",
+      "判断标准",
+      "判断是否正确"
+    ],
+    "near_synonyms": [
+      {
+        "word": "决定",
+        "difference_vi": "判断 là quá trình đánh giá/phán đoán; 决定 là bước chốt lựa chọn sau khi đã cân nhắc."
+      }
+    ],
+    "app_synonym_note_vi": "判断 = phán đoán; 决定 = quyết định cuối cùng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "在不了解情况的时候，不要急着做出判断。",
+        "pinyin": "Zài bù liǎojiě qíngkuàng de shíhou, búyào jí zhe zuòchū pànduàn.",
+        "vi": "Khi chưa hiểu rõ tình hình, đừng vội đưa ra phán đoán.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "判断 thường là đánh giá/phán đoán, chưa hẳn là quyết định cuối cùng."
+    ],
+    "app_note_vi": "Dùng khi đánh giá trước khi quyết định.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "判断 nghĩa là gì?",
+        "answer": "phán đoán; đánh giá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "在不了解情况的时候，不要急着做出____。",
+        "answer": "判断"
+      },
+      {
+        "type": "synonym",
+        "prompt": "判断 khác 决定 như thế nào?",
+        "answer": "判断 là đánh giá/phán đoán; 决定 là quyết định cuối cùng."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_018",
+    "level": "HSK5",
+    "hanzi": "选择",
+    "traditional": "選擇",
+    "pinyin": "xuǎnzé",
+    "meaning_vi": "lựa chọn; chọn",
+    "meaning_en": "choice; to choose",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "decision",
+      "daily life"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "选择 + 方法 / 方向 / 机会",
+    "collocations": [
+      "做出选择",
+      "选择方向",
+      "选择机会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "挑选",
+        "difference_vi": "挑选 thiên về chọn lựa từ nhiều thứ cụ thể; 选择 rộng hơn, có thể dùng cho quyết định, định hướng, cơ hội."
+      }
+    ],
+    "app_synonym_note_vi": "选择 = chọn theo quyết định; 挑选 = chọn vật/cái cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "面对机会的时候，我们需要认真选择。",
+        "pinyin": "Miànduì jīhuì de shíhou, wǒmen xūyào rènzhēn xuǎnzé.",
+        "vi": "Khi đối diện với cơ hội, chúng ta cần lựa chọn một cách nghiêm túc.",
+        "context": "decision"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên thu hẹp 选择 chỉ vào nghĩa chọn đồ vật; ở HSK5 nó thường dùng cho quyết định, cơ hội, định hướng."
+    ],
+    "app_note_vi": "Rộng hơn “chọn đồ”; thường dùng cho cơ hội và quyết định.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "选择 nghĩa là gì?",
+        "answer": "lựa chọn; chọn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "面对机会的时候，我们需要认真____。",
+        "answer": "选择"
+      },
+      {
+        "type": "synonym",
+        "prompt": "选择 khác 挑选 như thế nào?",
+        "answer": "选择 rộng hơn, dùng cho quyết định và định hướng; 挑选 thiên về chọn cụ thể."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_019",
+    "level": "HSK5",
+    "hanzi": "目标",
+    "traditional": "目標",
+    "pinyin": "mùbiāo",
+    "meaning_vi": "mục tiêu",
+    "meaning_en": "goal; target",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "planning",
+      "growth",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "目标 + 明确 / 实现 / 设定",
+    "collocations": [
+      "明确目标",
+      "实现目标",
+      "设定目标"
+    ],
+    "near_synonyms": [
+      {
+        "word": "目的",
+        "difference_vi": "目的 thiên về mục đích/lý do của hành động; 目标 thiên về mục tiêu cụ thể muốn đạt tới."
+      }
+    ],
+    "app_synonym_note_vi": "目标 = đích đến; 目的 = mục đích/lý do.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "只有目标明确，努力才更有方向。",
+        "pinyin": "Zhǐyǒu mùbiāo míngquè, nǔlì cái gèng yǒu fāngxiàng.",
+        "vi": "Chỉ khi mục tiêu rõ ràng, nỗ lực mới có phương hướng hơn.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mục tiêu (目标) khác với mục đích (目的); một bên là đích đến, một bên là lý do."
+    ],
+    "app_note_vi": "Rất hay gặp trong học tập, công việc và phát triển bản thân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "目标 nghĩa là gì?",
+        "answer": "mục tiêu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "只有____明确，努力才更有方向。",
+        "answer": "目标"
+      },
+      {
+        "type": "synonym",
+        "prompt": "目标 khác 目的 như thế nào?",
+        "answer": "目标 là đích đến; 目的 là mục đích/lý do."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_020",
+    "level": "HSK5",
+    "hanzi": "结果",
+    "traditional": "結果",
+    "pinyin": "jiéguǒ",
+    "meaning_vi": "kết quả",
+    "meaning_en": "result; outcome",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "cause-effect",
+      "reasoning"
+    ],
+    "exam_tags": [
+      "meaning",
+      "reading",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "结果 + 表明 / 说明 / 不同",
+    "collocations": [
+      "研究结果",
+      "最后结果",
+      "结果表明"
+    ],
+    "near_synonyms": [
+      {
+        "word": "后果",
+        "difference_vi": "结果 là kết quả trung tính; 后果 thường mang sắc thái hậu quả, hay nghiêng tiêu cực hơn."
+      }
+    ],
+    "app_synonym_note_vi": "结果 = kết quả trung tính; 后果 = hậu quả, thường tiêu cực hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "结果表明，这种方法比以前有效得多。",
+        "pinyin": "Jiéguǒ biǎomíng, zhè zhǒng fāngfǎ bǐ yǐqián yǒuxiào de duō.",
+        "vi": "Kết quả cho thấy phương pháp này hiệu quả hơn nhiều so với trước đây.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên nhầm 结果 với 后果; một từ trung tính, một từ dễ thiên về hậu quả tiêu cực."
+    ],
+    "app_note_vi": "Hay gặp trong câu kết luận, báo cáo và phân tích.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "结果 nghĩa là gì?",
+        "answer": "kết quả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____表明，这种方法比以前有效得多。",
+        "answer": "结果"
+      },
+      {
+        "type": "synonym",
+        "prompt": "结果 khác 后果 như thế nào?",
+        "answer": "结果 trung tính; 后果 thường thiên về hậu quả tiêu cực."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_021",
+    "level": "HSK5",
+    "hanzi": "解释",
+    "pinyin": "jiěshì",
+    "meaning_vi": "giải thích",
+    "meaning_en": "to explain",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "reasoning",
+      "communication"
+    ],
+    "exam_tags": [
+      "meaning",
+      "cloze",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "解释 + 原因 / 问题 / 现象",
+    "collocations": [
+      "解释原因",
+      "作出解释",
+      "无法解释"
+    ],
+    "near_synonyms": [
+      {
+        "word": "说明",
+        "difference_vi": "解释 thiên về làm rõ nguyên nhân/ý nghĩa; 说明 rộng hơn, thiên về trình bày hoặc minh họa."
+      }
+    ],
+    "app_synonym_note_vi": "解释 = giải thích; 说明 = trình bày/làm rõ rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师让他解释为什么迟到了。",
+        "pinyin": "Lǎoshī ràng tā jiěshì wèishénme chídào le.",
+        "vi": "Giáo viên yêu cầu cậu ấy giải thích vì sao đến muộn.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ dùng 解释 quá hẹp như 'phiên dịch'; ở đây nó là làm rõ nguyên nhân hoặc ý nghĩa."
+    ],
+    "app_note_vi": "Hay gặp khi cần nói rõ lý do hoặc nguyên nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "解释 nghĩa là gì?",
+        "answer": "giải thích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师让他____为什么迟到了。",
+        "answer": "解释"
+      },
+      {
+        "type": "synonym",
+        "prompt": "解释 khác 说明 như thế nào?",
+        "answer": "解释 nhấn mạnh giải thích; 说明 thiên về trình bày/làm rõ rộng hơn."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_022",
+    "level": "HSK5",
+    "hanzi": "分析",
+    "pinyin": "fēnxī",
+    "meaning_vi": "phân tích",
+    "meaning_en": "to analyze; analysis",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "reasoning",
+      "academic"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "logic"
+    ],
+    "register": "formal",
+    "grammar_pattern": "分析 + 原因 / 问题 / 数据",
+    "collocations": [
+      "分析问题",
+      "数据分析",
+      "具体分析"
+    ],
+    "near_synonyms": [
+      {
+        "word": "研究",
+        "difference_vi": "分析 thiên về tách và xem xét các yếu tố; 研究 rộng hơn, thiên về nghiên cứu có chiều sâu và hệ thống."
+      }
+    ],
+    "app_synonym_note_vi": "分析 = phân tích; 研究 = nghiên cứu sâu hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们先分析问题，再决定怎么做。",
+        "pinyin": "Wǒmen xiān fēnxī wèntí, zài juédìng zěnme zuò.",
+        "vi": "Chúng ta phân tích vấn đề trước, rồi mới quyết định làm thế nào.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên dùng 分析 cho mọi loại “nghĩ”; từ này có sắc thái xem xét có hệ thống hơn."
+    ],
+    "app_note_vi": "Rất mạnh cho reading, học thuật và giải thích logic.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "分析 nghĩa là gì?",
+        "answer": "phân tích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们先____问题，再决定怎么做。",
+        "answer": "分析"
+      },
+      {
+        "type": "synonym",
+        "prompt": "分析 khác 研究 như thế nào?",
+        "answer": "分析 là phân tích; 研究 là nghiên cứu sâu hơn."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_023",
+    "level": "HSK5",
+    "hanzi": "证明",
+    "pinyin": "zhèngmíng",
+    "meaning_vi": "chứng minh",
+    "meaning_en": "to prove; proof",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "argument",
+      "logic"
+    ],
+    "exam_tags": [
+      "reading",
+      "cloze",
+      "meaning"
+    ],
+    "register": "formal",
+    "grammar_pattern": "证明 + 观点 / 自己 / 结果",
+    "collocations": [
+      "事实证明",
+      "证明自己",
+      "证明观点"
+    ],
+    "near_synonyms": [
+      {
+        "word": "说明",
+        "difference_vi": "证明 nhấn mạnh có bằng chứng để chứng minh; 说明 thiên về giải thích hoặc trình bày rõ."
+      }
+    ],
+    "app_synonym_note_vi": "证明 = chứng minh có bằng chứng; 说明 = giải thích/làm rõ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "事实证明，这个方法确实有效。",
+        "pinyin": "Shìshí zhèngmíng, zhège fāngfǎ quèshí yǒuxiào.",
+        "vi": "Thực tế chứng minh rằng phương pháp này thực sự hiệu quả.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng dùng 证明 khi chỉ muốn “giải thích”; từ này thường cần cảm giác có bằng chứng rõ hơn."
+    ],
+    "app_note_vi": "Thường đi cùng事实 hoặc các lập luận có bằng chứng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "证明 nghĩa là gì?",
+        "answer": "chứng minh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "事实____，这个方法确实有效。",
+        "answer": "证明"
+      },
+      {
+        "type": "synonym",
+        "prompt": "证明 khác 说明 như thế nào?",
+        "answer": "证明 nhấn mạnh bằng chứng; 说明 thiên về giải thích."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_024",
+    "level": "HSK5",
+    "hanzi": "结论",
+    "pinyin": "jiélùn",
+    "meaning_vi": "kết luận",
+    "meaning_en": "conclusion",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "argument",
+      "academic"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "logic"
+    ],
+    "register": "formal",
+    "grammar_pattern": "得出结论 / 最后的结论 / 结论是…",
+    "collocations": [
+      "得出结论",
+      "最后结论",
+      "结论明确"
+    ],
+    "near_synonyms": [
+      {
+        "word": "结果",
+        "difference_vi": "结果 là kết quả chung; 结论 là kết luận sau khi phân tích hoặc suy luận."
+      }
+    ],
+    "app_synonym_note_vi": "结论 = kết luận; 结果 = kết quả chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "在没有足够证据之前，不要急着下结论。",
+        "pinyin": "Zài méiyǒu zúgòu zhèngjù zhīqián, búyào jí zhe xià jiélùn.",
+        "vi": "Trước khi có đủ bằng chứng, đừng vội đưa ra kết luận.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结论 không phải chỉ là “kết quả”; nó là phần kết luận sau quá trình suy luận/phân tích."
+    ],
+    "app_note_vi": "Hay dùng trong bài viết phân tích, nghiên cứu và lập luận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "结论 nghĩa là gì?",
+        "answer": "kết luận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "在没有足够证据之前，不要急着下____。",
+        "answer": "结论"
+      },
+      {
+        "type": "synonym",
+        "prompt": "结论 khác 结果 như thế nào?",
+        "answer": "结论 là kết luận sau phân tích; 结果 là kết quả chung."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_025",
+    "level": "HSK5",
+    "hanzi": "观点",
+    "pinyin": "guāndiǎn",
+    "meaning_vi": "quan điểm",
+    "meaning_en": "viewpoint; opinion",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "argument",
+      "discussion"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "opinion"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "观点 + 不同 / 明确 / 一致",
+    "collocations": [
+      "表达观点",
+      "不同观点",
+      "个人观点"
+    ],
+    "near_synonyms": [
+      {
+        "word": "看法",
+        "difference_vi": "看法 gần với “cách nhìn/ý kiến”; 观点 thường trang trọng hơn và xuất hiện nhiều trong bài viết, tranh luận."
+      }
+    ],
+    "app_synonym_note_vi": "观点 = quan điểm trang trọng hơn; 看法 = cách nhìn/ý kiến gần gũi hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "每个人都可以有不同的观点。",
+        "pinyin": "Měi gèrén dōu kěyǐ yǒu bùtóng de guāndiǎn.",
+        "vi": "Mỗi người đều có thể có những quan điểm khác nhau.",
+        "context": "discussion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "观点 thường phù hợp trong tranh luận, phân tích và bài viết; không phải lúc nào cũng thay hoàn toàn cho 看法."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài nêu ý kiến và đọc hiểu quan điểm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "观点 nghĩa là gì?",
+        "answer": "quan điểm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "每个人都可以有不同的____。",
+        "answer": "观点"
+      },
+      {
+        "type": "synonym",
+        "prompt": "观点 khác 看法 như thế nào?",
+        "answer": "观点 trang trọng hơn; 看法 gần gũi hơn."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_026",
+    "level": "HSK5",
+    "hanzi": "根据",
+    "pinyin": "gēnjù",
+    "meaning_vi": "căn cứ vào; theo",
+    "meaning_en": "according to; on the basis of",
+    "part_of_speech": "preposition/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "argument",
+      "formal"
+    ],
+    "exam_tags": [
+      "reading",
+      "cloze",
+      "logic"
+    ],
+    "register": "formal",
+    "grammar_pattern": "根据 + 数据 / 情况 / 规定",
+    "collocations": [
+      "根据数据",
+      "根据情况",
+      "根据规定"
+    ],
+    "near_synonyms": [
+      {
+        "word": "按照",
+        "difference_vi": "按照 thiên về làm theo quy tắc/cách thức; 根据 thiên về căn cứ trên dữ liệu, tình huống hoặc cơ sở nào đó."
+      }
+    ],
+    "app_synonym_note_vi": "根据 = căn cứ vào; 按照 = làm theo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "根据目前的情况，我们需要调整计划。",
+        "pinyin": "Gēnjù mùqián de qíngkuàng, wǒmen xūyào tiáozhěng jìhuà.",
+        "vi": "Căn cứ vào tình hình hiện tại, chúng ta cần điều chỉnh kế hoạch.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nên dùng 根据 như một từ “theo” đơn giản trong mọi ngữ cảnh; nó mang nghĩa có căn cứ/cơ sở."
+    ],
+    "app_note_vi": "Rất hay dùng trong bài viết formal và câu giải thích có căn cứ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "根据 nghĩa là gì?",
+        "answer": "căn cứ vào; theo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____目前的情况，我们需要调整计划。",
+        "answer": "根据"
+      },
+      {
+        "type": "synonym",
+        "prompt": "根据 khác 按照 như thế nào?",
+        "answer": "根据 là căn cứ vào; 按照 là làm theo."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_027",
+    "level": "HSK5",
+    "hanzi": "讨论",
+    "pinyin": "tǎolùn",
+    "meaning_vi": "thảo luận",
+    "meaning_en": "to discuss; discussion",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "communication",
+      "work",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "讨论 + 问题 / 方案 / 结果",
+    "collocations": [
+      "讨论问题",
+      "共同讨论",
+      "公开讨论"
+    ],
+    "near_synonyms": [
+      {
+        "word": "谈论",
+        "difference_vi": "谈论 thiên về nói về một chủ đề; 讨论 nhấn mạnh trao đổi qua lại để phân tích hoặc tìm giải pháp."
+      }
+    ],
+    "app_synonym_note_vi": "讨论 = bàn/thảo luận có trao đổi; 谈论 = nói về một chủ đề.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们需要一起讨论这个问题。",
+        "pinyin": "Wǒmen xūyào yìqǐ tǎolùn zhège wèntí.",
+        "vi": "Chúng ta cần cùng nhau thảo luận vấn đề này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "讨论 thường có sắc thái trao đổi để đi đến hiểu biết/giải pháp, không chỉ đơn giản là nói về một chủ đề."
+    ],
+    "app_note_vi": "Hay gặp trong họp, học tập và trao đổi ý kiến.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "讨论 nghĩa là gì?",
+        "answer": "thảo luận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们需要一起____这个问题。",
+        "answer": "讨论"
+      },
+      {
+        "type": "synonym",
+        "prompt": "讨论 khác 谈论 như thế nào?",
+        "answer": "讨论 có trao đổi hai chiều; 谈论 là nói về một chủ đề."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_028",
+    "level": "HSK5",
+    "hanzi": "研究",
+    "pinyin": "yánjiū",
+    "meaning_vi": "nghiên cứu",
+    "meaning_en": "to research; research",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "academic",
+      "analysis"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "formal"
+    ],
+    "register": "formal",
+    "grammar_pattern": "研究 + 问题 / 方法 / 结果",
+    "collocations": [
+      "研究问题",
+      "研究方法",
+      "研究结果"
+    ],
+    "near_synonyms": [
+      {
+        "word": "分析",
+        "difference_vi": "分析 là phân tích; 研究 là nghiên cứu rộng hơn, có chiều sâu và hệ thống hơn."
+      }
+    ],
+    "app_synonym_note_vi": "研究 = nghiên cứu sâu; 分析 = phân tích.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题值得进一步研究。",
+        "pinyin": "Zhège wèntí zhídé jìnyíbù yánjiū.",
+        "vi": "Vấn đề này đáng để nghiên cứu thêm.",
+        "context": "academic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "研究 không chỉ dùng trong học thuật; nhưng nó vẫn mang sắc thái nghiêm túc hơn 分析 hoặc 看."
+    ],
+    "app_note_vi": "Rất mạnh cho bài đọc, học thuật và văn phong formal.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "研究 nghĩa là gì?",
+        "answer": "nghiên cứu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个问题值得进一步____。",
+        "answer": "研究"
+      },
+      {
+        "type": "synonym",
+        "prompt": "研究 khác 分析 như thế nào?",
+        "answer": "研究 là nghiên cứu sâu hơn; 分析 là phân tích."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_029",
+    "level": "HSK5",
+    "hanzi": "证据",
+    "pinyin": "zhèngjù",
+    "display_meaning_vi": "bằng chứng",
+    "meaning_en": "evidence",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "argument",
+      "logic"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "证据 + 足够 / 表明 / 证明",
+    "collocations": [
+      "有力证据",
+      "提供证据",
+      "缺乏证据"
+    ],
+    "near_synonyms": [
+      {
+        "word": "证明",
+        "difference_vi": "证据 là bằng chứng cụ thể; 证明 là hành động hoặc kết quả chứng minh."
+      }
+    ],
+    "app_synonym_note_vi": "证据 = bằng chứng; 证明 = chứng minh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "没有足够的证据，就不能下结论。",
+        "pinyin": "Méiyǒu zúgòu de zhèngjù, jiù bùnéng xià jiélùn.",
+        "vi": "Nếu không có đủ bằng chứng thì không thể đưa ra kết luận.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "证据 là danh từ chỉ bằng chứng; đừng dùng như động từ “chứng minh”."
+    ],
+    "app_note_vi": "Hay đi cùng 结论, 证明 và các bài đọc lập luận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "证据 nghĩa là gì?",
+        "answer": "bằng chứng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "没有足够的____，就不能下结论。",
+        "answer": "证据"
+      },
+      {
+        "type": "synonym",
+        "prompt": "证据 khác 证明 như thế nào?",
+        "answer": "证据 là bằng chứng; 证明 là chứng minh."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_030",
+    "level": "HSK5",
+    "hanzi": "理由",
+    "pinyin": "lǐyóu",
+    "display_meaning_vi": "lý do",
+    "meaning_en": "reason",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "argument",
+      "reasoning"
+    ],
+    "exam_tags": [
+      "meaning",
+      "cloze",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "理由 + 充分 / 合理 / 不明确",
+    "collocations": [
+      "充分的理由",
+      "合理的理由",
+      "给出理由"
+    ],
+    "near_synonyms": [
+      {
+        "word": "原因",
+        "difference_vi": "原因 thường là nguyên nhân khách quan; 理由 thường là lý do được nêu ra để giải thích hoặc biện minh."
+      }
+    ],
+    "app_synonym_note_vi": "理由 = lý do nêu ra; 原因 = nguyên nhân khách quan.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他没有说明迟到的理由。",
+        "pinyin": "Tā méiyǒu shuōmíng chídào de lǐyóu.",
+        "vi": "Anh ấy không giải thích lý do đến muộn.",
+        "context": "reasoning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng luôn coi 理由 và 原因 là hoàn toàn giống nhau; một từ thiên về lý do nêu ra, một từ thiên về nguyên nhân."
+    ],
+    "app_note_vi": "Hay gặp trong giải thích, tranh luận và biện minh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "理由 nghĩa là gì?",
+        "answer": "lý do"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他没有说明迟到的____。",
+        "answer": "理由"
+      },
+      {
+        "type": "synonym",
+        "prompt": "理由 khác 原因 như thế nào?",
+        "answer": "理由 là lý do được nêu ra; 原因 là nguyên nhân khách quan."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_031",
+    "level": "HSK5",
+    "hanzi": "说明",
+    "pinyin": "shuōmíng",
+    "display_meaning_vi": "giải thích; cho thấy",
+    "meaning_en": "to explain; to illustrate; to show",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "argument",
+      "formal"
+    ],
+    "exam_tags": [
+      "meaning",
+      "reading",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "说明 + 问题 / 原因 / 情况",
+    "collocations": [
+      "说明问题",
+      "进一步说明",
+      "这说明"
+    ],
+    "near_synonyms": [
+      {
+        "word": "解释",
+        "difference_vi": "解释 nhấn mạnh việc giải thích rõ một nguyên nhân hay ý nghĩa; 说明 rộng hơn, có thể là giải thích, minh họa hoặc cho thấy điều gì."
+      }
+    ],
+    "app_synonym_note_vi": "说明 = giải thích/cho thấy; 解释 = giải thích rõ nguyên nhân hoặc ý nghĩa.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个结果说明我们的方法是有效的。",
+        "pinyin": "Zhège jiéguǒ shuōmíng wǒmen de fāngfǎ shì yǒuxiào de.",
+        "vi": "Kết quả này cho thấy phương pháp của chúng ta là hiệu quả.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dễ nhầm 说明 chỉ là “giải thích”; trong nhiều câu nó mang nghĩa “cho thấy” hoặc “chứng tỏ”."
+    ],
+    "app_note_vi": "Rất hay dùng trong câu kết luận và giải thích formal.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "说明 nghĩa là gì?",
+        "answer": "giải thích; cho thấy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个结果____我们的方法是有效的。",
+        "answer": "说明"
+      },
+      {
+        "type": "synonym",
+        "prompt": "说明 khác 解释 như thế nào?",
+        "answer": "说明 rộng hơn và có thể nghĩa là cho thấy; 解释 là giải thích rõ."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_032",
+    "level": "HSK5",
+    "hanzi": "压力",
+    "pinyin": "yālì",
+    "display_meaning_vi": "áp lực",
+    "meaning_en": "pressure; stress",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "psychology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "context"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "压力 + 很大 / 过大 / 来自",
+    "collocations": [
+      "心理压力",
+      "工作压力",
+      "减轻压力"
+    ],
+    "near_synonyms": [
+      {
+        "word": "负担",
+        "difference_vi": "压力 thiên về áp lực tinh thần hoặc sức ép; 负担 thiên về gánh nặng, trách nhiệm hoặc chi phí phải mang."
+      }
+    ],
+    "app_synonym_note_vi": "压力 = áp lực; 负担 = gánh nặng/trách nhiệm phải mang.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "面对考试时，很多学生都会感到压力。",
+        "pinyin": "Miànduì kǎoshì shí, hěnduō xuéshēng dōu huì gǎndào yālì.",
+        "vi": "Khi đối diện với kỳ thi, nhiều học sinh đều cảm thấy áp lực.",
+        "context": "psychology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "压力 thường đi với cảm xúc hoặc sức ép; không phải lúc nào cũng thay cho 负担."
+    ],
+    "app_note_vi": "Rất thường gặp trong các chủ đề học tập, công việc và cảm xúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "压力 nghĩa là gì?",
+        "answer": "áp lực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "面对考试时，很多学生都会感到____。",
+        "answer": "压力"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 压力 là gì?",
+        "answer": "工作压力"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_033",
+    "level": "HSK5",
+    "hanzi": "信心",
+    "pinyin": "xìnxīn",
+    "display_meaning_vi": "sự tự tin",
+    "meaning_en": "confidence",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "growth"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有信心 / 缺乏信心 / 增强信心",
+    "collocations": [
+      "有信心",
+      "增强信心",
+      "失去信心"
+    ],
+    "near_synonyms": [
+      {
+        "word": "自信",
+        "difference_vi": "自信 có thể là tính từ hoặc danh từ thiên về trạng thái tự tin bản thân; 信心 là niềm tin, sự tin tưởng vào khả năng hoặc kết quả."
+      }
+    ],
+    "app_synonym_note_vi": "信心 = niềm tin/sự tự tin; 自信 = trạng thái tự tin của bản thân.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "只要准备充分，就会更有信心。",
+        "pinyin": "Zhǐyào zhǔnbèi chōngfèn, jiù huì gèng yǒu xìnxīn.",
+        "vi": "Chỉ cần chuẩn bị đầy đủ thì sẽ tự tin hơn.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng luôn coi 信心 và 自信 là giống hệt nhau; 信心 nhấn mạnh niềm tin vào khả năng hoặc kết quả."
+    ],
+    "app_note_vi": "Hay dùng trong các chủ đề thi cử, trưởng thành và tâm lý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "信心 nghĩa là gì?",
+        "answer": "sự tự tin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "只要准备充分，就会更有____。",
+        "answer": "信心"
+      },
+      {
+        "type": "synonym",
+        "prompt": "信心 khác 自信 như thế nào?",
+        "answer": "信心 là niềm tin; 自信 là trạng thái tự tin của bản thân."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_034",
+    "level": "HSK5",
+    "hanzi": "适应",
+    "pinyin": "shìyìng",
+    "display_meaning_vi": "thích nghi",
+    "meaning_en": "to adapt; to get used to",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion",
+      "daily life",
+      "growth"
+    ],
+    "exam_tags": [
+      "meaning",
+      "cloze",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "适应 + 环境 / 生活 / 变化",
+    "collocations": [
+      "适应环境",
+      "适应生活",
+      "逐渐适应"
+    ],
+    "near_synonyms": [
+      {
+        "word": "习惯",
+        "difference_vi": "习惯 nhấn mạnh quen với điều gì đó; 适应 nhấn mạnh quá trình điều chỉnh để phù hợp với hoàn cảnh mới."
+      }
+    ],
+    "app_synonym_note_vi": "适应 = thích nghi; 习惯 = quen dần với điều gì đó.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "刚开始的时候不容易，但后来慢慢适应了。",
+        "pinyin": "Gāng kāishǐ de shíhou bù róngyì, dàn hòulái mànmàn shìyìng le.",
+        "vi": "Lúc mới bắt đầu không dễ, nhưng sau đó dần dần đã thích nghi được.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "适应 nhấn mạnh quá trình thay đổi bản thân để phù hợp; không chỉ đơn giản là “quen”."
+    ],
+    "app_note_vi": "Rất hay gặp khi nói về môi trường mới, công việc mới hoặc cuộc sống mới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "适应 nghĩa là gì?",
+        "answer": "thích nghi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "后来慢慢____了新的环境。",
+        "answer": "适应"
+      },
+      {
+        "type": "synonym",
+        "prompt": "适应 khác 习惯 như thế nào?",
+        "answer": "适应 là thích nghi; 习惯 là quen với điều gì đó."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_035",
+    "level": "HSK5",
+    "hanzi": "独立",
+    "pinyin": "dúlì",
+    "display_meaning_vi": "độc lập",
+    "meaning_en": "independent; independence",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "growth",
+      "values"
+    ],
+    "exam_tags": [
+      "meaning",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "独立 + 思考 / 完成 / 生活",
+    "collocations": [
+      "独立思考",
+      "独立完成",
+      "经济独立"
+    ],
+    "near_synonyms": [
+      {
+        "word": "自主",
+        "difference_vi": "自主 nhấn mạnh tự chủ, tự quyết; 独立 nhấn mạnh không phụ thuộc vào người khác."
+      }
+    ],
+    "app_synonym_note_vi": "独立 = độc lập; 自主 = tự chủ, tự quyết.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "培养独立思考的能力很重要。",
+        "pinyin": "Péiyǎng dúlì sīkǎo de nénglì hěn zhòngyào.",
+        "vi": "Rèn luyện năng lực tư duy độc lập là rất quan trọng.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "独立 không chỉ là sống một mình; nó còn dùng cho tư duy, hoàn thành công việc và khả năng tự chủ."
+    ],
+    "app_note_vi": "Hay dùng trong học tập, công việc và phát triển bản thân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "独立 nghĩa là gì?",
+        "answer": "độc lập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "培养____思考的能力很重要。",
+        "answer": "独立"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 独立 là gì?",
+        "answer": "独立思考"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_036",
+    "level": "HSK5",
+    "hanzi": "冷静",
+    "pinyin": "lěngjìng",
+    "display_meaning_vi": "bình tĩnh",
+    "meaning_en": "calm; composed",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "psychology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保持冷静 / 冷静下来 / 比较冷静",
+    "collocations": [
+      "保持冷静",
+      "冷静下来",
+      "头脑冷静"
+    ],
+    "near_synonyms": [
+      {
+        "word": "平静",
+        "difference_vi": "平静 thiên về yên tĩnh, không xáo động; 冷静 nhấn mạnh bình tĩnh, kiểm soát cảm xúc và suy nghĩ trong tình huống áp lực."
+      }
+    ],
+    "app_synonym_note_vi": "冷静 = bình tĩnh, giữ đầu óc tỉnh táo; 平静 = yên tĩnh, bình yên hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "遇到问题的时候，先冷静下来再想办法。",
+        "pinyin": "Yùdào wèntí de shíhou, xiān lěngjìng xiàlái zài xiǎng bànfǎ.",
+        "vi": "Khi gặp vấn đề, hãy bình tĩnh lại trước rồi mới nghĩ cách giải quyết.",
+        "context": "psychology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "冷静 thường dùng khi cần giữ đầu óc tỉnh táo; không phải chỉ đơn giản là “yên lặng” hay “bình yên”."
+    ],
+    "app_note_vi": "Hay gặp trong lời khuyên, tâm lý và xử lý vấn đề.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "冷静 nghĩa là gì?",
+        "answer": "bình tĩnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "先____下来再想办法。",
+        "answer": "冷静"
+      },
+      {
+        "type": "synonym",
+        "prompt": "冷静 khác 平静 như thế nào?",
+        "answer": "冷静 là bình tĩnh có kiểm soát; 平静 là yên tĩnh/bình yên."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_037",
+    "level": "HSK5",
+    "hanzi": "失望",
+    "pinyin": "shīwàng",
+    "display_meaning_vi": "thất vọng",
+    "meaning_en": "to be disappointed; disappointment",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "reaction"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对……失望 / 感到失望 / 让人失望",
+    "collocations": [
+      "感到失望",
+      "让人失望",
+      "对结果失望"
+    ],
+    "near_synonyms": [
+      {
+        "word": "灰心",
+        "difference_vi": "失望 nhấn mạnh cảm giác thất vọng trước kết quả hay người khác; 灰心 nhấn mạnh nản chí, mất tinh thần làm tiếp."
+      }
+    ],
+    "app_synonym_note_vi": "失望 = thất vọng; 灰心 = nản chí, mất động lực.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "虽然结果不理想，但你别太失望。",
+        "pinyin": "Suīrán jiéguǒ bù lǐxiǎng, dàn nǐ bié tài shīwàng.",
+        "vi": "Dù kết quả không như mong muốn, nhưng bạn đừng quá thất vọng.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "失望 không giống 灰心: một bên là thất vọng, một bên là nản chí và muốn bỏ cuộc."
+    ],
+    "app_note_vi": "Dùng khi phản ứng với kết quả, người khác hoặc kỳ vọng không đạt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "失望 nghĩa là gì?",
+        "answer": "thất vọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "虽然结果不理想，但你别太____。",
+        "answer": "失望"
+      },
+      {
+        "type": "synonym",
+        "prompt": "失望 khác 灰心 như thế nào?",
+        "answer": "失望 là thất vọng; 灰心 là nản chí, mất tinh thần tiếp tục."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_038",
+    "level": "HSK5",
+    "hanzi": "后悔",
+    "pinyin": "hòuhuǐ",
+    "display_meaning_vi": "hối hận",
+    "meaning_en": "to regret; regret",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "reflection"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "后悔 + 决定 / 没有 + verb",
+    "collocations": [
+      "感到后悔",
+      "后悔当初",
+      "后悔没有去"
+    ],
+    "near_synonyms": [
+      {
+        "word": "遗憾",
+        "difference_vi": "后悔 nhấn mạnh hối hận về lựa chọn của mình; 遗憾 thiên về tiếc nuối, không nhất thiết do lỗi cá nhân."
+      }
+    ],
+    "app_synonym_note_vi": "后悔 = hối hận; 遗憾 = tiếc nuối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "如果不努力，将来一定会后悔。",
+        "pinyin": "Rúguǒ bù nǔlì, jiānglái yídìng huì hòuhuǐ.",
+        "vi": "Nếu không cố gắng, sau này nhất định sẽ hối hận.",
+        "context": "reflection"
+      }
+    ],
+    "common_mistakes_vi": [
+      "后悔 thường liên quan tới lựa chọn hoặc việc đã làm; 遗憾 có sắc thái nhẹ hơn và rộng hơn."
+    ],
+    "app_note_vi": "Hay dùng trong tự nhìn lại bản thân và các quyết định đã qua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "后悔 nghĩa là gì?",
+        "answer": "hối hận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "如果不努力，将来一定会____。",
+        "answer": "后悔"
+      },
+      {
+        "type": "synonym",
+        "prompt": "后悔 khác 遗憾 như thế nào?",
+        "answer": "后悔 là hối hận; 遗憾 là tiếc nuối."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_039",
+    "level": "HSK5",
+    "hanzi": "满意",
+    "pinyin": "mǎnyì",
+    "display_meaning_vi": "hài lòng",
+    "meaning_en": "satisfied; satisfaction",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "evaluation"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对……满意 / 感到满意 / 不太满意",
+    "collocations": [
+      "非常满意",
+      "对结果满意",
+      "服务满意度"
+    ],
+    "near_synonyms": [
+      {
+        "word": "满足",
+        "difference_vi": "满意 nhấn mạnh cảm giác hài lòng; 满足 ngoài nghĩa thỏa mãn còn có thể nhấn mạnh việc đáp ứng nhu cầu/điều kiện."
+      }
+    ],
+    "app_synonym_note_vi": "满意 = hài lòng; 满足 = thỏa mãn/đáp ứng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "客户对这次服务很满意。",
+        "pinyin": "Kèhù duì zhè cì fúwù hěn mǎnyì.",
+        "vi": "Khách hàng rất hài lòng với lần phục vụ này.",
+        "context": "evaluation"
+      }
+    ],
+    "common_mistakes_vi": [
+      "满意 thường thiên về cảm giác hài lòng; 满足 có thể là đáp ứng nhu cầu hoặc điều kiện."
+    ],
+    "app_note_vi": "Hay gặp trong đánh giá chất lượng, dịch vụ và kết quả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "满意 nghĩa là gì?",
+        "answer": "hài lòng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "客户对这次服务很____。",
+        "answer": "满意"
+      },
+      {
+        "type": "synonym",
+        "prompt": "满意 khác 满足 như thế nào?",
+        "answer": "满意 là hài lòng; 满足 là thỏa mãn/đáp ứng."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_040",
+    "level": "HSK5",
+    "hanzi": "标题",
+    "pinyin": "biāotí",
+    "display_meaning_vi": "tiêu đề",
+    "meaning_en": "title; headline",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "media",
+      "reading"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "headline"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "标题 + 吸引人 / 简短 / 明确",
+    "collocations": [
+      "文章标题",
+      "新闻标题",
+      "标题明确"
+    ],
+    "near_synonyms": [
+      {
+        "word": "题目",
+        "difference_vi": "题目 rộng hơn, có thể là đề bài/chủ đề; 标题 thiên về tiêu đề của bài viết, tin tức hoặc nội dung."
+      }
+    ],
+    "app_synonym_note_vi": "标题 = tiêu đề bài viết/tin tức; 题目 = đề bài/chủ đề rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "好的标题往往能吸引读者继续看下去。",
+        "pinyin": "Hǎo de biāotí wǎngwǎng néng xīyǐn dúzhě jìxù kàn xiàqù.",
+        "vi": "Một tiêu đề hay thường có thể thu hút người đọc đọc tiếp.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "标题 không phải lúc nào cũng thay cho 题目; 标题 thiên về tiêu đề của văn bản hoặc tin tức."
+    ],
+    "app_note_vi": "Rất hữu ích cho đọc báo, bài viết và cấu trúc văn bản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "标题 nghĩa là gì?",
+        "answer": "tiêu đề"
+      },
+      {
+        "type": "cloze",
+        "prompt": "好的____往往能吸引读者继续看下去。",
+        "answer": "标题"
+      },
+      {
+        "type": "synonym",
+        "prompt": "标题 khác 题目 như thế nào?",
+        "answer": "标题 là tiêu đề bài viết/tin tức; 题目 là đề bài/chủ đề rộng hơn."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_041",
+    "level": "HSK5",
+    "hanzi": "报道",
+    "pinyin": "bàodào",
+    "display_meaning_vi": "đưa tin; bài đưa tin",
+    "meaning_en": "to report; report coverage",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "media",
+      "news"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "context"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "报道 + 新闻 / 事件 / 情况",
+    "collocations": [
+      "新闻报道",
+      "媒体报道",
+      "相关报道"
+    ],
+    "near_synonyms": [
+      {
+        "word": "报告",
+        "difference_vi": "报道 thiên về đưa tin cho công chúng; 报告 thiên về báo cáo hoặc trình bày cho một đối tượng cụ thể hơn."
+      }
+    ],
+    "app_synonym_note_vi": "报道 = đưa tin; 报告 = báo cáo / trình bày.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件事已经被多家媒体报道了。",
+        "pinyin": "Zhè jiàn shì yǐjīng bèi duō jiā méitǐ bàodào le.",
+        "vi": "Sự việc này đã được nhiều cơ quan truyền thông đưa tin.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng nhầm 报道 với 报告; một từ nghiêng về đưa tin, một từ nghiêng về báo cáo/trình bày."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc báo chí và truyền thông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "报道 nghĩa là gì?",
+        "answer": "đưa tin; bài đưa tin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件事已经被多家媒体____了。",
+        "answer": "报道"
+      },
+      {
+        "type": "synonym",
+        "prompt": "报道 khác 报告 như thế nào?",
+        "answer": "报道 là đưa tin; 报告 là báo cáo/trình bày."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_042",
+    "level": "HSK5",
+    "hanzi": "采访",
+    "pinyin": "cǎifǎng",
+    "display_meaning_vi": "phỏng vấn",
+    "meaning_en": "to interview; interview",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "media",
+      "communication"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "采访 + 对象 / 记者 / 过程",
+    "collocations": [
+      "接受采访",
+      "独家采访",
+      "记者采访"
+    ],
+    "near_synonyms": [
+      {
+        "word": "访问",
+        "difference_vi": "采访 thiên về phỏng vấn để lấy thông tin; 访问 thiên về thăm viếng, tiếp xúc hoặc visit chính thức hơn."
+      }
+    ],
+    "app_synonym_note_vi": "采访 = phỏng vấn; 访问 = thăm/tiếp xúc chính thức hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这位作家最近接受了一次电视采访。",
+        "pinyin": "Zhè wèi zuòjiā zuìjìn jiēshòu le yí cì diànshì cǎifǎng.",
+        "vi": "Nhà văn này gần đây đã nhận một cuộc phỏng vấn truyền hình.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "采访 thường gắn với nhà báo/truyền thông; không nên thay bằng 访问 trong mọi ngữ cảnh."
+    ],
+    "app_note_vi": "Hay đi với 接受采访 và 记者采访.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "采访 nghĩa là gì?",
+        "answer": "phỏng vấn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这位作家最近接受了一次电视____。",
+        "answer": "采访"
+      },
+      {
+        "type": "collocation",
+        "prompt": "Một collocation tự nhiên với 采访 là gì?",
+        "answer": "接受采访"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_043",
+    "level": "HSK5",
+    "hanzi": "资料",
+    "pinyin": "zīliào",
+    "display_meaning_vi": "tư liệu; tài liệu",
+    "meaning_en": "materials; data; reference materials",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study",
+      "reading",
+      "academic"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "资料 + 收集 / 整理 / 查阅",
+    "collocations": [
+      "收集资料",
+      "参考资料",
+      "查找资料"
+    ],
+    "near_synonyms": [
+      {
+        "word": "材料",
+        "difference_vi": "资料 thiên về tư liệu, thông tin để tra cứu; 材料 rộng hơn, có thể là tài liệu hoặc vật liệu/nguyên liệu."
+      }
+    ],
+    "app_synonym_note_vi": "资料 = tư liệu/thông tin tra cứu; 材料 = tài liệu hoặc vật liệu rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "写报告之前，需要先收集相关资料。",
+        "pinyin": "Xiě bàogào zhīqián, xūyào xiān shōují xiāngguān zīliào.",
+        "vi": "Trước khi viết báo cáo, cần thu thập tư liệu liên quan trước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "资料 không phải lúc nào cũng là “tài liệu giấy”; nó có thể là thông tin, dữ liệu để tra cứu."
+    ],
+    "app_note_vi": "Rất hữu ích trong học tập, đọc hiểu và viết báo cáo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "资料 nghĩa là gì?",
+        "answer": "tư liệu; tài liệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "写报告之前，需要先收集相关____。",
+        "answer": "资料"
+      },
+      {
+        "type": "synonym",
+        "prompt": "资料 khác 材料 như thế nào?",
+        "answer": "资料 là tư liệu/thông tin; 材料 rộng hơn và có thể là vật liệu."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_044",
+    "level": "HSK5",
+    "hanzi": "内容",
+    "pinyin": "nèiróng",
+    "display_meaning_vi": "nội dung",
+    "meaning_en": "content",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "media",
+      "reading",
+      "academic"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "内容 + 丰富 / 详细 / 主要",
+    "collocations": [
+      "主要内容",
+      "内容丰富",
+      "详细内容"
+    ],
+    "near_synonyms": [
+      {
+        "word": "信息",
+        "difference_vi": "内容 là nội dung toàn thể; 信息 thường là thông tin cụ thể, từng mẩu dữ liệu."
+      }
+    ],
+    "app_synonym_note_vi": "内容 = nội dung tổng thể; 信息 = thông tin cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本书的内容很丰富，值得一读。",
+        "pinyin": "Zhè běn shū de nèiróng hěn fēngfù, zhídé yì dú.",
+        "vi": "Nội dung của cuốn sách này rất phong phú, đáng để đọc.",
+        "context": "reading"
+      }
+    ],
+    "common_mistakes_vi": [
+      "内容 là nội dung nói chung; đừng luôn thay bằng 信息 nếu đang nói về tổng thể bài viết, sách hay chương trình."
+    ],
+    "app_note_vi": "Là từ nền rất hay gặp trong bài viết, sách và truyền thông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "内容 nghĩa là gì?",
+        "answer": "nội dung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这本书的____很丰富，值得一读。",
+        "answer": "内容"
+      },
+      {
+        "type": "synonym",
+        "prompt": "内容 khác 信息 như thế nào?",
+        "answer": "内容 là nội dung tổng thể; 信息 là thông tin cụ thể."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_045",
+    "level": "HSK5",
+    "hanzi": "结构",
+    "pinyin": "jiégòu",
+    "display_meaning_vi": "cấu trúc",
+    "meaning_en": "structure",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "reading",
+      "writing",
+      "analysis"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "formal"
+    ],
+    "register": "formal",
+    "grammar_pattern": "结构 + 清楚 / 合理 / 复杂",
+    "collocations": [
+      "文章结构",
+      "结构清楚",
+      "句子结构"
+    ],
+    "near_synonyms": [
+      {
+        "word": "形式",
+        "difference_vi": "结构 nhấn mạnh cách các phần được tổ chức bên trong; 形式 thiên về hình thức hoặc cách biểu hiện bề ngoài."
+      }
+    ],
+    "app_synonym_note_vi": "结构 = cấu trúc bên trong; 形式 = hình thức thể hiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这篇文章的结构很清楚，读起来很容易。",
+        "pinyin": "Zhè piān wénzhāng de jiégòu hěn qīngchu, dú qǐlái hěn róngyì.",
+        "vi": "Cấu trúc của bài viết này rất rõ ràng, đọc lên rất dễ hiểu.",
+        "context": "writing"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结构 không chỉ dùng trong kỹ thuật; còn rất hay dùng trong bài viết, câu văn và logic trình bày."
+    ],
+    "app_note_vi": "Rất quan trọng khi đọc viết và phân tích văn bản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "结构 nghĩa là gì?",
+        "answer": "cấu trúc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这篇文章的____很清楚。",
+        "answer": "结构"
+      },
+      {
+        "type": "synonym",
+        "prompt": "结构 khác 形式 như thế nào?",
+        "answer": "结构 là cấu trúc bên trong; 形式 là hình thức thể hiện."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_046",
+    "level": "HSK5",
+    "hanzi": "正式",
+    "pinyin": "zhèngshì",
+    "display_meaning_vi": "trang trọng; chính thức",
+    "meaning_en": "formal; official",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "register",
+      "formal"
+    ],
+    "exam_tags": [
+      "meaning",
+      "register",
+      "usage"
+    ],
+    "register": "formal",
+    "grammar_pattern": "正式 + 场合 / 文件 / 开始",
+    "collocations": [
+      "正式场合",
+      "正式文件",
+      "正式开始"
+    ],
+    "near_synonyms": [
+      {
+        "word": "正式的",
+        "difference_vi": "正式 tự bản thân đã là tính từ; 正式的 chỉ là hình thức đầy đủ khi bổ nghĩa trực tiếp, không khác nghĩa cốt lõi."
+      }
+    ],
+    "app_synonym_note_vi": "正式 = trang trọng/chính thức; thường dùng trong ngữ cảnh formal.",
+    "antonyms": [
+      "随便"
+    ],
+    "example_sentences": [
+      {
+        "zh": "在正式场合，说话要注意语气。",
+        "pinyin": "Zài zhèngshì chǎnghé, shuōhuà yào zhùyì yǔqì.",
+        "vi": "Trong những dịp trang trọng, cần chú ý đến cách nói chuyện.",
+        "context": "register"
+      }
+    ],
+    "common_mistakes_vi": [
+      "正式 thường nói về mức độ trang trọng/chính thức của ngữ cảnh, tài liệu hoặc cách biểu đạt."
+    ],
+    "app_note_vi": "Từ nền quan trọng để phân biệt register ở HSK5.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "正式 nghĩa là gì?",
+        "answer": "trang trọng; chính thức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "在____场合，说话要注意语气。",
+        "answer": "正式"
+      },
+      {
+        "type": "register",
+        "prompt": "正式 thường dùng trong kiểu ngữ cảnh nào?",
+        "answer": "formal / official context"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_047",
+    "level": "HSK5",
+    "hanzi": "甚至",
+    "pinyin": "shènzhì",
+    "display_meaning_vi": "thậm chí",
+    "meaning_en": "even; to the extent that",
+    "part_of_speech": "adverb/conjunction",
+    "difficulty": 3,
+    "topic_tags": [
+      "connector",
+      "reading"
+    ],
+    "exam_tags": [
+      "reading",
+      "cloze",
+      "logic"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "甚至 + 还 / 都 / 连",
+    "collocations": [
+      "甚至还",
+      "甚至都",
+      "甚至连"
+    ],
+    "near_synonyms": [
+      {
+        "word": "连",
+        "difference_vi": "甚至 nhấn mạnh mức độ vượt hơn mong đợi; 连 thường đi trong cấu trúc nhấn mạnh “ngay cả… cũng…”."
+      }
+    ],
+    "app_synonym_note_vi": "甚至 = thậm chí; 连 = ngay cả… cũng…",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他太忙了，甚至连饭都没时间吃。",
+        "pinyin": "Tā tài máng le, shènzhì lián fàn dōu méi shíjiān chī.",
+        "vi": "Anh ấy bận đến mức thậm chí cả ăn cơm cũng không có thời gian.",
+        "context": "connector"
+      }
+    ],
+    "common_mistakes_vi": [
+      "甚至 thường nhấn mạnh mức độ bất ngờ hoặc vượt mong đợi; đừng dùng như một từ nối chung chung."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc và câu nhấn mạnh mức độ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "甚至 nghĩa là gì?",
+        "answer": "thậm chí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他太忙了，____连饭都没时间吃。",
+        "answer": "甚至"
+      },
+      {
+        "type": "usage",
+        "prompt": "甚至 thường nhấn mạnh điều gì?",
+        "answer": "mức độ vượt mong đợi / gây bất ngờ"
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_048",
+    "level": "HSK5",
+    "hanzi": "此外",
+    "pinyin": "cǐwài",
+    "display_meaning_vi": "ngoài ra; hơn nữa",
+    "meaning_en": "besides; in addition",
+    "part_of_speech": "connector",
+    "difficulty": 3,
+    "topic_tags": [
+      "connector",
+      "formal"
+    ],
+    "exam_tags": [
+      "reading",
+      "cloze",
+      "writing"
+    ],
+    "register": "formal",
+    "grammar_pattern": "此外，…… / 除此之外",
+    "collocations": [
+      "此外",
+      "除此之外",
+      "此外还"
+    ],
+    "near_synonyms": [
+      {
+        "word": "另外",
+        "difference_vi": "此外 formal hơn, hay gặp trong viết và đọc; 另外 dùng rộng hơn trong văn nói lẫn văn viết."
+      }
+    ],
+    "app_synonym_note_vi": "此外 = ngoài ra (formal hơn); 另外 = ngoài ra, dùng rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家餐厅环境不错，此外，服务也很好。",
+        "pinyin": "Zhè jiā cāntīng huánjìng búcuò, cǐwài, fúwù yě hěn hǎo.",
+        "vi": "Nhà hàng này có môi trường khá tốt, ngoài ra dịch vụ cũng rất tốt.",
+        "context": "formal connector"
+      }
+    ],
+    "common_mistakes_vi": [
+      "此外 thường phù hợp hơn trong văn viết hoặc văn đọc formal; 另外 linh hoạt hơn trong nói hằng ngày."
+    ],
+    "app_note_vi": "Từ nối rất hữu ích cho writing và reading formal.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "此外 nghĩa là gì?",
+        "answer": "ngoài ra; hơn nữa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家餐厅环境不错，____，服务也很好。",
+        "answer": "此外"
+      },
+      {
+        "type": "register",
+        "prompt": "此外 hay 另外 formal hơn?",
+        "answer": "此外 formal hơn."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_049",
+    "level": "HSK5",
+    "hanzi": "普遍",
+    "pinyin": "pǔbiàn",
+    "display_meaning_vi": "phổ biến",
+    "meaning_en": "common; widespread",
+    "part_of_speech": "adjective/adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "formal",
+      "society",
+      "reading"
+    ],
+    "exam_tags": [
+      "reading",
+      "meaning",
+      "usage"
+    ],
+    "register": "formal",
+    "grammar_pattern": "普遍 + 存在 / 认为 / 现象",
+    "collocations": [
+      "普遍存在",
+      "普遍认为",
+      "普遍现象"
+    ],
+    "near_synonyms": [
+      {
+        "word": "常见",
+        "difference_vi": "常见 gần gũi hơn và thiên về “thường thấy”; 普遍 formal hơn, dùng khi nói tính phổ biến rộng ở mức xã hội/khái quát."
+      }
+    ],
+    "app_synonym_note_vi": "普遍 = phổ biến rộng; 常见 = thường thấy.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种看法在年轻人中比较普遍。",
+        "pinyin": "Zhè zhǒng kànfǎ zài niánqīngrén zhōng bǐjiào pǔbiàn.",
+        "vi": "Cách nhìn này khá phổ biến trong giới trẻ.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "普遍 formal hơn 常见; đừng luôn thay thế hai từ này cho nhau trong mọi ngữ cảnh."
+    ],
+    "app_note_vi": "Rất hay gặp trong đọc hiểu, xã hội và bài viết khái quát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "普遍 nghĩa là gì?",
+        "answer": "phổ biến"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种看法在年轻人中比较____。",
+        "answer": "普遍"
+      },
+      {
+        "type": "synonym",
+        "prompt": "普遍 khác 常见 như thế nào?",
+        "answer": "普遍 formal và rộng hơn; 常见 gần gũi hơn, thiên về thường thấy."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch1_050",
+    "level": "HSK5",
+    "hanzi": "形成",
+    "pinyin": "xíngchéng",
+    "display_meaning_vi": "hình thành",
+    "meaning_en": "to form; to take shape",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "process",
+      "reading",
+      "formal"
+    ],
+    "exam_tags": [
+      "reading",
+      "cloze",
+      "meaning"
+    ],
+    "register": "formal",
+    "grammar_pattern": "形成 + 习惯 / 结构 / 共识",
+    "collocations": [
+      "形成习惯",
+      "形成结构",
+      "形成共识"
+    ],
+    "near_synonyms": [
+      {
+        "word": "产生",
+        "difference_vi": "形成 thiên về quá trình dần tạo thành trạng thái/cấu trúc; 产生 thiên về phát sinh hoặc sinh ra kết quả/tác động."
+      }
+    ],
+    "app_synonym_note_vi": "形成 = dần hình thành; 产生 = phát sinh/sinh ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "良好的学习习惯不是一天就能形成的。",
+        "pinyin": "Liánghǎo de xuéxí xíguàn bú shì yì tiān jiù néng xíngchéng de.",
+        "vi": "Thói quen học tập tốt không thể hình thành chỉ trong một ngày.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "形成 nhấn mạnh quá trình dần dần tạo thành; không phải lúc nào cũng giống 产生."
+    ],
+    "app_note_vi": "Hay dùng để nói quá trình hình thành thói quen, cấu trúc hoặc đồng thuận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "形成 nghĩa là gì?",
+        "answer": "hình thành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "良好的学习习惯不是一天就能____的。",
+        "answer": "形成"
+      },
+      {
+        "type": "synonym",
+        "prompt": "形成 khác 产生 như thế nào?",
+        "answer": "形成 là dần hình thành; 产生 là phát sinh/sinh ra."
+      }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
