@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch2_061",
+    "level": "HSK5",
+    "hanzi": "表示",
+    "pinyin": "biǎoshì",
+    "display_meaning_vi": "biểu thị; bày tỏ",
+    "meaning_en": "to express; to indicate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["communication", "formal"],
+    "exam_tags": ["meaning", "usage", "reading"],
+    "register": "neutral",
+    "grammar_pattern": "表示 + 感谢 / 意见 / 态度",
+    "collocations": ["表示感谢", "表示意见", "表示支持"],
+    "near_synonyms": [
+      {
+        "word": "表达",
+        "difference_vi": "表示 thường dùng cho việc bày tỏ một thái độ, ý kiến hoặc cảm xúc cụ thể; 表达 rộng hơn, thiên về diễn đạt nội dung hoặc ý tưởng."
+      }
+    ],
+    "app_synonym_note_vi": "表示 = bày tỏ cụ thể; 表达 = diễn đạt rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他对大家的帮助表示感谢。",
+        "pinyin": "Tā duì dàjiā de bāngzhù biǎoshì gǎnxiè.",
+        "vi": "Anh ấy bày tỏ sự cảm ơn đối với sự giúp đỡ của mọi người.",
+        "context": "formal"
+      }
+    ],
+    "common_mistakes_vi": [
+      "表示 thường dùng rất tự nhiên với cảm ơn, ủng hộ, ý kiến; không nên thay bằng 表达 trong mọi ngữ cảnh."
+    ],
+    "app_note_vi": "Hay gặp trong phát biểu, văn viết và câu thông báo trang trọng.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "表示 nghĩa là gì?", "answer": "biểu thị; bày tỏ" },
+      { "type": "cloze", "prompt": "他对大家的帮助____感谢。", "answer": "表示" },
+      { "type": "synonym", "prompt": "表示 khác 表达 như thế nào?", "answer": "表示 là bày tỏ cụ thể; 表达 là diễn đạt rộng hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_062",
+    "level": "HSK5",
+    "hanzi": "产生",
+    "pinyin": "chǎnshēng",
+    "display_meaning_vi": "sinh ra; tạo ra",
+    "meaning_en": "to produce; to generate",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["process", "cause-effect"],
+    "exam_tags": ["reading", "cloze", "collocation"],
+    "register": "formal",
+    "grammar_pattern": "产生 + 影响 / 变化 / 兴趣",
+    "collocations": ["产生影响", "产生兴趣", "产生变化"],
+    "near_synonyms": [
+      {
+        "word": "形成",
+        "difference_vi": "产生 thiên về phát sinh hoặc tạo ra một kết quả/tác động; 形成 thiên về quá trình dần hình thành một trạng thái hoặc cấu trúc."
+      }
+    ],
+    "app_synonym_note_vi": "产生 = sinh ra/tạo ra; 形成 = dần hình thành.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种做法可能会产生新的问题。",
+        "pinyin": "Zhè zhǒng zuòfǎ kěnéng huì chǎnshēng xīn de wèntí.",
+        "vi": "Cách làm này có thể tạo ra những vấn đề mới.",
+        "context": "cause-effect"
+      }
+    ],
+    "common_mistakes_vi": [
+      "产生 thường đi với kết quả, ảnh hưởng, hứng thú; không nhấn mạnh quá trình dần dần như 形成."
+    ],
+    "app_note_vi": "Rất hữu ích trong câu nhân quả, phân tích và reading formal.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "产生 nghĩa là gì?", "answer": "sinh ra; tạo ra" },
+      { "type": "cloze", "prompt": "这种做法可能会____新的问题。", "answer": "产生" },
+      { "type": "synonym", "prompt": "产生 khác 形成 như thế nào?", "answer": "产生 là sinh ra/tạo ra; 形成 là dần hình thành." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_063",
+    "level": "HSK5",
+    "hanzi": "态度",
+    "pinyin": "tàidu",
+    "display_meaning_vi": "thái độ",
+    "meaning_en": "attitude; stance",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["communication", "society"],
+    "exam_tags": ["meaning", "reading", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "态度 + 明确 / 积极 / 消极",
+    "collocations": ["明确态度", "积极态度", "工作态度"],
+    "near_synonyms": [
+      {
+        "word": "看法",
+        "difference_vi": "看法 thiên về quan điểm/cách nhìn; 态度 nhấn mạnh thái độ, cách phản ứng hoặc lập trường đối với một việc."
+      }
+    ],
+    "app_synonym_note_vi": "态度 = thái độ/lập trường; 看法 = quan điểm/cách nhìn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他的工作态度一直很认真。",
+        "pinyin": "Tā de gōngzuò tàidu yìzhí hěn rènzhēn.",
+        "vi": "Thái độ làm việc của anh ấy luôn rất nghiêm túc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "态度 không đơn thuần là ý kiến; nó nghiêng về cách ứng xử và lập trường thể hiện ra ngoài."
+    ],
+    "app_note_vi": "Hay dùng trong học tập, công việc và đánh giá con người.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "态度 nghĩa là gì?", "answer": "thái độ" },
+      { "type": "cloze", "prompt": "他的工作____一直很认真。", "answer": "态度" },
+      { "type": "synonym", "prompt": "态度 khác 看法 như thế nào?", "answer": "态度 là thái độ/lập trường; 看法 là quan điểm/cách nhìn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_064",
+    "level": "HSK5",
+    "hanzi": "措施",
+    "pinyin": "cuòshī",
+    "display_meaning_vi": "biện pháp",
+    "meaning_en": "measure; step taken",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["policy", "problem solving"],
+    "exam_tags": ["reading", "cloze", "collocation"],
+    "register": "formal",
+    "grammar_pattern": "采取措施 / 有效措施 / 应对措施",
+    "collocations": ["采取措施", "有效措施", "应对措施"],
+    "near_synonyms": [
+      {
+        "word": "办法",
+        "difference_vi": "办法 gần với cách giải quyết hằng ngày; 措施 formal hơn, thường dùng cho biện pháp mang tính chính sách hoặc kế hoạch hành động."
+      }
+    ],
+    "app_synonym_note_vi": "措施 = biện pháp (formal hơn); 办法 = cách giải quyết gần gũi hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "为了减少浪费，公司采取了新的措施。",
+        "pinyin": "Wèile jiǎnshǎo làngfèi, gōngsī cǎiqǔ le xīn de cuòshī.",
+        "vi": "Để giảm lãng phí, công ty đã áp dụng những biện pháp mới.",
+        "context": "policy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "措施 thường formal hơn 办法 và hay đi với 采取."
+    ],
+    "app_note_vi": "Rất hay gặp trong công việc, quản lý, môi trường và chính sách.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "措施 nghĩa là gì?", "answer": "biện pháp" },
+      { "type": "cloze", "prompt": "公司采取了新的____。", "answer": "措施" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 措施 là gì?", "answer": "采取措施" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_065",
+    "level": "HSK5",
+    "hanzi": "调整",
+    "pinyin": "tiáozhěng",
+    "display_meaning_vi": "điều chỉnh",
+    "meaning_en": "to adjust; adjustment",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["work", "planning", "change"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "调整 + 计划 / 结构 / 心态",
+    "collocations": ["调整计划", "调整结构", "及时调整"],
+    "near_synonyms": [
+      {
+        "word": "改变",
+        "difference_vi": "改变 là thay đổi nói chung; 调整 nhấn mạnh điều chỉnh lại cho phù hợp hơn, thường nhỏ hơn hoặc mang tính tối ưu."
+      }
+    ],
+    "app_synonym_note_vi": "调整 = điều chỉnh cho phù hợp; 改变 = thay đổi nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "根据新的情况，我们需要调整计划。",
+        "pinyin": "Gēnjù xīn de qíngkuàng, wǒmen xūyào tiáozhěng jìhuà.",
+        "vi": "Dựa trên tình hình mới, chúng ta cần điều chỉnh kế hoạch.",
+        "context": "planning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "调整 thường hàm ý thay đổi có mục đích để phù hợp hơn, không phải thay đổi chung chung như 改变."
+    ],
+    "app_note_vi": "Hay dùng trong kế hoạch, công việc, tâm lý và cấu trúc tổ chức.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "调整 nghĩa là gì?", "answer": "điều chỉnh" },
+      { "type": "cloze", "prompt": "我们需要____计划。", "answer": "调整" },
+      { "type": "synonym", "prompt": "调整 khác 改变 như thế nào?", "answer": "调整 là điều chỉnh cho phù hợp; 改变 là thay đổi nói chung." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_066",
+    "level": "HSK5",
+    "hanzi": "重视",
+    "pinyin": "zhòngshì",
+    "display_meaning_vi": "coi trọng",
+    "meaning_en": "to attach importance to; to value",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["values", "work", "education"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "重视 + 问题 / 教育 / 发展",
+    "collocations": ["重视教育", "重视问题", "高度重视"],
+    "near_synonyms": [
+      {
+        "word": "关注",
+        "difference_vi": "关注 là quan tâm/chú ý; 重视 mạnh hơn, nhấn mạnh coi trọng và xem một việc là quan trọng."
+      }
+    ],
+    "app_synonym_note_vi": "重视 = coi trọng; 关注 = quan tâm/chú ý.",
+    "antonyms": ["忽视"],
+    "example_sentences": [
+      {
+        "zh": "学校越来越重视学生的心理健康。",
+        "pinyin": "Xuéxiào yuèláiyuè zhòngshì xuéshēng de xīnlǐ jiànkāng.",
+        "vi": "Nhà trường ngày càng coi trọng sức khỏe tinh thần của học sinh.",
+        "context": "education"
+      }
+    ],
+    "common_mistakes_vi": [
+      "重视 mạnh hơn 关注; nó không chỉ là để ý mà là coi là quan trọng."
+    ],
+    "app_note_vi": "Hay gặp trong giáo dục, chính sách, công việc và giá trị xã hội.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "重视 nghĩa là gì?", "answer": "coi trọng" },
+      { "type": "cloze", "prompt": "学校越来越____学生的心理健康。", "answer": "重视" },
+      { "type": "synonym", "prompt": "重视 khác 关注 như thế nào?", "answer": "重视 là coi trọng; 关注 là quan tâm/chú ý." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_067",
+    "level": "HSK5",
+    "hanzi": "贡献",
+    "pinyin": "gòngxiàn",
+    "display_meaning_vi": "đóng góp; cống hiến",
+    "meaning_en": "contribution; to contribute",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": ["society", "work", "values"],
+    "exam_tags": ["reading", "meaning", "formal"],
+    "register": "formal",
+    "grammar_pattern": "做出贡献 / 贡献力量 / 重要贡献",
+    "collocations": ["做出贡献", "重要贡献", "贡献力量"],
+    "near_synonyms": [
+      {
+        "word": "付出",
+        "difference_vi": "付出 thiên về bỏ công sức, chi trả, hy sinh; 贡献 nhấn mạnh sự đóng góp có giá trị cho tập thể, lĩnh vực hoặc xã hội."
+      }
+    ],
+    "app_synonym_note_vi": "贡献 = đóng góp có giá trị; 付出 = bỏ công sức, chi ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他为这个项目做出了很大的贡献。",
+        "pinyin": "Tā wèi zhège xiàngmù zuòchū le hěn dà de gòngxiàn.",
+        "vi": "Anh ấy đã có đóng góp rất lớn cho dự án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "贡献 không chỉ là “giúp đỡ”; nó nhấn mạnh giá trị đóng góp có ý nghĩa cho người khác hoặc tổ chức."
+    ],
+    "app_note_vi": "Hữu ích trong công việc, xã hội, thành tựu và đánh giá vai trò.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "贡献 nghĩa là gì?", "answer": "đóng góp; cống hiến" },
+      { "type": "cloze", "prompt": "他为这个项目做出了很大的____。", "answer": "贡献" },
+      { "type": "synonym", "prompt": "贡献 khác 付出 như thế nào?", "answer": "贡献 là đóng góp có giá trị; 付出 là bỏ công sức/chi ra." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_068",
+    "level": "HSK5",
+    "hanzi": "资源",
+    "pinyin": "zīyuán",
+    "display_meaning_vi": "nguồn lực; tài nguyên",
+    "meaning_en": "resource",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["work", "society", "economy"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "formal",
+    "grammar_pattern": "资源 + 分配 / 利用 / 不足",
+    "collocations": ["人力资源", "自然资源", "合理利用资源"],
+    "near_synonyms": [
+      {
+        "word": "材料",
+        "difference_vi": "材料 thiên về tài liệu, vật liệu cụ thể; 资源 rộng hơn, nhấn mạnh nguồn lực có thể sử dụng hoặc khai thác."
+      }
+    ],
+    "app_synonym_note_vi": "资源 = nguồn lực/tài nguyên; 材料 = tài liệu/vật liệu cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "教育资源分配不均会影响学生的发展。",
+        "pinyin": "Jiàoyù zīyuán fēnpèi bù jūn huì yǐngxiǎng xuéshēng de fāzhǎn.",
+        "vi": "Sự phân bổ nguồn lực giáo dục không đồng đều sẽ ảnh hưởng đến sự phát triển của học sinh.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "资源 thường là “nguồn lực/tài nguyên” mang tính hệ thống; không phải chỉ là vật liệu cụ thể."
+    ],
+    "app_note_vi": "Rất hay gặp trong giáo dục, kinh tế, môi trường và quản lý.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "资源 nghĩa là gì?", "answer": "nguồn lực; tài nguyên" },
+      { "type": "cloze", "prompt": "教育____分配不均会影响学生的发展。", "answer": "资源" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 资源 là gì?", "answer": "人力资源" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_069",
+    "level": "HSK5",
+    "hanzi": "改善",
+    "pinyin": "gǎishàn",
+    "display_meaning_vi": "cải thiện",
+    "meaning_en": "to improve; to make better",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["growth", "problem solving"],
+    "exam_tags": ["meaning", "cloze", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "改善 + 生活 / 条件 / 环境",
+    "collocations": ["改善生活", "改善条件", "改善环境"],
+    "near_synonyms": [
+      {
+        "word": "提高",
+        "difference_vi": "提高 thiên về nâng cao mức độ, tiêu chuẩn hoặc hiệu suất; 改善 thiên về làm cho tình hình/điều kiện tốt hơn."
+      }
+    ],
+    "app_synonym_note_vi": "改善 = cải thiện tình hình/điều kiện; 提高 = nâng cao mức độ/tiêu chuẩn.",
+    "antonyms": ["恶化"],
+    "example_sentences": [
+      {
+        "zh": "我们需要采取办法改善目前的情况。",
+        "pinyin": "Wǒmen xūyào cǎiqǔ bànfǎ gǎishàn mùqián de qíngkuàng.",
+        "vi": "Chúng ta cần áp dụng biện pháp để cải thiện tình hình hiện tại.",
+        "context": "problem solving"
+      }
+    ],
+    "common_mistakes_vi": [
+      "改善 không hoàn toàn giống 提高; một bên là làm tốt hơn tình trạng, một bên là nâng cao mức độ."
+    ],
+    "app_note_vi": "Rất thực dụng trong chủ đề giải pháp, xã hội và chất lượng sống.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "改善 nghĩa là gì?", "answer": "cải thiện" },
+      { "type": "cloze", "prompt": "我们需要采取办法____目前的情况。", "answer": "改善" },
+      { "type": "synonym", "prompt": "改善 khác 提高 như thế nào?", "answer": "改善 là cải thiện tình hình; 提高 là nâng cao mức độ/tiêu chuẩn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_070",
+    "level": "HSK5",
+    "hanzi": "吸引",
+    "pinyin": "xīyǐn",
+    "display_meaning_vi": "thu hút",
+    "meaning_en": "to attract",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["media", "society", "communication"],
+    "exam_tags": ["meaning", "reading", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "吸引 + 注意 / 读者 / 游客",
+    "collocations": ["吸引注意", "吸引读者", "吸引游客"],
+    "near_synonyms": [
+      {
+        "word": "引起",
+        "difference_vi": "吸引 thiên về lôi cuốn, làm người khác chú ý hoặc thích; 引起 thiên về gây ra một phản ứng, hiện tượng hoặc sự chú ý."
+      }
+    ],
+    "app_synonym_note_vi": "吸引 = thu hút/lôi cuốn; 引起 = gây ra hoặc làm nảy sinh phản ứng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个标题很容易吸引读者的注意。",
+        "pinyin": "Zhège biāotí hěn róngyì xīyǐn dúzhě de zhùyì.",
+        "vi": "Tiêu đề này rất dễ thu hút sự chú ý của người đọc.",
+        "context": "media"
+      }
+    ],
+    "common_mistakes_vi": [
+      "吸引 thiên về lôi cuốn; 引起 thường thiên về gây ra phản ứng hay kết quả nào đó."
+    ],
+    "app_note_vi": "Từ rất hay dùng trong tiêu đề, quảng bá, truyền thông và mô tả sự chú ý.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "吸引 nghĩa là gì?", "answer": "thu hút" },
+      { "type": "cloze", "prompt": "这个标题很容易____读者的注意。", "answer": "吸引" },
+      { "type": "synonym", "prompt": "吸引 khác 引起 như thế nào?", "answer": "吸引 là thu hút/lôi cuốn; 引起 là gây ra phản ứng hoặc hiện tượng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]

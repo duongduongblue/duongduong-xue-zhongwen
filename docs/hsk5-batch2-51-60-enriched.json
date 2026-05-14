@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch2_051",
+    "level": "HSK5",
+    "hanzi": "传统",
+    "pinyin": "chuántǒng",
+    "display_meaning_vi": "truyền thống",
+    "meaning_en": "tradition; traditional",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": ["culture", "society"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "neutral",
+    "grammar_pattern": "传统 + 文化 / 观念 / 方式",
+    "collocations": ["传统文化", "传统观念", "传统方式"],
+    "near_synonyms": [
+      {
+        "word": "习俗",
+        "difference_vi": "传统 là truyền thống theo nghĩa rộng hơn, có thể là tư tưởng, văn hóa, cách làm; 习俗 thiên về phong tục, tập quán cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "传统 = truyền thống rộng; 习俗 = phong tục/tập quán cụ thể.",
+    "antonyms": ["现代"],
+    "example_sentences": [
+      {
+        "zh": "这座城市保留了很多传统文化。",
+        "pinyin": "Zhè zuò chéngshì bǎoliú le hěn duō chuántǒng wénhuà.",
+        "vi": "Thành phố này vẫn giữ lại rất nhiều văn hóa truyền thống.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng thu hẹp 传统 chỉ vào phong tục; nó còn dùng cho quan niệm, cách làm, tư tưởng mang tính truyền lại."
+    ],
+    "app_note_vi": "Hay gặp trong chủ đề văn hóa, xã hội và so sánh truyền thống - hiện đại.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "传统 nghĩa là gì?", "answer": "truyền thống" },
+      { "type": "cloze", "prompt": "这座城市保留了很多____文化。", "answer": "传统" },
+      { "type": "synonym", "prompt": "传统 khác 习俗 như thế nào?", "answer": "传统 rộng hơn; 习俗 thiên về phong tục cụ thể." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_052",
+    "level": "HSK5",
+    "hanzi": "现代",
+    "pinyin": "xiàndài",
+    "display_meaning_vi": "hiện đại",
+    "meaning_en": "modern",
+    "part_of_speech": "adjective/noun",
+    "difficulty": 2,
+    "topic_tags": ["society", "culture"],
+    "exam_tags": ["reading", "meaning"],
+    "register": "neutral",
+    "grammar_pattern": "现代 + 社会 / 生活 / 技术",
+    "collocations": ["现代社会", "现代生活", "现代技术"],
+    "near_synonyms": [
+      {
+        "word": "当代",
+        "difference_vi": "现代 nhấn mạnh tính hiện đại / modern; 当代 thiên về “đương đại”, thời đại hiện nay."
+      }
+    ],
+    "app_synonym_note_vi": "现代 = hiện đại; 当代 = đương đại, thuộc thời nay.",
+    "antonyms": ["传统"],
+    "example_sentences": [
+      {
+        "zh": "现代技术已经改变了人们的生活方式。",
+        "pinyin": "Xiàndài jìshù yǐjīng gǎibiàn le rénmen de shēnghuó fāngshì.",
+        "vi": "Công nghệ hiện đại đã thay đổi cách sống của con người.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "现代 thường nói về tính hiện đại; không phải lúc nào cũng thay cho 当代 trong văn đọc."
+    ],
+    "app_note_vi": "Thường đi cùng xã hội, công nghệ, đời sống hiện đại.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "现代 nghĩa là gì?", "answer": "hiện đại" },
+      { "type": "cloze", "prompt": "____技术已经改变了人们的生活方式。", "answer": "现代" },
+      { "type": "synonym", "prompt": "现代 khác 当代 như thế nào?", "answer": "现代 nhấn mạnh tính modern; 当代 nhấn mạnh thời đại hiện nay." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_053",
+    "level": "HSK5",
+    "hanzi": "发表",
+    "pinyin": "fābiǎo",
+    "display_meaning_vi": "phát biểu; công bố",
+    "meaning_en": "to publish; to express; to deliver",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["formal", "media", "academic"],
+    "exam_tags": ["reading", "meaning", "collocation"],
+    "register": "formal",
+    "grammar_pattern": "发表 + 文章 / 看法 / 演讲",
+    "collocations": ["发表文章", "发表看法", "发表演讲"],
+    "near_synonyms": [
+      {
+        "word": "表达",
+        "difference_vi": "表达 thiên về diễn đạt chung; 发表 thường trang trọng hơn, dùng khi công bố hoặc phát biểu chính thức."
+      }
+    ],
+    "app_synonym_note_vi": "发表 = phát biểu/công bố trang trọng; 表达 = diễn đạt nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在会议上发表了自己的看法。",
+        "pinyin": "Tā zài huìyì shàng fābiǎo le zìjǐ de kànfǎ.",
+        "vi": "Anh ấy đã phát biểu quan điểm của mình trong cuộc họp.",
+        "context": "formal"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发表 thường mang sắc thái trang trọng hơn 表达 và hay đi với 文章 / 看法 / 演讲."
+    ],
+    "app_note_vi": "Hữu ích trong văn formal, họp, học thuật và truyền thông.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "发表 nghĩa là gì?", "answer": "phát biểu; công bố" },
+      { "type": "cloze", "prompt": "他在会议上____了自己的看法。", "answer": "发表" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 发表 là gì?", "answer": "发表看法" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_054",
+    "level": "HSK5",
+    "hanzi": "语气",
+    "pinyin": "yǔqì",
+    "display_meaning_vi": "ngữ khí; giọng điệu",
+    "meaning_en": "tone; manner of speaking",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["language", "register"],
+    "exam_tags": ["reading", "register", "usage"],
+    "register": "formal",
+    "grammar_pattern": "语气 + 温和 / 严肃 / 不自然",
+    "collocations": ["语气温和", "注意语气", "语气严肃"],
+    "near_synonyms": [
+      {
+        "word": "口气",
+        "difference_vi": "口气 gần gũi và khẩu ngữ hơn; 语气 formal hơn, thường dùng trong mô tả ngôn ngữ, sắc thái câu nói hoặc văn viết."
+      }
+    ],
+    "app_synonym_note_vi": "语气 = ngữ khí/sắc thái nói; 口气 = cách nói, khẩu khí gần gũi hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "在正式场合，说话要注意语气。",
+        "pinyin": "Zài zhèngshì chǎnghé, shuōhuà yào zhùyì yǔqì.",
+        "vi": "Trong những dịp trang trọng, cần chú ý đến ngữ khí khi nói chuyện.",
+        "context": "register"
+      }
+    ],
+    "common_mistakes_vi": [
+      "语气 không chỉ là “giọng nói”; nó còn là sắc thái và mức độ lịch sự/trang trọng của lời nói."
+    ],
+    "app_note_vi": "Rất quan trọng cho HSK5 khi học register và sắc thái diễn đạt.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "语气 nghĩa là gì?", "answer": "ngữ khí; giọng điệu" },
+      { "type": "cloze", "prompt": "在正式场合，说话要注意____。", "answer": "语气" },
+      { "type": "synonym", "prompt": "语气 khác 口气 như thế nào?", "answer": "语气 formal hơn; 口气 gần gũi và khẩu ngữ hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_055",
+    "level": "HSK5",
+    "hanzi": "现实",
+    "pinyin": "xiànshí",
+    "display_meaning_vi": "hiện thực; thực tế",
+    "meaning_en": "reality; realistic",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 3,
+    "topic_tags": ["society", "abstract"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "neutral",
+    "grammar_pattern": "现实 + 问题 / 情况 / 生活",
+    "collocations": ["现实问题", "面对现实", "现实生活"],
+    "near_synonyms": [
+      {
+        "word": "现状",
+        "difference_vi": "现状 là hiện trạng cụ thể hiện nay; 现实 rộng hơn, nhấn mạnh thực tế hay hiện thực nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "现实 = thực tế/hiện thực; 现状 = hiện trạng cụ thể hiện nay.",
+    "antonyms": ["理想"],
+    "example_sentences": [
+      {
+        "zh": "理想很重要，但我们也要面对现实。",
+        "pinyin": "Lǐxiǎng hěn zhòngyào, dàn wǒmen yě yào miànduì xiànshí.",
+        "vi": "Lý tưởng rất quan trọng, nhưng chúng ta cũng phải đối diện với thực tế.",
+        "context": "abstract"
+      }
+    ],
+    "common_mistakes_vi": [
+      "现实 rộng hơn 现状; đừng luôn dùng 现状 thay cho 现实 khi câu đang nói về “thực tế” nói chung."
+    ],
+    "app_note_vi": "Hay gặp trong các chủ đề lý tưởng, xã hội, giá trị và quyết định.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "现实 nghĩa là gì?", "answer": "hiện thực; thực tế" },
+      { "type": "cloze", "prompt": "理想很重要，但我们也要面对____。", "answer": "现实" },
+      { "type": "synonym", "prompt": "现实 khác 现状 như thế nào?", "answer": "现实 là thực tế nói chung; 现状 là hiện trạng cụ thể hiện nay." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_056",
+    "level": "HSK5",
+    "hanzi": "复杂",
+    "pinyin": "fùzá",
+    "display_meaning_vi": "phức tạp",
+    "meaning_en": "complex; complicated",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": ["description", "abstract"],
+    "exam_tags": ["meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "复杂 + 问题 / 关系 / 结构",
+    "collocations": ["复杂问题", "关系复杂", "结构复杂"],
+    "near_synonyms": [
+      {
+        "word": "麻烦",
+        "difference_vi": "复杂 nhấn mạnh nhiều tầng, nhiều yếu tố; 麻烦 thiên về rắc rối, phiền phức hoặc khó xử lý."
+      }
+    ],
+    "app_synonym_note_vi": "复杂 = phức tạp nhiều tầng; 麻烦 = rắc rối/phiền phức.",
+    "antonyms": ["简单"],
+    "example_sentences": [
+      {
+        "zh": "这个问题比我们想象的更复杂。",
+        "pinyin": "Zhège wèntí bǐ wǒmen xiǎngxiàng de gèng fùzá.",
+        "vi": "Vấn đề này phức tạp hơn chúng ta tưởng.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "复杂 không nhất thiết đồng nghĩa với 麻烦; một từ nhấn mạnh độ phức, một từ nhấn mạnh sự phiền/rắc rối."
+    ],
+    "app_note_vi": "Rất hay gặp trong các chủ đề công việc, xã hội và đọc hiểu phân tích.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "复杂 nghĩa là gì?", "answer": "phức tạp" },
+      { "type": "cloze", "prompt": "这个问题比我们想象的更____。", "answer": "复杂" },
+      { "type": "synonym", "prompt": "复杂 khác 麻烦 như thế nào?", "answer": "复杂 là phức tạp nhiều tầng; 麻烦 là rắc rối/phiền phức." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_057",
+    "level": "HSK5",
+    "hanzi": "逐渐",
+    "pinyin": "zhújiàn",
+    "display_meaning_vi": "dần dần",
+    "meaning_en": "gradually",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": ["connector", "process"],
+    "exam_tags": ["reading", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "逐渐 + 形成 / 增加 / 适应",
+    "collocations": ["逐渐形成", "逐渐增加", "逐渐适应"],
+    "near_synonyms": [
+      {
+        "word": "渐渐",
+        "difference_vi": "逐渐 formal và thường gặp trong văn viết/đọc; 渐渐 gần gũi và khẩu ngữ hơn một chút."
+      }
+    ],
+    "app_synonym_note_vi": "逐渐 = dần dần (formal hơn); 渐渐 = dần dần, gần gũi hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "经过一段时间以后，她逐渐适应了新的环境。",
+        "pinyin": "Jīngguò yí duàn shíjiān yǐhòu, tā zhújiàn shìyìng le xīn de huánjìng.",
+        "vi": "Sau một khoảng thời gian, cô ấy dần dần thích nghi với môi trường mới.",
+        "context": "process"
+      }
+    ],
+    "common_mistakes_vi": [
+      "逐渐 thường phù hợp với văn viết hoặc văn đọc hơn 渐渐, dù cả hai đều có nghĩa “dần dần”."
+    ],
+    "app_note_vi": "Từ nối rất hữu ích trong đọc hiểu và diễn đạt quá trình thay đổi.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "逐渐 nghĩa là gì?", "answer": "dần dần" },
+      { "type": "cloze", "prompt": "她____适应了新的环境。", "answer": "逐渐" },
+      { "type": "synonym", "prompt": "逐渐 khác 渐渐 như thế nào?", "answer": "逐渐 formal hơn; 渐渐 gần gũi và khẩu ngữ hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_058",
+    "level": "HSK5",
+    "hanzi": "反映",
+    "pinyin": "fǎnyìng",
+    "display_meaning_vi": "phản ánh",
+    "meaning_en": "to reflect; to report; to show",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["analysis", "society", "formal"],
+    "exam_tags": ["reading", "meaning", "cloze"],
+    "register": "formal",
+    "grammar_pattern": "反映 + 问题 / 情况 / 现实",
+    "collocations": ["反映问题", "真实反映", "反映情况"],
+    "near_synonyms": [
+      {
+        "word": "表现",
+        "difference_vi": "表现 thiên về biểu hiện/thể hiện ra ngoài; 反映 thiên về phản ánh, cho thấy bản chất hoặc tình hình."
+      }
+    ],
+    "app_synonym_note_vi": "反映 = phản ánh/cho thấy; 表现 = biểu hiện/thể hiện ra ngoài.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这部电影真实地反映了当代年轻人的生活。",
+        "pinyin": "Zhè bù diànyǐng zhēnshí de fǎnyìng le dāngdài niánqīngrén de shēnghuó.",
+        "vi": "Bộ phim này đã phản ánh chân thực cuộc sống của giới trẻ đương đại.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "反映 không chỉ là “phản ứng”; nó thường mang nghĩa phản ánh, cho thấy hoặc phản hồi về tình hình/vấn đề."
+    ],
+    "app_note_vi": "Rất mạnh trong reading xã hội, media và câu mô tả thực trạng.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "反映 nghĩa là gì?", "answer": "phản ánh" },
+      { "type": "cloze", "prompt": "这部电影真实地____了当代年轻人的生活。", "answer": "反映" },
+      { "type": "synonym", "prompt": "反映 khác 表现 như thế nào?", "answer": "反映 là phản ánh/cho thấy; 表现 là biểu hiện ra ngoài." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_059",
+    "level": "HSK5",
+    "hanzi": "采取",
+    "pinyin": "cǎiqǔ",
+    "display_meaning_vi": "áp dụng; thực hiện",
+    "meaning_en": "to adopt; to take (measures/actions)",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["work", "policy", "formal"],
+    "exam_tags": ["reading", "cloze", "collocation"],
+    "register": "formal",
+    "grammar_pattern": "采取 + 措施 / 方法 / 行动",
+    "collocations": ["采取措施", "采取行动", "采取方法"],
+    "near_synonyms": [
+      {
+        "word": "使用",
+        "difference_vi": "使用 là dùng/sử dụng chung; 采取 formal hơn, thường dùng khi nói áp dụng biện pháp, hành động hay cách thức."
+      }
+    ],
+    "app_synonym_note_vi": "采取 = áp dụng/thực hiện biện pháp; 使用 = sử dụng nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "为了减少污染，政府采取了很多措施。",
+        "pinyin": "Wèile jiǎnshǎo wūrǎn, zhèngfǔ cǎiqǔ le hěn duō cuòshī.",
+        "vi": "Để giảm ô nhiễm, chính phủ đã áp dụng nhiều biện pháp.",
+        "context": "policy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "采取 thường không đi với đồ vật thông thường; nó hợp hơn với biện pháp, hành động, phương pháp."
+    ],
+    "app_note_vi": "Rất hay gặp trong reading formal, chính sách và giải pháp.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "采取 nghĩa là gì?", "answer": "áp dụng; thực hiện" },
+      { "type": "cloze", "prompt": "政府____了很多措施。", "answer": "采取" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 采取 là gì?", "answer": "采取措施" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_060",
+    "level": "HSK5",
+    "hanzi": "解决",
+    "pinyin": "jiějué",
+    "display_meaning_vi": "giải quyết",
+    "meaning_en": "to solve; to resolve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["problem solving", "work", "daily life"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "解决 + 问题 / 困难 / 矛盾",
+    "collocations": ["解决问题", "解决困难", "解决矛盾"],
+    "near_synonyms": [
+      {
+        "word": "处理",
+        "difference_vi": "解决 nhấn mạnh làm cho vấn đề được giải xong; 处理 rộng hơn, thiên về xử lý hoặc đối phó với một việc."
+      }
+    ],
+    "app_synonym_note_vi": "解决 = giải quyết xong vấn đề; 处理 = xử lý/đối phó rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们需要一起想办法解决这个问题。",
+        "pinyin": "Wǒmen xūyào yìqǐ xiǎng bànfǎ jiějué zhège wèntí.",
+        "vi": "Chúng ta cần cùng nhau nghĩ cách giải quyết vấn đề này.",
+        "context": "problem solving"
+      }
+    ],
+    "common_mistakes_vi": [
+      "解决 nhấn mạnh giải xong; 处理 không nhất thiết đã giải triệt để, chỉ là xử lý."
+    ],
+    "app_note_vi": "Từ rất thực dụng, dùng được trong cả công việc lẫn đời sống.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "解决 nghĩa là gì?", "answer": "giải quyết" },
+      { "type": "cloze", "prompt": "我们需要一起想办法____这个问题。", "answer": "解决" },
+      { "type": "synonym", "prompt": "解决 khác 处理 như thế nào?", "answer": "解决 là giải quyết xong; 处理 là xử lý rộng hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
