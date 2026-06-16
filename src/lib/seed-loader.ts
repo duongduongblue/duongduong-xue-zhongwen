@@ -58,8 +58,8 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
     if (index % 3 === 0) {
       return {
         id: word.id + '-meaning',
-        prompt: 'What does "' + word.hanzi + '" mean?',
-        supportingText: 'Pinyin: ' + word.pinyin,
+        prompt: '"' + word.hanzi + '" 是什么意思? / What does "' + word.hanzi + '" mean?',
+        supportingText: '拼音 / Pinyin: ' + word.pinyin,
         correctAnswer: meaning,
         options: uniqueOptions(meaning, distractorMeanings),
       };
@@ -67,16 +67,16 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
     if (index % 3 === 1) {
       return {
         id: word.id + '-pinyin',
-        prompt: 'Which pinyin matches "' + word.hanzi + '"?',
-        supportingText: 'Meaning: ' + meaning,
+        prompt: '哪个拼音对应 "' + word.hanzi + '"? / Which pinyin matches "' + word.hanzi + '"?',
+        supportingText: '意思 / Meaning: ' + meaning,
         correctAnswer: word.pinyin,
         options: uniqueOptions(word.pinyin, otherWords.slice(index, index + 6).map((item) => item.pinyin)),
       };
     }
     return {
       id: word.id + '-recognition',
-      prompt: 'Which word means "' + meaning + '"?',
-      supportingText: 'Example: ' + (word.example_cn ?? ''),
+      prompt: '哪个词表示 "' + meaning + '"? / Which word means "' + meaning + '"?',
+      supportingText: '例句 / Example: ' + (word.example_cn ?? ''),
       correctAnswer: word.hanzi,
       options: uniqueOptions(word.hanzi, otherWords.slice(index, index + 6).map((item) => item.hanzi)),
     };

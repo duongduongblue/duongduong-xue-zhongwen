@@ -16,11 +16,11 @@ import { loadProgress, saveProgress } from './storage/progress';
 import type { QuizQuestion, TabKey, VocabWord } from './types';
 
 const tabs: Array<{ key: TabKey; label: string; icon: string }> = [
-  { key: 'home', label: 'Home', icon: 'H' },
-  { key: 'learn', label: 'Learn', icon: 'L' },
-  { key: 'flashcards', label: 'Cards', icon: 'C' },
-  { key: 'quiz', label: 'Quiz', icon: 'Q' },
-  { key: 'progress', label: 'Progress', icon: 'P' },
+  { key: 'home', label: 'Home\n首页', icon: '首' },
+  { key: 'learn', label: 'Learn\n学习', icon: '学' },
+  { key: 'flashcards', label: 'Cards\n卡片', icon: '卡' },
+  { key: 'quiz', label: 'Quiz\n测验', icon: '测' },
+  { key: 'progress', label: 'Progress\n进度', icon: '进' },
 ];
 
 const heatmapLevels = [
@@ -56,16 +56,16 @@ const calculateStreak = (studyDates: string[]) => {
 };
 
 const formatStartedAt = (startedAt?: string) => {
-  if (!startedAt) return 'Start tracking after your first study action';
+  if (!startedAt) return '开始记录 / Start tracking after your first study action';
   const date = new Date(startedAt);
-  if (Number.isNaN(date.getTime())) return 'Start tracking after your first study action';
+  if (Number.isNaN(date.getTime())) return '开始记录 / Start tracking after your first study action';
   return date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 };
 
 const formatLastStudyAt = (lastStudyAt?: string) => {
-  if (!lastStudyAt) return 'No study session yet';
+  if (!lastStudyAt) return '暂无学习记录 / No study session yet';
   const date = new Date(lastStudyAt);
-  if (Number.isNaN(date.getTime())) return 'No study session yet';
+  if (Number.isNaN(date.getTime())) return '暂无学习记录 / No study session yet';
   return date.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
 };
 
@@ -342,7 +342,7 @@ export default function ChineseLearningApp() {
       <View style={styles.miniProgressTrack}>
         <View style={[styles.miniProgressFill, { width: `${learningPercent}%` }]} />
       </View>
-      <Text style={styles.miniProgressText}>{activeLevelLearnedCount} / {activeLevelWords.length} words</Text>
+      <Text style={styles.miniProgressText}>{activeLevelLearnedCount} / {activeLevelWords.length} 词 / words</Text>
     </View>
   );
 
@@ -352,7 +352,7 @@ export default function ChineseLearningApp() {
       <Text style={styles.pinyinText}>{word.pinyin}</Text>
       <Text style={styles.meaningText}>{word.meaningEn ?? word.meaningVi}</Text>
       <View style={styles.divider} />
-      <Text style={styles.exampleLabel}>Example</Text>
+      <Text style={styles.exampleLabel}>例句 / Example</Text>
       <Text style={styles.exampleCn}>{word.exampleCn}</Text>
       {word.exampleEn ? <Text style={styles.exampleVi}>{word.exampleEn}</Text> : null}
     </>
@@ -366,32 +366,32 @@ export default function ChineseLearningApp() {
           HSK 1 available · HSK 5 focus prototype ready
         </Text>
         <View style={styles.heroActions}>
-          <ActionButton label="Start Learning" onPress={() => setActiveTab('learn')} />
+          <ActionButton label="开始学习 / Start Learning" onPress={() => setActiveTab('learn')} />
           <ActionButton
-            label="Review"
+            label="复习 / Review"
             onPress={() => setActiveTab('flashcards')}
             variant="secondary"
           />
         </View>
         <View style={styles.heroActions}>
-          <ActionButton label="HSK5 Focus" onPress={() => { selectLevel('HSK5'); setActiveTab('learn'); }} />
+          <ActionButton label="HSK5重点 / HSK5 Focus" onPress={() => { selectLevel('HSK5'); setActiveTab('learn'); }} />
         </View>
       </View>
 
       <View style={styles.statsGrid}>
-        <StatCard label="Level" value={activeLevel.displayName} accent="#FF8A65" />
-        <StatCard label="Learned" value={`${activeLevelLearnedCount}/${activeLevelWords.length}`} accent="#4DB6AC" />
-        <StatCard label="Review" value={`${activeLevelReviewCount}`} accent="#9575CD" />
-        <StatCard label="Accuracy" value={`${sessionAccuracy}%`} accent="#5C6BC0" />
+        <StatCard label="等级 / Level" value={activeLevel.displayName} accent="#FF8A65" />
+        <StatCard label="已学 / Learned" value={`${activeLevelLearnedCount}/${activeLevelWords.length}`} accent="#4DB6AC" />
+        <StatCard label="复习 / Review" value={`${activeLevelReviewCount}`} accent="#9575CD" />
+        <StatCard label="正确率 / Accuracy" value={`${sessionAccuracy}%`} accent="#5C6BC0" />
       </View>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Today's Focus</Text>
+        <Text style={styles.sectionTitle}>今日重点 / Today's Focus</Text>
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
         <Text style={styles.bodyText}>
-          {selectedLesson.words.length} new words · {activeLevelReviewCount} reviews
+          {selectedLesson.words.length} 个新词 / new words · {activeLevelReviewCount} 次复习 / reviews
         </Text>
-        <Text style={styles.metaNote}>{startedAt ? `Started on ${startedAtLabel}` : 'Start learning to begin tracking'}</Text>
+        <Text style={styles.metaNote}>{startedAt ? `开始于 / Started on ${startedAtLabel}` : '开始学习后将开始记录 / Start learning to begin tracking'}</Text>
       </SectionCard>
     </ScrollView>
   );
@@ -399,29 +399,29 @@ export default function ChineseLearningApp() {
   const renderLearn = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
-        <Text style={styles.sectionTitle}>Choose Lesson</Text>
+        <Text style={styles.sectionTitle}>选择课程 / Choose Lesson</Text>
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
         <Text style={styles.sectionSubtitle}>{selectedLesson.topic}</Text>
-        <Text style={styles.metaNote}>Module: {currentModule.title} · {currentModule.subtitle}</Text>
+        <Text style={styles.metaNote}>模块 / Module: {currentModule.title} · {currentModule.subtitle}</Text>
       </SectionCard>
 
       <View style={styles.wordCard}> 
         <Text style={styles.wordCardTopic}>{selectedLesson.title}</Text>
         <View style={styles.wordHeaderRow}>
-          <Text style={styles.badge}>Word {learnIndex + 1} / {selectedLesson.words.length}</Text>
+          <Text style={styles.badge}>第 {learnIndex + 1} 词 / Word {learnIndex + 1} of {selectedLesson.words.length}</Text>
           <Pressable onPress={() => toggleFavorite(currentLearnWord.id)}>
             <Text style={styles.favoriteButton}>
-              {favoriteIds.includes(currentLearnWord.id) ? 'Saved' : 'Save'}
+              {favoriteIds.includes(currentLearnWord.id) ? '已保存 / Saved' : '保存 / Save'}
             </Text>
           </Pressable>
         </View>
         {renderWordMeta(currentLearnWord)}
         <View style={styles.wordActionRow}>
-          <ActionButton label="Learned" onPress={() => markLearned(currentLearnWord.id)} />
+          <ActionButton label="学会了 / Learned" onPress={() => markLearned(currentLearnWord.id)} />
           <ActionButton
-            label={activeLevel.id === 'HSK5' ? 'Focus Review' : 'Review Cards'}
+            label={activeLevel.id === 'HSK5' ? '重点复习 / Focus Review' : '卡片复习 / Review Cards'}
             onPress={() => {
               setFlashIndex(learnIndex);
               setShowFlashBack(false);
@@ -434,12 +434,12 @@ export default function ChineseLearningApp() {
 
       <View style={styles.stepperRow}>
         <ActionButton
-          label="Previous"
+          label="上一词 / Previous"
           variant="secondary"
           onPress={() => setLearnIndex((current) => Math.max(0, current - 1))}
         />
         <ActionButton
-          label="Next"
+          label="下一词 / Next"
           onPress={() =>
             setLearnIndex((current) => Math.min(selectedLesson.words.length - 1, current + 1))
           }
@@ -451,25 +451,25 @@ export default function ChineseLearningApp() {
   const renderFlashcards = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
-        <Text style={styles.sectionTitle}>Flashcard Review</Text>
+        <Text style={styles.sectionTitle}>卡片复习 / Flashcard Review</Text>
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
-        <Text style={styles.sectionSubtitle}>Tap to flip the card.</Text>
-        <Text style={styles.metaNote}>Last study: {lastStudyAtLabel}</Text>
+        <Text style={styles.sectionSubtitle}>点击翻卡 / Tap to flip the card.</Text>
+        <Text style={styles.metaNote}>上次学习 / Last study: {lastStudyAtLabel}</Text>
       </SectionCard>
 
       <Pressable
         onPress={() => setShowFlashBack((current) => !current)}
         style={styles.flashcard}
       >
-        <Text style={styles.flashcardHint}>{showFlashBack ? 'Back' : 'Front'}</Text>
-        <Text style={styles.flashcardCounter}>Card {flashIndex + 1} / {selectedLesson.words.length}</Text>
+        <Text style={styles.flashcardHint}>{showFlashBack ? '背面 / Back' : '正面 / Front'}</Text>
+        <Text style={styles.flashcardCounter}>卡片 {flashIndex + 1} / Card {flashIndex + 1} of {selectedLesson.words.length}</Text>
         {showFlashBack ? (
           <View style={styles.flashBackContent}>
             <Text style={styles.flashMeaning}>{currentFlashWord.meaningEn ?? currentFlashWord.meaningVi}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
-            <Text style={styles.flashExampleLabel}>Example</Text>
+            <Text style={styles.flashExampleLabel}>例句 / Example</Text>
             <Text style={styles.flashExample}>{currentFlashWord.exampleCn}</Text>
             {currentFlashWord.exampleEn ? <Text style={styles.flashExample}>{currentFlashWord.exampleEn}</Text> : null}
           </View>
@@ -482,17 +482,17 @@ export default function ChineseLearningApp() {
       </Pressable>
 
       <View style={styles.swipeHintRow}>
-        <Text style={styles.swipeHintText}>Don't know</Text>
-        <Text style={styles.swipeHintText}>Know it</Text>
+        <Text style={styles.swipeHintText}>不会 / Don't know</Text>
+        <Text style={styles.swipeHintText}>会了 / Know it</Text>
       </View>
 
       <View style={styles.stepperRow}>
         <ActionButton
-          label="✕ Don't know"
+          label="✕ 不会 / Don't know"
           variant="secondary"
           onPress={() => handleFlashResult(currentFlashWord.id, false)}
         />
-        <ActionButton label="✓ Know it" onPress={() => handleFlashResult(currentFlashWord.id, true)} />
+        <ActionButton label="✓ 会了 / Know it" onPress={() => handleFlashResult(currentFlashWord.id, true)} />
       </View>
     </ScrollView>
   );
@@ -500,29 +500,29 @@ export default function ChineseLearningApp() {
   const renderQuiz = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
-        <Text style={styles.sectionTitle}>Quiz</Text>
+        <Text style={styles.sectionTitle}>测验 / Quiz</Text>
         {renderHSKPills()}
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
-            ? 'You completed this lesson quiz.'
-            : `${selectedLesson.title} · Question ${quizIndex + 1}/${quizQuestions.length}`}
+            ? '你已完成本课测验 / You completed this lesson quiz.'
+            : `${selectedLesson.title} · 第 ${quizIndex + 1} 题 / Question ${quizIndex + 1}/${quizQuestions.length}`}
         </Text>
-        <Text style={styles.metaNote}>Last study: {lastStudyAtLabel}</Text>
+        <Text style={styles.metaNote}>上次学习 / Last study: {lastStudyAtLabel}</Text>
       </SectionCard>
 
       {isQuizFinished ? (
         <SectionCard>
           <Text style={styles.resultEmoji}>OK</Text>
-          <Text style={styles.resultTitle}>Quiz Complete</Text>
+          <Text style={styles.resultTitle}>测验完成 / Quiz Complete</Text>
           <Text style={styles.resultText}>
-            You answered {quizCorrectCount}/{quizQuestions.length} correctly ({sessionAccuracy}%).
+            你答对了 {quizCorrectCount}/{quizQuestions.length} 题 / You answered {quizCorrectCount}/{quizQuestions.length} correctly ({sessionAccuracy}%).
           </Text>
-          <ActionButton label="Restart Quiz" onPress={restartQuiz} />
+          <ActionButton label="重新开始 / Restart Quiz" onPress={restartQuiz} />
         </SectionCard>
       ) : (
         <SectionCard>
           <View style={styles.quizHeaderCenter}>
-            <Text style={styles.quizCounter}>Question {quizIndex + 1} / {quizQuestions.length}</Text>
+            <Text style={styles.quizCounter}>第 {quizIndex + 1} 题 / Question {quizIndex + 1} of {quizQuestions.length}</Text>
             <Text style={styles.quizPrompt}>{currentQuestion.prompt}</Text>
             <Text style={styles.quizSupportingText}>{currentQuestion.supportingText}</Text>
           </View>
@@ -560,10 +560,10 @@ export default function ChineseLearningApp() {
             <>
               <Text style={styles.feedbackText}>
                 {selectedAnswer === currentQuestion.correctAnswer
-                  ? 'Correct - keep going.'
-                  : `Answer: ${currentQuestion.correctAnswer}`}
+                  ? '正确，继续 / Correct - keep going.'
+                  : `答案 / Answer: ${currentQuestion.correctAnswer}`}
               </Text>
-              <ActionButton label="Next Question" onPress={goToNextQuestion} />
+              <ActionButton label="下一题 / Next Question" onPress={goToNextQuestion} />
             </>
           ) : null}
         </SectionCard>
@@ -579,36 +579,36 @@ export default function ChineseLearningApp() {
             <Text style={styles.avatarText}>学</Text>
           </View>
           <View>
-            <Text style={styles.avatarName}>Learner</Text>
-            <Text style={styles.avatarLevel}>{activeLevel.displayName} · Streak {currentStreak} days</Text>
-            <Text style={styles.avatarStarted}>Started: {startedAtLabel}</Text>
+            <Text style={styles.avatarName}>学习者 / Learner</Text>
+            <Text style={styles.avatarLevel}>{activeLevel.displayName} · 连续 {currentStreak} 天 / Streak {currentStreak} days</Text>
+            <Text style={styles.avatarStarted}>开始时间 / Started: {startedAtLabel}</Text>
           </View>
         </View>
       </SectionCard>
 
       <SectionCard>
         <View style={styles.streakCardRow}>
-          <Text style={styles.streakIcon}>Streak</Text>
+          <Text style={styles.streakIcon}>连续</Text>
           <View>
             <Text style={styles.streakBigNumber}>{currentStreak}</Text>
-            <Text style={styles.streakSmallLabel}>day streak</Text>
+            <Text style={styles.streakSmallLabel}>连续天数 / day streak</Text>
           </View>
           <View style={styles.goalWrap}>
-            <Text style={styles.goalLabel}>Today's goal</Text>
-            <Text style={styles.goalValue}>{Math.min(learnedIds.length, 18)}<Text style={styles.goalSubValue}>/20 words</Text></Text>
+            <Text style={styles.goalLabel}>今日目标 / Today's goal</Text>
+            <Text style={styles.goalValue}>{Math.min(learnedIds.length, 18)}<Text style={styles.goalSubValue}>/20 词 / words</Text></Text>
           </View>
         </View>
       </SectionCard>
 
       <View style={styles.showcaseStatsGrid}>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{learnedIds.length}</Text><Text style={styles.showcaseStatLabel}>words learned</Text></View>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{sessionAccuracy}%</Text><Text style={styles.showcaseStatLabel}>accuracy</Text></View>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{favoriteWords.length}</Text><Text style={styles.showcaseStatLabel}>saved words</Text></View>
-        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{studyDates.length}</Text><Text style={styles.showcaseStatLabel}>study days</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{learnedIds.length}</Text><Text style={styles.showcaseStatLabel}>已学词数 / words learned</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{sessionAccuracy}%</Text><Text style={styles.showcaseStatLabel}>正确率 / accuracy</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{favoriteWords.length}</Text><Text style={styles.showcaseStatLabel}>已保存 / saved words</Text></View>
+        <View style={styles.showcaseStatCard}><Text style={styles.showcaseStatNumber}>{studyDates.length}</Text><Text style={styles.showcaseStatLabel}>学习天数 / study days</Text></View>
       </View>
 
       <SectionCard>
-        <Text style={styles.heatmapTitle}>3-week study streak</Text>
+        <Text style={styles.heatmapTitle}>三周学习记录 / 3-week study streak</Text>
         <View style={styles.heatmapGrid}>
           {heatmapLevels.map((level, index) => (
             <View
@@ -626,29 +626,29 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.progressLabel}>Words learned</Text>
+        <Text style={styles.progressLabel}>已学词数 / Words learned</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${learningPercent}%`, backgroundColor: '#4DB6AC' }]} />
         </View>
-        <Text style={styles.progressValue}>{learningPercent}% • {activeLevelLearnedCount}/{activeLevelWords.length} words</Text>
+        <Text style={styles.progressValue}>{learningPercent}% • {activeLevelLearnedCount}/{activeLevelWords.length} 词 / words</Text>
 
-        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Words mastered</Text>
+        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>已掌握 / Words mastered</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${masteredPercent}%`, backgroundColor: '#9575CD' }]} />
         </View>
-        <Text style={styles.progressValue}>{masteredPercent}% • {activeLevelMasteredCount}/{activeLevelWords.length} words</Text>
+        <Text style={styles.progressValue}>{masteredPercent}% • {activeLevelMasteredCount}/{activeLevelWords.length} 词 / words</Text>
 
-        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Words to review</Text>
+        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>待复习 / Words to review</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${reviewPercent}%`, backgroundColor: '#F59E0B' }]} />
         </View>
-        <Text style={styles.progressValue}>{reviewPercent}% • {activeLevelReviewCount}/{activeLevelWords.length} words</Text>
+        <Text style={styles.progressValue}>{reviewPercent}% • {activeLevelReviewCount}/{activeLevelWords.length} 词 / words</Text>
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Saved words</Text>
+        <Text style={styles.sectionTitle}>已保存词语 / Saved words</Text>
         {favoriteWords.length === 0 ? (
-          <Text style={styles.bodyText}>No saved words yet.</Text>
+          <Text style={styles.bodyText}>还没有保存的词语 / No saved words yet.</Text>
         ) : (
           favoriteWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
@@ -660,9 +660,9 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Review list</Text>
+        <Text style={styles.sectionTitle}>复习列表 / Review list</Text>
         {reviewWords.length === 0 ? (
-          <Text style={styles.bodyText}>Great work. No review words right now.</Text>
+          <Text style={styles.bodyText}>做得很好，目前没有需要复习的词 / Great work. No review words right now.</Text>
         ) : (
           reviewWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
@@ -674,10 +674,10 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Quiz Stats</Text>
-        <Text style={styles.bodyText}>Questions answered this session: {completedQuestionIds.length}</Text>
-        <Text style={styles.bodyText}>Correct answers this session: {quizCorrectCount}</Text>
-        <Text style={styles.bodyText}>Current accuracy: {sessionAccuracy}%</Text>
+        <Text style={styles.sectionTitle}>测验统计 / Quiz Stats</Text>
+        <Text style={styles.bodyText}>本次已答题数 / Questions answered this session: {completedQuestionIds.length}</Text>
+        <Text style={styles.bodyText}>本次答对题数 / Correct answers this session: {quizCorrectCount}</Text>
+        <Text style={styles.bodyText}>当前正确率 / Current accuracy: {sessionAccuracy}%</Text>
       </SectionCard>
     </ScrollView>
   );
@@ -689,10 +689,10 @@ export default function ChineseLearningApp() {
         <View style={styles.topBar}>
           <View>
             <Text style={styles.topBarTitle}>DuongDuong 学中文</Text>
-            <Text style={styles.topBarSubtitle}>Chinese vocabulary learning app</Text>
+            <Text style={styles.topBarSubtitle}>中文词汇学习应用 / Chinese vocabulary learning app</Text>
           </View>
           <View style={styles.streakBadge}>
-            <Text style={styles.streakBadgeText}>{`Streak ${currentStreak}`}</Text>
+            <Text style={styles.streakBadgeText}>{`连续 ${currentStreak} 天 / Streak ${currentStreak}`}</Text>
           </View>
         </View>
 
@@ -1404,7 +1404,7 @@ const styles = StyleSheet.create({
     bottom: 0,
     backgroundColor: '#C0392B',
     flexDirection: 'row',
-    paddingVertical: 10,
+    paddingVertical: 8,
     paddingHorizontal: 10,
     borderTopWidth: 1,
     borderTopColor: '#A33226',
@@ -1413,7 +1413,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    gap: 2,
+    gap: 4,
     borderRadius: 14,
     paddingVertical: 6,
   },
@@ -1421,16 +1421,18 @@ const styles = StyleSheet.create({
     backgroundColor: 'transparent',
   },
   tabIcon: {
-    fontSize: 20,
+    fontSize: 18,
     color: 'rgba(255,255,255,0.55)',
   },
   tabIconActive: {
     color: '#FFFFFF',
   },
   tabLabel: {
-    fontSize: 10,
+    fontSize: 9,
+    lineHeight: 12,
     fontWeight: '600',
     color: 'rgba(255,255,255,0.55)',
+    textAlign: 'center',
   },
   tabLabelActive: {
     color: '#FFFFFF',
