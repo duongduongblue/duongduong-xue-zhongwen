@@ -43,7 +43,7 @@ export async function loadProgress(): Promise<Partial<PersistedProgress> | null>
       lastStudyAt: typeof parsed.lastStudyAt === 'string' ? parsed.lastStudyAt : undefined,
     };
   } catch (error) {
-    console.warn('Không thể tải tiến độ đã lưu:', error);
+    console.warn('Unable to load saved progress:', error);
     return null;
   }
 }
@@ -52,6 +52,6 @@ export async function saveProgress(progress: PersistedProgress): Promise<void> {
   try {
     await AsyncStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
   } catch (error) {
-    console.warn('Không thể lưu tiến độ học:', error);
+    console.warn('Unable to save study progress:', error);
   }
 }

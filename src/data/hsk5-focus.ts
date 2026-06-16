@@ -49,12 +49,12 @@ export const hsk5FocusWords: VocabWord[] = sourceWords.map((word) => ({
   moduleId: HSK5_WORD_TO_LESSON[word.id].moduleId,
   hanzi: word.hanzi,
   pinyin: word.pinyin,
-  meaningVi: word.display_meaning_vi || word.meaning_vi || '',
-  meaningEn: word.meaning_en,
+  meaningVi: word.meaning_en || word.display_meaning_vi || word.meaning_vi || '',
+  meaningEn: word.meaning_en || word.display_meaning_vi || word.meaning_vi || '',
   exampleCn: word.example_sentences?.[0]?.zh || (word.app_collocation_top || []).join(' · '),
-  exampleVi: word.app_example_vi || word.example_sentences?.[0]?.vi || '',
-  appNoteVi: word.app_note_vi,
-  appSynonymNoteVi: word.app_synonym_note_vi,
+  exampleVi: '',
+  appNoteVi: undefined,
+  appSynonymNoteVi: undefined,
   collocationTop: word.app_collocation_top,
 }));
 

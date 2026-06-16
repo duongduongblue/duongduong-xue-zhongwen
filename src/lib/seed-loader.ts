@@ -18,10 +18,10 @@ export function mapSeedWordToVocabWord(word: SeedWord, lessonId?: string, module
     id: word.id,
     hanzi: word.hanzi,
     pinyin: word.pinyin,
-    meaningVi: word.meaning_vi,
+    meaningVi: word.meaning_en,
     meaningEn: word.meaning_en,
     exampleCn: word.example_cn ?? '',
-    exampleVi: word.example_translation ?? '',
+    exampleVi: '',
     level: 'HSK1',
     lessonId,
     moduleId,
@@ -52,8 +52,8 @@ function uniqueOptions(correct: string, distractors: string[]) {
 export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQuestion[] {
   return words.slice(0, limit).map((word, index) => {
     const otherWords = words.filter((item) => item.id !== word.id);
-    const meaning = word.meaning_en || word.meaning_vi;
-    const distractorMeanings = otherWords.slice(index, index + 6).map((item) => item.meaning_en || item.meaning_vi);
+    const meaning = word.meaning_en;
+    const distractorMeanings = otherWords.slice(index, index + 6).map((item) => item.meaning_en);
 
     if (index % 3 === 0) {
       return {
