@@ -16,11 +16,11 @@ import { loadProgress, saveProgress } from './storage/progress';
 import type { QuizQuestion, TabKey, VocabWord } from './types';
 
 const tabs: Array<{ key: TabKey; label: string; icon: string }> = [
-  { key: 'home', label: '首页', icon: '主' },
-  { key: 'learn', label: '学', icon: '学' },
-  { key: 'flashcards', label: '复', icon: '复' },
-  { key: 'quiz', label: '考', icon: '考' },
-  { key: 'progress', label: '我', icon: '我' },
+  { key: 'home', label: 'Home', icon: 'H' },
+  { key: 'learn', label: 'Learn', icon: 'L' },
+  { key: 'flashcards', label: 'Cards', icon: 'C' },
+  { key: 'quiz', label: 'Quiz', icon: 'Q' },
+  { key: 'progress', label: 'Progress', icon: 'P' },
 ];
 
 const heatmapLevels = [
@@ -342,7 +342,7 @@ export default function ChineseLearningApp() {
       <View style={styles.miniProgressTrack}>
         <View style={[styles.miniProgressFill, { width: `${learningPercent}%` }]} />
       </View>
-      <Text style={styles.miniProgressText}>{activeLevelLearnedCount} / {activeLevelWords.length} từ</Text>
+      <Text style={styles.miniProgressText}>{activeLevelLearnedCount} / {activeLevelWords.length} words</Text>
     </View>
   );
 
@@ -410,10 +410,10 @@ export default function ChineseLearningApp() {
       <View style={styles.wordCard}> 
         <Text style={styles.wordCardTopic}>{selectedLesson.title}</Text>
         <View style={styles.wordHeaderRow}>
-          <Text style={styles.badge}>第 {learnIndex + 1} / {selectedLesson.words.length} 词</Text>
+          <Text style={styles.badge}>Word {learnIndex + 1} / {selectedLesson.words.length}</Text>
           <Pressable onPress={() => toggleFavorite(currentLearnWord.id)}>
             <Text style={styles.favoriteButton}>
-              {favoriteIds.includes(currentLearnWord.id) ? '♥ 已收藏' : '♡ 收藏'}
+              {favoriteIds.includes(currentLearnWord.id) ? 'Saved' : 'Save'}
             </Text>
           </Pressable>
         </View>
@@ -464,13 +464,14 @@ export default function ChineseLearningApp() {
         style={styles.flashcard}
       >
         <Text style={styles.flashcardHint}>{showFlashBack ? 'Back' : 'Front'}</Text>
-        <Text style={styles.flashcardCounter}>第 {flashIndex + 1} / {selectedLesson.words.length}</Text>
+        <Text style={styles.flashcardCounter}>Card {flashIndex + 1} / {selectedLesson.words.length}</Text>
         {showFlashBack ? (
           <View style={styles.flashBackContent}>
             <Text style={styles.flashMeaning}>{currentFlashWord.meaningEn ?? currentFlashWord.meaningVi}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
             <Text style={styles.flashExampleLabel}>Example</Text>
-            <Text style={styles.flashExample}>{currentFlashWord.exampleEn ?? currentFlashWord.exampleVi}</Text>
+            <Text style={styles.flashExample}>{currentFlashWord.exampleCn}</Text>
+            {currentFlashWord.exampleEn ? <Text style={styles.flashExample}>{currentFlashWord.exampleEn}</Text> : null}
           </View>
         ) : (
           <View style={styles.flashFrontContent}>
@@ -481,8 +482,8 @@ export default function ChineseLearningApp() {
       </Pressable>
 
       <View style={styles.swipeHintRow}>
-        <Text style={styles.swipeHintText}>← 不知道</Text>
-        <Text style={styles.swipeHintText}>知道了 →</Text>
+        <Text style={styles.swipeHintText}>Don't know</Text>
+        <Text style={styles.swipeHintText}>Know it</Text>
       </View>
 
       <View style={styles.stepperRow}>
@@ -511,7 +512,7 @@ export default function ChineseLearningApp() {
 
       {isQuizFinished ? (
         <SectionCard>
-          <Text style={styles.resultEmoji}>🎉</Text>
+          <Text style={styles.resultEmoji}>OK</Text>
           <Text style={styles.resultTitle}>Quiz Complete</Text>
           <Text style={styles.resultText}>
             You answered {quizCorrectCount}/{quizQuestions.length} correctly ({sessionAccuracy}%).
@@ -559,7 +560,7 @@ export default function ChineseLearningApp() {
             <>
               <Text style={styles.feedbackText}>
                 {selectedAnswer === currentQuestion.correctAnswer
-                  ? 'Correct — keep going.'
+                  ? 'Correct - keep going.'
                   : `Answer: ${currentQuestion.correctAnswer}`}
               </Text>
               <ActionButton label="Next Question" onPress={goToNextQuestion} />
@@ -578,7 +579,7 @@ export default function ChineseLearningApp() {
             <Text style={styles.avatarText}>学</Text>
           </View>
           <View>
-            <Text style={styles.avatarName}>Học viên</Text>
+            <Text style={styles.avatarName}>Learner</Text>
             <Text style={styles.avatarLevel}>{activeLevel.displayName} · Streak {currentStreak} days</Text>
             <Text style={styles.avatarStarted}>Started: {startedAtLabel}</Text>
           </View>
@@ -587,14 +588,14 @@ export default function ChineseLearningApp() {
 
       <SectionCard>
         <View style={styles.streakCardRow}>
-          <Text style={styles.streakIcon}>🔥</Text>
+          <Text style={styles.streakIcon}>Streak</Text>
           <View>
             <Text style={styles.streakBigNumber}>{currentStreak}</Text>
-            <Text style={styles.streakSmallLabel}>ngày liên tiếp</Text>
+            <Text style={styles.streakSmallLabel}>day streak</Text>
           </View>
           <View style={styles.goalWrap}>
-            <Text style={styles.goalLabel}>Mục tiêu hôm nay</Text>
-            <Text style={styles.goalValue}>{Math.min(learnedIds.length, 18)}<Text style={styles.goalSubValue}>/20 từ</Text></Text>
+            <Text style={styles.goalLabel}>Today's goal</Text>
+            <Text style={styles.goalValue}>{Math.min(learnedIds.length, 18)}<Text style={styles.goalSubValue}>/20 words</Text></Text>
           </View>
         </View>
       </SectionCard>
@@ -607,7 +608,7 @@ export default function ChineseLearningApp() {
       </View>
 
       <SectionCard>
-        <Text style={styles.heatmapTitle}>Lịch học 3 tuần</Text>
+        <Text style={styles.heatmapTitle}>3-week study streak</Text>
         <View style={styles.heatmapGrid}>
           {heatmapLevels.map((level, index) => (
             <View
@@ -625,29 +626,29 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.progressLabel}>Hoàn thành học từ</Text>
+        <Text style={styles.progressLabel}>Words learned</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${learningPercent}%`, backgroundColor: '#4DB6AC' }]} />
         </View>
-        <Text style={styles.progressValue}>{learningPercent}% • {activeLevelLearnedCount}/{activeLevelWords.length} từ</Text>
+        <Text style={styles.progressValue}>{learningPercent}% • {activeLevelLearnedCount}/{activeLevelWords.length} words</Text>
 
-        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Từ đã thuộc</Text>
+        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Words mastered</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${masteredPercent}%`, backgroundColor: '#9575CD' }]} />
         </View>
-        <Text style={styles.progressValue}>{masteredPercent}% • {activeLevelMasteredCount}/{activeLevelWords.length} từ</Text>
+        <Text style={styles.progressValue}>{masteredPercent}% • {activeLevelMasteredCount}/{activeLevelWords.length} words</Text>
 
-        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Từ cần ôn lại</Text>
+        <Text style={[styles.progressLabel, styles.progressLabelSpacing]}>Words to review</Text>
         <View style={styles.progressBarTrack}>
           <View style={[styles.progressBarFill, { width: `${reviewPercent}%`, backgroundColor: '#F59E0B' }]} />
         </View>
-        <Text style={styles.progressValue}>{reviewPercent}% • {activeLevelReviewCount}/{activeLevelWords.length} từ</Text>
+        <Text style={styles.progressValue}>{reviewPercent}% • {activeLevelReviewCount}/{activeLevelWords.length} words</Text>
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Từ yêu thích</Text>
+        <Text style={styles.sectionTitle}>Saved words</Text>
         {favoriteWords.length === 0 ? (
-          <Text style={styles.bodyText}>Bạn chưa lưu từ nào.</Text>
+          <Text style={styles.bodyText}>No saved words yet.</Text>
         ) : (
           favoriteWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
@@ -659,9 +660,9 @@ export default function ChineseLearningApp() {
       </SectionCard>
 
       <SectionCard>
-        <Text style={styles.sectionTitle}>Cần ôn lại</Text>
+        <Text style={styles.sectionTitle}>Review list</Text>
         {reviewWords.length === 0 ? (
-          <Text style={styles.bodyText}>Rất tốt! Hiện chưa có từ nào cần ôn lại.</Text>
+          <Text style={styles.bodyText}>Great work. No review words right now.</Text>
         ) : (
           reviewWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
@@ -691,7 +692,7 @@ export default function ChineseLearningApp() {
             <Text style={styles.topBarSubtitle}>Chinese vocabulary learning app</Text>
           </View>
           <View style={styles.streakBadge}>
-            <Text style={styles.streakBadgeText}>{`🔥 Streak ${currentStreak}`}</Text>
+            <Text style={styles.streakBadgeText}>{`Streak ${currentStreak}`}</Text>
           </View>
         </View>
 

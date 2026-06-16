@@ -52,28 +52,31 @@ function uniqueOptions(correct: string, distractors: string[]) {
 export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQuestion[] {
   return words.slice(0, limit).map((word, index) => {
     const otherWords = words.filter((item) => item.id !== word.id);
+    const meaning = word.meaning_en || word.meaning_vi;
+    const distractorMeanings = otherWords.slice(index, index + 6).map((item) => item.meaning_en || item.meaning_vi);
+
     if (index % 3 === 0) {
       return {
         id: word.id + '-meaning',
-        prompt: '"' + word.hanzi + '" có nghĩa là gì?',
+        prompt: 'What does "' + word.hanzi + '" mean?',
         supportingText: 'Pinyin: ' + word.pinyin,
-        correctAnswer: word.meaning_vi,
-        options: uniqueOptions(word.meaning_vi, otherWords.slice(index, index + 6).map((item) => item.meaning_vi)),
+        correctAnswer: meaning,
+        options: uniqueOptions(meaning, distractorMeanings),
       };
     }
     if (index % 3 === 1) {
       return {
         id: word.id + '-pinyin',
-        prompt: 'Pinyin đúng của "' + word.hanzi + '" là gì?',
-        supportingText: 'Nghĩa: ' + word.meaning_vi,
+        prompt: 'Which pinyin matches "' + word.hanzi + '"?',
+        supportingText: 'Meaning: ' + meaning,
         correctAnswer: word.pinyin,
         options: uniqueOptions(word.pinyin, otherWords.slice(index, index + 6).map((item) => item.pinyin)),
       };
     }
     return {
       id: word.id + '-recognition',
-      prompt: 'Từ nào có nghĩa là "' + word.meaning_vi + '"?',
-      supportingText: 'Gợi ý: ' + (word.example_cn ?? ''),
+      prompt: 'Which word means "' + meaning + '"?',
+      supportingText: 'Example: ' + (word.example_cn ?? ''),
       correctAnswer: word.hanzi,
       options: uniqueOptions(word.hanzi, otherWords.slice(index, index + 6).map((item) => item.hanzi)),
     };
