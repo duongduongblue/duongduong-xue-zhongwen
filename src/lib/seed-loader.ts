@@ -19,6 +19,7 @@ export function mapSeedWordToVocabWord(word: SeedWord, lessonId?: string, module
     hanzi: word.hanzi,
     pinyin: word.pinyin,
     meaningVi: word.meaning_vi,
+    meaningEn: word.meaning_en,
     exampleCn: word.example_cn ?? '',
     exampleVi: word.example_translation ?? '',
     level: 'HSK1',

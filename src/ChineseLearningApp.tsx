@@ -350,11 +350,11 @@ export default function ChineseLearningApp() {
     <>
       <Text style={styles.hanziText}>{word.hanzi}</Text>
       <Text style={styles.pinyinText}>{word.pinyin}</Text>
-      <Text style={styles.meaningText}>{word.meaningVi}</Text>
+      <Text style={styles.meaningText}>{word.meaningEn ?? word.meaningVi}</Text>
       <View style={styles.divider} />
-      <Text style={styles.exampleLabel}>Ví dụ</Text>
+      <Text style={styles.exampleLabel}>Example</Text>
       <Text style={styles.exampleCn}>{word.exampleCn}</Text>
-      <Text style={styles.exampleVi}>{word.exampleVi}</Text>
+      {word.exampleEn ? <Text style={styles.exampleVi}>{word.exampleEn}</Text> : null}
     </>
   );
 
@@ -467,10 +467,10 @@ export default function ChineseLearningApp() {
         <Text style={styles.flashcardCounter}>第 {flashIndex + 1} / {selectedLesson.words.length}</Text>
         {showFlashBack ? (
           <View style={styles.flashBackContent}>
-            <Text style={styles.flashMeaning}>{currentFlashWord.meaningVi}</Text>
+            <Text style={styles.flashMeaning}>{currentFlashWord.meaningEn ?? currentFlashWord.meaningVi}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
             <Text style={styles.flashExampleLabel}>Example</Text>
-            <Text style={styles.flashExample}>{currentFlashWord.exampleVi}</Text>
+            <Text style={styles.flashExample}>{currentFlashWord.exampleEn ?? currentFlashWord.exampleVi}</Text>
           </View>
         ) : (
           <View style={styles.flashFrontContent}>
@@ -652,7 +652,7 @@ export default function ChineseLearningApp() {
           favoriteWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
               <Text style={styles.listPrimary}>{word.hanzi}</Text>
-              <Text style={styles.listSecondary}>{word.meaningVi}</Text>
+              <Text style={styles.listSecondary}>{word.meaningEn ?? word.meaningVi}</Text>
             </View>
           ))
         )}
@@ -666,7 +666,7 @@ export default function ChineseLearningApp() {
           reviewWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
               <Text style={styles.listPrimary}>{word.hanzi}</Text>
-              <Text style={styles.listSecondary}>{word.pinyin} • {word.meaningVi}</Text>
+              <Text style={styles.listSecondary}>{word.pinyin} • {word.meaningEn ?? word.meaningVi}</Text>
             </View>
           ))
         )}

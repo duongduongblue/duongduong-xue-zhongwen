@@ -5,8 +5,10 @@ export type VocabWord = {
   hanzi: string;
   pinyin: string;
   meaningVi: string;
+  meaningEn?: string;
   exampleCn: string;
   exampleVi: string;
+  exampleEn?: string;
   level: HSKLevelId;
   lessonId?: string;
   moduleId?: string;

@@ -8,6 +8,7 @@ type EnrichedWord = {
   hanzi: string;
   pinyin: string;
   meaning_vi?: string;
+  meaning_en?: string;
   display_meaning_vi?: string;
   app_note_vi?: string;
   app_synonym_note_vi?: string;
@@ -49,6 +50,7 @@ export const hsk5FocusWords: VocabWord[] = sourceWords.map((word) => ({
   hanzi: word.hanzi,
   pinyin: word.pinyin,
   meaningVi: word.display_meaning_vi || word.meaning_vi || '',
+  meaningEn: word.meaning_en,
   exampleCn: word.example_sentences?.[0]?.zh || (word.app_collocation_top || []).join(' · '),
   exampleVi: word.app_example_vi || word.example_sentences?.[0]?.vi || '',
   appNoteVi: word.app_note_vi,
@@ -61,7 +63,7 @@ export const hsk5FocusLessons: Lesson[] = [
     id: 'HSK5-F1-L1',
     levelId: 'HSK5',
     moduleId: 'hsk5-module-1',
-    title: 'HSK5 Focus / 社会',
+    title: 'Xã hội & thay đổi / 社会与变化',
     topic: 'Xã hội, thay đổi và phân tích / 社会、变化与分析',
     color: '#6B2FA0',
     words: hsk5FocusWords.filter((word) => word.lessonId === 'HSK5-F1-L1'),
@@ -70,7 +72,7 @@ export const hsk5FocusLessons: Lesson[] = [
     id: 'HSK5-F1-L2',
     levelId: 'HSK5',
     moduleId: 'hsk5-module-2',
-    title: 'HSK5 Focus / 工作',
+    title: 'Công việc & lập luận / 工作与论证',
     topic: 'Công việc, quyết định và lập luận / 工作、决定与推理',
     color: '#5A2E8C',
     words: hsk5FocusWords.filter((word) => word.lessonId === 'HSK5-F1-L2'),
