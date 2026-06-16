@@ -55,3 +55,11 @@ export async function saveProgress(progress: PersistedProgress): Promise<void> {
     console.warn('Unable to save study progress:', error);
   }
 }
+
+export async function clearProgress(): Promise<void> {
+  try {
+    await AsyncStorage.removeItem(STORAGE_KEY);
+  } catch (error) {
+    console.warn('Unable to clear study progress:', error);
+  }
+}

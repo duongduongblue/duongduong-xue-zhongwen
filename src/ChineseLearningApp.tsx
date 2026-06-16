@@ -12,8 +12,10 @@ import {
 import { allWords, buildQuizQuestions, lessons, levels, modules } from './data/hsk1';
 import { seedProgress } from './data/app-seed';
 import { mapMockProgressToPersistedProgress } from './lib/seed-loader';
-import { loadProgress, saveProgress } from './storage/progress';
+import { clearProgress, loadProgress, saveProgress } from './storage/progress';
 import type { QuizQuestion, TabKey, VocabWord } from './types';
+
+type ProgressSource = 'saved' | 'fallback';
 
 const tabs: Array<{ key: TabKey; label: string; icon: string }> = [
   { key: 'home', label: 'Home\n首页', icon: '首' },
@@ -119,13 +121,16 @@ export default function ChineseLearningApp() {
   const [favoriteIds, setFavoriteIds] = useState<string[]>([]);
   const [quizIndex, setQuizIndex] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
-  const [quizCorrectCount, setQuizCorrectCount] = useState(0);
-  const [completedQuestionIds, setCompletedQuestionIds] = useState<string[]>([]);
+  const [sessionQuizCorrectCount, setSessionQuizCorrectCount] = useState(0);
+  const [sessionCompletedQuestionIds, setSessionCompletedQuestionIds] = useState<string[]>([]);
+  const [totalQuizCorrectCount, setTotalQuizCorrectCount] = useState(0);
+  const [totalCompletedQuestionIds, setTotalCompletedQuestionIds] = useState<string[]>([]);
   const [studyDates, setStudyDates] = useState<string[]>([]);
   const [startedAt, setStartedAt] = useState<string | undefined>(undefined);
   const [lastStudyAt, setLastStudyAt] = useState<string | undefined>(undefined);
   const [currentStreak, setCurrentStreak] = useState(0);
-  const [historicalAccuracy, setHistoricalAccuracy] = useState(seedProgress.summary.accuracy_percentage);
+  const [progressSource, setProgressSource] = useState<ProgressSource>('fallback');
+  const [showStatsDebug, setShowStatsDebug] = useState(false);
   const [hasLoadedProgress, setHasLoadedProgress] = useState(false);
 
   const selectedLesson = lessons.find((lesson) => lesson.id === selectedLessonId) ?? lessons[0];
@@ -146,20 +151,25 @@ export default function ChineseLearningApp() {
   const learningPercent = progressPercent(activeLevelLearnedCount, activeLevelWords.length);
   const masteredPercent = progressPercent(activeLevelMasteredCount, activeLevelWords.length);
   const reviewPercent = progressPercent(activeLevelReviewCount, activeLevelWords.length);
-  const sessionAccuracy = completedQuestionIds.length
-    ? Math.round((quizCorrectCount / completedQuestionIds.length) * 100)
+  const historicalAccuracy = totalCompletedQuestionIds.length
+    ? Math.round((totalQuizCorrectCount / totalCompletedQuestionIds.length) * 100)
+    : 0;
+  const sessionAccuracy = sessionCompletedQuestionIds.length
+    ? Math.round((sessionQuizCorrectCount / sessionCompletedQuestionIds.length) * 100)
     : historicalAccuracy;
 
   const favoriteWords = activeLevelWords.filter((word) => favoriteIds.includes(word.id));
   const reviewWords = activeLevelWords.filter((word) => reviewIds.includes(word.id));
   const startedAtLabel = formatStartedAt(startedAt);
   const lastStudyAtLabel = formatLastStudyAt(lastStudyAt);
+  const isUsingFallbackProgress = progressSource === 'fallback';
 
   useEffect(() => {
     const hydrateProgress = async () => {
       const savedProgress = await loadProgress();
       const fallbackProgress = mapMockProgressToPersistedProgress(seedProgress);
       const initialProgress = savedProgress ?? fallbackProgress;
+      setProgressSource(savedProgress ? 'saved' : 'fallback');
 
       const lessonExists = lessons.some((lesson) => lesson.id === initialProgress.selectedLessonId);
 
@@ -171,14 +181,15 @@ export default function ChineseLearningApp() {
       setMasteredIds(initialProgress.masteredIds ?? []);
       setReviewIds(initialProgress.reviewIds ?? []);
       setFavoriteIds(initialProgress.favoriteIds ?? []);
-      setQuizCorrectCount(0);
-      setCompletedQuestionIds([]);
+      setSessionQuizCorrectCount(0);
+      setSessionCompletedQuestionIds([]);
+      setTotalQuizCorrectCount(initialProgress.quizCorrectCount ?? 0);
+      setTotalCompletedQuestionIds(initialProgress.completedQuestionIds ?? []);
       const loadedStudyDates = initialProgress.studyDates ?? [];
       setStudyDates(loadedStudyDates);
       setStartedAt(initialProgress.startedAt);
       setLastStudyAt(initialProgress.lastStudyAt);
       setCurrentStreak(calculateStreak(loadedStudyDates));
-      setHistoricalAccuracy(seedProgress.summary.accuracy_percentage);
 
       setHasLoadedProgress(true);
     };
@@ -197,24 +208,24 @@ export default function ChineseLearningApp() {
       masteredIds,
       reviewIds,
       favoriteIds,
-      quizCorrectCount,
-      completedQuestionIds,
+      quizCorrectCount: totalQuizCorrectCount,
+      completedQuestionIds: totalCompletedQuestionIds,
       studyDates,
       startedAt,
       lastStudyAt,
     });
   }, [
-    completedQuestionIds,
     favoriteIds,
     hasLoadedProgress,
     learnedIds,
     masteredIds,
-    quizCorrectCount,
     reviewIds,
     selectedLessonId,
     studyDates,
     startedAt,
     lastStudyAt,
+    totalCompletedQuestionIds,
+    totalQuizCorrectCount,
   ]);
 
   const selectLesson = (lessonId: string) => {
@@ -278,10 +289,12 @@ export default function ChineseLearningApp() {
 
     registerStudyActivity();
     setSelectedAnswer(answer);
-    setCompletedQuestionIds((current) => addUnique(current, question.id));
+    setSessionCompletedQuestionIds((current) => addUnique(current, question.id));
+    setTotalCompletedQuestionIds((current) => addUnique(current, question.id));
 
     if (answer === question.correctAnswer) {
-      setQuizCorrectCount((current) => current + 1);
+      setSessionQuizCorrectCount((current) => current + 1);
+      setTotalQuizCorrectCount((current) => current + 1);
     }
   };
 
@@ -293,8 +306,33 @@ export default function ChineseLearningApp() {
   const restartQuiz = () => {
     setQuizIndex(0);
     setSelectedAnswer(null);
-    setQuizCorrectCount(0);
-    setCompletedQuestionIds([]);
+    setSessionQuizCorrectCount(0);
+    setSessionCompletedQuestionIds([]);
+  };
+
+  const handleResetProgress = async () => {
+    await clearProgress();
+
+    setProgressSource('saved');
+    setSelectedLessonId(lessons[0].id);
+    setLearnIndex(0);
+    setFlashIndex(0);
+    setQuizIndex(0);
+    setSelectedAnswer(null);
+    setShowFlashBack(false);
+    setLearnedIds([]);
+    setMasteredIds([]);
+    setReviewIds([]);
+    setFavoriteIds([]);
+    setSessionQuizCorrectCount(0);
+    setSessionCompletedQuestionIds([]);
+    setTotalQuizCorrectCount(0);
+    setTotalCompletedQuestionIds([]);
+    setStudyDates([]);
+    setStartedAt(undefined);
+    setLastStudyAt(undefined);
+    setCurrentStreak(0);
+    setShowStatsDebug(false);
   };
 
   const renderLessonPicker = () => (
@@ -515,7 +553,7 @@ export default function ChineseLearningApp() {
           <Text style={styles.resultEmoji}>OK</Text>
           <Text style={styles.resultTitle}>测验完成 / Quiz Complete</Text>
           <Text style={styles.resultText}>
-            你答对了 {quizCorrectCount}/{quizQuestions.length} 题 / You answered {quizCorrectCount}/{quizQuestions.length} correctly ({sessionAccuracy}%).
+            你答对了 {sessionQuizCorrectCount}/{quizQuestions.length} 题 / You answered {sessionQuizCorrectCount}/{quizQuestions.length} correctly ({sessionAccuracy}%).
           </Text>
           <ActionButton label="重新开始 / Restart Quiz" onPress={restartQuiz} />
         </SectionCard>
@@ -573,6 +611,23 @@ export default function ChineseLearningApp() {
 
   const renderProgress = () => (
     <ScrollView contentContainerStyle={styles.contentContainer}>
+      <SectionCard>
+        <Text style={styles.sectionTitle}>统计来源 / Stats source</Text>
+        <Text style={styles.bodyText}>
+          {isUsingFallbackProgress
+            ? '当前显示的是 fallback demo data，不是完全真实学习记录 / The current stats are using fallback demo data, not fully real study records.'
+            : '当前显示的是本地保存的学习记录 / The current stats are using saved local study records.'}
+        </Text>
+        <View style={styles.wordActionRow}>
+          <ActionButton
+            label={showStatsDebug ? '隐藏统计明细 / Hide debug' : '查看统计明细 / Debug stats'}
+            onPress={() => setShowStatsDebug((current) => !current)}
+            variant="secondary"
+          />
+          <ActionButton label="重置进度 / Reset progress" onPress={() => void handleResetProgress()} />
+        </View>
+      </SectionCard>
+
       <SectionCard>
         <View style={styles.avatarRow}>
           <View style={styles.avatarCircle}>
@@ -675,10 +730,33 @@ export default function ChineseLearningApp() {
 
       <SectionCard>
         <Text style={styles.sectionTitle}>测验统计 / Quiz Stats</Text>
-        <Text style={styles.bodyText}>本次已答题数 / Questions answered this session: {completedQuestionIds.length}</Text>
-        <Text style={styles.bodyText}>本次答对题数 / Correct answers this session: {quizCorrectCount}</Text>
+        <Text style={styles.bodyText}>本次已答题数 / Questions answered this session: {sessionCompletedQuestionIds.length}</Text>
+        <Text style={styles.bodyText}>本次答对题数 / Correct answers this session: {sessionQuizCorrectCount}</Text>
+        <Text style={styles.bodyText}>累计已答题数 / Total questions answered: {totalCompletedQuestionIds.length}</Text>
+        <Text style={styles.bodyText}>累计答对题数 / Total correct answers: {totalQuizCorrectCount}</Text>
         <Text style={styles.bodyText}>当前正确率 / Current accuracy: {sessionAccuracy}%</Text>
+        <Text style={styles.bodyText}>累计正确率 / Historical accuracy: {historicalAccuracy}%</Text>
       </SectionCard>
+
+      {showStatsDebug ? (
+        <SectionCard>
+          <Text style={styles.sectionTitle}>统计明细 / Debug stats</Text>
+          <Text style={styles.bodyText}>source: {progressSource}</Text>
+          <Text style={styles.bodyText}>selectedLessonId: {selectedLessonId}</Text>
+          <Text style={styles.bodyText}>activeLevel: {activeLevel.id}</Text>
+          <Text style={styles.bodyText}>learnedIds: {learnedIds.length}</Text>
+          <Text style={styles.bodyText}>masteredIds: {masteredIds.length}</Text>
+          <Text style={styles.bodyText}>reviewIds: {reviewIds.length}</Text>
+          <Text style={styles.bodyText}>favoriteIds: {favoriteIds.length}</Text>
+          <Text style={styles.bodyText}>studyDates: {studyDates.length}</Text>
+          <Text style={styles.bodyText}>sessionCompletedQuestionIds: {sessionCompletedQuestionIds.length}</Text>
+          <Text style={styles.bodyText}>sessionQuizCorrectCount: {sessionQuizCorrectCount}</Text>
+          <Text style={styles.bodyText}>totalCompletedQuestionIds: {totalCompletedQuestionIds.length}</Text>
+          <Text style={styles.bodyText}>totalQuizCorrectCount: {totalQuizCorrectCount}</Text>
+          <Text style={styles.bodyText}>startedAt: {startedAt ?? 'none'}</Text>
+          <Text style={styles.bodyText}>lastStudyAt: {lastStudyAt ?? 'none'}</Text>
+        </SectionCard>
+      ) : null}
     </ScrollView>
   );
 
