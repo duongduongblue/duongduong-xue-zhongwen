@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch2_071",
+    "level": "HSK5",
+    "hanzi": "范围",
+    "pinyin": "fànwéi",
+    "display_meaning_vi": "phạm vi",
+    "meaning_en": "scope; range",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["analysis", "academic"],
+    "exam_tags": ["reading", "meaning", "usage"],
+    "register": "formal",
+    "grammar_pattern": "范围 + 很广 / 扩大范围 / 在……范围内",
+    "collocations": ["范围很广", "扩大范围", "在范围内"],
+    "near_synonyms": [
+      {
+        "word": "领域",
+        "difference_vi": "范围 nhấn mạnh giới hạn hoặc phạm vi bao phủ; 领域 thiên về lĩnh vực/chuyên ngành cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "范围 = phạm vi; 领域 = lĩnh vực.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题已经超出了我们的讨论范围。",
+        "pinyin": "Zhège wèntí yǐjīng chāochū le wǒmen de tǎolùn fànwéi.",
+        "vi": "Vấn đề này đã vượt ra ngoài phạm vi thảo luận của chúng ta.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "范围 là phạm vi/giới hạn, không phải lúc nào cũng thay được cho 领域 là lĩnh vực."
+    ],
+    "app_note_vi": "Rất hay gặp trong bài đọc phân tích, học thuật và formal discussion.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "范围 nghĩa là gì?", "answer": "phạm vi" },
+      { "type": "cloze", "prompt": "这个问题已经超出了我们的讨论____。", "answer": "范围" },
+      { "type": "synonym", "prompt": "范围 khác 领域 như thế nào?", "answer": "范围 là phạm vi; 领域 là lĩnh vực." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_072",
+    "level": "HSK5",
+    "hanzi": "实现",
+    "pinyin": "shíxiàn",
+    "display_meaning_vi": "thực hiện; đạt được",
+    "meaning_en": "to realize; to achieve; to implement",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["goal", "work", "growth"],
+    "exam_tags": ["meaning", "cloze", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "实现 + 目标 / 理想 / 计划",
+    "collocations": ["实现目标", "实现理想", "逐步实现"],
+    "near_synonyms": [
+      {
+        "word": "完成",
+        "difference_vi": "实现 nhấn mạnh đạt được mục tiêu/kết quả; 完成 nhấn mạnh hoàn tất một nhiệm vụ hoặc công việc."
+      }
+    ],
+    "app_synonym_note_vi": "实现 = đạt được; 完成 = hoàn thành.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "只要坚持下去，就有机会实现自己的目标。",
+        "pinyin": "Zhǐyào jiānchí xiàqù, jiù yǒu jīhuì shíxiàn zìjǐ de mùbiāo.",
+        "vi": "Chỉ cần kiên trì tiếp tục, sẽ có cơ hội đạt được mục tiêu của mình.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "实现 thường đi với mục tiêu, lý tưởng, kế hoạch; không nên dùng thay cho 完成 trong mọi trường hợp."
+    ],
+    "app_note_vi": "Hay gặp trong goal-setting, development và self-growth topics.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "实现 nghĩa là gì?", "answer": "thực hiện; đạt được" },
+      { "type": "cloze", "prompt": "就有机会____自己的目标。", "answer": "实现" },
+      { "type": "synonym", "prompt": "实现 khác 完成 như thế nào?", "answer": "实现 là đạt được; 完成 là hoàn tất nhiệm vụ." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_073",
+    "level": "HSK5",
+    "hanzi": "降低",
+    "pinyin": "jiàngdī",
+    "display_meaning_vi": "giảm xuống; hạ thấp",
+    "meaning_en": "to reduce; to lower",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["data", "policy", "economy"],
+    "exam_tags": ["reading", "cloze", "collocation"],
+    "register": "formal",
+    "grammar_pattern": "降低 + 成本 / 风险 / 温度",
+    "collocations": ["降低成本", "降低风险", "降低温度"],
+    "near_synonyms": [
+      {
+        "word": "减少",
+        "difference_vi": "降低 thường nhấn mạnh hạ xuống một mức độ hoặc chỉ số; 减少 thiên về làm cho số lượng ít đi."
+      }
+    ],
+    "app_synonym_note_vi": "降低 = hạ mức độ/chỉ số; 减少 = giảm số lượng.",
+    "antonyms": ["提高"],
+    "example_sentences": [
+      {
+        "zh": "公司正在寻找办法降低生产成本。",
+        "pinyin": "Gōngsī zhèngzài xúnzhǎo bànfǎ jiàngdī shēngchǎn chéngběn.",
+        "vi": "Công ty đang tìm cách giảm chi phí sản xuất.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng luôn thay 降低 bằng 减少; một từ nhấn mạnh mức độ/chỉ số, một từ nhấn mạnh số lượng."
+    ],
+    "app_note_vi": "Rất hữu ích trong kinh tế, công việc và các bài đọc dữ liệu.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "降低 nghĩa là gì?", "answer": "giảm xuống; hạ thấp" },
+      { "type": "cloze", "prompt": "公司正在寻找办法____生产成本。", "answer": "降低" },
+      { "type": "synonym", "prompt": "降低 khác 减少 như thế nào?", "answer": "降低 là hạ mức độ/chỉ số; 减少 là giảm số lượng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_074",
+    "level": "HSK5",
+    "hanzi": "提高",
+    "pinyin": "tígāo",
+    "display_meaning_vi": "nâng cao",
+    "meaning_en": "to raise; to improve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["growth", "study", "work"],
+    "exam_tags": ["meaning", "cloze", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "提高 + 水平 / 效率 / 能力",
+    "collocations": ["提高水平", "提高效率", "提高能力"],
+    "near_synonyms": [
+      {
+        "word": "改善",
+        "difference_vi": "提高 nhấn mạnh nâng lên mức cao hơn; 改善 thiên về cải thiện tình hình hoặc điều kiện."
+      }
+    ],
+    "app_synonym_note_vi": "提高 = nâng cao; 改善 = cải thiện.",
+    "antonyms": ["降低"],
+    "example_sentences": [
+      {
+        "zh": "多练习可以提高听力水平。",
+        "pinyin": "Duō liànxí kěyǐ tígāo tīnglì shuǐpíng.",
+        "vi": "Luyện tập nhiều có thể nâng cao trình độ nghe hiểu.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "提高 thường đi với trình độ, năng lực, hiệu suất; không nên lẫn với 改善 khi nói về tình hình/điều kiện."
+    ],
+    "app_note_vi": "Từ rất cơ bản nhưng cực hữu ích cho học tập, công việc và phát triển bản thân.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "提高 nghĩa là gì?", "answer": "nâng cao" },
+      { "type": "cloze", "prompt": "多练习可以____听力水平。", "answer": "提高" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 提高 là gì?", "answer": "提高能力" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_075",
+    "level": "HSK5",
+    "hanzi": "恢复",
+    "pinyin": "huīfù",
+    "display_meaning_vi": "khôi phục; hồi phục",
+    "meaning_en": "to recover; to restore",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["health", "society", "process"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "neutral",
+    "grammar_pattern": "恢复 + 健康 / 正常 / 秩序",
+    "collocations": ["恢复健康", "恢复正常", "恢复秩序"],
+    "near_synonyms": [
+      {
+        "word": "修复",
+        "difference_vi": "恢复 thiên về trở lại trạng thái cũ/bình thường; 修复 thiên về sửa chữa cái gì bị hỏng."
+      }
+    ],
+    "app_synonym_note_vi": "恢复 = trở lại trạng thái cũ/bình thường; 修复 = sửa chữa, khắc phục hỏng hóc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "手术以后，他花了很长时间才恢复健康。",
+        "pinyin": "Shǒushù yǐhòu, tā huā le hěn cháng shíjiān cái huīfù jiànkāng.",
+        "vi": "Sau ca phẫu thuật, anh ấy đã mất rất nhiều thời gian mới hồi phục sức khỏe.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "恢复 có thể dùng cho sức khỏe, trật tự, trạng thái bình thường; không chỉ riêng “hồi phục sức khỏe”."
+    ],
+    "app_note_vi": "Hay gặp trong health, society và các tình huống quay về trạng thái bình thường.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "恢复 nghĩa là gì?", "answer": "khôi phục; hồi phục" },
+      { "type": "cloze", "prompt": "他花了很长时间才____健康。", "answer": "恢复" },
+      { "type": "collocation", "prompt": "Một collocation tự nhiên với 恢复 là gì?", "answer": "恢复正常" }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_076",
+    "level": "HSK5",
+    "hanzi": "接触",
+    "pinyin": "jiēchù",
+    "display_meaning_vi": "tiếp xúc",
+    "meaning_en": "to come into contact with; contact",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "communication"],
+    "exam_tags": ["meaning", "usage", "reading"],
+    "register": "neutral",
+    "grammar_pattern": "接触 + 新事物 / 外界 / 某人",
+    "collocations": ["接触外界", "接触新事物", "第一次接触"],
+    "near_synonyms": [
+      {
+        "word": "联系",
+        "difference_vi": "接触 nhấn mạnh tiếp xúc, tiếp cận; 联系 thiên về liên lạc hoặc mối liên hệ."
+      }
+    ],
+    "app_synonym_note_vi": "接触 = tiếp xúc, tiếp cận; 联系 = liên lạc / mối liên hệ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "多接触不同的人会帮助你开阔眼界。",
+        "pinyin": "Duō jiēchù bùtóng de rén huì bāngzhù nǐ kāikuò yǎnjiè.",
+        "vi": "Tiếp xúc với nhiều người khác nhau sẽ giúp bạn mở rộng tầm nhìn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "接触 không phải lúc nào cũng là “liên lạc”; nó nghiêng về tiếp xúc, tiếp cận hoặc va chạm trực tiếp hơn."
+    ],
+    "app_note_vi": "Hay dùng khi nói về con người, ý tưởng, môi trường hoặc trải nghiệm mới.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "接触 nghĩa là gì?", "answer": "tiếp xúc" },
+      { "type": "cloze", "prompt": "多____不同的人会帮助你开阔眼界。", "answer": "接触" },
+      { "type": "synonym", "prompt": "接触 khác 联系 như thế nào?", "answer": "接触 là tiếp xúc/tiếp cận; 联系 là liên lạc/mối liên hệ." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_077",
+    "level": "HSK5",
+    "hanzi": "成立",
+    "pinyin": "chénglì",
+    "display_meaning_vi": "thành lập; có hiệu lực",
+    "meaning_en": "to establish; to hold true",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["formal", "organization", "logic"],
+    "exam_tags": ["reading", "meaning", "usage"],
+    "register": "formal",
+    "grammar_pattern": "成立 + 公司 / 小组 / 理论",
+    "collocations": ["成立公司", "正式成立", "这个理论成立"],
+    "near_synonyms": [
+      {
+        "word": "建立",
+        "difference_vi": "成立 thường dùng khi lập tổ chức, nhóm hoặc khi nói “điều này có cơ sở/đúng”; 建立 rộng hơn, thiên về xây dựng, thiết lập một hệ thống hoặc quan hệ."
+      }
+    ],
+    "app_synonym_note_vi": "成立 = thành lập / có hiệu lực; 建立 = xây dựng, thiết lập rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个组织成立于二十年前。",
+        "pinyin": "Zhège zǔzhī chénglì yú èrshí nián qián.",
+        "vi": "Tổ chức này được thành lập vào 20 năm trước.",
+        "context": "organization"
+      }
+    ],
+    "common_mistakes_vi": [
+      "成立 ngoài nghĩa “thành lập” còn có thể mang nghĩa “đúng/có cơ sở” trong lập luận."
+    ],
+    "app_note_vi": "Quan trọng trong cả chủ đề tổ chức lẫn đọc hiểu logic/formal.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "成立 nghĩa là gì?", "answer": "thành lập; có hiệu lực" },
+      { "type": "cloze", "prompt": "这个组织____于二十年前。", "answer": "成立" },
+      { "type": "synonym", "prompt": "成立 khác 建立 như thế nào?", "answer": "成立 là thành lập hoặc có hiệu lực; 建立 là thiết lập/xây dựng rộng hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_078",
+    "level": "HSK5",
+    "hanzi": "形成",
+    "pinyin": "xíngchéng",
+    "display_meaning_vi": "hình thành",
+    "meaning_en": "to form; to take shape",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["process", "reading", "formal"],
+    "exam_tags": ["reading", "cloze", "meaning"],
+    "register": "formal",
+    "grammar_pattern": "形成 + 习惯 / 结构 / 共识",
+    "collocations": ["形成习惯", "形成结构", "形成共识"],
+    "near_synonyms": [
+      {
+        "word": "产生",
+        "difference_vi": "形成 thiên về quá trình dần tạo thành trạng thái/cấu trúc; 产生 thiên về phát sinh hoặc sinh ra kết quả/tác động."
+      }
+    ],
+    "app_synonym_note_vi": "形成 = dần hình thành; 产生 = phát sinh/sinh ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "良好的学习习惯不是一天就能形成的。",
+        "pinyin": "Liánghǎo de xuéxí xíguàn bú shì yì tiān jiù néng xíngchéng de.",
+        "vi": "Thói quen học tập tốt không thể hình thành chỉ trong một ngày.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "形成 nhấn mạnh quá trình dần dần tạo thành; không phải lúc nào cũng giống 产生."
+    ],
+    "app_note_vi": "Hay dùng để nói quá trình hình thành thói quen, cấu trúc hoặc đồng thuận.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "形成 nghĩa là gì?", "answer": "hình thành" },
+      { "type": "cloze", "prompt": "良好的学习习惯不是一天就能____的。", "answer": "形成" },
+      { "type": "synonym", "prompt": "形成 khác 产生 như thế nào?", "answer": "形成 là dần hình thành; 产生 là phát sinh/sinh ra." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_079",
+    "level": "HSK5",
+    "hanzi": "明显",
+    "pinyin": "míngxiǎn",
+    "display_meaning_vi": "rõ ràng; rõ rệt",
+    "meaning_en": "obvious; clear",
+    "part_of_speech": "adjective/adverb",
+    "difficulty": 2,
+    "topic_tags": ["description", "analysis"],
+    "exam_tags": ["reading", "meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "明显 + 地 / 差别 / 提高",
+    "collocations": ["明显差别", "明显提高", "变化明显"],
+    "near_synonyms": [
+      {
+        "word": "清楚",
+        "difference_vi": "清楚 thiên về rõ ràng, dễ hiểu; 明显 nhấn mạnh mức độ dễ nhận ra, rõ rệt hơn về cảm quan hoặc số liệu."
+      }
+    ],
+    "app_synonym_note_vi": "明显 = rõ rệt, dễ nhận ra; 清楚 = rõ ràng, dễ hiểu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这两种方法的效果有明显差别。",
+        "pinyin": "Zhè liǎng zhǒng fāngfǎ de xiàoguǒ yǒu míngxiǎn chābié.",
+        "vi": "Hiệu quả của hai phương pháp này có sự khác biệt rõ rệt.",
+        "context": "analysis"
+      }
+    ],
+    "common_mistakes_vi": [
+      "明显 thường nhấn mạnh “rõ rệt, dễ nhận ra”, không hoàn toàn giống 清楚 là “rõ ràng, dễ hiểu”."
+    ],
+    "app_note_vi": "Hay dùng trong so sánh, phân tích và mô tả sự thay đổi.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "明显 nghĩa là gì?", "answer": "rõ ràng; rõ rệt" },
+      { "type": "cloze", "prompt": "这两种方法的效果有____差别。", "answer": "明显" },
+      { "type": "synonym", "prompt": "明显 khác 清楚 như thế nào?", "answer": "明显 là rõ rệt, dễ nhận ra; 清楚 là rõ ràng, dễ hiểu." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_080",
+    "level": "HSK5",
+    "hanzi": "基础",
+    "pinyin": "jīchǔ",
+    "display_meaning_vi": "nền tảng; cơ sở",
+    "meaning_en": "foundation; basis",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["study", "academic", "growth"],
+    "exam_tags": ["meaning", "reading", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "基础 + 扎实 / 知识 / 条件",
+    "collocations": ["基础知识", "打好基础", "基础扎实"],
+    "near_synonyms": [
+      {
+        "word": "根本",
+        "difference_vi": "基础 là nền tảng/cơ sở để xây dựng; 根本 thiên về gốc rễ, căn bản ở mức bản chất hoặc nguyên nhân sâu hơn."
+      }
+    ],
+    "app_synonym_note_vi": "基础 = nền tảng/cơ sở; 根本 = gốc rễ, căn bản sâu hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学好语法是提高汉语水平的基础。",
+        "pinyin": "Xué hǎo yǔfǎ shì tígāo Hànyǔ shuǐpíng de jīchǔ.",
+        "vi": "Học tốt ngữ pháp là nền tảng để nâng cao trình độ tiếng Trung.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "基础 thường là nền tảng/cơ sở; đừng nhầm ngay với 根本 là gốc rễ hoặc nguyên nhân sâu hơn."
+    ],
+    "app_note_vi": "Rất phù hợp cho chủ đề học tập, phát triển kỹ năng và xây nền kiến thức.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "基础 nghĩa là gì?", "answer": "nền tảng; cơ sở" },
+      { "type": "cloze", "prompt": "学好语法是提高汉语水平的____。", "answer": "基础" },
+      { "type": "synonym", "prompt": "基础 khác 根本 như thế nào?", "answer": "基础 là nền tảng/cơ sở; 根本 là gốc rễ hoặc nguyên nhân sâu hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
