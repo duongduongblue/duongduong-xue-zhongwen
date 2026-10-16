@@ -10,6 +10,8 @@ import enriched71To80 from '../../docs/hsk5-batch2-71-80-enriched.json';
 import enriched81To90 from '../../docs/hsk5-batch2-81-90-enriched.json';
 import enriched91To100 from '../../docs/hsk5-batch2-91-100-enriched.json';
 import enriched101To110 from '../../docs/hsk5-batch2-101-110-enriched.json';
+import enriched111To120 from '../../docs/hsk5-batch2-111-120-enriched.json';
+import enriched121To130 from '../../docs/hsk5-batch2-121-130-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -47,6 +49,8 @@ const sourceWords = [
   ...(enriched81To90 as EnrichedWord[]),
   ...(enriched91To100 as EnrichedWord[]),
   ...(enriched101To110 as EnrichedWord[]),
+  ...(enriched111To120 as EnrichedWord[]),
+  ...(enriched121To130 as EnrichedWord[]),
 ];
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -126,6 +130,20 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '11 · 态度',
     topic: '观点与态度 / Quan điểm và thái độ',
     color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L12',
+    moduleId: 'hsk5-module-8',
+    title: '12 · 成长',
+    topic: '学习与成长 / Học tập và trưởng thành',
+    color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L13',
+    moduleId: 'hsk5-module-8',
+    title: '13 · 逻辑',
+    topic: '逻辑连接 / Từ nối và lập luận',
+    color: '#1565C0',
   },
 ];
 
