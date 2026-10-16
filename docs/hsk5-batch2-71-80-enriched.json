@@ -289,41 +289,41 @@
   {
     "id": "hsk5_batch2_078",
     "level": "HSK5",
-    "hanzi": "形成",
-    "pinyin": "xíngchéng",
-    "display_meaning_vi": "hình thành",
-    "meaning_en": "to form; to take shape",
+    "hanzi": "推动",
+    "pinyin": "tuīdòng",
+    "display_meaning_vi": "thúc đẩy; đẩy mạnh",
+    "meaning_en": "to push forward; to drive",
     "part_of_speech": "verb",
     "difficulty": 3,
-    "topic_tags": ["process", "reading", "formal"],
-    "exam_tags": ["reading", "cloze", "meaning"],
+    "topic_tags": ["process", "society", "formal"],
+    "exam_tags": ["reading", "cloze", "collocation"],
     "register": "formal",
-    "grammar_pattern": "形成 + 习惯 / 结构 / 共识",
-    "collocations": ["形成习惯", "形成结构", "形成共识"],
+    "grammar_pattern": "推动 + 发展 / 改革 / 进步",
+    "collocations": ["推动发展", "推动改革", "推动进步"],
     "near_synonyms": [
       {
-        "word": "产生",
-        "difference_vi": "形成 thiên về quá trình dần tạo thành trạng thái/cấu trúc; 产生 thiên về phát sinh hoặc sinh ra kết quả/tác động."
+        "word": "促进",
+        "difference_vi": "推动 nhấn mạnh lực đẩy làm cho việc tiến lên; 促进 thiên về tạo điều kiện thuận lợi để cái gì đó phát triển."
       }
     ],
-    "app_synonym_note_vi": "形成 = dần hình thành; 产生 = phát sinh/sinh ra.",
-    "antonyms": [],
+    "app_synonym_note_vi": "推动 = đẩy mạnh cho tiến lên; 促进 = tạo điều kiện để phát triển.",
+    "antonyms": ["阻碍"],
     "example_sentences": [
       {
-        "zh": "良好的学习习惯不是一天就能形成的。",
-        "pinyin": "Liánghǎo de xuéxí xíguàn bú shì yì tiān jiù néng xíngchéng de.",
-        "vi": "Thói quen học tập tốt không thể hình thành chỉ trong một ngày.",
-        "context": "growth"
+        "zh": "科技创新正在推动社会的发展。",
+        "pinyin": "Kējì chuàngxīn zhèngzài tuīdòng shèhuì de fāzhǎn.",
+        "vi": "Đổi mới khoa học công nghệ đang thúc đẩy sự phát triển của xã hội.",
+        "context": "society"
       }
     ],
     "common_mistakes_vi": [
-      "形成 nhấn mạnh quá trình dần dần tạo thành; không phải lúc nào cũng giống 产生."
+      "推动 không chỉ là “đẩy” theo nghĩa vật lý; trong bài đọc nó thường là thúc đẩy một quá trình hay cải cách."
     ],
-    "app_note_vi": "Hay dùng để nói quá trình hình thành thói quen, cấu trúc hoặc đồng thuận.",
+    "app_note_vi": "Hay gặp khi nói về cải cách, phát triển và động lực thay đổi.",
     "review_prompts": [
-      { "type": "meaning", "prompt": "形成 nghĩa là gì?", "answer": "hình thành" },
-      { "type": "cloze", "prompt": "良好的学习习惯不是一天就能____的。", "answer": "形成" },
-      { "type": "synonym", "prompt": "形成 khác 产生 như thế nào?", "answer": "形成 là dần hình thành; 产生 là phát sinh/sinh ra." }
+      { "type": "meaning", "prompt": "推动 nghĩa là gì?", "answer": "thúc đẩy; đẩy mạnh" },
+      { "type": "cloze", "prompt": "科技创新正在____社会的发展。", "answer": "推动" },
+      { "type": "synonym", "prompt": "推动 khác 促进 như thế nào?", "answer": "推动 là đẩy mạnh cho tiến lên; 促进 là tạo điều kiện để phát triển." }
     ],
     "source_note": "Needs verification against selected HSK5 reference list"
   },

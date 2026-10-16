@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch2_091",
+    "level": "HSK5",
+    "hanzi": "质量",
+    "pinyin": "zhìliàng",
+    "display_meaning_vi": "chất lượng",
+    "meaning_en": "quality",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["work", "product", "daily"],
+    "exam_tags": ["meaning", "collocation", "reading"],
+    "register": "neutral",
+    "grammar_pattern": "质量 + 问题 / 提高质量 / 生活质量",
+    "collocations": ["质量问题", "提高质量", "生活质量"],
+    "near_synonyms": [
+      {
+        "word": "品质",
+        "difference_vi": "质量 hay dùng cho sản phẩm, dịch vụ hoặc công việc; 品质 còn dùng cho phẩm chất của con người."
+      }
+    ],
+    "app_synonym_note_vi": "质量 = chất lượng việc/vật; 品质 còn chỉ phẩm chất con người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们更应该关注产品的质量，而不是只看数量。",
+        "pinyin": "Wǒmen gèng yīnggāi guānzhù chǎnpǐn de zhìliàng, ér bú shì zhǐ kàn shùliàng.",
+        "vi": "Chúng ta nên quan tâm chất lượng sản phẩm hơn, chứ không chỉ nhìn số lượng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "质量 nói về chất lượng, không nhầm với 数量 là số lượng."
+    ],
+    "app_note_vi": "Từ rất thực dụng khi nói sản phẩm, dịch vụ và chất lượng cuộc sống.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "质量 nghĩa là gì?", "answer": "chất lượng" },
+      { "type": "cloze", "prompt": "我们更应该关注产品的____，而不是只看数量。", "answer": "质量" },
+      { "type": "synonym", "prompt": "质量 khác 品质 ở điểm nào?", "answer": "质量 hay chỉ chất lượng việc hoặc vật; 品质 còn chỉ phẩm chất con người." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_092",
+    "level": "HSK5",
+    "hanzi": "标准",
+    "pinyin": "biāozhǔn",
+    "display_meaning_vi": "tiêu chuẩn; chuẩn mực",
+    "meaning_en": "standard; criterion",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["work", "evaluation", "formal"],
+    "exam_tags": ["meaning", "collocation", "reading"],
+    "register": "neutral",
+    "grammar_pattern": "达到标准 / 标准 + 答案 / 生活标准",
+    "collocations": ["达到标准", "标准答案", "生活标准"],
+    "near_synonyms": [
+      {
+        "word": "水平",
+        "difference_vi": "标准 là mốc hoặc tiêu chí để đánh giá; 水平 là trình độ hiện có của người hoặc việc."
+      }
+    ],
+    "app_synonym_note_vi": "标准 = tiêu chí để đo; 水平 = trình độ hiện có.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这项工作已经达到了公司的标准。",
+        "pinyin": "Zhè xiàng gōngzuò yǐjīng dádào le gōngsī de biāozhǔn.",
+        "vi": "Công việc này đã đạt tiêu chuẩn của công ty.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "标准 là cái mốc cần đạt, không phải lúc nào cũng đồng nghĩa với 水平."
+    ],
+    "app_note_vi": "Hay gặp khi đánh giá công việc, bài thi và mức sống.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "标准 nghĩa là gì?", "answer": "tiêu chuẩn; chuẩn mực" },
+      { "type": "cloze", "prompt": "这项工作已经达到了公司的____。", "answer": "标准" },
+      { "type": "synonym", "prompt": "标准 khác 水平 như thế nào?", "answer": "标准 là tiêu chí để đo; 水平 là trình độ hiện có." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_093",
+    "level": "HSK5",
+    "hanzi": "经验",
+    "pinyin": "jīngyàn",
+    "display_meaning_vi": "kinh nghiệm",
+    "meaning_en": "experience",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["work", "growth", "learning"],
+    "exam_tags": ["meaning", "collocation", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "积累经验 / 经验 + 丰富 / 工作经验",
+    "collocations": ["工作经验", "积累经验", "经验丰富"],
+    "near_synonyms": [
+      {
+        "word": "经历",
+        "difference_vi": "经验 là kinh nghiệm đã đúc kết được; 经历 là những việc đã trải qua, thiên về sự kiện."
+      }
+    ],
+    "app_synonym_note_vi": "经验 = kinh nghiệm đúc kết; 经历 = những gì đã trải qua.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次失败也让我积累了宝贵的经验。",
+        "pinyin": "Zhè cì shībài yě ràng wǒ jīlěi le bǎoguì de jīngyàn.",
+        "vi": "Lần thất bại này cũng giúp tôi tích lũy được kinh nghiệm quý.",
+        "context": "growth"
+      }
+    ],
+    "common_mistakes_vi": [
+      "经验 là bài học đúc kết, không phải bản thân chuỗi sự việc như 经历."
+    ],
+    "app_note_vi": "Rất hay gặp khi nói công việc, học tập và trưởng thành.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "经验 nghĩa là gì?", "answer": "kinh nghiệm" },
+      { "type": "cloze", "prompt": "这次失败也让我积累了宝贵的____。", "answer": "经验" },
+      { "type": "synonym", "prompt": "经验 khác 经历 như thế nào?", "answer": "经验 là kinh nghiệm đúc kết; 经历 là những gì đã trải qua." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_094",
+    "level": "HSK5",
+    "hanzi": "条件",
+    "pinyin": "tiáojiàn",
+    "display_meaning_vi": "điều kiện",
+    "meaning_en": "condition; requirement",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["work", "society", "logic"],
+    "exam_tags": ["meaning", "reading", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "在……条件下 / 生活条件 / 工作条件",
+    "collocations": ["生活条件", "工作条件", "在这个条件下"],
+    "near_synonyms": [
+      {
+        "word": "环境",
+        "difference_vi": "条件 là những điều kiện cụ thể cần có; 环境 là môi trường hoặc hoàn cảnh bao quanh."
+      }
+    ],
+    "app_synonym_note_vi": "条件 = điều kiện cụ thể; 环境 = môi trường bao quanh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "良好的学习条件能帮助学生更好地发展。",
+        "pinyin": "Liánghǎo de xuéxí tiáojiàn néng bāngzhù xuéshēng gèng hǎo de fāzhǎn.",
+        "vi": "Điều kiện học tập tốt có thể giúp học sinh phát triển tốt hơn.",
+        "context": "education"
+      }
+    ],
+    "common_mistakes_vi": [
+      "条件 là yếu tố cần có để việc xảy ra, không dùng thay cho 环境 trong mọi câu."
+    ],
+    "app_note_vi": "Hữu ích khi nói điều kiện sống, học tập, làm việc và lập luận.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "条件 nghĩa là gì?", "answer": "điều kiện" },
+      { "type": "cloze", "prompt": "良好的学习____能帮助学生更好地发展。", "answer": "条件" },
+      { "type": "synonym", "prompt": "条件 khác 环境 như thế nào?", "answer": "条件 là điều kiện cụ thể; 环境 là môi trường bao quanh." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_095",
+    "level": "HSK5",
+    "hanzi": "方式",
+    "pinyin": "fāngshì",
+    "display_meaning_vi": "cách thức; hình thức",
+    "meaning_en": "way; manner",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": ["method", "daily", "work"],
+    "exam_tags": ["meaning", "cloze", "synonym"],
+    "register": "neutral",
+    "grammar_pattern": "生活方式 / 工作方式 / ……的方式",
+    "collocations": ["生活方式", "工作方式", "解决方式"],
+    "near_synonyms": [
+      {
+        "word": "方法",
+        "difference_vi": "方式 là cách thức hoặc hình thức chung; 方法 là phương pháp cụ thể hơn để làm một việc."
+      }
+    ],
+    "app_synonym_note_vi": "方式 = cách thức chung; 方法 = phương pháp cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不同的学习方式适合不同的人。",
+        "pinyin": "Bùtóng de xuéxí fāngshì shìhé bùtóng de rén.",
+        "vi": "Những cách học khác nhau phù hợp với những người khác nhau.",
+        "context": "learning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "方式 rộng và trừu tượng hơn 方法; không phải câu nào cũng đổi được cho nhau."
+    ],
+    "app_note_vi": "Hay gặp khi nói cách sống, cách làm việc và cách giải quyết vấn đề.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "方式 nghĩa là gì?", "answer": "cách thức; hình thức" },
+      { "type": "cloze", "prompt": "不同的学习____适合不同的人。", "answer": "方式" },
+      { "type": "synonym", "prompt": "方式 khác 方法 như thế nào?", "answer": "方式 là cách thức chung; 方法 là phương pháp cụ thể." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_096",
+    "level": "HSK5",
+    "hanzi": "意义",
+    "pinyin": "yìyì",
+    "display_meaning_vi": "ý nghĩa; tầm quan trọng",
+    "meaning_en": "meaning; significance",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["abstract", "reading", "values"],
+    "exam_tags": ["reading", "meaning", "synonym"],
+    "register": "neutral",
+    "grammar_pattern": "有意义 / 意义 + 重大 / 现实意义",
+    "collocations": ["有意义", "意义重大", "现实意义"],
+    "near_synonyms": [
+      {
+        "word": "意思",
+        "difference_vi": "意义 là ý nghĩa sâu hoặc giá trị của việc; 意思 là ý bề mặt của câu, từ hoặc ý định."
+      }
+    ],
+    "app_synonym_note_vi": "意义 = ý nghĩa sâu, giá trị; 意思 = ý của câu hoặc từ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这项研究对改善教育有重要意义。",
+        "pinyin": "Zhè xiàng yánjiū duì gǎishàn jiàoyù yǒu zhòngyào yìyì.",
+        "vi": "Nghiên cứu này có ý nghĩa quan trọng đối với việc cải thiện giáo dục.",
+        "context": "education"
+      }
+    ],
+    "common_mistakes_vi": [
+      "意义 không phải lúc nào cũng dịch là “nghĩa của từ”; trong bài đọc nó thường là tầm quan trọng."
+    ],
+    "app_note_vi": "Quan trọng khi đọc bài về giá trị, nghiên cứu và đánh giá một việc.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "意义 nghĩa là gì?", "answer": "ý nghĩa; tầm quan trọng" },
+      { "type": "cloze", "prompt": "这项研究对改善教育有重要____。", "answer": "意义" },
+      { "type": "synonym", "prompt": "意义 khác 意思 như thế nào?", "answer": "意义 là ý nghĩa sâu hoặc giá trị; 意思 là ý bề mặt của câu hoặc từ." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_097",
+    "level": "HSK5",
+    "hanzi": "增长",
+    "pinyin": "zēngzhǎng",
+    "display_meaning_vi": "tăng trưởng",
+    "meaning_en": "to grow; growth",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": ["economy", "data", "society"],
+    "exam_tags": ["reading", "cloze", "synonym"],
+    "register": "formal",
+    "grammar_pattern": "经济 / 人口 + 增长",
+    "collocations": ["经济增长", "人口增长", "快速增长"],
+    "near_synonyms": [
+      {
+        "word": "增加",
+        "difference_vi": "增长 thường chỉ sự tăng lên theo quá trình, hay dùng cho kinh tế hoặc dân số; 增加 là làm tăng thêm một lượng cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "增长 = tăng trưởng theo quá trình; 增加 = tăng thêm một lượng.",
+    "antonyms": ["下降"],
+    "example_sentences": [
+      {
+        "zh": "近几年城市人口增长得很快。",
+        "pinyin": "Jìn jǐ nián chéngshì rénkǒu zēngzhǎng de hěn kuài.",
+        "vi": "Những năm gần đây dân số thành phố tăng rất nhanh.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "增长 hay đi với kinh tế, dân số, số liệu theo thời gian; không phải câu nào cũng thay được cho 增加."
+    ],
+    "app_note_vi": "Từ nền trong bài đọc về kinh tế, dân số và xu hướng.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "增长 nghĩa là gì?", "answer": "tăng trưởng" },
+      { "type": "cloze", "prompt": "近几年城市人口____得很快。", "answer": "增长" },
+      { "type": "synonym", "prompt": "增长 khác 增加 như thế nào?", "answer": "增长 là tăng trưởng theo quá trình; 增加 là tăng thêm một lượng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_098",
+    "level": "HSK5",
+    "hanzi": "差距",
+    "pinyin": "chājù",
+    "display_meaning_vi": "khoảng cách; chênh lệch",
+    "meaning_en": "gap; disparity",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "comparison", "education"],
+    "exam_tags": ["reading", "meaning", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "差距 + 很大 / 缩小差距",
+    "collocations": ["差距很大", "缩小差距", "贫富差距"],
+    "near_synonyms": [
+      {
+        "word": "区别",
+        "difference_vi": "差距 nhấn mạnh mức chênh lệch lớn nhỏ; 区别 là sự khác nhau về tính chất."
+      }
+    ],
+    "app_synonym_note_vi": "差距 = mức chênh lệch; 区别 = sự khác nhau.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "城乡之间的教育差距仍然很大。",
+        "pinyin": "Chéngxiāng zhījiān de jiàoyù chājù réngrán hěn dà.",
+        "vi": "Khoảng cách giáo dục giữa thành thị và nông thôn vẫn còn rất lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "差距 nói mức chênh, không dùng khi chỉ muốn nói hai thứ khác loại như 区别."
+    ],
+    "app_note_vi": "Hay gặp trong bài về xã hội, giáo dục và so sánh thành quả.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "差距 nghĩa là gì?", "answer": "khoảng cách; chênh lệch" },
+      { "type": "cloze", "prompt": "城乡之间的教育____仍然很大。", "answer": "差距" },
+      { "type": "synonym", "prompt": "差距 khác 区别 như thế nào?", "answer": "差距 là mức chênh lệch; 区别 là sự khác nhau." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_099",
+    "level": "HSK5",
+    "hanzi": "政策",
+    "pinyin": "zhèngcè",
+    "display_meaning_vi": "chính sách",
+    "meaning_en": "policy",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": ["society", "formal", "economy"],
+    "exam_tags": ["reading", "meaning", "context"],
+    "register": "formal",
+    "grammar_pattern": "制定政策 / 经济政策 / 政策支持",
+    "collocations": ["经济政策", "制定政策", "政策支持"],
+    "near_synonyms": [
+      {
+        "word": "规定",
+        "difference_vi": "政策 là định hướng hoặc chủ trương ở tầm lớn; 规定 là quy định cụ thể phải tuân theo."
+      }
+    ],
+    "app_synonym_note_vi": "政策 = chính sách định hướng; 规定 = quy định cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新的教育政策会影响到很多家庭。",
+        "pinyin": "Xīn de jiàoyù zhèngcè huì yǐngxiǎng dào hěn duō jiātíng.",
+        "vi": "Chính sách giáo dục mới sẽ ảnh hưởng đến nhiều gia đình.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "政策 là chủ trương lớn, không phải một điều khoản cụ thể như 规定."
+    ],
+    "app_note_vi": "Từ nền khi đọc tin tức, xã hội và kinh tế.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "政策 nghĩa là gì?", "answer": "chính sách" },
+      { "type": "cloze", "prompt": "新的教育____会影响到很多家庭。", "answer": "政策" },
+      { "type": "synonym", "prompt": "政策 khác 规定 như thế nào?", "answer": "政策 là chính sách định hướng; 规定 là quy định cụ thể." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_100",
+    "level": "HSK5",
+    "hanzi": "合作",
+    "pinyin": "hézuò",
+    "display_meaning_vi": "hợp tác",
+    "meaning_en": "to cooperate; cooperation",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": ["work", "relationship", "formal"],
+    "exam_tags": ["meaning", "collocation", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "和……合作 / 合作项目",
+    "collocations": ["合作项目", "密切合作", "国际合作"],
+    "near_synonyms": [
+      {
+        "word": "配合",
+        "difference_vi": "合作 là cùng làm với vị thế tương đối ngang nhau; 配合 là phối hợp theo sự sắp xếp của bên kia."
+      }
+    ],
+    "app_synonym_note_vi": "合作 = cùng làm ngang nhau; 配合 = phối hợp theo bên kia.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两家公司决定在这个项目上合作。",
+        "pinyin": "Liǎng jiā gōngsī juédìng zài zhège xiàngmù shàng hézuò.",
+        "vi": "Hai công ty quyết định hợp tác trong dự án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "合作 nhấn mạnh cùng làm, không phải chỉ hỗ trợ một phía như 配合."
+    ],
+    "app_note_vi": "Rất thực dụng trong công việc, dự án và quan hệ giữa các bên.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "合作 nghĩa là gì?", "answer": "hợp tác" },
+      { "type": "cloze", "prompt": "两家公司决定在这个项目上____。", "answer": "合作" },
+      { "type": "synonym", "prompt": "合作 khác 配合 như thế nào?", "answer": "合作 là cùng làm ngang nhau; 配合 là phối hợp theo bên kia." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
