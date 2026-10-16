@@ -6,6 +6,7 @@ import {
   ScrollView,
   StyleSheet,
   Text,
+  TextInput,
   View,
 } from 'react-native';
 
@@ -124,7 +125,9 @@ export default function ChineseLearningApp() {
   const [sessionQuizCorrectCount, setSessionQuizCorrectCount] = useState(0);
   const [sessionCompletedQuestionIds, setSessionCompletedQuestionIds] = useState<string[]>([]);
   const [totalQuizCorrectCount, setTotalQuizCorrectCount] = useState(0);
+  const [totalQuizAnsweredCount, setTotalQuizAnsweredCount] = useState(0);
   const [totalCompletedQuestionIds, setTotalCompletedQuestionIds] = useState<string[]>([]);
+  const [wordQuery, setWordQuery] = useState('');
   const [studyDates, setStudyDates] = useState<string[]>([]);
   const [startedAt, setStartedAt] = useState<string | undefined>(undefined);
   const [lastStudyAt, setLastStudyAt] = useState<string | undefined>(undefined);
@@ -151,12 +154,23 @@ export default function ChineseLearningApp() {
   const learningPercent = progressPercent(activeLevelLearnedCount, activeLevelWords.length);
   const masteredPercent = progressPercent(activeLevelMasteredCount, activeLevelWords.length);
   const reviewPercent = progressPercent(activeLevelReviewCount, activeLevelWords.length);
-  const historicalAccuracy = totalCompletedQuestionIds.length
-    ? Math.round((totalQuizCorrectCount / totalCompletedQuestionIds.length) * 100)
+  const historicalAccuracy = totalQuizAnsweredCount
+    ? Math.min(100, Math.round((totalQuizCorrectCount / totalQuizAnsweredCount) * 100))
     : 0;
   const sessionAccuracy = sessionCompletedQuestionIds.length
-    ? Math.round((sessionQuizCorrectCount / sessionCompletedQuestionIds.length) * 100)
+    ? Math.min(100, Math.round((sessionQuizCorrectCount / sessionCompletedQuestionIds.length) * 100))
     : historicalAccuracy;
+  const normalizedQuery = wordQuery.trim().toLowerCase();
+  const searchResults = normalizedQuery
+    ? activeLevelWords
+        .filter((word) =>
+          word.hanzi.includes(wordQuery.trim()) ||
+          word.pinyin.toLowerCase().includes(normalizedQuery) ||
+          word.meaningVi.toLowerCase().includes(normalizedQuery) ||
+          (word.meaningEn ?? '').toLowerCase().includes(normalizedQuery),
+        )
+        .slice(0, 8)
+    : [];
 
   const favoriteWords = activeLevelWords.filter((word) => favoriteIds.includes(word.id));
   const reviewWords = activeLevelWords.filter((word) => reviewIds.includes(word.id));
@@ -184,6 +198,13 @@ export default function ChineseLearningApp() {
       setSessionQuizCorrectCount(0);
       setSessionCompletedQuestionIds([]);
       setTotalQuizCorrectCount(initialProgress.quizCorrectCount ?? 0);
+      setTotalQuizAnsweredCount(
+        initialProgress.quizAnsweredCount ??
+          Math.max(
+            initialProgress.quizCorrectCount ?? 0,
+            initialProgress.completedQuestionIds?.length ?? 0,
+          ),
+      );
       setTotalCompletedQuestionIds(initialProgress.completedQuestionIds ?? []);
       const loadedStudyDates = initialProgress.studyDates ?? [];
       setStudyDates(loadedStudyDates);
@@ -209,6 +230,7 @@ export default function ChineseLearningApp() {
       reviewIds,
       favoriteIds,
       quizCorrectCount: totalQuizCorrectCount,
+      quizAnsweredCount: totalQuizAnsweredCount,
       completedQuestionIds: totalCompletedQuestionIds,
       studyDates,
       startedAt,
@@ -225,8 +247,18 @@ export default function ChineseLearningApp() {
     startedAt,
     lastStudyAt,
     totalCompletedQuestionIds,
+    totalQuizAnsweredCount,
     totalQuizCorrectCount,
   ]);
+
+  const openSearchedWord = (word: VocabWord) => {
+    if (!word.lessonId) return;
+    const lesson = lessons.find((item) => item.id === word.lessonId);
+    const index = lesson?.words.findIndex((item) => item.id === word.id) ?? 0;
+    selectLesson(word.lessonId);
+    setLearnIndex(Math.max(0, index));
+    setWordQuery('');
+  };
 
   const selectLesson = (lessonId: string) => {
     setSelectedLessonId(lessonId);
@@ -289,6 +321,7 @@ export default function ChineseLearningApp() {
 
     registerStudyActivity();
     setSelectedAnswer(answer);
+    setTotalQuizAnsweredCount((current) => current + 1);
     setSessionCompletedQuestionIds((current) => addUnique(current, question.id));
     setTotalCompletedQuestionIds((current) => addUnique(current, question.id));
 
@@ -327,6 +360,7 @@ export default function ChineseLearningApp() {
     setSessionQuizCorrectCount(0);
     setSessionCompletedQuestionIds([]);
     setTotalQuizCorrectCount(0);
+    setTotalQuizAnsweredCount(0);
     setTotalCompletedQuestionIds([]);
     setStudyDates([]);
     setStartedAt(undefined);
@@ -448,6 +482,19 @@ export default function ChineseLearningApp() {
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
         <Text style={styles.sectionTitle}>选择课程 / Choose Lesson</Text>
+        <TextInput
+          value={wordQuery}
+          onChangeText={setWordQuery}
+          placeholder="搜汉字、拼音或意思 / Search"
+          placeholderTextColor="#AAA39A"
+          style={styles.searchInput}
+        />
+        {searchResults.map((word) => (
+          <Pressable key={word.id} onPress={() => openSearchedWord(word)} style={styles.searchResult}>
+            <Text style={styles.listPrimary}>{word.hanzi}</Text>
+            <Text style={styles.listSecondary}>{word.pinyin} · {word.meaningVi || word.meaningEn}</Text>
+          </Pressable>
+        ))}
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
@@ -576,9 +623,9 @@ export default function ChineseLearningApp() {
           </View>
           <View style={styles.quizTimerRow}>
             <View style={styles.quizTimerTrack}>
-              <View style={[styles.quizTimerFill, { width: `${Math.max(20, 100 - (quizIndex / Math.max(1, quizQuestions.length)) * 35)}%` }]} />
+              <View style={[styles.quizTimerFill, { width: `${((quizIndex + 1) / Math.max(1, quizQuestions.length)) * 100}%` }]} />
             </View>
-            <Text style={styles.quizTimerText}>{Math.max(8, 15 - quizIndex)}s</Text>
+            <Text style={styles.quizTimerText}>{quizIndex + 1}/{quizQuestions.length}</Text>
           </View>
           <View style={styles.quizOptions}>
             {currentQuestion.options.map((option) => {
@@ -630,7 +677,7 @@ export default function ChineseLearningApp() {
         </Text>
         <View style={styles.wordActionRow}>
           <ActionButton
-            label={showStatsDebug ? '隐藏统计明细 / Hide debug' : '查看统计明细 / Debug stats'}
+            label={showStatsDebug ? '隐藏明细 / Hide details' : '查看明细 / View details'}
             onPress={() => setShowStatsDebug((current) => !current)}
             variant="secondary"
           />
@@ -750,7 +797,7 @@ export default function ChineseLearningApp() {
 
       {showStatsDebug ? (
         <SectionCard>
-          <Text style={styles.sectionTitle}>统计明细 / Debug stats</Text>
+          <Text style={styles.sectionTitle}>统计明细 / Details</Text>
           <Text style={styles.bodyText}>source: {progressSource}</Text>
           <Text style={styles.bodyText}>selectedLessonId: {selectedLessonId}</Text>
           <Text style={styles.bodyText}>activeLevel: {activeLevel.id}</Text>
@@ -965,6 +1012,22 @@ const styles = StyleSheet.create({
     fontSize: 11,
     fontWeight: '700',
     color: '#6B5E53',
+  },
+  searchInput: {
+    borderWidth: 1,
+    borderColor: '#D4A017',
+    borderRadius: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 10,
+    backgroundColor: '#FFFFFF',
+    fontSize: 15,
+    color: '#2C1810',
+  },
+  searchResult: {
+    paddingVertical: 8,
+    borderBottomWidth: 1,
+    borderBottomColor: '#F0E2C5',
+    gap: 2,
   },
   lessonRow: {
     flexDirection: 'row',

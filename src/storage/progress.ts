@@ -7,6 +7,7 @@ export type PersistedProgress = {
   reviewIds: string[];
   favoriteIds: string[];
   quizCorrectCount: number;
+  quizAnsweredCount?: number;
   completedQuestionIds: string[];
   studyDates: string[];
   startedAt?: string;
@@ -37,6 +38,8 @@ export async function loadProgress(): Promise<Partial<PersistedProgress> | null>
       favoriteIds: ensureStringArray(parsed.favoriteIds),
       quizCorrectCount:
         typeof parsed.quizCorrectCount === 'number' ? parsed.quizCorrectCount : 0,
+      quizAnsweredCount:
+        typeof parsed.quizAnsweredCount === 'number' ? parsed.quizAnsweredCount : undefined,
       completedQuestionIds: ensureStringArray(parsed.completedQuestionIds),
       studyDates: ensureStringArray(parsed.studyDates),
       startedAt: typeof parsed.startedAt === 'string' ? parsed.startedAt : undefined,

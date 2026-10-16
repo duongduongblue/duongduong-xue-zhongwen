@@ -12,6 +12,7 @@ import enriched91To100 from '../../docs/hsk5-batch2-91-100-enriched.json';
 import enriched101To110 from '../../docs/hsk5-batch2-101-110-enriched.json';
 import enriched111To120 from '../../docs/hsk5-batch2-111-120-enriched.json';
 import enriched121To130 from '../../docs/hsk5-batch2-121-130-enriched.json';
+import enriched131To140 from '../../docs/hsk5-batch2-131-140-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -51,6 +52,7 @@ const sourceWords = [
   ...(enriched101To110 as EnrichedWord[]),
   ...(enriched111To120 as EnrichedWord[]),
   ...(enriched121To130 as EnrichedWord[]),
+  ...(enriched131To140 as EnrichedWord[]),
 ];
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -144,6 +146,13 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '13 · 逻辑',
     topic: '逻辑连接 / Từ nối và lập luận',
     color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L14',
+    moduleId: 'hsk5-module-9',
+    title: '14 · 关系',
+    topic: '关系与情绪 / Quan hệ và cảm xúc',
+    color: '#C2185B',
   },
 ];
 
