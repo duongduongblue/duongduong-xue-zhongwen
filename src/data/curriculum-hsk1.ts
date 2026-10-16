@@ -13,8 +13,12 @@ export const modules: Module[] = [
   { id: 'hsk1-module-2', levelId: 'HSK1', title: '人物与日常', subtitle: 'People & Daily Life', order: 2 },
   { id: 'hsk1-module-3', levelId: 'HSK1', title: '数字、时间与出行', subtitle: 'Numbers, Time & Movement', order: 3 },
   { id: 'hsk1-module-4', levelId: 'HSK1', title: '基本动作与描述', subtitle: 'Core Actions & Description', order: 4 },
-  { id: 'hsk5-module-1', levelId: 'HSK5', title: 'HSK5重点复习', subtitle: 'HSK5 Focus Mode', order: 1 },
-  { id: 'hsk5-module-2', levelId: 'HSK5', title: '推理与工作', subtitle: 'HSK5 Reasoning & Work', order: 2 },
+  { id: 'hsk5-module-1', levelId: 'HSK5', title: '社会与变化', subtitle: 'Society & Change', order: 1 },
+  { id: 'hsk5-module-2', levelId: 'HSK5', title: '工作与决定', subtitle: 'Work & Decisions', order: 2 },
+  { id: 'hsk5-module-3', levelId: 'HSK5', title: '论证与心理', subtitle: 'Argument & Psychology', order: 3 },
+  { id: 'hsk5-module-4', levelId: 'HSK5', title: '媒体与语体', subtitle: 'Media & Register', order: 4 },
+  { id: 'hsk5-module-5', levelId: 'HSK5', title: '措施与实现', subtitle: 'Measures & Results', order: 5 },
+  { id: 'hsk5-module-6', levelId: 'HSK5', title: '变化与质量', subtitle: 'Change & Quality', order: 6 },
 ];
 
 export const hsk1LessonDefs = [

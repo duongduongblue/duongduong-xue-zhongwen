@@ -19,7 +19,7 @@ export const buildQuizQuestions = (words: VocabWord[] = allWords): QuizQuestion[
       id: word.id,
       hanzi: word.hanzi,
       pinyin: word.pinyin,
-      meaning_en: word.meaningEn ?? word.meaningVi,
+      meaning_en: word.meaningVi || word.meaningEn || '',
       meaning_vi: word.meaningVi,
       example_cn: word.exampleCn,
       example_translation: word.exampleEn ?? word.exampleVi,

@@ -388,11 +388,21 @@ export default function ChineseLearningApp() {
     <>
       <Text style={styles.hanziText}>{word.hanzi}</Text>
       <Text style={styles.pinyinText}>{word.pinyin}</Text>
-      <Text style={styles.meaningText}>{word.meaningEn ?? word.meaningVi}</Text>
+      <Text style={styles.meaningText}>{word.meaningVi || word.meaningEn}</Text>
+      {word.meaningEn && word.meaningEn !== word.meaningVi ? (
+        <Text style={styles.exampleVi}>{word.meaningEn}</Text>
+      ) : null}
       <View style={styles.divider} />
       <Text style={styles.exampleLabel}>例句 / Example</Text>
       <Text style={styles.exampleCn}>{word.exampleCn}</Text>
-      {word.exampleEn ? <Text style={styles.exampleVi}>{word.exampleEn}</Text> : null}
+      {word.exampleVi ? <Text style={styles.exampleVi}>{word.exampleVi}</Text> : null}
+      {word.exampleEn && word.exampleEn !== word.exampleVi ? (
+        <Text style={styles.exampleVi}>{word.exampleEn}</Text>
+      ) : null}
+      {word.collocationTop && word.collocationTop.length > 0 ? (
+        <Text style={styles.exampleVi}>搭配 / Collocations: {word.collocationTop.join(' · ')}</Text>
+      ) : null}
+      {word.appSynonymNoteVi ? <Text style={styles.exampleVi}>{word.appSynonymNoteVi}</Text> : null}
     </>
   );
 
@@ -505,11 +515,11 @@ export default function ChineseLearningApp() {
         <Text style={styles.flashcardCounter}>卡片 {flashIndex + 1} / Card {flashIndex + 1} of {selectedLesson.words.length}</Text>
         {showFlashBack ? (
           <View style={styles.flashBackContent}>
-            <Text style={styles.flashMeaning}>{currentFlashWord.meaningEn ?? currentFlashWord.meaningVi}</Text>
+            <Text style={styles.flashMeaning}>{currentFlashWord.meaningVi || currentFlashWord.meaningEn}</Text>
             <Text style={styles.flashPinyin}>{currentFlashWord.pinyin}</Text>
             <Text style={styles.flashExampleLabel}>例句 / Example</Text>
             <Text style={styles.flashExample}>{currentFlashWord.exampleCn}</Text>
-            {currentFlashWord.exampleEn ? <Text style={styles.flashExample}>{currentFlashWord.exampleEn}</Text> : null}
+            {currentFlashWord.exampleVi ? <Text style={styles.flashExample}>{currentFlashWord.exampleVi}</Text> : null}
           </View>
         ) : (
           <View style={styles.flashFrontContent}>
@@ -708,7 +718,7 @@ export default function ChineseLearningApp() {
           favoriteWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
               <Text style={styles.listPrimary}>{word.hanzi}</Text>
-              <Text style={styles.listSecondary}>{word.meaningEn ?? word.meaningVi}</Text>
+              <Text style={styles.listSecondary}>{word.meaningVi || word.meaningEn}</Text>
             </View>
           ))
         )}
@@ -722,7 +732,7 @@ export default function ChineseLearningApp() {
           reviewWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
               <Text style={styles.listPrimary}>{word.hanzi}</Text>
-              <Text style={styles.listSecondary}>{word.pinyin} • {word.meaningEn ?? word.meaningVi}</Text>
+              <Text style={styles.listSecondary}>{word.pinyin} • {word.meaningVi || word.meaningEn}</Text>
             </View>
           ))
         )}

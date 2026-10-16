@@ -46,14 +46,23 @@ export function buildLessonsFromSeed(words: SeedWord[]): Lesson[] {
 }
 
 function uniqueOptions(correct: string, distractors: string[]) {
-  return Array.from(new Set([correct, ...distractors])).slice(0, 4);
+  return Array.from(new Set([correct, ...distractors.filter(Boolean)])).slice(0, 4);
+}
+
+function takeWrapping<T>(items: T[], start: number, count: number): T[] {
+  if (!items.length) return [];
+  const result: T[] = [];
+  for (let offset = 0; result.length < count && offset < items.length; offset += 1) {
+    result.push(items[(start + offset) % items.length]);
+  }
+  return result;
 }
 
 export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQuestion[] {
   return words.slice(0, limit).map((word, index) => {
     const otherWords = words.filter((item) => item.id !== word.id);
     const meaning = word.meaning_en;
-    const distractorMeanings = otherWords.slice(index, index + 6).map((item) => item.meaning_en);
+    const distractorPool = takeWrapping(otherWords, index, Math.max(6, otherWords.length));
 
     if (index % 3 === 0) {
       return {
@@ -61,7 +70,7 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
         prompt: '"' + word.hanzi + '" 是什么意思? / What does "' + word.hanzi + '" mean?',
         supportingText: '拼音 / Pinyin: ' + word.pinyin,
         correctAnswer: meaning,
-        options: uniqueOptions(meaning, distractorMeanings),
+        options: uniqueOptions(meaning, distractorPool.map((item) => item.meaning_en)),
       };
     }
     if (index % 3 === 1) {
@@ -70,7 +79,7 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
         prompt: '哪个拼音对应 "' + word.hanzi + '"? / Which pinyin matches "' + word.hanzi + '"?',
         supportingText: '意思 / Meaning: ' + meaning,
         correctAnswer: word.pinyin,
-        options: uniqueOptions(word.pinyin, otherWords.slice(index, index + 6).map((item) => item.pinyin)),
+        options: uniqueOptions(word.pinyin, distractorPool.map((item) => item.pinyin)),
       };
     }
     return {
@@ -78,7 +87,7 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
       prompt: '哪个词表示 "' + meaning + '"? / Which word means "' + meaning + '"?',
       supportingText: '例句 / Example: ' + (word.example_cn ?? ''),
       correctAnswer: word.hanzi,
-      options: uniqueOptions(word.hanzi, otherWords.slice(index, index + 6).map((item) => item.hanzi)),
+      options: uniqueOptions(word.hanzi, distractorPool.map((item) => item.hanzi)),
     };
   });
 }
