@@ -20291,21 +20291,21 @@
       "level": "HSK5",
       "hanzi": "片",
       "pinyin": "piàn",
-      "display_meaning_vi": "phim, đĩa",
-      "meaning_en": "a film, or a recorded disc",
+      "display_meaning_vi": "miếng, lát",
+      "meaning_en": "a slice or thin piece",
       "collocations": [
-        "片子",
-        "画片",
-        "软片"
+        "一片面包",
+        "片刻",
+        "碎片"
       ],
       "example_sentences": [
         {
-          "zh": "这张老唱片还听得清。",
-          "vi": "Đĩa hát cũ này vẫn nghe rõ."
+          "zh": "她把苹果切成薄片。",
+          "vi": "Cô ấy cắt táo thành những lát mỏng."
         }
       ],
-      "app_note_vi": "Trong 片子, 唱片, 画片 là phim hoặc đĩa. Nghĩa một lát, như 一片面包, đọc khác.",
-      "app_synonym_note_vi": "片 trong 片子, 唱片 là phim, đĩa; 一片 là một lát, đọc khác."
+      "app_note_vi": "一片面包 cũng đọc piàn. 唱片 là đĩa, cùng cách đọc.",
+      "app_synonym_note_vi": "片 là lát mỏng; 块 là miếng lớn hơn."
     },
     {
       "id": "hsk5_rest_0918",
