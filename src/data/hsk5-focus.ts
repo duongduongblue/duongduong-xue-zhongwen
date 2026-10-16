@@ -9,6 +9,7 @@ import enriched61To70 from '../../docs/hsk5-batch2-61-70-enriched.json';
 import enriched71To80 from '../../docs/hsk5-batch2-71-80-enriched.json';
 import enriched81To90 from '../../docs/hsk5-batch2-81-90-enriched.json';
 import enriched91To100 from '../../docs/hsk5-batch2-91-100-enriched.json';
+import enriched101To110 from '../../docs/hsk5-batch2-101-110-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -45,6 +46,7 @@ const sourceWords = [
   ...(enriched71To80 as EnrichedWord[]),
   ...(enriched81To90 as EnrichedWord[]),
   ...(enriched91To100 as EnrichedWord[]),
+  ...(enriched101To110 as EnrichedWord[]),
 ];
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -117,6 +119,13 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '10 · 质量',
     topic: '质量与合作 / Chất lượng và hợp tác',
     color: '#C0392B',
+  },
+  {
+    id: 'HSK5-F1-L11',
+    moduleId: 'hsk5-module-7',
+    title: '11 · 态度',
+    topic: '观点与态度 / Quan điểm và thái độ',
+    color: '#AD1457',
   },
 ];
 

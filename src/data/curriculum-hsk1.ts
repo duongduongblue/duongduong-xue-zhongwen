@@ -19,6 +19,7 @@ export const modules: Module[] = [
   { id: 'hsk5-module-4', levelId: 'HSK5', title: '媒体与语体', subtitle: 'Media & Register', order: 4 },
   { id: 'hsk5-module-5', levelId: 'HSK5', title: '措施与实现', subtitle: 'Measures & Results', order: 5 },
   { id: 'hsk5-module-6', levelId: 'HSK5', title: '变化与质量', subtitle: 'Change & Quality', order: 6 },
+  { id: 'hsk5-module-7', levelId: 'HSK5', title: '观点与态度', subtitle: 'Opinions & Attitude', order: 7 },
 ];
 
 export const hsk1LessonDefs = [

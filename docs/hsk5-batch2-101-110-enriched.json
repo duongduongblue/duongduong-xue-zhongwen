@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hsk5_batch2_101",
+    "level": "HSK5",
+    "hanzi": "建议",
+    "pinyin": "jiànyì",
+    "display_meaning_vi": "đề xuất; lời đề nghị",
+    "meaning_en": "to suggest; suggestion",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": ["opinion", "communication"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "建议 + 某人 + 做 / 提出建议",
+    "collocations": ["提出建议", "建议大家", "好的建议"],
+    "near_synonyms": [
+      {
+        "word": "提议",
+        "difference_vi": "建议 là đề xuất chung, thường nhẹ hơn; 提议 thiên về đưa ra một đề nghị cụ thể trong cuộc họp hoặc thảo luận."
+      }
+    ],
+    "app_synonym_note_vi": "建议 = đề xuất chung; 提议 = đưa đề nghị cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我建议我们先把问题分析清楚。",
+        "pinyin": "Wǒ jiànyì wǒmen xiān bǎ wèntí fēnxī qīngchu.",
+        "vi": "Tôi đề xuất chúng ta phân tích rõ vấn đề trước.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "建议 có thể là động từ hoặc danh từ; “一个建议” là một lời đề nghị."
+    ],
+    "app_note_vi": "Rất hay dùng khi đưa ý kiến trong công việc và học tập.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "建议 nghĩa là gì?", "answer": "đề xuất; lời đề nghị" },
+      { "type": "cloze", "prompt": "我____我们先把问题分析清楚。", "answer": "建议" },
+      { "type": "synonym", "prompt": "建议 khác 提议 như thế nào?", "answer": "建议 là đề xuất chung; 提议 là đưa đề nghị cụ thể." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_102",
+    "level": "HSK5",
+    "hanzi": "同意",
+    "pinyin": "tóngyì",
+    "display_meaning_vi": "đồng ý",
+    "meaning_en": "to agree",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["opinion", "decision"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "同意 + 看法 / 计划 / 某人的意见",
+    "collocations": ["同意这个看法", "表示同意", "同意计划"],
+    "near_synonyms": [
+      {
+        "word": "赞成",
+        "difference_vi": "同意 là đồng ý nói chung; 赞成 thiên về ủng hộ một ý kiến hoặc đề nghị một cách rõ ràng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "同意 = đồng ý; 赞成 = tán thành, ủng hộ ý kiến.",
+    "antonyms": ["反对"],
+    "example_sentences": [
+      {
+        "zh": "大家都同意这个安排。",
+        "pinyin": "Dàjiā dōu tóngyì zhège ānpái.",
+        "vi": "Mọi người đều đồng ý với sắp xếp này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "同意 đi với ý kiến, kế hoạch hoặc việc người khác đề xuất, không dùng để nói “hiểu”."
+    ],
+    "app_note_vi": "Từ nền khi bày tỏ thái độ với một đề xuất.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "同意 nghĩa là gì?", "answer": "đồng ý" },
+      { "type": "cloze", "prompt": "大家都____这个安排。", "answer": "同意" },
+      { "type": "synonym", "prompt": "同意 khác 赞成 như thế nào?", "answer": "同意 là đồng ý chung; 赞成 là tán thành rõ hơn." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_103",
+    "level": "HSK5",
+    "hanzi": "反对",
+    "pinyin": "fǎnduì",
+    "display_meaning_vi": "phản đối",
+    "meaning_en": "to oppose",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["opinion", "argument"],
+    "exam_tags": ["meaning", "cloze", "synonym"],
+    "register": "neutral",
+    "grammar_pattern": "反对 + 意见 / 做法 / 计划",
+    "collocations": ["反对意见", "坚决反对", "反对这种做法"],
+    "near_synonyms": [
+      {
+        "word": "拒绝",
+        "difference_vi": "反对 là không tán thành một ý kiến hoặc cách làm; 拒绝 là từ chối một yêu cầu hoặc lời mời."
+      }
+    ],
+    "app_synonym_note_vi": "反对 = phản đối ý kiến; 拒绝 = từ chối yêu cầu.",
+    "antonyms": ["同意"],
+    "example_sentences": [
+      {
+        "zh": "不少人反对这个计划。",
+        "pinyin": "Bùshǎo rén fǎnduì zhège jìhuà.",
+        "vi": "Không ít người phản đối kế hoạch này.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "反对 là không đồng ý với một chủ trương, không phải lúc nào cũng là từ chối một lời mời."
+    ],
+    "app_note_vi": "Hay gặp khi đọc tranh luận, chính sách và ý kiến trái chiều.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "反对 nghĩa là gì?", "answer": "phản đối" },
+      { "type": "cloze", "prompt": "不少人____这个计划。", "answer": "反对" },
+      { "type": "synonym", "prompt": "反对 khác 拒绝 như thế nào?", "answer": "反对 là phản đối ý kiến; 拒绝 là từ chối yêu cầu." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_104",
+    "level": "HSK5",
+    "hanzi": "支持",
+    "pinyin": "zhīchí",
+    "display_meaning_vi": "ủng hộ; hỗ trợ",
+    "meaning_en": "to support",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["opinion", "relationship"],
+    "exam_tags": ["meaning", "collocation", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "支持 + 某人 / 看法 / 政策",
+    "collocations": ["支持政策", "得到支持", "大力支持"],
+    "near_synonyms": [
+      {
+        "word": "赞成",
+        "difference_vi": "支持 có thể là ủng hộ tinh thần hoặc hỗ trợ thực tế; 赞成 chủ yếu là tán thành một ý kiến."
+      }
+    ],
+    "app_synonym_note_vi": "支持 = ủng hộ hoặc hỗ trợ; 赞成 = tán thành ý kiến.",
+    "antonyms": ["反对"],
+    "example_sentences": [
+      {
+        "zh": "父母一直支持我的选择。",
+        "pinyin": "Fùmǔ yìzhí zhīchí wǒ de xuǎnzé.",
+        "vi": "Bố mẹ luôn ủng hộ lựa chọn của tôi.",
+        "context": "relationship"
+      }
+    ],
+    "common_mistakes_vi": [
+      "支持 vừa là ủng hộ ý kiến, vừa là hỗ trợ bằng hành động hoặc nguồn lực."
+    ],
+    "app_note_vi": "Dùng được trong quan hệ, công việc và các bài đọc về chính sách.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "支持 nghĩa là gì?", "answer": "ủng hộ; hỗ trợ" },
+      { "type": "cloze", "prompt": "父母一直____我的选择。", "answer": "支持" },
+      { "type": "synonym", "prompt": "支持 khác 赞成 như thế nào?", "answer": "支持 là ủng hộ hoặc hỗ trợ; 赞成 là tán thành ý kiến." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_105",
+    "level": "HSK5",
+    "hanzi": "考虑",
+    "pinyin": "kǎolǜ",
+    "display_meaning_vi": "cân nhắc; xem xét",
+    "meaning_en": "to consider",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["decision", "thinking"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "考虑 + 问题 / 再考虑一下",
+    "collocations": ["仔细考虑", "考虑问题", "再考虑一下"],
+    "near_synonyms": [
+      {
+        "word": "思考",
+        "difference_vi": "考虑 thiên về cân nhắc để ra quyết định; 思考 là suy nghĩ, nghiền ngẫm một vấn đề."
+      }
+    ],
+    "app_synonym_note_vi": "考虑 = cân nhắc để quyết định; 思考 = suy nghĩ, nghiền ngẫm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "做决定以前，请再考虑一下。",
+        "pinyin": "Zuò juédìng yǐqián, qǐng zài kǎolǜ yíxià.",
+        "vi": "Trước khi quyết định, hãy cân nhắc thêm.",
+        "context": "decision"
+      }
+    ],
+    "common_mistakes_vi": [
+      "考虑 thường gắn với một lựa chọn sắp tới, không chỉ là nghĩ lan man."
+    ],
+    "app_note_vi": "Từ thực dụng khi nói quyết định, kế hoạch và lựa chọn.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "考虑 nghĩa là gì?", "answer": "cân nhắc; xem xét" },
+      { "type": "cloze", "prompt": "做决定以前，请再____一下。", "answer": "考虑" },
+      { "type": "synonym", "prompt": "考虑 khác 思考 như thế nào?", "answer": "考虑 là cân nhắc để quyết định; 思考 là suy nghĩ một vấn đề." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_106",
+    "level": "HSK5",
+    "hanzi": "决定",
+    "pinyin": "juédìng",
+    "display_meaning_vi": "quyết định",
+    "meaning_en": "to decide; decision",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": ["decision", "work"],
+    "exam_tags": ["meaning", "cloze", "collocation"],
+    "register": "neutral",
+    "grammar_pattern": "决定 + 做某事 / 做出决定",
+    "collocations": ["做出决定", "决定参加", "最后决定"],
+    "near_synonyms": [
+      {
+        "word": "选择",
+        "difference_vi": "决定 là chốt một quyết định; 选择 nhấn mạnh việc chọn giữa các khả năng."
+      }
+    ],
+    "app_synonym_note_vi": "决定 = chốt quyết định; 选择 = lựa chọn giữa các khả năng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他决定继续学习中文。",
+        "pinyin": "Tā juédìng jìxù xuéxí Zhōngwén.",
+        "vi": "Anh ấy quyết định tiếp tục học tiếng Trung.",
+        "context": "learning"
+      }
+    ],
+    "common_mistakes_vi": [
+      "决定 có thể là động từ “quyết định làm” hoặc danh từ “một quyết định”."
+    ],
+    "app_note_vi": "Hay gặp trong kế hoạch, công việc và các câu kể lựa chọn.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "决定 nghĩa là gì?", "answer": "quyết định" },
+      { "type": "cloze", "prompt": "他____继续学习中文。", "answer": "决定" },
+      { "type": "synonym", "prompt": "决定 khác 选择 như thế nào?", "answer": "决定 là chốt quyết định; 选择 là chọn giữa các khả năng." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_107",
+    "level": "HSK5",
+    "hanzi": "拒绝",
+    "pinyin": "jùjué",
+    "display_meaning_vi": "từ chối",
+    "meaning_en": "to refuse; to reject",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": ["decision", "communication"],
+    "exam_tags": ["meaning", "cloze", "synonym"],
+    "register": "neutral",
+    "grammar_pattern": "拒绝 + 邀请 / 要求 / 帮助",
+    "collocations": ["拒绝邀请", "拒绝要求", "委婉拒绝"],
+    "near_synonyms": [
+      {
+        "word": "反对",
+        "difference_vi": "拒绝 là không nhận một yêu cầu hoặc lời mời; 反对 là không tán thành một ý kiến hoặc cách làm."
+      }
+    ],
+    "app_synonym_note_vi": "拒绝 = từ chối yêu cầu; 反对 = phản đối ý kiến.",
+    "antonyms": ["接受"],
+    "example_sentences": [
+      {
+        "zh": "她委婉地拒绝了这个邀请。",
+        "pinyin": "Tā wěiwǎn de jùjué le zhège yāoqǐng.",
+        "vi": "Cô ấy đã từ chối lời mời này một cách khéo léo.",
+        "context": "communication"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拒绝 đi với lời mời, yêu cầu hoặc đề nghị cụ thể, không phải mọi ý kiến trái chiều."
+    ],
+    "app_note_vi": "Hữu ích khi nói giao tiếp, công việc và ranh giới cá nhân.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "拒绝 nghĩa là gì?", "answer": "từ chối" },
+      { "type": "cloze", "prompt": "她委婉地____了这个邀请。", "answer": "拒绝" },
+      { "type": "synonym", "prompt": "拒绝 khác 反对 như thế nào?", "answer": "拒绝 là từ chối yêu cầu; 反对 là phản đối ý kiến." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_108",
+    "level": "HSK5",
+    "hanzi": "怀疑",
+    "pinyin": "huáiyí",
+    "display_meaning_vi": "nghi ngờ; hoài nghi",
+    "meaning_en": "to doubt; to suspect",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": ["thinking", "attitude"],
+    "exam_tags": ["reading", "meaning", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "怀疑 + 某事 / 对……表示怀疑",
+    "collocations": ["表示怀疑", "怀疑这个说法", "引起怀疑"],
+    "near_synonyms": [
+      {
+        "word": "疑问",
+        "difference_vi": "怀疑 là thái độ không tin hoặc nghi ngờ; 疑问 là câu hỏi hoặc điều còn thắc mắc."
+      }
+    ],
+    "app_synonym_note_vi": "怀疑 = nghi ngờ, không tin; 疑问 = thắc mắc, câu hỏi.",
+    "antonyms": ["相信"],
+    "example_sentences": [
+      {
+        "zh": "我对这个结论还有些怀疑。",
+        "pinyin": "Wǒ duì zhège jiélùn hái yǒuxiē huáiyí.",
+        "vi": "Tôi vẫn còn hơi nghi ngờ kết luận này.",
+        "context": "argument"
+      }
+    ],
+    "common_mistakes_vi": [
+      "怀疑 có thể là “nghi ngờ một điều chưa chắc”, không phải lúc nào cũng là “nghi ai đó làm chuyện xấu”."
+    ],
+    "app_note_vi": "Hay gặp trong lập luận, đọc hiểu và thái độ với thông tin.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "怀疑 nghĩa là gì?", "answer": "nghi ngờ; hoài nghi" },
+      { "type": "cloze", "prompt": "我对这个结论还有些____。", "answer": "怀疑" },
+      { "type": "synonym", "prompt": "怀疑 khác 疑问 như thế nào?", "answer": "怀疑 là thái độ nghi ngờ; 疑问 là điều còn thắc mắc." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_109",
+    "level": "HSK5",
+    "hanzi": "犹豫",
+    "pinyin": "yóuyù",
+    "display_meaning_vi": "do dự; lưỡng lự",
+    "meaning_en": "to hesitate",
+    "part_of_speech": "verb/adjective",
+    "difficulty": 3,
+    "topic_tags": ["decision", "psychology"],
+    "exam_tags": ["meaning", "cloze", "usage"],
+    "register": "neutral",
+    "grammar_pattern": "犹豫 + 了一下 / 毫不犹豫",
+    "collocations": ["毫不犹豫", "犹豫不决", "犹豫了一下"],
+    "near_synonyms": [
+      {
+        "word": "考虑",
+        "difference_vi": "犹豫 là chưa dám quyết vì phân vân; 考虑 là chủ động cân nhắc cho rõ."
+      }
+    ],
+    "app_synonym_note_vi": "犹豫 = do dự, chưa quyết; 考虑 = chủ động cân nhắc.",
+    "antonyms": ["果断"],
+    "example_sentences": [
+      {
+        "zh": "面对这个机会，他犹豫了很久。",
+        "pinyin": "Miànduì zhège jīhuì, tā yóuyù le hěn jiǔ.",
+        "vi": "Trước cơ hội này, anh ấy đã do dự rất lâu.",
+        "context": "decision"
+      }
+    ],
+    "common_mistakes_vi": [
+      "犹豫 nhấn mạnh trạng thái phân vân, không phải quá trình phân tích như 考虑."
+    ],
+    "app_note_vi": "Từ sắc thái tâm lý, hữu ích khi nói quyết định và cảm xúc.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "犹豫 nghĩa là gì?", "answer": "do dự; lưỡng lự" },
+      { "type": "cloze", "prompt": "面对这个机会，他____了很久。", "answer": "犹豫" },
+      { "type": "synonym", "prompt": "犹豫 khác 考虑 như thế nào?", "answer": "犹豫 là do dự; 考虑 là chủ động cân nhắc." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  },
+  {
+    "id": "hsk5_batch2_110",
+    "level": "HSK5",
+    "hanzi": "毕竟",
+    "pinyin": "bìjìng",
+    "display_meaning_vi": "suy cho cùng; dù sao",
+    "meaning_en": "after all",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": ["argument", "tone"],
+    "exam_tags": ["reading", "usage", "cloze"],
+    "register": "neutral",
+    "grammar_pattern": "毕竟 + 原因 / 事实",
+    "collocations": ["毕竟还年轻", "毕竟是第一次", "毕竟不一样"],
+    "near_synonyms": [
+      {
+        "word": "到底",
+        "difference_vi": "毕竟 dùng để nhắc một lý do hoặc sự thật đã rõ; 到底 còn có thể hỏi “rốt cuộc”."
+      }
+    ],
+    "app_synonym_note_vi": "毕竟 = suy cho cùng, nêu lý do; 到底 còn dùng để hỏi rốt cuộc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别太紧张，毕竟这是你第一次。",
+        "pinyin": "Bié tài jǐnzhāng, bìjìng zhè shì nǐ dì-yī cì.",
+        "vi": "Đừng quá căng thẳng, suy cho cùng đây là lần đầu của bạn.",
+        "context": "tone"
+      }
+    ],
+    "common_mistakes_vi": [
+      "毕竟 không phải từ hỏi. Nó đưa ra lý do khiến người nghe nên thông cảm hoặc hiểu."
+    ],
+    "app_note_vi": "Từ nối sắc thái, rất hay trong hội thoại và bài đọc quan điểm.",
+    "review_prompts": [
+      { "type": "meaning", "prompt": "毕竟 nghĩa là gì?", "answer": "suy cho cùng; dù sao" },
+      { "type": "cloze", "prompt": "别太紧张，____这是你第一次。", "answer": "毕竟" },
+      { "type": "synonym", "prompt": "毕竟 khác 到底 ở điểm nào?", "answer": "毕竟 nêu lý do đã rõ; 到底 còn dùng để hỏi rốt cuộc." }
+    ],
+    "source_note": "Needs verification against selected HSK5 reference list"
+  }
+]
