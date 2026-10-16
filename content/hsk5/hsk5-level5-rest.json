@@ -598,7 +598,7 @@
       "title": "90 · 健康",
       "topic": "健康 / Sức khỏe và cơ thể",
       "color": "#00897B",
-      "wordCount": 10
+      "wordCount": 9
     },
     {
       "id": "HSK5-F1-L91",
@@ -1046,7 +1046,7 @@
       "title": "146 · 描述",
       "topic": "描述 / Miêu tả",
       "color": "#00838F",
-      "wordCount": 9
+      "wordCount": 10
     }
   ],
   "words": [
@@ -1740,8 +1740,8 @@
           "vi": "Anh ấy xắn ống tay áo lên."
         }
       ],
-      "app_note_vi": "Ở đây đọc juǎn, là động từ cuộn. Cuốn sách hay bài thi đọc juàn.",
-      "app_synonym_note_vi": "卷 juǎn là cuộn; 卷 juàn là cuốn, tập, như 考卷."
+      "app_note_vi": "Nghĩa ở đây là động từ cuộn. Khi chỉ cuốn sách hoặc bài thi, như 考卷, chữ này đọc khác.",
+      "app_synonym_note_vi": "Cuộn ống tay hay thước cuộn là động từ cuộn; 考卷 là bài thi, đọc khác."
     },
     {
       "id": "hsk5_rest_0034",
@@ -1803,7 +1803,7 @@
           "vi": "Không gian trong phòng không đủ lắm."
         }
       ],
-      "app_note_vi": "Có thể là chỗ trống hoặc khoảng riêng. Chữ 空 đọc kōng.",
+      "app_note_vi": "Có thể là chỗ trống hoặc khoảng riêng. Âm của 空 trong 空间 khác với 空闲.",
       "app_synonym_note_vi": ""
     },
     {
@@ -1824,7 +1824,7 @@
           "vi": "Lúc nào rảnh thì đến tìm tôi."
         }
       ],
-      "app_note_vi": "空 ở đây đọc kòng, khác 空间 đọc kōng.",
+      "app_note_vi": "Nghĩa là đang rảnh. Âm của chữ 空 ở đây khác với trong 空间.",
       "app_synonym_note_vi": "空闲 là đang rảnh; 空间 là chỗ, không gian."
     },
     {
@@ -1951,7 +1951,7 @@
         }
       ],
       "app_note_vi": "Nước rò là 漏水, 漏雨. Quên sót một mục cũng nói 漏.",
-      "app_synonym_note_vi": "漏 là rò hoặc sót; 露 đọc lù là sương hoặc để lộ."
+      "app_synonym_note_vi": "漏 là rò hoặc sót; 露 trong 露水, 暴露 là sương hoặc để lộ."
     },
     {
       "id": "hsk5_rest_0044",
@@ -2244,7 +2244,7 @@
           "vi": "Mùa hè bà thích dùng quạt tay."
         }
       ],
-      "app_note_vi": "Đồ vật, đọc shàn. Động từ quạt là 扇, đọc shān.",
+      "app_note_vi": "Đây là cái quạt tay. Khi 扇 là động từ quạt gió thì đọc khác.",
       "app_synonym_note_vi": ""
     },
     {
@@ -3690,7 +3690,7 @@
       "example_sentences": [
         {
           "zh": "姥姥包的饺子最好吃。",
-          "vi": "Sủi cảo bà ngoại gói là ngon nhất."
+          "vi": "Sủi cảo do bà ngoại gói ngon nhất."
         }
       ],
       "app_note_vi": "Cách gọi phổ biến ở miền Bắc Trung Quốc.",
@@ -5349,7 +5349,7 @@
       "example_sentences": [
         {
           "zh": "他努力控制自己的情绪。",
-          "vi": "Anh ấy cố kìm tâm trạng của mình."
+          "vi": "Anh ấy cố kiểm soát tâm trạng của mình."
         }
       ],
       "app_note_vi": "Là giữ cho khỏi vượt quá, dùng được cho máy, tình hình, cảm xúc.",
@@ -6115,22 +6115,22 @@
       "id": "hsk5_rest_0242",
       "level": "HSK5",
       "hanzi": "吓",
-      "pinyin": "hè",
-      "display_meaning_vi": "dọa nạt",
-      "meaning_en": "to intimidate",
+      "pinyin": "xià",
+      "display_meaning_vi": "làm giật mình, dọa",
+      "meaning_en": "to frighten, to startle",
       "collocations": [
-        "恐吓",
-        "威吓",
-        "恫吓"
+        "吓一跳",
+        "吓到",
+        "别吓人"
       ],
       "example_sentences": [
         {
-          "zh": "恐吓同学是绝对不行的。",
-          "vi": "Dọa nạt bạn học là tuyệt đối không được."
+          "zh": "突然一声，吓了我一跳。",
+          "vi": "Một tiếng bất ngờ làm tôi giật mình."
         }
       ],
-      "app_note_vi": "Trong các từ này là dọa để người khác sợ mà nghe theo. Làm ai giật mình là cách dùng khác.",
-      "app_synonym_note_vi": "Dọa nạt để uy hiếp khác với làm người ta giật mình."
+      "app_note_vi": "Đọc xià. 恐吓 đọc hè, là dọa nạt để uy hiếp.",
+      "app_synonym_note_vi": "吓一跳 là giật mình; 恐吓 là dọa nạt."
     },
     {
       "id": "hsk5_rest_0243",
@@ -7470,7 +7470,7 @@
       "example_sentences": [
         {
           "zh": "这个水箱有两立方米。",
-          "vi": "Bể nước này được hai mét khối."
+          "vi": "Bể nước này có dung tích hai mét khối."
         }
       ],
       "app_note_vi": "立方米 là mét khối. Đừng lẫn với mét vuông.",
@@ -12195,7 +12195,7 @@
       "example_sentences": [
         {
           "zh": "大家捐了一些衣物。",
-          "vi": "Mọi người quyên một ít quần áo."
+          "vi": "Mọi người quyên góp một ít quần áo."
         }
       ],
       "app_note_vi": "Cho đi để giúp, không phải mua bán.",
@@ -12258,7 +12258,7 @@
       "example_sentences": [
         {
           "zh": "居民抗议噪音太大。",
-          "vi": "Người dân phản đối tiếng ồn quá lớn."
+          "vi": "Cư dân phản đối tiếng ồn quá lớn."
         }
       ],
       "app_note_vi": "Phản đối rõ ràng, mạnh hơn 反对 một chút khi nói hành động.",
@@ -14991,8 +14991,8 @@
           "vi": "Sáng sớm bãi cỏ đầy sương."
         }
       ],
-      "app_note_vi": "Đọc lù: 露水 là sương, 暴露 là phơi bày, 露天 là ngoài trời. 露面, 露馅 đọc lòu.",
-      "app_synonym_note_vi": "露 đọc lù là sương hoặc phơi ra; nước rò, việc sót là 漏."
+      "app_note_vi": "露水 là sương, 暴露 là phơi bày, 露天 là ngoài trời. 露面 và 露馅 đọc khác, nghĩa là để lộ ra.",
+      "app_synonym_note_vi": "露 trong 露水, 暴露 là sương hoặc phơi ra; nước rò, việc sót là 漏."
     },
     {
       "id": "hsk5_rest_0665",
@@ -15009,7 +15009,7 @@
       "example_sentences": [
         {
           "zh": "这个城市曾经依靠煤炭。",
-          "vi": "Thành phố này từng sống nhờ than đá."
+          "vi": "Thành phố này từng dựa vào than đá."
         }
       ],
       "app_note_vi": "Nhiên liệu khoáng. Than tổ ong trong nhà có thể nói 煤球.",
@@ -16257,27 +16257,6 @@
     {
       "id": "hsk5_rest_0725",
       "level": "HSK5",
-      "hanzi": "平衡",
-      "pinyin": "pínghéng",
-      "display_meaning_vi": "cân bằng",
-      "meaning_en": "in balance",
-      "collocations": [
-        "失去平衡",
-        "心理平衡",
-        "平衡木"
-      ],
-      "example_sentences": [
-        {
-          "zh": "工作和休息要保持平衡。",
-          "vi": "Làm việc và nghỉ ngơi cần giữ cân bằng."
-        }
-      ],
-      "app_note_vi": "Giữa hai phía không bên nào quá lệch, cũng nói thăng bằng cơ thể.",
-      "app_synonym_note_vi": "平衡 là sự cân; 平静 là yên, không xao động."
-    },
-    {
-      "id": "hsk5_rest_0726",
-      "level": "HSK5",
       "hanzi": "嗓子",
       "pinyin": "sǎngzi",
       "display_meaning_vi": "họng, giọng",
@@ -16297,7 +16276,7 @@
       "app_synonym_note_vi": "嗓子 là họng hoặc giọng trong lời nói; 喉咙 trang trọng và gần y học hơn."
     },
     {
-      "id": "hsk5_rest_0727",
+      "id": "hsk5_rest_0726",
       "level": "HSK5",
       "hanzi": "舌头",
       "pinyin": "shétou",
@@ -16318,7 +16297,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0728",
+      "id": "hsk5_rest_0727",
       "level": "HSK5",
       "hanzi": "伸",
       "pinyin": "shēn",
@@ -16339,7 +16318,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0729",
+      "id": "hsk5_rest_0728",
       "level": "HSK5",
       "hanzi": "身材",
       "pinyin": "shēncái",
@@ -16360,7 +16339,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0730",
+      "id": "hsk5_rest_0729",
       "level": "HSK5",
       "hanzi": "神经",
       "pinyin": "shénjīng",
@@ -16381,7 +16360,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0731",
+      "id": "hsk5_rest_0730",
       "level": "HSK5",
       "hanzi": "失眠",
       "pinyin": "shīmián",
@@ -16402,7 +16381,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0732",
+      "id": "hsk5_rest_0731",
       "level": "HSK5",
       "hanzi": "使劲儿",
       "pinyin": "shǐjìnr",
@@ -16423,7 +16402,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0733",
+      "id": "hsk5_rest_0732",
       "level": "HSK5",
       "hanzi": "手术",
       "pinyin": "shǒushù",
@@ -16444,7 +16423,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0734",
+      "id": "hsk5_rest_0733",
       "level": "HSK5",
       "hanzi": "手指",
       "pinyin": "shǒuzhǐ",
@@ -16465,7 +16444,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0735",
+      "id": "hsk5_rest_0734",
       "level": "HSK5",
       "hanzi": "寿命",
       "pinyin": "shòumìng",
@@ -16486,7 +16465,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0736",
+      "id": "hsk5_rest_0735",
       "level": "HSK5",
       "hanzi": "受伤",
       "pinyin": "shòushāng",
@@ -16507,7 +16486,7 @@
       "app_synonym_note_vi": "受伤 là bị thương; 伤心 là đau lòng, buồn."
     },
     {
-      "id": "hsk5_rest_0737",
+      "id": "hsk5_rest_0736",
       "level": "HSK5",
       "hanzi": "摔",
       "pinyin": "shuāi",
@@ -16528,7 +16507,7 @@
       "app_synonym_note_vi": "摔 là ngã hoặc đập; 掉 là rơi xuống."
     },
     {
-      "id": "hsk5_rest_0738",
+      "id": "hsk5_rest_0737",
       "level": "HSK5",
       "hanzi": "甩",
       "pinyin": "shuǎi",
@@ -16549,7 +16528,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0739",
+      "id": "hsk5_rest_0738",
       "level": "HSK5",
       "hanzi": "吐",
       "pinyin": "tǔ",
@@ -16570,7 +16549,7 @@
       "app_synonym_note_vi": "Nhổ đọc tǔ; nôn đọc tù."
     },
     {
-      "id": "hsk5_rest_0740",
+      "id": "hsk5_rest_0739",
       "level": "HSK5",
       "hanzi": "危害",
       "pinyin": "wēihài",
@@ -16591,7 +16570,7 @@
       "app_synonym_note_vi": "危害 là tác hại; 危险 là nguy hiểm, chưa chắc đã gây hại."
     },
     {
-      "id": "hsk5_rest_0741",
+      "id": "hsk5_rest_0740",
       "level": "HSK5",
       "hanzi": "胃",
       "pinyin": "wèi",
@@ -16612,7 +16591,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0742",
+      "id": "hsk5_rest_0741",
       "level": "HSK5",
       "hanzi": "闻",
       "pinyin": "wén",
@@ -16633,7 +16612,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0743",
+      "id": "hsk5_rest_0742",
       "level": "HSK5",
       "hanzi": "瞎",
       "pinyin": "xiā",
@@ -16654,7 +16633,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0744",
+      "id": "hsk5_rest_0743",
       "level": "HSK5",
       "hanzi": "消化",
       "pinyin": "xiāohuà",
@@ -16675,7 +16654,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0745",
+      "id": "hsk5_rest_0744",
       "level": "HSK5",
       "hanzi": "歇",
       "pinyin": "xiē",
@@ -16696,7 +16675,7 @@
       "app_synonym_note_vi": "歇 là nghỉ ngắn, khẩu ngữ; 休息 dùng được cả khi viết."
     },
     {
-      "id": "hsk5_rest_0746",
+      "id": "hsk5_rest_0745",
       "level": "HSK5",
       "hanzi": "心脏",
       "pinyin": "xīnzàng",
@@ -16717,7 +16696,7 @@
       "app_synonym_note_vi": "心脏 là cơ quan tim; 心 còn chỉ tâm trí."
     },
     {
-      "id": "hsk5_rest_0747",
+      "id": "hsk5_rest_0746",
       "level": "HSK5",
       "hanzi": "胸",
       "pinyin": "xiōng",
@@ -16738,7 +16717,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0748",
+      "id": "hsk5_rest_0747",
       "level": "HSK5",
       "hanzi": "痒",
       "pinyin": "yǎng",
@@ -16759,7 +16738,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0749",
+      "id": "hsk5_rest_0748",
       "level": "HSK5",
       "hanzi": "腰",
       "pinyin": "yāo",
@@ -16780,7 +16759,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0750",
+      "id": "hsk5_rest_0749",
       "level": "HSK5",
       "hanzi": "摇",
       "pinyin": "yáo",
@@ -16801,7 +16780,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0751",
+      "id": "hsk5_rest_0750",
       "level": "HSK5",
       "hanzi": "咬",
       "pinyin": "yǎo",
@@ -16822,7 +16801,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0752",
+      "id": "hsk5_rest_0751",
       "level": "HSK5",
       "hanzi": "预防",
       "pinyin": "yùfáng",
@@ -16843,7 +16822,7 @@
       "app_synonym_note_vi": "预防 là phòng từ trước; 治疗 là chữa khi đã bệnh."
     },
     {
-      "id": "hsk5_rest_0753",
+      "id": "hsk5_rest_0752",
       "level": "HSK5",
       "hanzi": "晕",
       "pinyin": "yūn",
@@ -16864,7 +16843,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0754",
+      "id": "hsk5_rest_0753",
       "level": "HSK5",
       "hanzi": "着凉",
       "pinyin": "zháoliáng",
@@ -16885,7 +16864,7 @@
       "app_synonym_note_vi": "着凉 là bị lạnh; 感冒 là đã thành bệnh cảm."
     },
     {
-      "id": "hsk5_rest_0755",
+      "id": "hsk5_rest_0754",
       "level": "HSK5",
       "hanzi": "诊断",
       "pinyin": "zhěnduàn",
@@ -16906,7 +16885,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0756",
+      "id": "hsk5_rest_0755",
       "level": "HSK5",
       "hanzi": "睁",
       "pinyin": "zhēng",
@@ -16927,7 +16906,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0757",
+      "id": "hsk5_rest_0756",
       "level": "HSK5",
       "hanzi": "治疗",
       "pinyin": "zhìliáo",
@@ -16948,7 +16927,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0758",
+      "id": "hsk5_rest_0757",
       "level": "HSK5",
       "hanzi": "姿势",
       "pinyin": "zīshì",
@@ -16969,7 +16948,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0759",
+      "id": "hsk5_rest_0758",
       "level": "HSK5",
       "hanzi": "醉",
       "pinyin": "zuì",
@@ -16990,7 +16969,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0760",
+      "id": "hsk5_rest_0759",
       "level": "HSK5",
       "hanzi": "包子",
       "pinyin": "bāozi",
@@ -17011,7 +16990,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0761",
+      "id": "hsk5_rest_0760",
       "level": "HSK5",
       "hanzi": "餐厅",
       "pinyin": "cāntīng",
@@ -17032,7 +17011,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0762",
+      "id": "hsk5_rest_0761",
       "level": "HSK5",
       "hanzi": "叉子",
       "pinyin": "chāzi",
@@ -17053,7 +17032,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0763",
+      "id": "hsk5_rest_0762",
       "level": "HSK5",
       "hanzi": "炒",
       "pinyin": "chǎo",
@@ -17074,7 +17053,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0764",
+      "id": "hsk5_rest_0763",
       "level": "HSK5",
       "hanzi": "成分",
       "pinyin": "chéngfèn",
@@ -17095,7 +17074,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0765",
+      "id": "hsk5_rest_0764",
       "level": "HSK5",
       "hanzi": "臭",
       "pinyin": "chòu",
@@ -17116,7 +17095,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0766",
+      "id": "hsk5_rest_0765",
       "level": "HSK5",
       "hanzi": "醋",
       "pinyin": "cù",
@@ -17137,7 +17116,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0767",
+      "id": "hsk5_rest_0766",
       "level": "HSK5",
       "hanzi": "淡",
       "pinyin": "dàn",
@@ -17158,7 +17137,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0768",
+      "id": "hsk5_rest_0767",
       "level": "HSK5",
       "hanzi": "地道",
       "pinyin": "dìdao",
@@ -17179,7 +17158,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0769",
+      "id": "hsk5_rest_0768",
       "level": "HSK5",
       "hanzi": "点心",
       "pinyin": "diǎnxin",
@@ -17200,7 +17179,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0770",
+      "id": "hsk5_rest_0769",
       "level": "HSK5",
       "hanzi": "冻",
       "pinyin": "dòng",
@@ -17221,7 +17200,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0771",
+      "id": "hsk5_rest_0770",
       "level": "HSK5",
       "hanzi": "豆腐",
       "pinyin": "dòufu",
@@ -17242,7 +17221,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0772",
+      "id": "hsk5_rest_0771",
       "level": "HSK5",
       "hanzi": "罐头",
       "pinyin": "guàntou",
@@ -17263,7 +17242,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0773",
+      "id": "hsk5_rest_0772",
       "level": "HSK5",
       "hanzi": "锅",
       "pinyin": "guō",
@@ -17284,7 +17263,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0774",
+      "id": "hsk5_rest_0773",
       "level": "HSK5",
       "hanzi": "过期",
       "pinyin": "guòqī",
@@ -17305,7 +17284,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0775",
+      "id": "hsk5_rest_0774",
       "level": "HSK5",
       "hanzi": "海鲜",
       "pinyin": "hǎixiān",
@@ -17326,7 +17305,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0776",
+      "id": "hsk5_rest_0775",
       "level": "HSK5",
       "hanzi": "壶",
       "pinyin": "hú",
@@ -17347,7 +17326,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0777",
+      "id": "hsk5_rest_0776",
       "level": "HSK5",
       "hanzi": "花生",
       "pinyin": "huāshēng",
@@ -17368,7 +17347,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0778",
+      "id": "hsk5_rest_0777",
       "level": "HSK5",
       "hanzi": "黄瓜",
       "pinyin": "huángguā",
@@ -17389,7 +17368,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0779",
+      "id": "hsk5_rest_0778",
       "level": "HSK5",
       "hanzi": "煎",
       "pinyin": "jiān",
@@ -17410,7 +17389,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0780",
+      "id": "hsk5_rest_0779",
       "level": "HSK5",
       "hanzi": "酱油",
       "pinyin": "jiàngyóu",
@@ -17431,7 +17410,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0781",
+      "id": "hsk5_rest_0780",
       "level": "HSK5",
       "hanzi": "酒吧",
       "pinyin": "jiǔbā",
@@ -17452,7 +17431,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0782",
+      "id": "hsk5_rest_0781",
       "level": "HSK5",
       "hanzi": "桔子",
       "pinyin": "júzi",
@@ -17473,7 +17452,7 @@
       "app_synonym_note_vi": "桔子 là quýt; cam vàng thường gọi 橙子."
     },
     {
-      "id": "hsk5_rest_0783",
+      "id": "hsk5_rest_0782",
       "level": "HSK5",
       "hanzi": "烤鸭",
       "pinyin": "kǎoyā",
@@ -17494,7 +17473,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0784",
+      "id": "hsk5_rest_0783",
       "level": "HSK5",
       "hanzi": "口味",
       "pinyin": "kǒuwèi",
@@ -17515,7 +17494,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0785",
+      "id": "hsk5_rest_0784",
       "level": "HSK5",
       "hanzi": "矿泉水",
       "pinyin": "kuàngquánshuǐ",
@@ -17536,7 +17515,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0786",
+      "id": "hsk5_rest_0785",
       "level": "HSK5",
       "hanzi": "辣椒",
       "pinyin": "làjiāo",
@@ -17557,7 +17536,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0787",
+      "id": "hsk5_rest_0786",
       "level": "HSK5",
       "hanzi": "烂",
       "pinyin": "làn",
@@ -17578,7 +17557,7 @@
       "app_synonym_note_vi": "烂 là nát, hư; 破 thiên về rách hoặc vỡ."
     },
     {
-      "id": "hsk5_rest_0788",
+      "id": "hsk5_rest_0787",
       "level": "HSK5",
       "hanzi": "梨",
       "pinyin": "lí",
@@ -17599,7 +17578,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0789",
+      "id": "hsk5_rest_0788",
       "level": "HSK5",
       "hanzi": "粮食",
       "pinyin": "liángshi",
@@ -17620,7 +17599,7 @@
       "app_synonym_note_vi": "粮食 là lương thực; 食物 là mọi thứ ăn được."
     },
     {
-      "id": "hsk5_rest_0790",
+      "id": "hsk5_rest_0789",
       "level": "HSK5",
       "hanzi": "零食",
       "pinyin": "língshí",
@@ -17641,7 +17620,7 @@
       "app_synonym_note_vi": "零食 là đồ ăn vặt; 零钱 là tiền lẻ."
     },
     {
-      "id": "hsk5_rest_0791",
+      "id": "hsk5_rest_0790",
       "level": "HSK5",
       "hanzi": "馒头",
       "pinyin": "mántou",
@@ -17662,7 +17641,7 @@
       "app_synonym_note_vi": "馒头 không nhân; 包子 mới có nhân."
     },
     {
-      "id": "hsk5_rest_0792",
+      "id": "hsk5_rest_0791",
       "level": "HSK5",
       "hanzi": "嫩",
       "pinyin": "nèn",
@@ -17683,7 +17662,7 @@
       "app_synonym_note_vi": "嫩 trái với 老: non, mềm, chưa già."
     },
     {
-      "id": "hsk5_rest_0793",
+      "id": "hsk5_rest_0792",
       "level": "HSK5",
       "hanzi": "浓",
       "pinyin": "nóng",
@@ -17704,7 +17683,7 @@
       "app_synonym_note_vi": "浓 là đậm, đặc; 淡 là nhạt, loãng."
     },
     {
-      "id": "hsk5_rest_0794",
+      "id": "hsk5_rest_0793",
       "level": "HSK5",
       "hanzi": "切",
       "pinyin": "qiē",
@@ -17721,11 +17700,11 @@
           "vi": "Mẹ cắt quả táo thành miếng."
         }
       ],
-      "app_note_vi": "Đọc qiē khi cắt bằng dao. Gần, khớp nhau đọc qiè, như 一切, 亲切.",
-      "app_synonym_note_vi": "切 đọc qiē là cắt; đọc qiè là sát hoặc toàn bộ, như 一切."
+      "app_note_vi": "Đây là cắt bằng dao, như 切菜. Trong 一切 và 亲切, chữ 切 đọc khác.",
+      "app_synonym_note_vi": "切 trong 切菜 là cắt; 一切 là tất cả, đọc khác."
     },
     {
-      "id": "hsk5_rest_0795",
+      "id": "hsk5_rest_0794",
       "level": "HSK5",
       "hanzi": "青",
       "pinyin": "qīng",
@@ -17746,7 +17725,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0796",
+      "id": "hsk5_rest_0795",
       "level": "HSK5",
       "hanzi": "清淡",
       "pinyin": "qīngdàn",
@@ -17767,7 +17746,7 @@
       "app_synonym_note_vi": "清淡 là nhạt, nhẹ; 油腻 là ngậy, nhiều dầu."
     },
     {
-      "id": "hsk5_rest_0797",
+      "id": "hsk5_rest_0796",
       "level": "HSK5",
       "hanzi": "勺子",
       "pinyin": "sháozi",
@@ -17788,7 +17767,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0798",
+      "id": "hsk5_rest_0797",
       "level": "HSK5",
       "hanzi": "食物",
       "pinyin": "shíwù",
@@ -17809,7 +17788,7 @@
       "app_synonym_note_vi": "食物 là thức ăn nói chung; 食品 hay chỉ thực phẩm chế biến."
     },
     {
-      "id": "hsk5_rest_0799",
+      "id": "hsk5_rest_0798",
       "level": "HSK5",
       "hanzi": "蔬菜",
       "pinyin": "shūcài",
@@ -17830,7 +17809,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0800",
+      "id": "hsk5_rest_0799",
       "level": "HSK5",
       "hanzi": "烫",
       "pinyin": "tàng",
@@ -17851,7 +17830,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0801",
+      "id": "hsk5_rest_0800",
       "level": "HSK5",
       "hanzi": "桃",
       "pinyin": "táo",
@@ -17872,7 +17851,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0802",
+      "id": "hsk5_rest_0801",
       "level": "HSK5",
       "hanzi": "土豆",
       "pinyin": "tǔdòu",
@@ -17893,7 +17872,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0803",
+      "id": "hsk5_rest_0802",
       "level": "HSK5",
       "hanzi": "小吃",
       "pinyin": "xiǎochī",
@@ -17914,7 +17893,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0804",
+      "id": "hsk5_rest_0803",
       "level": "HSK5",
       "hanzi": "小麦",
       "pinyin": "xiǎomài",
@@ -17935,7 +17914,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0805",
+      "id": "hsk5_rest_0804",
       "level": "HSK5",
       "hanzi": "宴会",
       "pinyin": "yànhuì",
@@ -17956,7 +17935,7 @@
       "app_synonym_note_vi": "宴会 là tiệc lớn; 聚会 là buổi gặp mặt."
     },
     {
-      "id": "hsk5_rest_0806",
+      "id": "hsk5_rest_0805",
       "level": "HSK5",
       "hanzi": "营养",
       "pinyin": "yíngyǎng",
@@ -17977,7 +17956,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0807",
+      "id": "hsk5_rest_0806",
       "level": "HSK5",
       "hanzi": "油炸",
       "pinyin": "yóuzhá",
@@ -17998,7 +17977,7 @@
       "app_synonym_note_vi": "油炸 là chiên ngập dầu; 煎 là rán với ít dầu."
     },
     {
-      "id": "hsk5_rest_0808",
+      "id": "hsk5_rest_0807",
       "level": "HSK5",
       "hanzi": "玉米",
       "pinyin": "yùmǐ",
@@ -18019,7 +17998,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0809",
+      "id": "hsk5_rest_0808",
       "level": "HSK5",
       "hanzi": "摘",
       "pinyin": "zhāi",
@@ -18040,7 +18019,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0810",
+      "id": "hsk5_rest_0809",
       "level": "HSK5",
       "hanzi": "煮",
       "pinyin": "zhǔ",
@@ -18061,7 +18040,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0811",
+      "id": "hsk5_rest_0810",
       "level": "HSK5",
       "hanzi": "包裹",
       "pinyin": "bāoguǒ",
@@ -18082,7 +18061,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0812",
+      "id": "hsk5_rest_0811",
       "level": "HSK5",
       "hanzi": "踩",
       "pinyin": "cǎi",
@@ -18103,7 +18082,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0813",
+      "id": "hsk5_rest_0812",
       "level": "HSK5",
       "hanzi": "朝",
       "pinyin": "cháo",
@@ -18124,7 +18103,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0814",
+      "id": "hsk5_rest_0813",
       "level": "HSK5",
       "hanzi": "车库",
       "pinyin": "chēkù",
@@ -18145,7 +18124,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0815",
+      "id": "hsk5_rest_0814",
       "level": "HSK5",
       "hanzi": "车厢",
       "pinyin": "chēxiāng",
@@ -18166,7 +18145,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0816",
+      "id": "hsk5_rest_0815",
       "level": "HSK5",
       "hanzi": "乘",
       "pinyin": "chéng",
@@ -18187,7 +18166,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0817",
+      "id": "hsk5_rest_0816",
       "level": "HSK5",
       "hanzi": "冲",
       "pinyin": "chōng",
@@ -18208,7 +18187,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0818",
+      "id": "hsk5_rest_0817",
       "level": "HSK5",
       "hanzi": "出口",
       "pinyin": "chūkǒu",
@@ -18229,7 +18208,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0819",
+      "id": "hsk5_rest_0818",
       "level": "HSK5",
       "hanzi": "闯",
       "pinyin": "chuǎng",
@@ -18250,7 +18229,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0820",
+      "id": "hsk5_rest_0819",
       "level": "HSK5",
       "hanzi": "挡",
       "pinyin": "dǎng",
@@ -18271,7 +18250,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0821",
+      "id": "hsk5_rest_0820",
       "level": "HSK5",
       "hanzi": "到达",
       "pinyin": "dàodá",
@@ -18292,7 +18271,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0822",
+      "id": "hsk5_rest_0821",
       "level": "HSK5",
       "hanzi": "登机牌",
       "pinyin": "dēngjīpái",
@@ -18313,7 +18292,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0823",
+      "id": "hsk5_rest_0822",
       "level": "HSK5",
       "hanzi": "等候",
       "pinyin": "děnghòu",
@@ -18334,7 +18313,7 @@
       "app_synonym_note_vi": "等候 hay dùng nơi công cộng; 等待 rộng hơn."
     },
     {
-      "id": "hsk5_rest_0824",
+      "id": "hsk5_rest_0823",
       "level": "HSK5",
       "hanzi": "躲藏",
       "pinyin": "duǒcáng",
@@ -18355,7 +18334,7 @@
       "app_synonym_note_vi": "躲藏 nhấn mạnh trốn kỹ; 藏 còn là giấu đồ."
     },
     {
-      "id": "hsk5_rest_0825",
+      "id": "hsk5_rest_0824",
       "level": "HSK5",
       "hanzi": "高速",
       "pinyin": "gāosù",
@@ -18376,7 +18355,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0826",
+      "id": "hsk5_rest_0825",
       "level": "HSK5",
       "hanzi": "拐弯",
       "pinyin": "guǎiwān",
@@ -18397,7 +18376,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0827",
+      "id": "hsk5_rest_0826",
       "level": "HSK5",
       "hanzi": "滚",
       "pinyin": "gǔn",
@@ -18418,7 +18397,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0828",
+      "id": "hsk5_rest_0827",
       "level": "HSK5",
       "hanzi": "海关",
       "pinyin": "hǎiguān",
@@ -18439,7 +18418,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0829",
+      "id": "hsk5_rest_0828",
       "level": "HSK5",
       "hanzi": "滑冰",
       "pinyin": "huábīng",
@@ -18460,7 +18439,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0830",
+      "id": "hsk5_rest_0829",
       "level": "HSK5",
       "hanzi": "划船",
       "pinyin": "huáchuán",
@@ -18481,7 +18460,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0831",
+      "id": "hsk5_rest_0830",
       "level": "HSK5",
       "hanzi": "挥",
       "pinyin": "huī",
@@ -18502,7 +18481,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0832",
+      "id": "hsk5_rest_0831",
       "level": "HSK5",
       "hanzi": "急忙",
       "pinyin": "jímáng",
@@ -18523,7 +18502,7 @@
       "app_synonym_note_vi": "急忙 tả hành động vội; 赶紧 là lời thúc làm ngay."
     },
     {
-      "id": "hsk5_rest_0833",
+      "id": "hsk5_rest_0832",
       "level": "HSK5",
       "hanzi": "驾驶",
       "pinyin": "jiàshǐ",
@@ -18544,7 +18523,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0834",
+      "id": "hsk5_rest_0833",
       "level": "HSK5",
       "hanzi": "捡",
       "pinyin": "jiǎn",
@@ -18565,7 +18544,7 @@
       "app_synonym_note_vi": "捡 là nhặt lên; 拣 là chọn ra."
     },
     {
-      "id": "hsk5_rest_0835",
+      "id": "hsk5_rest_0834",
       "level": "HSK5",
       "hanzi": "降落",
       "pinyin": "jiàngluò",
@@ -18586,7 +18565,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0836",
+      "id": "hsk5_rest_0835",
       "level": "HSK5",
       "hanzi": "救护车",
       "pinyin": "jiùhùchē",
@@ -18607,7 +18586,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0837",
+      "id": "hsk5_rest_0836",
       "level": "HSK5",
       "hanzi": "卡车",
       "pinyin": "kǎchē",
@@ -18628,7 +18607,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0838",
+      "id": "hsk5_rest_0837",
       "level": "HSK5",
       "hanzi": "来自",
       "pinyin": "láizì",
@@ -18649,7 +18628,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0839",
+      "id": "hsk5_rest_0838",
       "level": "HSK5",
       "hanzi": "拦",
       "pinyin": "lán",
@@ -18670,7 +18649,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0840",
+      "id": "hsk5_rest_0839",
       "level": "HSK5",
       "hanzi": "陆续",
       "pinyin": "lùxù",
@@ -18691,7 +18670,7 @@
       "app_synonym_note_vi": "陆续 là lần lượt; 连续 là liên tiếp, không ngắt quãng."
     },
     {
-      "id": "hsk5_rest_0841",
+      "id": "hsk5_rest_0840",
       "level": "HSK5",
       "hanzi": "冒险",
       "pinyin": "màoxiǎn",
@@ -18712,7 +18691,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0842",
+      "id": "hsk5_rest_0841",
       "level": "HSK5",
       "hanzi": "迷路",
       "pinyin": "mílù",
@@ -18733,7 +18712,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0843",
+      "id": "hsk5_rest_0842",
       "level": "HSK5",
       "hanzi": "摩托车",
       "pinyin": "mótuōchē",
@@ -18754,7 +18733,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0844",
+      "id": "hsk5_rest_0843",
       "level": "HSK5",
       "hanzi": "排队",
       "pinyin": "páiduì",
@@ -18775,7 +18754,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0845",
+      "id": "hsk5_rest_0844",
       "level": "HSK5",
       "hanzi": "排球",
       "pinyin": "páiqiú",
@@ -18796,7 +18775,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0846",
+      "id": "hsk5_rest_0845",
       "level": "HSK5",
       "hanzi": "汽油",
       "pinyin": "qìyóu",
@@ -18817,7 +18796,7 @@
       "app_synonym_note_vi": "汽油 là xăng đã tinh chế; 石油 là dầu mỏ."
     },
     {
-      "id": "hsk5_rest_0847",
+      "id": "hsk5_rest_0846",
       "level": "HSK5",
       "hanzi": "抢",
       "pinyin": "qiǎng",
@@ -18838,7 +18817,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0848",
+      "id": "hsk5_rest_0847",
       "level": "HSK5",
       "hanzi": "绕",
       "pinyin": "rào",
@@ -18859,7 +18838,7 @@
       "app_synonym_note_vi": "绕 là vòng qua hoặc quấn; 围 là bao quanh, vây."
     },
     {
-      "id": "hsk5_rest_0849",
+      "id": "hsk5_rest_0848",
       "level": "HSK5",
       "hanzi": "射击",
       "pinyin": "shèjī",
@@ -18880,7 +18859,7 @@
       "app_synonym_note_vi": "射击 là bắn mục tiêu; 摄影 là chụp ảnh."
     },
     {
-      "id": "hsk5_rest_0850",
+      "id": "hsk5_rest_0849",
       "level": "HSK5",
       "hanzi": "升",
       "pinyin": "shēng",
@@ -18901,7 +18880,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0851",
+      "id": "hsk5_rest_0850",
       "level": "HSK5",
       "hanzi": "缩短",
       "pinyin": "suōduǎn",
@@ -18922,7 +18901,7 @@
       "app_synonym_note_vi": "缩短 là rút ngắn; 缩小 là thu nhỏ kích thước hoặc phạm vi."
     },
     {
-      "id": "hsk5_rest_0852",
+      "id": "hsk5_rest_0851",
       "level": "HSK5",
       "hanzi": "逃",
       "pinyin": "táo",
@@ -18943,7 +18922,7 @@
       "app_synonym_note_vi": "逃 là trốn chạy; 逃避 là né tránh trách nhiệm hoặc vấn đề."
     },
     {
-      "id": "hsk5_rest_0853",
+      "id": "hsk5_rest_0852",
       "level": "HSK5",
       "hanzi": "提",
       "pinyin": "tí",
@@ -18964,7 +18943,7 @@
       "app_synonym_note_vi": "Chữ này khi nghĩa là xách thì khác nghĩa nêu ra, đề xuất."
     },
     {
-      "id": "hsk5_rest_0854",
+      "id": "hsk5_rest_0853",
       "level": "HSK5",
       "hanzi": "弯",
       "pinyin": "wān",
@@ -18985,7 +18964,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0855",
+      "id": "hsk5_rest_0854",
       "level": "HSK5",
       "hanzi": "往返",
       "pinyin": "wǎngfǎn",
@@ -19006,7 +18985,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0856",
+      "id": "hsk5_rest_0855",
       "level": "HSK5",
       "hanzi": "位置",
       "pinyin": "wèizhi",
@@ -19027,7 +19006,7 @@
       "app_synonym_note_vi": "位置 là vị trí rõ; 地方 là chỗ nói chung."
     },
     {
-      "id": "hsk5_rest_0857",
+      "id": "hsk5_rest_0856",
       "level": "HSK5",
       "hanzi": "信号",
       "pinyin": "xìnhào",
@@ -19048,7 +19027,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0858",
+      "id": "hsk5_rest_0857",
       "level": "HSK5",
       "hanzi": "行人",
       "pinyin": "xíngrén",
@@ -19069,7 +19048,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0859",
+      "id": "hsk5_rest_0858",
       "level": "HSK5",
       "hanzi": "一路",
       "pinyin": "yīlù",
@@ -19090,7 +19069,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0860",
+      "id": "hsk5_rest_0859",
       "level": "HSK5",
       "hanzi": "移动",
       "pinyin": "yídòng",
@@ -19111,7 +19090,7 @@
       "app_synonym_note_vi": "移动 là dịch chuyển; 搬 thường là khuân đồ."
     },
     {
-      "id": "hsk5_rest_0861",
+      "id": "hsk5_rest_0860",
       "level": "HSK5",
       "hanzi": "拥挤",
       "pinyin": "yōngjǐ",
@@ -19132,7 +19111,7 @@
       "app_synonym_note_vi": "拥挤 là chen chúc; 热闹 là náo nhiệt, vui."
     },
     {
-      "id": "hsk5_rest_0862",
+      "id": "hsk5_rest_0861",
       "level": "HSK5",
       "hanzi": "游览",
       "pinyin": "yóulǎn",
@@ -19153,7 +19132,7 @@
       "app_synonym_note_vi": "游览 là đi xem cảnh; 旅游 là cả chuyến du lịch, rộng hơn."
     },
     {
-      "id": "hsk5_rest_0863",
+      "id": "hsk5_rest_0862",
       "level": "HSK5",
       "hanzi": "预订",
       "pinyin": "yùdìng",
@@ -19174,7 +19153,7 @@
       "app_synonym_note_vi": "预订 là đặt giữ chỗ; 预定 còn có nghĩa định trước một kế hoạch."
     },
     {
-      "id": "hsk5_rest_0864",
+      "id": "hsk5_rest_0863",
       "level": "HSK5",
       "hanzi": "运输",
       "pinyin": "yùnshū",
@@ -19195,7 +19174,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0865",
+      "id": "hsk5_rest_0864",
       "level": "HSK5",
       "hanzi": "长途",
       "pinyin": "chángtú",
@@ -19216,7 +19195,7 @@
       "app_synonym_note_vi": "长途 nói về quãng đường xa; 长期 nói về thời gian dài."
     },
     {
-      "id": "hsk5_rest_0866",
+      "id": "hsk5_rest_0865",
       "level": "HSK5",
       "hanzi": "背景",
       "pinyin": "bèijǐng",
@@ -19237,7 +19216,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0867",
+      "id": "hsk5_rest_0866",
       "level": "HSK5",
       "hanzi": "鞭炮",
       "pinyin": "biānpào",
@@ -19258,7 +19237,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0868",
+      "id": "hsk5_rest_0867",
       "level": "HSK5",
       "hanzi": "博物馆",
       "pinyin": "bówùguǎn",
@@ -19279,7 +19258,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0869",
+      "id": "hsk5_rest_0868",
       "level": "HSK5",
       "hanzi": "朝代",
       "pinyin": "cháodài",
@@ -19300,7 +19279,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0870",
+      "id": "hsk5_rest_0869",
       "level": "HSK5",
       "hanzi": "成语",
       "pinyin": "chéngyǔ",
@@ -19321,7 +19300,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0871",
+      "id": "hsk5_rest_0870",
       "level": "HSK5",
       "hanzi": "出版",
       "pinyin": "chūbǎn",
@@ -19342,7 +19321,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0872",
+      "id": "hsk5_rest_0871",
       "level": "HSK5",
       "hanzi": "除夕",
       "pinyin": "chúxī",
@@ -19363,7 +19342,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0873",
+      "id": "hsk5_rest_0872",
       "level": "HSK5",
       "hanzi": "传说",
       "pinyin": "chuánshuō",
@@ -19384,7 +19363,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0874",
+      "id": "hsk5_rest_0873",
       "level": "HSK5",
       "hanzi": "磁带",
       "pinyin": "cídài",
@@ -19405,7 +19384,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0875",
+      "id": "hsk5_rest_0874",
       "level": "HSK5",
       "hanzi": "从前",
       "pinyin": "cóngqián",
@@ -19426,7 +19405,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0876",
+      "id": "hsk5_rest_0875",
       "level": "HSK5",
       "hanzi": "当代",
       "pinyin": "dāngdài",
@@ -19447,7 +19426,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0877",
+      "id": "hsk5_rest_0876",
       "level": "HSK5",
       "hanzi": "导演",
       "pinyin": "dǎoyǎn",
@@ -19468,7 +19447,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0878",
+      "id": "hsk5_rest_0877",
       "level": "HSK5",
       "hanzi": "电台",
       "pinyin": "diàntái",
@@ -19489,7 +19468,7 @@
       "app_synonym_note_vi": "电台 là đài phát thanh; 电视台 là đài truyền hình."
     },
     {
-      "id": "hsk5_rest_0879",
+      "id": "hsk5_rest_0878",
       "level": "HSK5",
       "hanzi": "动画片",
       "pinyin": "dònghuàpiàn",
@@ -19510,7 +19489,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0880",
+      "id": "hsk5_rest_0879",
       "level": "HSK5",
       "hanzi": "发明",
       "pinyin": "fāmíng",
@@ -19531,7 +19510,7 @@
       "app_synonym_note_vi": "发明 là phát minh; 发现 là phát hiện cái đã có."
     },
     {
-      "id": "hsk5_rest_0881",
+      "id": "hsk5_rest_0880",
       "level": "HSK5",
       "hanzi": "风格",
       "pinyin": "fēnggé",
@@ -19552,7 +19531,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0882",
+      "id": "hsk5_rest_0881",
       "level": "HSK5",
       "hanzi": "风俗",
       "pinyin": "fēngsú",
@@ -19573,7 +19552,7 @@
       "app_synonym_note_vi": "风俗 là phong tục của vùng; 习惯 là thói quen của một người."
     },
     {
-      "id": "hsk5_rest_0883",
+      "id": "hsk5_rest_0882",
       "level": "HSK5",
       "hanzi": "幅",
       "pinyin": "fú",
@@ -19594,7 +19573,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0884",
+      "id": "hsk5_rest_0883",
       "level": "HSK5",
       "hanzi": "公元",
       "pinyin": "gōngyuán",
@@ -19615,7 +19594,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0885",
+      "id": "hsk5_rest_0884",
       "level": "HSK5",
       "hanzi": "公主",
       "pinyin": "gōngzhǔ",
@@ -19636,7 +19615,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0886",
+      "id": "hsk5_rest_0885",
       "level": "HSK5",
       "hanzi": "功夫",
       "pinyin": "gōngfu",
@@ -19657,7 +19636,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0887",
+      "id": "hsk5_rest_0886",
       "level": "HSK5",
       "hanzi": "古代",
       "pinyin": "gǔdài",
@@ -19678,7 +19657,7 @@
       "app_synonym_note_vi": "古代 là thời cổ; 古老 tả đồ vật hoặc phong tục đã rất lâu đời."
     },
     {
-      "id": "hsk5_rest_0888",
+      "id": "hsk5_rest_0887",
       "level": "HSK5",
       "hanzi": "古典",
       "pinyin": "gǔdiǎn",
@@ -19699,7 +19678,7 @@
       "app_synonym_note_vi": "古典 là cổ điển; 古代 chỉ thời cổ."
     },
     {
-      "id": "hsk5_rest_0889",
+      "id": "hsk5_rest_0888",
       "level": "HSK5",
       "hanzi": "冠军",
       "pinyin": "guànjūn",
@@ -19720,7 +19699,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0890",
+      "id": "hsk5_rest_0889",
       "level": "HSK5",
       "hanzi": "国庆节",
       "pinyin": "guóqìngjié",
@@ -19741,7 +19720,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0891",
+      "id": "hsk5_rest_0890",
       "level": "HSK5",
       "hanzi": "胡同",
       "pinyin": "hútòng",
@@ -19762,7 +19741,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0892",
+      "id": "hsk5_rest_0891",
       "level": "HSK5",
       "hanzi": "皇帝",
       "pinyin": "huángdì",
@@ -19783,7 +19762,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0893",
+      "id": "hsk5_rest_0892",
       "level": "HSK5",
       "hanzi": "皇后",
       "pinyin": "huánghòu",
@@ -19804,7 +19783,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0894",
+      "id": "hsk5_rest_0893",
       "level": "HSK5",
       "hanzi": "婚礼",
       "pinyin": "hūnlǐ",
@@ -19825,7 +19804,7 @@
       "app_synonym_note_vi": "婚礼 là buổi lễ; 婚姻 là quan hệ vợ chồng."
     },
     {
-      "id": "hsk5_rest_0895",
+      "id": "hsk5_rest_0894",
       "level": "HSK5",
       "hanzi": "纪录",
       "pinyin": "jìlù",
@@ -19846,7 +19825,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0896",
+      "id": "hsk5_rest_0895",
       "level": "HSK5",
       "hanzi": "纪念",
       "pinyin": "jìniàn",
@@ -19867,7 +19846,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0897",
+      "id": "hsk5_rest_0896",
       "level": "HSK5",
       "hanzi": "建筑",
       "pinyin": "jiànzhù",
@@ -19888,7 +19867,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0898",
+      "id": "hsk5_rest_0897",
       "level": "HSK5",
       "hanzi": "角色",
       "pinyin": "juésè",
@@ -19909,7 +19888,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0899",
+      "id": "hsk5_rest_0898",
       "level": "HSK5",
       "hanzi": "解说员",
       "pinyin": "jiěshuōyuán",
@@ -19930,7 +19909,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0900",
+      "id": "hsk5_rest_0899",
       "level": "HSK5",
       "hanzi": "戒指",
       "pinyin": "jièzhi",
@@ -19951,7 +19930,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0901",
+      "id": "hsk5_rest_0900",
       "level": "HSK5",
       "hanzi": "近代",
       "pinyin": "jìndài",
@@ -19972,7 +19951,7 @@
       "app_synonym_note_vi": "近代 là cận đại; 现代 là hiện đại, gần hôm nay hơn."
     },
     {
-      "id": "hsk5_rest_0902",
+      "id": "hsk5_rest_0901",
       "level": "HSK5",
       "hanzi": "经典",
       "pinyin": "jīngdiǎn",
@@ -19993,7 +19972,7 @@
       "app_synonym_note_vi": "经典 là mẫu mực được nhớ; 古典 thiên về phong cách cổ."
     },
     {
-      "id": "hsk5_rest_0903",
+      "id": "hsk5_rest_0902",
       "level": "HSK5",
       "hanzi": "决赛",
       "pinyin": "juésài",
@@ -20014,7 +19993,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0904",
+      "id": "hsk5_rest_0903",
       "level": "HSK5",
       "hanzi": "开幕式",
       "pinyin": "kāimùshì",
@@ -20035,7 +20014,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0905",
+      "id": "hsk5_rest_0904",
       "level": "HSK5",
       "hanzi": "恐怖",
       "pinyin": "kǒngbù",
@@ -20056,7 +20035,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0906",
+      "id": "hsk5_rest_0905",
       "level": "HSK5",
       "hanzi": "连续剧",
       "pinyin": "liánxùjù",
@@ -20077,7 +20056,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0907",
+      "id": "hsk5_rest_0906",
       "level": "HSK5",
       "hanzi": "流传",
       "pinyin": "liúchuán",
@@ -20098,7 +20077,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0908",
+      "id": "hsk5_rest_0907",
       "level": "HSK5",
       "hanzi": "龙",
       "pinyin": "lóng",
@@ -20119,7 +20098,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0909",
+      "id": "hsk5_rest_0908",
       "level": "HSK5",
       "hanzi": "录音",
       "pinyin": "lùyīn",
@@ -20140,7 +20119,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0910",
+      "id": "hsk5_rest_0909",
       "level": "HSK5",
       "hanzi": "麦克风",
       "pinyin": "màikèfēng",
@@ -20161,7 +20140,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0911",
+      "id": "hsk5_rest_0910",
       "level": "HSK5",
       "hanzi": "美术",
       "pinyin": "měishù",
@@ -20182,7 +20161,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0912",
+      "id": "hsk5_rest_0911",
       "level": "HSK5",
       "hanzi": "谜语",
       "pinyin": "míyǔ",
@@ -20203,7 +20182,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0913",
+      "id": "hsk5_rest_0912",
       "level": "HSK5",
       "hanzi": "描写",
       "pinyin": "miáoxiě",
@@ -20224,7 +20203,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0914",
+      "id": "hsk5_rest_0913",
       "level": "HSK5",
       "hanzi": "名胜",
       "pinyin": "míngshèng",
@@ -20245,7 +20224,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0915",
+      "id": "hsk5_rest_0914",
       "level": "HSK5",
       "hanzi": "明信片",
       "pinyin": "míngxìnpiàn",
@@ -20266,7 +20245,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0916",
+      "id": "hsk5_rest_0915",
       "level": "HSK5",
       "hanzi": "明星",
       "pinyin": "míngxīng",
@@ -20287,7 +20266,7 @@
       "app_synonym_note_vi": "明星 là người nổi tiếng; 星星 là ngôi sao trên trời."
     },
     {
-      "id": "hsk5_rest_0917",
+      "id": "hsk5_rest_0916",
       "level": "HSK5",
       "hanzi": "年代",
       "pinyin": "niándài",
@@ -20308,7 +20287,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0918",
+      "id": "hsk5_rest_0917",
       "level": "HSK5",
       "hanzi": "片",
       "pinyin": "piàn",
@@ -20325,11 +20304,11 @@
           "vi": "Đĩa hát cũ này vẫn nghe rõ."
         }
       ],
-      "app_note_vi": "Đọc piān trong 片子, 唱片, 画片. Lát mỏng hoặc lượng từ đọc piàn.",
-      "app_synonym_note_vi": "片 piān là phim, đĩa; 片 piàn là lát, hoặc lượng từ như 一片面包."
+      "app_note_vi": "Trong 片子, 唱片, 画片 là phim hoặc đĩa. Nghĩa một lát, như 一片面包, đọc khác.",
+      "app_synonym_note_vi": "片 trong 片子, 唱片 là phim, đĩa; 一片 là một lát, đọc khác."
     },
     {
-      "id": "hsk5_rest_0919",
+      "id": "hsk5_rest_0918",
       "level": "HSK5",
       "hanzi": "频道",
       "pinyin": "píndào",
@@ -20350,7 +20329,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0920",
+      "id": "hsk5_rest_0919",
       "level": "HSK5",
       "hanzi": "情景",
       "pinyin": "qíngjǐng",
@@ -20371,7 +20350,7 @@
       "app_synonym_note_vi": "情景 là cảnh bên ngoài; 情绪 là tâm trạng bên trong."
     },
     {
-      "id": "hsk5_rest_0921",
+      "id": "hsk5_rest_0920",
       "level": "HSK5",
       "hanzi": "庆祝",
       "pinyin": "qìngzhù",
@@ -20392,7 +20371,7 @@
       "app_synonym_note_vi": "庆祝 là có hoạt động ăn mừng; 祝贺 là lời chúc."
     },
     {
-      "id": "hsk5_rest_0922",
+      "id": "hsk5_rest_0921",
       "level": "HSK5",
       "hanzi": "球迷",
       "pinyin": "qiúmí",
@@ -20413,7 +20392,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0923",
+      "id": "hsk5_rest_0922",
       "level": "HSK5",
       "hanzi": "人物",
       "pinyin": "rénwù",
@@ -20434,7 +20413,7 @@
       "app_synonym_note_vi": "人物 là nhân vật; 人员 là người làm trong một nhóm việc."
     },
     {
-      "id": "hsk5_rest_0924",
+      "id": "hsk5_rest_0923",
       "level": "HSK5",
       "hanzi": "摄影",
       "pinyin": "shèyǐng",
@@ -20455,7 +20434,7 @@
       "app_synonym_note_vi": "摄影 là chụp ảnh; 射击 là môn bắn."
     },
     {
-      "id": "hsk5_rest_0925",
+      "id": "hsk5_rest_0924",
       "level": "HSK5",
       "hanzi": "神话",
       "pinyin": "shénhuà",
@@ -20476,7 +20455,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0926",
+      "id": "hsk5_rest_0925",
       "level": "HSK5",
       "hanzi": "诗",
       "pinyin": "shī",
@@ -20497,7 +20476,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0927",
+      "id": "hsk5_rest_0926",
       "level": "HSK5",
       "hanzi": "时尚",
       "pinyin": "shíshàng",
@@ -20518,7 +20497,7 @@
       "app_synonym_note_vi": "时尚 là thời trang; 时髦 nhấn mạnh một món đang hợp mốt."
     },
     {
-      "id": "hsk5_rest_0928",
+      "id": "hsk5_rest_0927",
       "level": "HSK5",
       "hanzi": "手工",
       "pinyin": "shǒugōng",
@@ -20539,7 +20518,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0929",
+      "id": "hsk5_rest_0928",
       "level": "HSK5",
       "hanzi": "丝绸",
       "pinyin": "sīchóu",
@@ -20560,7 +20539,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0930",
+      "id": "hsk5_rest_0929",
       "level": "HSK5",
       "hanzi": "寺庙",
       "pinyin": "sìmiào",
@@ -20581,7 +20560,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0931",
+      "id": "hsk5_rest_0930",
       "level": "HSK5",
       "hanzi": "塔",
       "pinyin": "tǎ",
@@ -20602,7 +20581,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0932",
+      "id": "hsk5_rest_0931",
       "level": "HSK5",
       "hanzi": "太极拳",
       "pinyin": "tàijíquán",
@@ -20623,7 +20602,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0933",
+      "id": "hsk5_rest_0932",
       "level": "HSK5",
       "hanzi": "王子",
       "pinyin": "wángzǐ",
@@ -20644,7 +20623,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0934",
+      "id": "hsk5_rest_0933",
       "level": "HSK5",
       "hanzi": "文学",
       "pinyin": "wénxué",
@@ -20665,7 +20644,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0935",
+      "id": "hsk5_rest_0934",
       "level": "HSK5",
       "hanzi": "武术",
       "pinyin": "wǔshù",
@@ -20686,7 +20665,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0936",
+      "id": "hsk5_rest_0935",
       "level": "HSK5",
       "hanzi": "戏剧",
       "pinyin": "xìjù",
@@ -20707,7 +20686,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0937",
+      "id": "hsk5_rest_0936",
       "level": "HSK5",
       "hanzi": "象棋",
       "pinyin": "xiàngqí",
@@ -20728,7 +20707,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0938",
+      "id": "hsk5_rest_0937",
       "level": "HSK5",
       "hanzi": "象征",
       "pinyin": "xiàngzhēng",
@@ -20749,7 +20728,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0939",
+      "id": "hsk5_rest_0938",
       "level": "HSK5",
       "hanzi": "欣赏",
       "pinyin": "xīnshǎng",
@@ -20770,7 +20749,7 @@
       "app_synonym_note_vi": "欣赏 là thưởng thức hoặc nể; 喜欢 chỉ là thích."
     },
     {
-      "id": "hsk5_rest_0940",
+      "id": "hsk5_rest_0939",
       "level": "HSK5",
       "hanzi": "悠久",
       "pinyin": "yōujiǔ",
@@ -20791,7 +20770,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0941",
+      "id": "hsk5_rest_0940",
       "level": "HSK5",
       "hanzi": "娱乐",
       "pinyin": "yúlè",
@@ -20812,7 +20791,7 @@
       "app_synonym_note_vi": "娱乐 là giải trí nói chung; 游戏 thường là trò chơi."
     },
     {
-      "id": "hsk5_rest_0942",
+      "id": "hsk5_rest_0941",
       "level": "HSK5",
       "hanzi": "元旦",
       "pinyin": "yuándàn",
@@ -20833,7 +20812,7 @@
       "app_synonym_note_vi": "元旦 là 1 tháng 1 dương lịch; 春节 là Tết âm lịch."
     },
     {
-      "id": "hsk5_rest_0943",
+      "id": "hsk5_rest_0942",
       "level": "HSK5",
       "hanzi": "展览",
       "pinyin": "zhǎnlǎn",
@@ -20854,7 +20833,7 @@
       "app_synonym_note_vi": "展览 là một cuộc triển lãm; 展示 là đem ra cho người xem, không nhất thiết thành buổi triển lãm."
     },
     {
-      "id": "hsk5_rest_0944",
+      "id": "hsk5_rest_0943",
       "level": "HSK5",
       "hanzi": "主持",
       "pinyin": "zhǔchí",
@@ -20875,7 +20854,7 @@
       "app_synonym_note_vi": "主持 là người điều khiển buổi lễ hoặc cuộc họp; 主办 là đơn vị đứng ra tổ chức."
     },
     {
-      "id": "hsk5_rest_0945",
+      "id": "hsk5_rest_0944",
       "level": "HSK5",
       "hanzi": "字幕",
       "pinyin": "zìmù",
@@ -20896,7 +20875,7 @@
       "app_synonym_note_vi": "字幕 là chữ trên phim; 标题 là tiêu đề của bài viết."
     },
     {
-      "id": "hsk5_rest_0946",
+      "id": "hsk5_rest_0945",
       "level": "HSK5",
       "hanzi": "宗教",
       "pinyin": "zōngjiào",
@@ -20917,7 +20896,7 @@
       "app_synonym_note_vi": "宗教 là một tôn giáo có hệ thống; 信仰 là niềm tin, có thể không thuộc tôn giáo."
     },
     {
-      "id": "hsk5_rest_0947",
+      "id": "hsk5_rest_0946",
       "level": "HSK5",
       "hanzi": "祖先",
       "pinyin": "zǔxiān",
@@ -20938,7 +20917,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0948",
+      "id": "hsk5_rest_0947",
       "level": "HSK5",
       "hanzi": "作品",
       "pinyin": "zuòpǐn",
@@ -20959,7 +20938,7 @@
       "app_synonym_note_vi": "作品 là tác phẩm; 作业 là bài tập được giao; 产品 là hàng sản xuất."
     },
     {
-      "id": "hsk5_rest_0949",
+      "id": "hsk5_rest_0948",
       "level": "HSK5",
       "hanzi": "比如",
       "pinyin": "bǐrú",
@@ -20980,7 +20959,7 @@
       "app_synonym_note_vi": "比如 nói ví dụ trong câu; 例如 trang trọng hơn, hay mở một liệt kê."
     },
     {
-      "id": "hsk5_rest_0950",
+      "id": "hsk5_rest_0949",
       "level": "HSK5",
       "hanzi": "便",
       "pinyin": "biàn",
@@ -21001,7 +20980,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0951",
+      "id": "hsk5_rest_0950",
       "level": "HSK5",
       "hanzi": "表明",
       "pinyin": "biǎomíng",
@@ -21022,7 +21001,7 @@
       "app_synonym_note_vi": "表明 là làm rõ; 表示 là bày tỏ, phạm vi rộng hơn."
     },
     {
-      "id": "hsk5_rest_0952",
+      "id": "hsk5_rest_0951",
       "level": "HSK5",
       "hanzi": "补充",
       "pinyin": "bǔchōng",
@@ -21043,7 +21022,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0953",
+      "id": "hsk5_rest_0952",
       "level": "HSK5",
       "hanzi": "不必",
       "pinyin": "bùbì",
@@ -21064,7 +21043,7 @@
       "app_synonym_note_vi": "不必 là không cần; 未必 là chưa chắc."
     },
     {
-      "id": "hsk5_rest_0954",
+      "id": "hsk5_rest_0953",
       "level": "HSK5",
       "hanzi": "不然",
       "pinyin": "bùrán",
@@ -21085,7 +21064,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0955",
+      "id": "hsk5_rest_0954",
       "level": "HSK5",
       "hanzi": "不要紧",
       "pinyin": "bùyàojǐn",
@@ -21106,7 +21085,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0956",
+      "id": "hsk5_rest_0955",
       "level": "HSK5",
       "hanzi": "曾经",
       "pinyin": "céngjīng",
@@ -21127,7 +21106,7 @@
       "app_synonym_note_vi": "曾经 là đã từng; 已经 là đã rồi, việc vừa hoàn thành."
     },
     {
-      "id": "hsk5_rest_0957",
+      "id": "hsk5_rest_0956",
       "level": "HSK5",
       "hanzi": "插",
       "pinyin": "chā",
@@ -21148,7 +21127,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0958",
+      "id": "hsk5_rest_0957",
       "level": "HSK5",
       "hanzi": "趁",
       "pinyin": "chèn",
@@ -21169,7 +21148,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0959",
+      "id": "hsk5_rest_0958",
       "level": "HSK5",
       "hanzi": "称呼",
       "pinyin": "chēnghu",
@@ -21190,7 +21169,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0960",
+      "id": "hsk5_rest_0959",
       "level": "HSK5",
       "hanzi": "称赞",
       "pinyin": "chēngzàn",
@@ -21211,7 +21190,7 @@
       "app_synonym_note_vi": "称赞 trang trọng; 夸自然, hay dùng khi nói."
     },
     {
-      "id": "hsk5_rest_0961",
+      "id": "hsk5_rest_0960",
       "level": "HSK5",
       "hanzi": "承认",
       "pinyin": "chéngrèn",
@@ -21232,7 +21211,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0962",
+      "id": "hsk5_rest_0961",
       "level": "HSK5",
       "hanzi": "除非",
       "pinyin": "chúfēi",
@@ -21253,7 +21232,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0963",
+      "id": "hsk5_rest_0962",
       "level": "HSK5",
       "hanzi": "传递",
       "pinyin": "chuándì",
@@ -21274,7 +21253,7 @@
       "app_synonym_note_vi": "传递 nhấn mạnh chuyển tiếp; 传播 nhấn mạnh lan rộng."
     },
     {
-      "id": "hsk5_rest_0964",
+      "id": "hsk5_rest_0963",
       "level": "HSK5",
       "hanzi": "从此",
       "pinyin": "cóngcǐ",
@@ -21295,7 +21274,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0965",
+      "id": "hsk5_rest_0964",
       "level": "HSK5",
       "hanzi": "催",
       "pinyin": "cuī",
@@ -21316,7 +21295,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0966",
+      "id": "hsk5_rest_0965",
       "level": "HSK5",
       "hanzi": "答应",
       "pinyin": "dāying",
@@ -21337,7 +21316,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0967",
+      "id": "hsk5_rest_0966",
       "level": "HSK5",
       "hanzi": "打听",
       "pinyin": "dǎting",
@@ -21358,7 +21337,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0968",
+      "id": "hsk5_rest_0967",
       "level": "HSK5",
       "hanzi": "打招呼",
       "pinyin": "dǎzhāohu",
@@ -21379,7 +21358,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0969",
+      "id": "hsk5_rest_0968",
       "level": "HSK5",
       "hanzi": "的确",
       "pinyin": "díquè",
@@ -21400,7 +21379,7 @@
       "app_synonym_note_vi": "的确 mạnh hơn 真的, hay dùng khi đồng ý với người khác."
     },
     {
-      "id": "hsk5_rest_0970",
+      "id": "hsk5_rest_0969",
       "level": "HSK5",
       "hanzi": "点头",
       "pinyin": "diǎntóu",
@@ -21421,7 +21400,7 @@
       "app_synonym_note_vi": "点头 là đồng ý; 摇头 là từ chối."
     },
     {
-      "id": "hsk5_rest_0971",
+      "id": "hsk5_rest_0970",
       "level": "HSK5",
       "hanzi": "短信",
       "pinyin": "duǎnxìn",
@@ -21442,7 +21421,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0972",
+      "id": "hsk5_rest_0971",
       "level": "HSK5",
       "hanzi": "发言",
       "pinyin": "fāyán",
@@ -21463,7 +21442,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0973",
+      "id": "hsk5_rest_0972",
       "level": "HSK5",
       "hanzi": "凡是",
       "pinyin": "fánshì",
@@ -21484,7 +21463,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0974",
+      "id": "hsk5_rest_0973",
       "level": "HSK5",
       "hanzi": "反正",
       "pinyin": "fǎnzhèng",
@@ -21505,7 +21484,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0975",
+      "id": "hsk5_rest_0974",
       "level": "HSK5",
       "hanzi": "非",
       "pinyin": "fēi",
@@ -21526,7 +21505,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0976",
+      "id": "hsk5_rest_0975",
       "level": "HSK5",
       "hanzi": "废话",
       "pinyin": "fèihuà",
@@ -21547,7 +21526,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0977",
+      "id": "hsk5_rest_0976",
       "level": "HSK5",
       "hanzi": "讽刺",
       "pinyin": "fěngcì",
@@ -21568,7 +21547,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0978",
+      "id": "hsk5_rest_0977",
       "level": "HSK5",
       "hanzi": "否认",
       "pinyin": "fǒurèn",
@@ -21589,7 +21568,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0979",
+      "id": "hsk5_rest_0978",
       "level": "HSK5",
       "hanzi": "赶紧",
       "pinyin": "gǎnjǐn",
@@ -21610,7 +21589,7 @@
       "app_synonym_note_vi": "赶紧 nhấn tranh thủ lúc này; 赶快 nhấn tốc độ nhanh."
     },
     {
-      "id": "hsk5_rest_0980",
+      "id": "hsk5_rest_0979",
       "level": "HSK5",
       "hanzi": "赶快",
       "pinyin": "gǎnkuài",
@@ -21631,7 +21610,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0981",
+      "id": "hsk5_rest_0980",
       "level": "HSK5",
       "hanzi": "干脆",
       "pinyin": "gāncuì",
@@ -21652,7 +21631,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0982",
+      "id": "hsk5_rest_0981",
       "level": "HSK5",
       "hanzi": "光临",
       "pinyin": "guānglín",
@@ -21673,7 +21652,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0983",
+      "id": "hsk5_rest_0982",
       "level": "HSK5",
       "hanzi": "喊",
       "pinyin": "hǎn",
@@ -21694,7 +21673,7 @@
       "app_synonym_note_vi": "喊 là gọi to; 叫 vừa là gọi, vừa là bảo làm gì."
     },
     {
-      "id": "hsk5_rest_0984",
+      "id": "hsk5_rest_0983",
       "level": "HSK5",
       "hanzi": "何必",
       "pinyin": "hébì",
@@ -21715,7 +21694,7 @@
       "app_synonym_note_vi": "何必 là cần gì phải; 何况 là huống hồ, đẩy thêm một lý do."
     },
     {
-      "id": "hsk5_rest_0985",
+      "id": "hsk5_rest_0984",
       "level": "HSK5",
       "hanzi": "何况",
       "pinyin": "hékuàng",
@@ -21736,7 +21715,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0986",
+      "id": "hsk5_rest_0985",
       "level": "HSK5",
       "hanzi": "胡说",
       "pinyin": "húshuō",
@@ -21757,7 +21736,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0987",
+      "id": "hsk5_rest_0986",
       "level": "HSK5",
       "hanzi": "话题",
       "pinyin": "huàtí",
@@ -21778,7 +21757,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0988",
+      "id": "hsk5_rest_0987",
       "level": "HSK5",
       "hanzi": "交换",
       "pinyin": "jiāohuàn",
@@ -21799,7 +21778,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0989",
+      "id": "hsk5_rest_0988",
       "level": "HSK5",
       "hanzi": "接着",
       "pinyin": "jiēzhe",
@@ -21820,7 +21799,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0990",
+      "id": "hsk5_rest_0989",
       "level": "HSK5",
       "hanzi": "借口",
       "pinyin": "jièkǒu",
@@ -21841,7 +21820,7 @@
       "app_synonym_note_vi": "借口 là cớ để trốn; 理由 là lý do, trung tính."
     },
     {
-      "id": "hsk5_rest_0991",
+      "id": "hsk5_rest_0990",
       "level": "HSK5",
       "hanzi": "举",
       "pinyin": "jǔ",
@@ -21862,7 +21841,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0992",
+      "id": "hsk5_rest_0991",
       "level": "HSK5",
       "hanzi": "具体",
       "pinyin": "jùtǐ",
@@ -21883,7 +21862,7 @@
       "app_synonym_note_vi": "具体 là rõ từng phần; 明确 là dứt khoát, không mơ hồ."
     },
     {
-      "id": "hsk5_rest_0993",
+      "id": "hsk5_rest_0992",
       "level": "HSK5",
       "hanzi": "据说",
       "pinyin": "jùshuō",
@@ -21904,7 +21883,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0994",
+      "id": "hsk5_rest_0993",
       "level": "HSK5",
       "hanzi": "夸",
       "pinyin": "kuā",
@@ -21925,7 +21904,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0995",
+      "id": "hsk5_rest_0994",
       "level": "HSK5",
       "hanzi": "劳驾",
       "pinyin": "láojià",
@@ -21946,7 +21925,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0996",
+      "id": "hsk5_rest_0995",
       "level": "HSK5",
       "hanzi": "连忙",
       "pinyin": "liánmáng",
@@ -21967,7 +21946,7 @@
       "app_synonym_note_vi": "连忙 tả người vội phản ứng; 赶紧 có thể là lời giục người khác mau lên."
     },
     {
-      "id": "hsk5_rest_0997",
+      "id": "hsk5_rest_0996",
       "level": "HSK5",
       "hanzi": "骂",
       "pinyin": "mà",
@@ -21988,7 +21967,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_0998",
+      "id": "hsk5_rest_0997",
       "level": "HSK5",
       "hanzi": "秘密",
       "pinyin": "mìmì",
@@ -22009,7 +21988,7 @@
       "app_synonym_note_vi": "秘密 là điều giấu; 密切 là gắn bó hoặc sát sao, không phải bí mật."
     },
     {
-      "id": "hsk5_rest_0999",
+      "id": "hsk5_rest_0998",
       "level": "HSK5",
       "hanzi": "明确",
       "pinyin": "míngquè",
@@ -22030,7 +22009,7 @@
       "app_synonym_note_vi": "明确 là rõ và chốt; 具体 là đi vào từng chi tiết."
     },
     {
-      "id": "hsk5_rest_1000",
+      "id": "hsk5_rest_0999",
       "level": "HSK5",
       "hanzi": "某",
       "pinyin": "mǒu",
@@ -22051,7 +22030,7 @@
       "app_synonym_note_vi": "某 là một cái không nêu tên; 每 là mỗi, đừng lẫn."
     },
     {
-      "id": "hsk5_rest_1001",
+      "id": "hsk5_rest_1000",
       "level": "HSK5",
       "hanzi": "哪怕",
       "pinyin": "nǎpà",
@@ -22072,7 +22051,7 @@
       "app_synonym_note_vi": "哪怕 là dù, hơi nói miệng; 即使 trang trọng hơn một chút."
     },
     {
-      "id": "hsk5_rest_1002",
+      "id": "hsk5_rest_1001",
       "level": "HSK5",
       "hanzi": "强调",
       "pinyin": "qiángdiào",
@@ -22093,7 +22072,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1003",
+      "id": "hsk5_rest_1002",
       "level": "HSK5",
       "hanzi": "悄悄",
       "pinyin": "qiāoqiāo",
@@ -22114,7 +22093,7 @@
       "app_synonym_note_vi": "悄悄 là khẽ và kín; 安静 chỉ là yên, không ồn."
     },
     {
-      "id": "hsk5_rest_1004",
+      "id": "hsk5_rest_1003",
       "level": "HSK5",
       "hanzi": "瞧",
       "pinyin": "qiáo",
@@ -22135,7 +22114,7 @@
       "app_synonym_note_vi": "瞧 là nhìn trong khẩu ngữ; 看 trung tính, dùng ở đâu cũng được."
     },
     {
-      "id": "hsk5_rest_1005",
+      "id": "hsk5_rest_1004",
       "level": "HSK5",
       "hanzi": "劝",
       "pinyin": "quàn",
@@ -22156,7 +22135,7 @@
       "app_synonym_note_vi": "劝 là khuyên cho người ta nghe; 建议 là đề xuất, nhẹ hơn."
     },
     {
-      "id": "hsk5_rest_1006",
+      "id": "hsk5_rest_1005",
       "level": "HSK5",
       "hanzi": "嚷",
       "pinyin": "rǎng",
@@ -22177,7 +22156,7 @@
       "app_synonym_note_vi": "嚷 là la ồn; 喊 là kêu hoặc gọi, trung tính hơn."
     },
     {
-      "id": "hsk5_rest_1007",
+      "id": "hsk5_rest_1006",
       "level": "HSK5",
       "hanzi": "实话",
       "pinyin": "shíhuà",
@@ -22198,7 +22177,7 @@
       "app_synonym_note_vi": "实话 là lời nói thật; 事实 là sự thật đã xảy ra."
     },
     {
-      "id": "hsk5_rest_1008",
+      "id": "hsk5_rest_1007",
       "level": "HSK5",
       "hanzi": "似的",
       "pinyin": "shìde",
@@ -22219,7 +22198,7 @@
       "app_synonym_note_vi": "似的 đứng sau ví von; 似乎 là dường như, đứng trước nhận định."
     },
     {
-      "id": "hsk5_rest_1009",
+      "id": "hsk5_rest_1008",
       "level": "HSK5",
       "hanzi": "是否",
       "pinyin": "shìfǒu",
@@ -22240,7 +22219,7 @@
       "app_synonym_note_vi": "是否 trang trọng; 是不是 dùng khi nói chuyện thường."
     },
     {
-      "id": "hsk5_rest_1010",
+      "id": "hsk5_rest_1009",
       "level": "HSK5",
       "hanzi": "说不定",
       "pinyin": "shuōbudìng",
@@ -22261,7 +22240,7 @@
       "app_synonym_note_vi": "说不定 là đoán có thể; 可能 chắc chắn hơn một chút."
     },
     {
-      "id": "hsk5_rest_1011",
+      "id": "hsk5_rest_1010",
       "level": "HSK5",
       "hanzi": "说服",
       "pinyin": "shuōfú",
@@ -22282,7 +22261,7 @@
       "app_synonym_note_vi": "说服 là thuyết phục được; 劝 chỉ là khuyên."
     },
     {
-      "id": "hsk5_rest_1012",
+      "id": "hsk5_rest_1011",
       "level": "HSK5",
       "hanzi": "随时",
       "pinyin": "suíshí",
@@ -22303,7 +22282,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1013",
+      "id": "hsk5_rest_1012",
       "level": "HSK5",
       "hanzi": "所谓",
       "pinyin": "suǒwèi",
@@ -22324,7 +22303,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1014",
+      "id": "hsk5_rest_1013",
       "level": "HSK5",
       "hanzi": "坦率",
       "pinyin": "tǎnshuài",
@@ -22345,7 +22324,7 @@
       "app_synonym_note_vi": "坦率 là thẳng và thành thật; 直接 là đi thẳng vào việc."
     },
     {
-      "id": "hsk5_rest_1015",
+      "id": "hsk5_rest_1014",
       "level": "HSK5",
       "hanzi": "推辞",
       "pinyin": "tuīcí",
@@ -22366,7 +22345,7 @@
       "app_synonym_note_vi": "推辞 là từ chối khéo lời mời; 拒绝 là từ chối thẳng."
     },
     {
-      "id": "hsk5_rest_1016",
+      "id": "hsk5_rest_1015",
       "level": "HSK5",
       "hanzi": "推荐",
       "pinyin": "tuījiàn",
@@ -22387,7 +22366,7 @@
       "app_synonym_note_vi": "推荐 là khen và giới thiệu; 介绍 chỉ là giới thiệu, chưa chắc khen."
     },
     {
-      "id": "hsk5_rest_1017",
+      "id": "hsk5_rest_1016",
       "level": "HSK5",
       "hanzi": "问候",
       "pinyin": "wènhòu",
@@ -22408,7 +22387,7 @@
       "app_synonym_note_vi": "问候 là hỏi thăm xã giao; 问 là hỏi nói chung."
     },
     {
-      "id": "hsk5_rest_1018",
+      "id": "hsk5_rest_1017",
       "level": "HSK5",
       "hanzi": "形容",
       "pinyin": "xíngróng",
@@ -22429,7 +22408,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1019",
+      "id": "hsk5_rest_1018",
       "level": "HSK5",
       "hanzi": "叙述",
       "pinyin": "xùshù",
@@ -22450,7 +22429,7 @@
       "app_synonym_note_vi": "叙述 là kể cho rõ diễn biến; 描述 thiên về tả."
     },
     {
-      "id": "hsk5_rest_1020",
+      "id": "hsk5_rest_1019",
       "level": "HSK5",
       "hanzi": "宣布",
       "pinyin": "xuānbù",
@@ -22471,7 +22450,7 @@
       "app_synonym_note_vi": "宣布 là tuyên bố chính thức; 通知 là báo cho biết."
     },
     {
-      "id": "hsk5_rest_1021",
+      "id": "hsk5_rest_1020",
       "level": "HSK5",
       "hanzi": "询问",
       "pinyin": "xúnwèn",
@@ -22492,7 +22471,7 @@
       "app_synonym_note_vi": "询问 trang trọng; 问 dùng hàng ngày."
     },
     {
-      "id": "hsk5_rest_1022",
+      "id": "hsk5_rest_1021",
       "level": "HSK5",
       "hanzi": "要不",
       "pinyin": "yàobù",
@@ -22513,7 +22492,7 @@
       "app_synonym_note_vi": "要不 là nếu không hoặc hay là; 或者 chỉ là hoặc."
     },
     {
-      "id": "hsk5_rest_1023",
+      "id": "hsk5_rest_1022",
       "level": "HSK5",
       "hanzi": "要是",
       "pinyin": "yàoshi",
@@ -22534,7 +22513,7 @@
       "app_synonym_note_vi": "要是 thân mật; 如果 dùng được cả khi viết."
     },
     {
-      "id": "hsk5_rest_1024",
+      "id": "hsk5_rest_1023",
       "level": "HSK5",
       "hanzi": "以及",
       "pinyin": "yǐjí",
@@ -22555,7 +22534,7 @@
       "app_synonym_note_vi": "以及 nối ý cuối, trang trọng; 和 thân mật hơn."
     },
     {
-      "id": "hsk5_rest_1025",
+      "id": "hsk5_rest_1024",
       "level": "HSK5",
       "hanzi": "议论",
       "pinyin": "yìlùn",
@@ -22576,7 +22555,7 @@
       "app_synonym_note_vi": "议论 là bàn tán; 讨论 là thảo luận có mục đích."
     },
     {
-      "id": "hsk5_rest_1026",
+      "id": "hsk5_rest_1025",
       "level": "HSK5",
       "hanzi": "再三",
       "pinyin": "zàisān",
@@ -22597,7 +22576,7 @@
       "app_synonym_note_vi": "再三 là lặp lại nhiều lần; 再 chỉ là thêm một lần."
     },
     {
-      "id": "hsk5_rest_1027",
+      "id": "hsk5_rest_1026",
       "level": "HSK5",
       "hanzi": "赞成",
       "pinyin": "zànchéng",
@@ -22618,7 +22597,7 @@
       "app_synonym_note_vi": "赞成 là tán thành một đề xuất; 同意 rộng hơn, dùng cho nhiều việc."
     },
     {
-      "id": "hsk5_rest_1028",
+      "id": "hsk5_rest_1027",
       "level": "HSK5",
       "hanzi": "赞美",
       "pinyin": "zànměi",
@@ -22639,7 +22618,7 @@
       "app_synonym_note_vi": "赞美 là lời khen trang trọng; 表扬 thường là khen trong lớp hoặc cơ quan."
     },
     {
-      "id": "hsk5_rest_1029",
+      "id": "hsk5_rest_1028",
       "level": "HSK5",
       "hanzi": "则",
       "pinyin": "zé",
@@ -22660,7 +22639,7 @@
       "app_synonym_note_vi": "则 dùng trong văn viết; khẩu ngữ thường nói 就."
     },
     {
-      "id": "hsk5_rest_1030",
+      "id": "hsk5_rest_1029",
       "level": "HSK5",
       "hanzi": "责备",
       "pinyin": "zébèi",
@@ -22681,7 +22660,7 @@
       "app_synonym_note_vi": "责备 là trách móc; 批评 là góp ý phê bình, trung tính hơn."
     },
     {
-      "id": "hsk5_rest_1031",
+      "id": "hsk5_rest_1030",
       "level": "HSK5",
       "hanzi": "占线",
       "pinyin": "zhànxiàn",
@@ -22702,7 +22681,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1032",
+      "id": "hsk5_rest_1031",
       "level": "HSK5",
       "hanzi": "争论",
       "pinyin": "zhēnglùn",
@@ -22723,7 +22702,7 @@
       "app_synonym_note_vi": "争论 là tranh luận về ý; 争吵 là cãi nhau, cảm xúc nặng hơn."
     },
     {
-      "id": "hsk5_rest_1033",
+      "id": "hsk5_rest_1032",
       "level": "HSK5",
       "hanzi": "至于",
       "pinyin": "zhìyú",
@@ -22744,7 +22723,7 @@
       "app_synonym_note_vi": "至于 dùng để chuyển ý; 关于 là về một chủ đề, thường đứng đầu câu."
     },
     {
-      "id": "hsk5_rest_1034",
+      "id": "hsk5_rest_1033",
       "level": "HSK5",
       "hanzi": "重复",
       "pinyin": "chóngfù",
@@ -22765,7 +22744,7 @@
       "app_synonym_note_vi": "重复 là lặp lại nguyên nội dung; 反复 nhấn mạnh cứ lặp đi lặp lại."
     },
     {
-      "id": "hsk5_rest_1035",
+      "id": "hsk5_rest_1034",
       "level": "HSK5",
       "hanzi": "嘱咐",
       "pinyin": "zhǔfù",
@@ -22786,7 +22765,7 @@
       "app_synonym_note_vi": "嘱咐 là dặn dò ân cần; 吩咐 mang tính sai bảo hơn."
     },
     {
-      "id": "hsk5_rest_1036",
+      "id": "hsk5_rest_1035",
       "level": "HSK5",
       "hanzi": "转告",
       "pinyin": "zhuǎngào",
@@ -22807,7 +22786,7 @@
       "app_synonym_note_vi": "转告 là chuyển lời của người khác; 告诉 là tự mình nói cho ai biết."
     },
     {
-      "id": "hsk5_rest_1037",
+      "id": "hsk5_rest_1036",
       "level": "HSK5",
       "hanzi": "咨询",
       "pinyin": "zīxún",
@@ -22828,7 +22807,7 @@
       "app_synonym_note_vi": "咨询 là hỏi ý chuyên môn; 询问 là hỏi một thông tin, rộng hơn."
     },
     {
-      "id": "hsk5_rest_1038",
+      "id": "hsk5_rest_1037",
       "level": "HSK5",
       "hanzi": "总之",
       "pinyin": "zǒngzhī",
@@ -22849,7 +22828,7 @@
       "app_synonym_note_vi": "总之 dùng để chốt các ý đã nói; 所以 nối nguyên nhân với kết quả."
     },
     {
-      "id": "hsk5_rest_1039",
+      "id": "hsk5_rest_1038",
       "level": "HSK5",
       "hanzi": "爱惜",
       "pinyin": "àixī",
@@ -22870,7 +22849,7 @@
       "app_synonym_note_vi": "爱惜 là tiếc của, không phung phí; 爱护 là bảo vệ cho khỏi hỏng."
     },
     {
-      "id": "hsk5_rest_1040",
+      "id": "hsk5_rest_1039",
       "level": "HSK5",
       "hanzi": "包含",
       "pinyin": "bāohán",
@@ -22891,7 +22870,7 @@
       "app_synonym_note_vi": "包含 là nằm trong; 包括 hay dùng khi liệt kê."
     },
     {
-      "id": "hsk5_rest_1041",
+      "id": "hsk5_rest_1040",
       "level": "HSK5",
       "hanzi": "本质",
       "pinyin": "běnzhì",
@@ -22912,7 +22891,7 @@
       "app_synonym_note_vi": "本质 là bản chất; 表面 là bề mặt."
     },
     {
-      "id": "hsk5_rest_1042",
+      "id": "hsk5_rest_1041",
       "level": "HSK5",
       "hanzi": "比例",
       "pinyin": "bǐlì",
@@ -22933,7 +22912,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1043",
+      "id": "hsk5_rest_1042",
       "level": "HSK5",
       "hanzi": "必然",
       "pinyin": "bìrán",
@@ -22954,7 +22933,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1044",
+      "id": "hsk5_rest_1043",
       "level": "HSK5",
       "hanzi": "必要",
       "pinyin": "bìyào",
@@ -22975,7 +22954,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1045",
+      "id": "hsk5_rest_1044",
       "level": "HSK5",
       "hanzi": "不见得",
       "pinyin": "bùjiànde",
@@ -22996,7 +22975,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1046",
+      "id": "hsk5_rest_1045",
       "level": "HSK5",
       "hanzi": "不如",
       "pinyin": "bùrú",
@@ -23017,7 +22996,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1047",
+      "id": "hsk5_rest_1046",
       "level": "HSK5",
       "hanzi": "常识",
       "pinyin": "chángshí",
@@ -23038,7 +23017,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1048",
+      "id": "hsk5_rest_1047",
       "level": "HSK5",
       "hanzi": "抽象",
       "pinyin": "chōuxiàng",
@@ -23059,7 +23038,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1049",
+      "id": "hsk5_rest_1048",
       "level": "HSK5",
       "hanzi": "除",
       "pinyin": "chú",
@@ -23080,7 +23059,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1050",
+      "id": "hsk5_rest_1049",
       "level": "HSK5",
       "hanzi": "创造",
       "pinyin": "chuàngzào",
@@ -23101,7 +23080,7 @@
       "app_synonym_note_vi": "创造 là tạo ra cái mới; 发明 thường là phát minh ra đồ vật hoặc phương pháp."
     },
     {
-      "id": "hsk5_rest_1051",
+      "id": "hsk5_rest_1050",
       "level": "HSK5",
       "hanzi": "次要",
       "pinyin": "cìyào",
@@ -23122,7 +23101,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1052",
+      "id": "hsk5_rest_1051",
       "level": "HSK5",
       "hanzi": "从而",
       "pinyin": "cóngér",
@@ -23143,7 +23122,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1053",
+      "id": "hsk5_rest_1052",
       "level": "HSK5",
       "hanzi": "促使",
       "pinyin": "cùshǐ",
@@ -23164,7 +23143,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1054",
+      "id": "hsk5_rest_1053",
       "level": "HSK5",
       "hanzi": "存在",
       "pinyin": "cúnzài",
@@ -23185,7 +23164,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1055",
+      "id": "hsk5_rest_1054",
       "level": "HSK5",
       "hanzi": "导致",
       "pinyin": "dǎozhì",
@@ -23206,7 +23185,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1056",
+      "id": "hsk5_rest_1055",
       "level": "HSK5",
       "hanzi": "道理",
       "pinyin": "dàoli",
@@ -23227,7 +23206,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1057",
+      "id": "hsk5_rest_1056",
       "level": "HSK5",
       "hanzi": "等于",
       "pinyin": "děngyú",
@@ -23248,7 +23227,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1058",
+      "id": "hsk5_rest_1057",
       "level": "HSK5",
       "hanzi": "对比",
       "pinyin": "duìbǐ",
@@ -23269,7 +23248,7 @@
       "app_synonym_note_vi": "对比 là so để thấy khác; 比较 hay nói hơn kém."
     },
     {
-      "id": "hsk5_rest_1059",
+      "id": "hsk5_rest_1058",
       "level": "HSK5",
       "hanzi": "对于",
       "pinyin": "duìyú",
@@ -23290,7 +23269,7 @@
       "app_synonym_note_vi": "对于 trang trọng hơn 对. 关于 thiên về chủ đề."
     },
     {
-      "id": "hsk5_rest_1060",
+      "id": "hsk5_rest_1059",
       "level": "HSK5",
       "hanzi": "反而",
       "pinyin": "fǎnér",
@@ -23311,7 +23290,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1061",
+      "id": "hsk5_rest_1060",
       "level": "HSK5",
       "hanzi": "反应",
       "pinyin": "fǎnyìng",
@@ -23332,7 +23311,7 @@
       "app_synonym_note_vi": "反应 là phản ứng; 反映 là phản ánh, tường trình."
     },
     {
-      "id": "hsk5_rest_1062",
+      "id": "hsk5_rest_1061",
       "level": "HSK5",
       "hanzi": "仿佛",
       "pinyin": "fǎngfú",
@@ -23353,7 +23332,7 @@
       "app_synonym_note_vi": "仿佛 và 好像 đều là dường như; 仿佛 hay gặp trong văn."
     },
     {
-      "id": "hsk5_rest_1063",
+      "id": "hsk5_rest_1062",
       "level": "HSK5",
       "hanzi": "否定",
       "pinyin": "fǒudìng",
@@ -23374,7 +23353,7 @@
       "app_synonym_note_vi": "否定 là bác một ý; 否认 là không nhận một việc."
     },
     {
-      "id": "hsk5_rest_1064",
+      "id": "hsk5_rest_1063",
       "level": "HSK5",
       "hanzi": "概念",
       "pinyin": "gàiniàn",
@@ -23395,7 +23374,7 @@
       "app_synonym_note_vi": "概念 là khái niệm; 观念 là quan niệm, cách nhìn."
     },
     {
-      "id": "hsk5_rest_1065",
+      "id": "hsk5_rest_1064",
       "level": "HSK5",
       "hanzi": "感想",
       "pinyin": "gǎnxiǎng",
@@ -23416,7 +23395,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1066",
+      "id": "hsk5_rest_1065",
       "level": "HSK5",
       "hanzi": "根本",
       "pinyin": "gēnběn",
@@ -23437,7 +23416,7 @@
       "app_synonym_note_vi": "根本不 là hoàn toàn không; 基本是 là về cơ bản thì có."
     },
     {
-      "id": "hsk5_rest_1067",
+      "id": "hsk5_rest_1066",
       "level": "HSK5",
       "hanzi": "怪不得",
       "pinyin": "guàibude",
@@ -23458,7 +23437,7 @@
       "app_synonym_note_vi": "怪不得 và 难怪 đều là thảo nào."
     },
     {
-      "id": "hsk5_rest_1068",
+      "id": "hsk5_rest_1067",
       "level": "HSK5",
       "hanzi": "观念",
       "pinyin": "guānniàn",
@@ -23479,7 +23458,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1069",
+      "id": "hsk5_rest_1068",
       "level": "HSK5",
       "hanzi": "规律",
       "pinyin": "guīlǜ",
@@ -23500,7 +23479,7 @@
       "app_synonym_note_vi": "规律 là quy luật tự có; 规则 là luật do người đặt."
     },
     {
-      "id": "hsk5_rest_1070",
+      "id": "hsk5_rest_1069",
       "level": "HSK5",
       "hanzi": "合理",
       "pinyin": "hélǐ",
@@ -23521,7 +23500,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1071",
+      "id": "hsk5_rest_1070",
       "level": "HSK5",
       "hanzi": "核心",
       "pinyin": "héxīn",
@@ -23542,7 +23521,7 @@
       "app_synonym_note_vi": "核心 là hạt nhân; 重点 là chỗ cần chú ý."
     },
     {
-      "id": "hsk5_rest_1072",
+      "id": "hsk5_rest_1071",
       "level": "HSK5",
       "hanzi": "后果",
       "pinyin": "hòuguǒ",
@@ -23563,7 +23542,7 @@
       "app_synonym_note_vi": "后果 thường là kết quả xấu; 结果 trung tính."
     },
     {
-      "id": "hsk5_rest_1073",
+      "id": "hsk5_rest_1072",
       "level": "HSK5",
       "hanzi": "忽视",
       "pinyin": "hūshì",
@@ -23584,7 +23563,7 @@
       "app_synonym_note_vi": "忽视 là bỏ qua cái quan trọng; 忽略 có thể chỉ là sơ suất."
     },
     {
-      "id": "hsk5_rest_1074",
+      "id": "hsk5_rest_1073",
       "level": "HSK5",
       "hanzi": "糊涂",
       "pinyin": "hútu",
@@ -23605,7 +23584,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1075",
+      "id": "hsk5_rest_1074",
       "level": "HSK5",
       "hanzi": "幻想",
       "pinyin": "huànxiǎng",
@@ -23626,7 +23605,7 @@
       "app_synonym_note_vi": "幻想 xa thực tế; 想象 là tưởng tượng, trung tính."
     },
     {
-      "id": "hsk5_rest_1076",
+      "id": "hsk5_rest_1075",
       "level": "HSK5",
       "hanzi": "记忆",
       "pinyin": "jìyì",
@@ -23647,7 +23626,7 @@
       "app_synonym_note_vi": "记忆 là trí nhớ; 纪念 là làm gì đó để tưởng nhớ."
     },
     {
-      "id": "hsk5_rest_1077",
+      "id": "hsk5_rest_1076",
       "level": "HSK5",
       "hanzi": "假如",
       "pinyin": "jiǎrú",
@@ -23668,7 +23647,7 @@
       "app_synonym_note_vi": "假如 và 如果 đều là nếu; 假如 hay hơn trong văn viết."
     },
     {
-      "id": "hsk5_rest_1078",
+      "id": "hsk5_rest_1077",
       "level": "HSK5",
       "hanzi": "坚决",
       "pinyin": "jiānjué",
@@ -23689,7 +23668,7 @@
       "app_synonym_note_vi": "坚决 tả thái độ quyết; 坚强 tả ý chí bền trước khó khăn."
     },
     {
-      "id": "hsk5_rest_1079",
+      "id": "hsk5_rest_1078",
       "level": "HSK5",
       "hanzi": "角度",
       "pinyin": "jiǎodù",
@@ -23710,7 +23689,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1080",
+      "id": "hsk5_rest_1079",
       "level": "HSK5",
       "hanzi": "教训",
       "pinyin": "jiàoxun",
@@ -23731,7 +23710,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1081",
+      "id": "hsk5_rest_1080",
       "level": "HSK5",
       "hanzi": "结合",
       "pinyin": "jiéhé",
@@ -23752,7 +23731,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1082",
+      "id": "hsk5_rest_1081",
       "level": "HSK5",
       "hanzi": "谨慎",
       "pinyin": "jǐnshèn",
@@ -23773,7 +23752,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1083",
+      "id": "hsk5_rest_1082",
       "level": "HSK5",
       "hanzi": "居然",
       "pinyin": "jūrán",
@@ -23794,7 +23773,7 @@
       "app_synonym_note_vi": "居然 và 竟然 đều là không ngờ; 居然 nhấn việc khó tin hơn."
     },
     {
-      "id": "hsk5_rest_1084",
+      "id": "hsk5_rest_1083",
       "level": "HSK5",
       "hanzi": "决心",
       "pinyin": "juéxīn",
@@ -23815,7 +23794,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1085",
+      "id": "hsk5_rest_1084",
       "level": "HSK5",
       "hanzi": "看来",
       "pinyin": "kànlai",
@@ -23836,7 +23815,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1086",
+      "id": "hsk5_rest_1085",
       "level": "HSK5",
       "hanzi": "克服",
       "pinyin": "kèfú",
@@ -23857,7 +23836,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1087",
+      "id": "hsk5_rest_1086",
       "level": "HSK5",
       "hanzi": "客观",
       "pinyin": "kèguān",
@@ -23871,14 +23850,14 @@
       "example_sentences": [
         {
           "zh": "请客观地评价这部电影。",
-          "vi": "Hãy đánh giá bộ phim này cho khách quan."
+          "vi": "Hãy đánh giá bộ phim này một cách khách quan."
         }
       ],
       "app_note_vi": "Đối lập với cảm tính của riêng mình.",
       "app_synonym_note_vi": "客观 là theo sự thật; 主观 là theo cảm nhận của mình."
     },
     {
-      "id": "hsk5_rest_1088",
+      "id": "hsk5_rest_1087",
       "level": "HSK5",
       "hanzi": "类",
       "pinyin": "lèi",
@@ -23899,7 +23878,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1089",
+      "id": "hsk5_rest_1088",
       "level": "HSK5",
       "hanzi": "灵活",
       "pinyin": "línghuó",
@@ -23920,7 +23899,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1090",
+      "id": "hsk5_rest_1089",
       "level": "HSK5",
       "hanzi": "逻辑",
       "pinyin": "luóji",
@@ -23941,7 +23920,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1091",
+      "id": "hsk5_rest_1090",
       "level": "HSK5",
       "hanzi": "矛盾",
       "pinyin": "máodùn",
@@ -23962,7 +23941,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1092",
+      "id": "hsk5_rest_1091",
       "level": "HSK5",
       "hanzi": "面对",
       "pinyin": "miànduì",
@@ -23983,7 +23962,7 @@
       "app_synonym_note_vi": "面对 là thái độ đối diện; 面临 là đang bị đặt trước một tình thế."
     },
     {
-      "id": "hsk5_rest_1093",
+      "id": "hsk5_rest_1092",
       "level": "HSK5",
       "hanzi": "命运",
       "pinyin": "mìngyùn",
@@ -24004,7 +23983,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1094",
+      "id": "hsk5_rest_1093",
       "level": "HSK5",
       "hanzi": "难怪",
       "pinyin": "nánguài",
@@ -24025,7 +24004,7 @@
       "app_synonym_note_vi": "难怪 và 怪不得 đều là thảo nào; 难怪 hay đứng đầu câu."
     },
     {
-      "id": "hsk5_rest_1095",
+      "id": "hsk5_rest_1094",
       "level": "HSK5",
       "hanzi": "宁可",
       "pinyin": "nìngkě",
@@ -24046,7 +24025,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1096",
+      "id": "hsk5_rest_1095",
       "level": "HSK5",
       "hanzi": "片面",
       "pinyin": "piànmiàn",
@@ -24067,7 +24046,7 @@
       "app_synonym_note_vi": "片面 là chỉ một phía; 全面 là xét đủ các mặt."
     },
     {
-      "id": "hsk5_rest_1097",
+      "id": "hsk5_rest_1096",
       "level": "HSK5",
       "hanzi": "评价",
       "pinyin": "píngjià",
@@ -24088,7 +24067,7 @@
       "app_synonym_note_vi": "评价 là nhận xét giá trị; 批评 thiên về chỉ ra chỗ chưa ổn."
     },
     {
-      "id": "hsk5_rest_1098",
+      "id": "hsk5_rest_1097",
       "level": "HSK5",
       "hanzi": "企图",
       "pinyin": "qǐtú",
@@ -24109,7 +24088,7 @@
       "app_synonym_note_vi": "企图 thường là toan tính xấu; 试图 trung tính hơn."
     },
     {
-      "id": "hsk5_rest_1099",
+      "id": "hsk5_rest_1098",
       "level": "HSK5",
       "hanzi": "巧妙",
       "pinyin": "qiǎomiào",
@@ -24130,7 +24109,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1100",
+      "id": "hsk5_rest_1099",
       "level": "HSK5",
       "hanzi": "轻视",
       "pinyin": "qīngshì",
@@ -24151,7 +24130,7 @@
       "app_synonym_note_vi": "轻视 trang trọng hơn; 看不起 là cách nói miệng."
     },
     {
-      "id": "hsk5_rest_1101",
+      "id": "hsk5_rest_1100",
       "level": "HSK5",
       "hanzi": "人生",
       "pinyin": "rénshēng",
@@ -24172,7 +24151,7 @@
       "app_synonym_note_vi": "人生 là cuộc đời; 人事 là việc người, thường là công tác nhân sự."
     },
     {
-      "id": "hsk5_rest_1102",
+      "id": "hsk5_rest_1101",
       "level": "HSK5",
       "hanzi": "如何",
       "pinyin": "rúhé",
@@ -24193,7 +24172,7 @@
       "app_synonym_note_vi": "如何 nghĩa như 怎么, nhưng dùng trong câu trang trọng hơn."
     },
     {
-      "id": "hsk5_rest_1103",
+      "id": "hsk5_rest_1102",
       "level": "HSK5",
       "hanzi": "深刻",
       "pinyin": "shēnkè",
@@ -24214,7 +24193,7 @@
       "app_synonym_note_vi": "深刻 là sâu và để lại dấu; 深入 là đi sâu vào một vấn đề."
     },
     {
-      "id": "hsk5_rest_1104",
+      "id": "hsk5_rest_1103",
       "level": "HSK5",
       "hanzi": "时刻",
       "pinyin": "shíkè",
@@ -24235,7 +24214,7 @@
       "app_synonym_note_vi": "时刻 là một lúc hoặc “luôn”; 时间 là thời gian nói chung."
     },
     {
-      "id": "hsk5_rest_1105",
+      "id": "hsk5_rest_1104",
       "level": "HSK5",
       "hanzi": "似乎",
       "pinyin": "sìhū",
@@ -24256,7 +24235,7 @@
       "app_synonym_note_vi": "似乎 trang trọng hơn; 好像 thân mật hơn, cùng ý hình như."
     },
     {
-      "id": "hsk5_rest_1106",
+      "id": "hsk5_rest_1105",
       "level": "HSK5",
       "hanzi": "事实",
       "pinyin": "shìshí",
@@ -24277,7 +24256,7 @@
       "app_synonym_note_vi": "事实 là việc có thật; 实话 là lời người ta nói thật."
     },
     {
-      "id": "hsk5_rest_1107",
+      "id": "hsk5_rest_1106",
       "level": "HSK5",
       "hanzi": "事物",
       "pinyin": "shìwù",
@@ -24298,7 +24277,7 @@
       "app_synonym_note_vi": "事物 là sự vật nói chung; 东西 là đồ vật cụ thể."
     },
     {
-      "id": "hsk5_rest_1108",
+      "id": "hsk5_rest_1107",
       "level": "HSK5",
       "hanzi": "思考",
       "pinyin": "sīkǎo",
@@ -24319,7 +24298,7 @@
       "app_synonym_note_vi": "思考 là suy nghĩ kỹ; 想 rộng hơn và thân mật hơn."
     },
     {
-      "id": "hsk5_rest_1109",
+      "id": "hsk5_rest_1108",
       "level": "HSK5",
       "hanzi": "思想",
       "pinyin": "sīxiǎng",
@@ -24340,7 +24319,7 @@
       "app_synonym_note_vi": "思想 là tư tưởng; 想法 là một ý kiến cụ thể."
     },
     {
-      "id": "hsk5_rest_1110",
+      "id": "hsk5_rest_1109",
       "level": "HSK5",
       "hanzi": "逃避",
       "pinyin": "táobì",
@@ -24361,7 +24340,7 @@
       "app_synonym_note_vi": "逃避 là né tránh; 逃 là chạy trốn cụ thể."
     },
     {
-      "id": "hsk5_rest_1111",
+      "id": "hsk5_rest_1110",
       "level": "HSK5",
       "hanzi": "体会",
       "pinyin": "tǐhuì",
@@ -24382,7 +24361,7 @@
       "app_synonym_note_vi": "体会 là điều rút ra sau khi trải; 体验 là chính việc trải nghiệm."
     },
     {
-      "id": "hsk5_rest_1112",
+      "id": "hsk5_rest_1111",
       "level": "HSK5",
       "hanzi": "体现",
       "pinyin": "tǐxiàn",
@@ -24403,7 +24382,7 @@
       "app_synonym_note_vi": "体现 là làm hiện ra một ý; 表现 còn chỉ thái độ hoặc thành tích."
     },
     {
-      "id": "hsk5_rest_1113",
+      "id": "hsk5_rest_1112",
       "level": "HSK5",
       "hanzi": "同时",
       "pinyin": "tóngshí",
@@ -24424,7 +24403,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1114",
+      "id": "hsk5_rest_1113",
       "level": "HSK5",
       "hanzi": "万一",
       "pinyin": "wànyī",
@@ -24445,7 +24424,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1115",
+      "id": "hsk5_rest_1114",
       "level": "HSK5",
       "hanzi": "围绕",
       "pinyin": "wéirào",
@@ -24466,7 +24445,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1116",
+      "id": "hsk5_rest_1115",
       "level": "HSK5",
       "hanzi": "未必",
       "pinyin": "wèibì",
@@ -24487,7 +24466,7 @@
       "app_synonym_note_vi": "未必 là chưa chắc; 一定 là chắc chắn."
     },
     {
-      "id": "hsk5_rest_1117",
+      "id": "hsk5_rest_1116",
       "level": "HSK5",
       "hanzi": "未来",
       "pinyin": "wèilái",
@@ -24508,7 +24487,7 @@
       "app_synonym_note_vi": "未来 hay gặp trong văn viết; 将来 cũng là tương lai, hơi xuôi hơn."
     },
     {
-      "id": "hsk5_rest_1118",
+      "id": "hsk5_rest_1117",
       "level": "HSK5",
       "hanzi": "显然",
       "pinyin": "xiǎnrán",
@@ -24529,7 +24508,7 @@
       "app_synonym_note_vi": "显然 thường đứng trước cả nhận định; 明显 tả một điểm dễ thấy."
     },
     {
-      "id": "hsk5_rest_1119",
+      "id": "hsk5_rest_1118",
       "level": "HSK5",
       "hanzi": "相对",
       "pinyin": "xiāngduì",
@@ -24550,7 +24529,7 @@
       "app_synonym_note_vi": "相对 là so sánh; 绝对 là tuyệt đối."
     },
     {
-      "id": "hsk5_rest_1120",
+      "id": "hsk5_rest_1119",
       "level": "HSK5",
       "hanzi": "相关",
       "pinyin": "xiāngguān",
@@ -24571,7 +24550,7 @@
       "app_synonym_note_vi": "相关 là có liên quan; 关于 là “về”, dùng để mở đầu chủ đề."
     },
     {
-      "id": "hsk5_rest_1121",
+      "id": "hsk5_rest_1120",
       "level": "HSK5",
       "hanzi": "想象",
       "pinyin": "xiǎngxiàng",
@@ -24592,7 +24571,7 @@
       "app_synonym_note_vi": "想象 là tưởng tượng; 认为 là cho rằng."
     },
     {
-      "id": "hsk5_rest_1122",
+      "id": "hsk5_rest_1121",
       "level": "HSK5",
       "hanzi": "性质",
       "pinyin": "xìngzhì",
@@ -24613,7 +24592,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1123",
+      "id": "hsk5_rest_1122",
       "level": "HSK5",
       "hanzi": "一旦",
       "pinyin": "yīdàn",
@@ -24634,7 +24613,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1124",
+      "id": "hsk5_rest_1123",
       "level": "HSK5",
       "hanzi": "一致",
       "pinyin": "yīzhì",
@@ -24655,7 +24634,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1125",
+      "id": "hsk5_rest_1124",
       "level": "HSK5",
       "hanzi": "疑问",
       "pinyin": "yíwèn",
@@ -24676,7 +24655,7 @@
       "app_synonym_note_vi": "疑问 là điều còn nghi; 问题 rộng hơn, là vấn đề hoặc câu hỏi."
     },
     {
-      "id": "hsk5_rest_1126",
+      "id": "hsk5_rest_1125",
       "level": "HSK5",
       "hanzi": "因而",
       "pinyin": "yīnér",
@@ -24697,7 +24676,7 @@
       "app_synonym_note_vi": "因而 dùng khi viết; 所以 dùng mọi lúc."
     },
     {
-      "id": "hsk5_rest_1127",
+      "id": "hsk5_rest_1126",
       "level": "HSK5",
       "hanzi": "因素",
       "pinyin": "yīnsù",
@@ -24718,7 +24697,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1128",
+      "id": "hsk5_rest_1127",
       "level": "HSK5",
       "hanzi": "与其",
       "pinyin": "yǔqí",
@@ -24739,7 +24718,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1129",
+      "id": "hsk5_rest_1128",
       "level": "HSK5",
       "hanzi": "原则",
       "pinyin": "yuánzé",
@@ -24760,7 +24739,7 @@
       "app_synonym_note_vi": "原则 là nguyên tắc gốc; 规则 là quy tắc cụ thể, như nội quy."
     },
     {
-      "id": "hsk5_rest_1130",
+      "id": "hsk5_rest_1129",
       "level": "HSK5",
       "hanzi": "缘故",
       "pinyin": "yuángù",
@@ -24781,7 +24760,7 @@
       "app_synonym_note_vi": "缘故 là lý do của một việc; 原因 gần nghĩa và dùng rộng hơn."
     },
     {
-      "id": "hsk5_rest_1131",
+      "id": "hsk5_rest_1130",
       "level": "HSK5",
       "hanzi": "真理",
       "pinyin": "zhēnlǐ",
@@ -24802,7 +24781,7 @@
       "app_synonym_note_vi": "真理 là chân lý; 事实 là sự thật cụ thể đã xảy ra."
     },
     {
-      "id": "hsk5_rest_1132",
+      "id": "hsk5_rest_1131",
       "level": "HSK5",
       "hanzi": "整体",
       "pinyin": "zhěngtǐ",
@@ -24823,7 +24802,7 @@
       "app_synonym_note_vi": "整体 nhấn mạnh tính chỉnh thể; 整个 đi trước danh từ chỉ một đơn vị."
     },
     {
-      "id": "hsk5_rest_1133",
+      "id": "hsk5_rest_1132",
       "level": "HSK5",
       "hanzi": "智慧",
       "pinyin": "zhìhuì",
@@ -24844,7 +24823,7 @@
       "app_synonym_note_vi": "智慧 là trí tuệ, sự khôn; 智力 là năng lực trí óc."
     },
     {
-      "id": "hsk5_rest_1134",
+      "id": "hsk5_rest_1133",
       "level": "HSK5",
       "hanzi": "主观",
       "pinyin": "zhǔguān",
@@ -24865,7 +24844,7 @@
       "app_synonym_note_vi": "主观 là theo ý mình; 客观 là dựa trên sự thật bên ngoài."
     },
     {
-      "id": "hsk5_rest_1135",
+      "id": "hsk5_rest_1134",
       "level": "HSK5",
       "hanzi": "主张",
       "pinyin": "zhǔzhāng",
@@ -24886,7 +24865,7 @@
       "app_synonym_note_vi": "主张 là quan điểm mình kiên trì; 建议 là đề nghị, nhẹ hơn."
     },
     {
-      "id": "hsk5_rest_1136",
+      "id": "hsk5_rest_1135",
       "level": "HSK5",
       "hanzi": "转变",
       "pinyin": "zhuǎnbiàn",
@@ -24907,7 +24886,7 @@
       "app_synonym_note_vi": "转变 nhấn mạnh đổi hướng hoặc tính chất; 变化 là thay đổi nói chung."
     },
     {
-      "id": "hsk5_rest_1137",
+      "id": "hsk5_rest_1136",
       "level": "HSK5",
       "hanzi": "追求",
       "pinyin": "zhuīqiú",
@@ -24928,7 +24907,7 @@
       "app_synonym_note_vi": "追求 là theo đuổi mục tiêu hoặc người mình quý; 追逐 nhấn mạnh đuổi theo bằng hành động."
     },
     {
-      "id": "hsk5_rest_1138",
+      "id": "hsk5_rest_1137",
       "level": "HSK5",
       "hanzi": "傍晚",
       "pinyin": "bàngwǎn",
@@ -24949,7 +24928,7 @@
       "app_synonym_note_vi": "傍晚 sát tối; 晚上 là buổi tối đã tối hẳn."
     },
     {
-      "id": "hsk5_rest_1139",
+      "id": "hsk5_rest_1138",
       "level": "HSK5",
       "hanzi": "棒",
       "pinyin": "bàng",
@@ -24970,7 +24949,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1140",
+      "id": "hsk5_rest_1139",
       "level": "HSK5",
       "hanzi": "薄",
       "pinyin": "báo",
@@ -24991,7 +24970,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1141",
+      "id": "hsk5_rest_1140",
       "level": "HSK5",
       "hanzi": "宝贵",
       "pinyin": "bǎoguì",
@@ -25012,7 +24991,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1142",
+      "id": "hsk5_rest_1141",
       "level": "HSK5",
       "hanzi": "表面",
       "pinyin": "biǎomiàn",
@@ -25033,7 +25012,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1143",
+      "id": "hsk5_rest_1142",
       "level": "HSK5",
       "hanzi": "不得了",
       "pinyin": "bùdéliǎo",
@@ -25054,7 +25033,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1144",
+      "id": "hsk5_rest_1143",
       "level": "HSK5",
       "hanzi": "不足",
       "pinyin": "bùzú",
@@ -25075,7 +25054,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1145",
+      "id": "hsk5_rest_1144",
       "level": "HSK5",
       "hanzi": "差别",
       "pinyin": "chābié",
@@ -25096,7 +25075,7 @@
       "app_synonym_note_vi": "差别 là khác nhau; 差距 hay chỉ khoảng cách về mức độ."
     },
     {
-      "id": "hsk5_rest_1146",
+      "id": "hsk5_rest_1145",
       "level": "HSK5",
       "hanzi": "彻底",
       "pinyin": "chèdǐ",
@@ -25117,7 +25096,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1147",
+      "id": "hsk5_rest_1146",
       "level": "HSK5",
       "hanzi": "程度",
       "pinyin": "chéngdù",
@@ -25138,7 +25117,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1148",
+      "id": "hsk5_rest_1147",
       "level": "HSK5",
       "hanzi": "充分",
       "pinyin": "chōngfèn",
@@ -25159,7 +25138,7 @@
       "app_synonym_note_vi": "充分 hay đi với chuẩn bị, lý do; 充足 hay đi với thời gian, tiền, hàng."
     },
     {
-      "id": "hsk5_rest_1149",
+      "id": "hsk5_rest_1148",
       "level": "HSK5",
       "hanzi": "丑",
       "pinyin": "chǒu",
@@ -25180,7 +25159,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1150",
+      "id": "hsk5_rest_1149",
       "level": "HSK5",
       "hanzi": "出色",
       "pinyin": "chūsè",
@@ -25201,7 +25180,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1151",
+      "id": "hsk5_rest_1150",
       "level": "HSK5",
       "hanzi": "匆忙",
       "pinyin": "cōngmáng",
@@ -25222,7 +25201,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1152",
+      "id": "hsk5_rest_1151",
       "level": "HSK5",
       "hanzi": "单调",
       "pinyin": "dāndiào",
@@ -25243,7 +25222,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1153",
+      "id": "hsk5_rest_1152",
       "level": "HSK5",
       "hanzi": "顶",
       "pinyin": "dǐng",
@@ -25264,7 +25243,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1154",
+      "id": "hsk5_rest_1153",
       "level": "HSK5",
       "hanzi": "独特",
       "pinyin": "dútè",
@@ -25285,7 +25264,7 @@
       "app_synonym_note_vi": "独特 là độc đáo; 特别 chỉ là đặc biệt."
     },
     {
-      "id": "hsk5_rest_1155",
+      "id": "hsk5_rest_1154",
       "level": "HSK5",
       "hanzi": "吨",
       "pinyin": "dūn",
@@ -25306,7 +25285,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1156",
+      "id": "hsk5_rest_1155",
       "level": "HSK5",
       "hanzi": "多余",
       "pinyin": "duōyú",
@@ -25327,7 +25306,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1157",
+      "id": "hsk5_rest_1156",
       "level": "HSK5",
       "hanzi": "恶劣",
       "pinyin": "èliè",
@@ -25348,7 +25327,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1158",
+      "id": "hsk5_rest_1157",
       "level": "HSK5",
       "hanzi": "方",
       "pinyin": "fāng",
@@ -25369,7 +25348,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1159",
+      "id": "hsk5_rest_1158",
       "level": "HSK5",
       "hanzi": "格外",
       "pinyin": "géwài",
@@ -25390,7 +25369,7 @@
       "app_synonym_note_vi": "格外 là hơn hẳn mọi khi; 特别 có thể chỉ là đặc biệt."
     },
     {
-      "id": "hsk5_rest_1160",
+      "id": "hsk5_rest_1159",
       "level": "HSK5",
       "hanzi": "更加",
       "pinyin": "gèngjiā",
@@ -25411,7 +25390,7 @@
       "app_synonym_note_vi": "更加 trang trọng hơn 更, hay đứng trước hai chữ."
     },
     {
-      "id": "hsk5_rest_1161",
+      "id": "hsk5_rest_1160",
       "level": "HSK5",
       "hanzi": "功能",
       "pinyin": "gōngnéng",
@@ -25432,7 +25411,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1162",
+      "id": "hsk5_rest_1161",
       "level": "HSK5",
       "hanzi": "古老",
       "pinyin": "gǔlǎo",
@@ -25453,7 +25432,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1163",
+      "id": "hsk5_rest_1162",
       "level": "HSK5",
       "hanzi": "光滑",
       "pinyin": "guānghuá",
@@ -25474,7 +25453,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1164",
+      "id": "hsk5_rest_1163",
       "level": "HSK5",
       "hanzi": "光明",
       "pinyin": "guāngmíng",
@@ -25495,7 +25474,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1165",
+      "id": "hsk5_rest_1164",
       "level": "HSK5",
       "hanzi": "过分",
       "pinyin": "guòfèn",
@@ -25516,7 +25495,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1166",
+      "id": "hsk5_rest_1165",
       "level": "HSK5",
       "hanzi": "豪华",
       "pinyin": "háohuá",
@@ -25537,7 +25516,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1167",
+      "id": "hsk5_rest_1166",
       "level": "HSK5",
       "hanzi": "横",
       "pinyin": "héng",
@@ -25558,7 +25537,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1168",
+      "id": "hsk5_rest_1167",
       "level": "HSK5",
       "hanzi": "灰",
       "pinyin": "huī",
@@ -25579,7 +25558,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1169",
+      "id": "hsk5_rest_1168",
       "level": "HSK5",
       "hanzi": "基本",
       "pinyin": "jīběn",
@@ -25600,7 +25579,7 @@
       "app_synonym_note_vi": "基本是 là gần như rồi; 根本不 là hoàn toàn không."
     },
     {
-      "id": "hsk5_rest_1170",
+      "id": "hsk5_rest_1169",
       "level": "HSK5",
       "hanzi": "激烈",
       "pinyin": "jīliè",
@@ -25621,7 +25600,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1171",
+      "id": "hsk5_rest_1170",
       "level": "HSK5",
       "hanzi": "尖锐",
       "pinyin": "jiānruì",
@@ -25642,7 +25621,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1172",
+      "id": "hsk5_rest_1171",
       "level": "HSK5",
       "hanzi": "艰苦",
       "pinyin": "jiānkǔ",
@@ -25663,7 +25642,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1173",
+      "id": "hsk5_rest_1172",
       "level": "HSK5",
       "hanzi": "简直",
       "pinyin": "jiǎnzhí",
@@ -25684,7 +25663,7 @@
       "app_synonym_note_vi": "简直 là thật sự đến mức ấy; 几乎 là gần như, suýt."
     },
     {
-      "id": "hsk5_rest_1174",
+      "id": "hsk5_rest_1173",
       "level": "HSK5",
       "hanzi": "讲究",
       "pinyin": "jiǎngjiu",
@@ -25705,7 +25684,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1175",
+      "id": "hsk5_rest_1174",
       "level": "HSK5",
       "hanzi": "狡猾",
       "pinyin": "jiǎohuá",
@@ -25726,7 +25705,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1176",
+      "id": "hsk5_rest_1175",
       "level": "HSK5",
       "hanzi": "接近",
       "pinyin": "jiējìn",
@@ -25747,7 +25726,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1177",
+      "id": "hsk5_rest_1176",
       "level": "HSK5",
       "hanzi": "结实",
       "pinyin": "jiēshi",
@@ -25768,7 +25747,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1178",
+      "id": "hsk5_rest_1177",
       "level": "HSK5",
       "hanzi": "紧",
       "pinyin": "jǐn",
@@ -25789,7 +25768,7 @@
       "app_synonym_note_vi": "紧 là chặt hoặc gấp; 紧急 là khẩn cấp, mức cao hơn."
     },
     {
-      "id": "hsk5_rest_1179",
+      "id": "hsk5_rest_1178",
       "level": "HSK5",
       "hanzi": "巨大",
       "pinyin": "jùdà",
@@ -25810,7 +25789,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1180",
+      "id": "hsk5_rest_1179",
       "level": "HSK5",
       "hanzi": "绝对",
       "pinyin": "juéduì",
@@ -25831,7 +25810,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1181",
+      "id": "hsk5_rest_1180",
       "level": "HSK5",
       "hanzi": "均匀",
       "pinyin": "jūnyún",
@@ -25852,7 +25831,7 @@
       "app_synonym_note_vi": "均匀 là đều khắp; 平均 là chia đều hoặc lấy trung bình."
     },
     {
-      "id": "hsk5_rest_1182",
+      "id": "hsk5_rest_1181",
       "level": "HSK5",
       "hanzi": "颗",
       "pinyin": "kē",
@@ -25873,7 +25852,7 @@
       "app_synonym_note_vi": "颗 cho vật tròn rõ, như sao hay táo; 粒 cho hạt nhỏ hơn, như gạo, thuốc."
     },
     {
-      "id": "hsk5_rest_1183",
+      "id": "hsk5_rest_1182",
       "level": "HSK5",
       "hanzi": "可靠",
       "pinyin": "kěkào",
@@ -25894,7 +25873,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1184",
+      "id": "hsk5_rest_1183",
       "level": "HSK5",
       "hanzi": "克",
       "pinyin": "kè",
@@ -25915,7 +25894,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1185",
+      "id": "hsk5_rest_1184",
       "level": "HSK5",
       "hanzi": "了不起",
       "pinyin": "liǎobuqǐ",
@@ -25936,7 +25915,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1186",
+      "id": "hsk5_rest_1185",
       "level": "HSK5",
       "hanzi": "厘米",
       "pinyin": "límǐ",
@@ -25950,14 +25929,14 @@
       "example_sentences": [
         {
           "zh": "这条裙子短了两厘米。",
-          "vi": "Chiếc váy này ngắn hơn hai xentimét."
+          "vi": "Chiếc váy này bị ngắn hai xentimét."
         }
       ],
       "app_note_vi": "Đơn vị độ dài. Mét là 米, milimét là 毫米.",
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1187",
+      "id": "hsk5_rest_1186",
       "level": "HSK5",
       "hanzi": "良好",
       "pinyin": "liánghǎo",
@@ -25978,7 +25957,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1188",
+      "id": "hsk5_rest_1187",
       "level": "HSK5",
       "hanzi": "魅力",
       "pinyin": "mèilì",
@@ -25999,7 +25978,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1189",
+      "id": "hsk5_rest_1188",
       "level": "HSK5",
       "hanzi": "秒",
       "pinyin": "miǎo",
@@ -26020,7 +25999,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1190",
+      "id": "hsk5_rest_1189",
       "level": "HSK5",
       "hanzi": "模糊",
       "pinyin": "móhu",
@@ -26041,7 +26020,7 @@
       "app_synonym_note_vi": "模糊 là không rõ; 模仿 là bắt chước."
     },
     {
-      "id": "hsk5_rest_1191",
+      "id": "hsk5_rest_1190",
       "level": "HSK5",
       "hanzi": "难看",
       "pinyin": "nánkàn",
@@ -26062,7 +26041,7 @@
       "app_synonym_note_vi": ""
     },
     {
-      "id": "hsk5_rest_1192",
+      "id": "hsk5_rest_1191",
       "level": "HSK5",
       "hanzi": "平",
       "pinyin": "píng",
@@ -26081,6 +26060,27 @@
       ],
       "app_note_vi": "Mặt không gồ ghề. Cũng gặp trong 水平, 公平, 平分.",
       "app_synonym_note_vi": ""
+    },
+    {
+      "id": "hsk5_rest_1192",
+      "level": "HSK5",
+      "hanzi": "平衡",
+      "pinyin": "pínghéng",
+      "display_meaning_vi": "cân bằng",
+      "meaning_en": "in balance",
+      "collocations": [
+        "失去平衡",
+        "心理平衡",
+        "平衡木"
+      ],
+      "example_sentences": [
+        {
+          "zh": "工作和休息要保持平衡。",
+          "vi": "Làm việc và nghỉ ngơi cần giữ cân bằng."
+        }
+      ],
+      "app_note_vi": "Giữa hai phía không bên nào quá lệch. Cũng nói thăng bằng của cơ thể.",
+      "app_synonym_note_vi": "平衡 là sự cân; 平静 là yên, không xao động."
     },
     {
       "id": "hsk5_rest_1193",
