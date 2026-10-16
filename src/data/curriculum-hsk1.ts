@@ -22,6 +22,7 @@ export const modules: Module[] = [
   { id: 'hsk5-module-7', levelId: 'HSK5', title: '观点与态度', subtitle: 'Opinions & Attitude', order: 7 },
   { id: 'hsk5-module-8', levelId: 'HSK5', title: '学习与逻辑', subtitle: 'Learning & Logic', order: 8 },
   { id: 'hsk5-module-9', levelId: 'HSK5', title: '关系与情绪', subtitle: 'Relationships & Emotion', order: 9 },
+  { id: 'hsk5-module-10', levelId: 'HSK5', title: '科技与生活', subtitle: 'Technology & Daily Life', order: 10 },
 ];
 
 export const hsk1LessonDefs = [
