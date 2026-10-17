@@ -14,6 +14,7 @@ import enriched111To120 from '../../docs/hsk5-batch2-111-120-enriched.json';
 import enriched121To130 from '../../docs/hsk5-batch2-121-130-enriched.json';
 import enriched131To140 from '../../docs/hsk5-batch2-131-140-enriched.json';
 import enriched141To150 from '../../docs/hsk5-batch2-141-150-enriched.json';
+import hsk5Level5Rest from '../../content/hsk5/hsk5-level5-rest.json';
 
 type EnrichedWord = {
   id: string;
@@ -37,6 +38,12 @@ type FocusLessonDef = {
   title: string;
   topic: string;
   color: string;
+  wordCount?: number;
+};
+
+const restBundle = hsk5Level5Rest as {
+  lessons: FocusLessonDef[];
+  words: EnrichedWord[];
 };
 
 const sourceWords = [
@@ -163,10 +170,29 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     topic: '科技与生活 / Công nghệ và đời sống',
     color: '#0277BD',
   },
+  ...restBundle.lessons,
 ];
 
-export const hsk5FocusWords: VocabWord[] = sourceWords.map((word, index) => {
-  const lesson = FOCUS_LESSONS[Math.floor(index / 10)];
+const allSourceWords = [...sourceWords, ...restBundle.words];
+
+const lessonSpans = FOCUS_LESSONS.reduce<Array<{ lesson: FocusLessonDef; start: number; end: number }>>(
+  (spans, lesson) => {
+    const start = spans.length ? spans[spans.length - 1].end : 0;
+    const count = lesson.wordCount ?? 10;
+    spans.push({ lesson, start, end: start + count });
+    return spans;
+  },
+  [],
+);
+
+const lessonForIndex = (index: number) =>
+  lessonSpans.find((span) => index >= span.start && index < span.end)?.lesson;
+
+export const hsk5FocusWords: VocabWord[] = allSourceWords.map((word, index) => {
+  const lesson = lessonForIndex(index);
+  if (!lesson) {
+    throw new Error(`HSK5 word ${word.hanzi} is outside the lesson list`);
+  }
   const example = word.example_sentences?.[0];
   const collocations = word.collocations ?? word.app_collocation_top ?? [];
 

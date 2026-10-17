@@ -369,28 +369,58 @@ export default function ChineseLearningApp() {
     setShowStatsDebug(false);
   };
 
-  const renderLessonPicker = () => (
-    <View style={styles.lessonRow}>
-      {lessons.filter((lesson) => lesson.levelId === activeLevel.id).map((lesson) => {
-        const isActive = lesson.id === selectedLessonId;
-        return (
-          <Pressable
-            key={lesson.id}
-            onPress={() => selectLesson(lesson.id)}
-            style={({ pressed }) => [
-              styles.lessonPill,
-              isActive && { backgroundColor: '#C0392B', borderColor: '#C0392B' },
-              pressed && styles.buttonPressed,
-            ]}
-          >
-            <Text style={[styles.lessonPillText, isActive && styles.lessonPillTextActive]}>
-              {lesson.title}
-            </Text>
-          </Pressable>
-        );
-      })}
-    </View>
-  );
+  const renderLessonPicker = () => {
+    const levelLessons = lessons.filter((lesson) => lesson.levelId === activeLevel.id);
+    const levelModules = modules
+      .filter((module) => module.levelId === activeLevel.id && levelLessons.some((lesson) => lesson.moduleId === module.id))
+      .sort((a, b) => a.order - b.order);
+    const showModules = levelLessons.length > 20;
+    const visibleLessons = showModules
+      ? levelLessons.filter((lesson) => lesson.moduleId === currentModule.id)
+      : levelLessons;
+
+    return (
+      <View style={styles.pickerStack}>
+        {showModules ? (
+          <View style={styles.lessonRow}>
+            {levelModules.map((module) => {
+              const isActive = module.id === currentModule.id;
+              const firstLesson = levelLessons.find((lesson) => lesson.moduleId === module.id);
+              return (
+                <Pressable
+                  key={module.id}
+                  onPress={() => firstLesson && selectLesson(firstLesson.id)}
+                  style={[styles.hskPill, isActive && styles.hskPillActive]}
+                >
+                  <Text style={[styles.hskPillText, isActive && styles.hskPillTextActive]}>{module.title}</Text>
+                </Pressable>
+              );
+            })}
+          </View>
+        ) : null}
+        <View style={styles.lessonRow}>
+          {visibleLessons.map((lesson) => {
+            const isActive = lesson.id === selectedLessonId;
+            return (
+              <Pressable
+                key={lesson.id}
+                onPress={() => selectLesson(lesson.id)}
+                style={({ pressed }) => [
+                  styles.lessonPill,
+                  isActive && { backgroundColor: '#C0392B', borderColor: '#C0392B' },
+                  pressed && styles.buttonPressed,
+                ]}
+              >
+                <Text style={[styles.lessonPillText, isActive && styles.lessonPillTextActive]}>
+                  {lesson.title}
+                </Text>
+              </Pressable>
+            );
+          })}
+        </View>
+      </View>
+    );
+  };
 
   const renderHSKPills = () => (
     <View style={styles.hskRow}>
@@ -445,7 +475,7 @@ export default function ChineseLearningApp() {
       <View style={styles.heroCard}>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          HSK 1 available · HSK 5 focus prototype ready
+          HSK 1 đã có · HSK 5 đủ từ cấp 5
         </Text>
         <View style={styles.heroActions}>
           <ActionButton label="开始学习 / Start Learning" onPress={() => setActiveTab('learn')} />
@@ -1028,6 +1058,9 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     borderBottomColor: '#F0E2C5',
     gap: 2,
+  },
+  pickerStack: {
+    gap: 10,
   },
   lessonRow: {
     flexDirection: 'row',

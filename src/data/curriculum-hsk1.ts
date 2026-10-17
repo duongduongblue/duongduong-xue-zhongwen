@@ -23,6 +23,21 @@ export const modules: Module[] = [
   { id: 'hsk5-module-8', levelId: 'HSK5', title: '学习与逻辑', subtitle: 'Learning & Logic', order: 8 },
   { id: 'hsk5-module-9', levelId: 'HSK5', title: '关系与情绪', subtitle: 'Relationships & Emotion', order: 9 },
   { id: 'hsk5-module-10', levelId: 'HSK5', title: '科技与生活', subtitle: 'Technology & Daily Life', order: 10 },
+  { id: 'hsk5-module-11', levelId: 'HSK5', title: '起居', subtitle: 'Home & daily things', order: 11 },
+  { id: 'hsk5-module-12', levelId: 'HSK5', title: '人物', subtitle: 'People & character', order: 12 },
+  { id: 'hsk5-module-13', levelId: 'HSK5', title: '情感', subtitle: 'Feelings', order: 13 },
+  { id: 'hsk5-module-14', levelId: 'HSK5', title: '学习', subtitle: 'Study', order: 14 },
+  { id: 'hsk5-module-15', levelId: 'HSK5', title: '事务', subtitle: 'Work & procedures', order: 15 },
+  { id: 'hsk5-module-16', levelId: 'HSK5', title: '社会', subtitle: 'Society', order: 16 },
+  { id: 'hsk5-module-17', levelId: 'HSK5', title: '经济', subtitle: 'Money & economy', order: 17 },
+  { id: 'hsk5-module-18', levelId: 'HSK5', title: '自然', subtitle: 'Nature', order: 18 },
+  { id: 'hsk5-module-19', levelId: 'HSK5', title: '健康', subtitle: 'Health & body', order: 19 },
+  { id: 'hsk5-module-20', levelId: 'HSK5', title: '饮食', subtitle: 'Food', order: 20 },
+  { id: 'hsk5-module-21', levelId: 'HSK5', title: '出行', subtitle: 'Travel & places', order: 21 },
+  { id: 'hsk5-module-22', levelId: 'HSK5', title: '文化', subtitle: 'Culture', order: 22 },
+  { id: 'hsk5-module-23', levelId: 'HSK5', title: '表达', subtitle: 'Expression', order: 23 },
+  { id: 'hsk5-module-24', levelId: 'HSK5', title: '思维', subtitle: 'Thinking', order: 24 },
+  { id: 'hsk5-module-25', levelId: 'HSK5', title: '描述', subtitle: 'Description', order: 25 },
 ];
 
 export const hsk1LessonDefs = [
