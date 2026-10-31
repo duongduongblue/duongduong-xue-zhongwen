@@ -14,6 +14,9 @@ import enriched111To120 from '../../docs/hsk5-batch2-111-120-enriched.json';
 import enriched121To130 from '../../docs/hsk5-batch2-121-130-enriched.json';
 import enriched131To140 from '../../docs/hsk5-batch2-131-140-enriched.json';
 import enriched141To150 from '../../docs/hsk5-batch2-141-150-enriched.json';
+import enriched151To160 from '../../docs/hsk5-batch2-151-160-enriched.json';
+import enriched161To170 from '../../docs/hsk5-batch2-161-170-enriched.json';
+import enriched171To180 from '../../docs/hsk5-batch2-171-180-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -55,6 +58,9 @@ const sourceWords = [
   ...(enriched121To130 as EnrichedWord[]),
   ...(enriched131To140 as EnrichedWord[]),
   ...(enriched141To150 as EnrichedWord[]),
+  ...(enriched151To160 as EnrichedWord[]),
+  ...(enriched161To170 as EnrichedWord[]),
+  ...(enriched171To180 as EnrichedWord[]),
 ];
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -162,6 +168,27 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '15 · 科技',
     topic: '科技与生活 / Công nghệ và đời sống',
     color: '#0277BD',
+  },
+  {
+    id: 'HSK5-F1-L16',
+    moduleId: 'hsk5-module-11',
+    title: '16 · 经济',
+    topic: '经济与消费 / Kinh tế và tiêu dùng',
+    color: '#EF6C00',
+  },
+  {
+    id: 'HSK5-F1-L17',
+    moduleId: 'hsk5-module-12',
+    title: '17 · 健康',
+    topic: '健康与预防 / Sức khỏe và phòng ngừa',
+    color: '#00796B',
+  },
+  {
+    id: 'HSK5-F1-L18',
+    moduleId: 'hsk5-module-13',
+    title: '18 · 规则',
+    topic: '规则与公平 / Quy tắc và sự công bằng',
+    color: '#455A64',
   },
 ];
 
