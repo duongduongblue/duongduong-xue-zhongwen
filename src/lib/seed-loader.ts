@@ -101,6 +101,7 @@ export function mapMockProgressToPersistedProgress(mock: SeedProgress = seedProg
     reviewIds: progressItems.filter((item) => item.status === 'learning' || item.status === 'reviewing').map((item) => item.word_id),
     favoriteIds: progressItems.filter((item) => item.bookmarked).map((item) => item.word_id),
     quizCorrectCount: (mock.recentSessions ?? []).filter((item) => item.mode === 'quiz').reduce((sum, item) => sum + (item.correct_count ?? 0), 0),
+    quizAnsweredCount: (mock.recentSessions ?? []).filter((item) => item.mode === 'quiz').reduce((sum, item) => sum + (item.total_items ?? item.correct_count ?? 0), 0),
     completedQuestionIds: [],
     studyDates: [],
     startedAt: undefined,

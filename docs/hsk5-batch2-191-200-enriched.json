@@ -1,0 +1,624 @@
+[
+  {
+    "id": "hsk5_batch2_191",
+    "level": "HSK5",
+    "hanzi": "如何",
+    "pinyin": "rúhé",
+    "display_meaning_vi": "thế nào",
+    "meaning_en": "how; in what way",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "writing",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "如何 + 动词 / 无论如何",
+    "collocations": [
+      "无论如何",
+      "如何办理",
+      "如何是好"
+    ],
+    "near_synonyms": [
+      {
+        "word": "怎么",
+        "difference_vi": "如何 nghĩa như 怎么, nhưng dùng trong câu trang trọng hoặc văn viết."
+      }
+    ],
+    "app_synonym_note_vi": "如何 = thế nào, trang trọng; 怎么 = thế nào, lời nói thường.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题该如何解决？",
+        "pinyin": "Zhège wèntí gāi rúhé jiějué?",
+        "vi": "Vấn đề này nên giải quyết thế nào?",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "无论如何 nghĩa là dù thế nào cũng…, không phải “không có cách nào”."
+    ],
+    "app_note_vi": "Đứng trước động từ. 无论如何 là “dù sao cũng”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "如何 nghĩa là gì?",
+        "answer": "thế nào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个问题该____解决？",
+        "answer": "如何"
+      },
+      {
+        "type": "synonym",
+        "prompt": "如何 khác 怎么 ở điểm nào?",
+        "answer": "如何 nghĩa như 怎么, nhưng dùng trong câu trang trọng hoặc văn viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_192",
+    "level": "HSK5",
+    "hanzi": "对于",
+    "pinyin": "duìyú",
+    "display_meaning_vi": "đối với",
+    "meaning_en": "regarding; as for",
+    "part_of_speech": "preposition",
+    "difficulty": 2,
+    "topic_tags": [
+      "writing",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "对于 + 对象",
+    "collocations": [
+      "对于这个问题",
+      "对于我来说",
+      "对于孩子"
+    ],
+    "near_synonyms": [
+      {
+        "word": "关于",
+        "difference_vi": "对于 đưa ra đối tượng mà ý kiến nhắm tới; 关于 thiên về chủ đề của một bài hoặc một câu chuyện."
+      }
+    ],
+    "app_synonym_note_vi": "对于 = đối với; 关于 = về chủ đề.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "对于这个安排，大家都同意。",
+        "pinyin": "Duìyú zhège ānpái, dàjiā dōu tóngyì.",
+        "vi": "Với cách sắp xếp này, mọi người đều đồng ý.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "对于 trang trọng hơn 对. Trong câu nói ngắn, 对 đã đủ."
+    ],
+    "app_note_vi": "Đặt đầu câu hoặc trước cụm được bàn tới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "对于 nghĩa là gì?",
+        "answer": "đối với"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____这个安排，大家都同意。",
+        "answer": "对于"
+      },
+      {
+        "type": "synonym",
+        "prompt": "对于 khác 关于 ở điểm nào?",
+        "answer": "对于 đưa ra đối tượng mà ý kiến nhắm tới; 关于 thiên về chủ đề của một bài hoặc một câu chuyện."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_193",
+    "level": "HSK5",
+    "hanzi": "同时",
+    "pinyin": "tóngshí",
+    "display_meaning_vi": "đồng thời",
+    "meaning_en": "at the same time",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "writing"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "与此同时 / 同时进行",
+    "collocations": [
+      "与此同时",
+      "同时进行",
+      "同时存在"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两件事可以同时进行。",
+        "pinyin": "Liǎng jiàn shì kěyǐ tóngshí jìnxíng.",
+        "vi": "Hai việc có thể làm cùng lúc.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "同时 không phải “cùng một giờ trên đồng hồ” theo nghĩa hẹp. Nó là cùng lúc hoặc thêm một ý nữa."
+    ],
+    "app_note_vi": "Nối hai việc xảy ra cùng lúc. 与此同时 mở một ý bổ sung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "同时 nghĩa là gì?",
+        "answer": "đồng thời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两件事可以____进行。",
+        "answer": "同时"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_194",
+    "level": "HSK5",
+    "hanzi": "根本",
+    "pinyin": "gēnběn",
+    "display_meaning_vi": "căn bản; hoàn toàn không",
+    "meaning_en": "fundamental; at all",
+    "part_of_speech": "adverb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "根本不 / 根本原因",
+    "collocations": [
+      "根本不",
+      "根本原因",
+      "根本上"
+    ],
+    "near_synonyms": [
+      {
+        "word": "基本",
+        "difference_vi": "根本不 là hoàn toàn không; 基本上 là về cơ bản thì có, mức độ yếu hơn."
+      }
+    ],
+    "app_synonym_note_vi": "根本不 = hoàn toàn không; 基本上 = về cơ bản thì có.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他根本没听说过这件事。",
+        "pinyin": "Tā gēnběn méi tīngshuō guo zhè jiàn shì.",
+        "vi": "Anh ấy hoàn toàn chưa nghe chuyện này.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "根本不 là phủ định mạnh. Đừng dịch thành “về cơ bản thì không”, nghĩa đó gần 基本上不 hơn."
+    ],
+    "app_note_vi": "Hai hướng: 根本原因 là nguyên nhân gốc; 根本不 là hoàn toàn không.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "根本 nghĩa là gì?",
+        "answer": "căn bản; hoàn toàn không"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____没听说过这件事。",
+        "answer": "根本"
+      },
+      {
+        "type": "synonym",
+        "prompt": "根本 khác 基本 ở điểm nào?",
+        "answer": "根本不 là hoàn toàn không; 基本上 là về cơ bản thì có, mức độ yếu hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_195",
+    "level": "HSK5",
+    "hanzi": "存在",
+    "pinyin": "cúnzài",
+    "display_meaning_vi": "tồn tại; còn đó",
+    "meaning_en": "to exist; existence",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "存在 + 问题",
+    "collocations": [
+      "存在问题",
+      "确实存在",
+      "存在感"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "计划里还存在几个问题。",
+        "pinyin": "Jìhuà lǐ hái cúnzài jǐ gè wèntí.",
+        "vi": "Trong kế hoạch vẫn còn vài vấn đề.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "存在问题 là “còn vấn đề”, không phải “tồn tại một câu hỏi” theo nghĩa bài tập."
+    ],
+    "app_note_vi": "Nói một sự việc đang có thật. Hay đi với vấn đề, khác biệt, nguy cơ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "存在 nghĩa là gì?",
+        "answer": "tồn tại; còn đó"
+      },
+      {
+        "type": "cloze",
+        "prompt": "计划里还____几个问题。",
+        "answer": "存在"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_196",
+    "level": "HSK5",
+    "hanzi": "未来",
+    "pinyin": "wèilái",
+    "display_meaning_vi": "tương lai",
+    "meaning_en": "the future",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "time",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "未来 + 规划 / 在未来",
+    "collocations": [
+      "未来规划",
+      "展望未来",
+      "不远的未来"
+    ],
+    "near_synonyms": [
+      {
+        "word": "将来",
+        "difference_vi": "未来 hay gặp trong văn viết và kế hoạch dài; 将来 cũng là tương lai, lời nói xuôi hơn."
+      }
+    ],
+    "app_synonym_note_vi": "未来 = tương lai, hay trong văn viết; 将来 = tương lai, xuôi hơn.",
+    "antonyms": [
+      "过去"
+    ],
+    "example_sentences": [
+      {
+        "zh": "他对自己的未来有计划。",
+        "pinyin": "Tā duì zìjǐ de wèilái yǒu jìhuà.",
+        "vi": "Anh ấy có kế hoạch cho tương lai của mình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "未来 là danh từ chỉ thời gian chưa tới, không dùng như động từ “sẽ”."
+    ],
+    "app_note_vi": "Danh từ. 不远的未来 là tương lai không xa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "未来 nghĩa là gì?",
+        "answer": "tương lai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他对自己的____有计划。",
+        "answer": "未来"
+      },
+      {
+        "type": "synonym",
+        "prompt": "未来 khác 将来 ở điểm nào?",
+        "answer": "未来 hay gặp trong văn viết và kế hoạch dài; 将来 cũng là tương lai, lời nói xuôi hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_197",
+    "level": "HSK5",
+    "hanzi": "看来",
+    "pinyin": "kànlai",
+    "display_meaning_vi": "xem ra",
+    "meaning_en": "it seems; apparently",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "看来 + 小句 / 在我看来",
+    "collocations": [
+      "由此看来",
+      "在我看来",
+      "这样看来"
+    ],
+    "near_synonyms": [
+      {
+        "word": "看起来",
+        "difference_vi": "看来 là kết luận sau khi xem xét tình hình; 看起来 thiên về vẻ ngoài trông có vẻ."
+      }
+    ],
+    "app_synonym_note_vi": "看来 = xem ra, kết luận; 看起来 = trông có vẻ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "看来今天要下雨了。",
+        "pinyin": "Kànlai jīntiān yào xià yǔ le.",
+        "vi": "Xem ra hôm nay trời sẽ mưa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看来 không phải động tác “nhìn”. Âm sau đọc nhẹ: kànlai, không phải kàn lái."
+    ],
+    "app_note_vi": "Đưa nhận xét. 在我看来 là “theo tôi thấy”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "看来 nghĩa là gì?",
+        "answer": "xem ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____今天要下雨了。",
+        "answer": "看来"
+      },
+      {
+        "type": "synonym",
+        "prompt": "看来 khác 看起来 ở điểm nào?",
+        "answer": "看来 là kết luận sau khi xem xét tình hình; 看起来 thiên về vẻ ngoài trông có vẻ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_198",
+    "level": "HSK5",
+    "hanzi": "面对",
+    "pinyin": "miànduì",
+    "display_meaning_vi": "đối mặt",
+    "meaning_en": "to face; to confront",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "面对 + 困难 / 现实",
+    "collocations": [
+      "面对困难",
+      "面对现实",
+      "勇于面对"
+    ],
+    "near_synonyms": [
+      {
+        "word": "面临",
+        "difference_vi": "面对 là thái độ nhìn thẳng vào việc; 面临 là đang bị đặt trước một tình thế, người nói bị động hơn."
+      }
+    ],
+    "app_synonym_note_vi": "面对 = chủ động đối mặt; 面临 = đang đứng trước một tình thế.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要面对现实问题。",
+        "pinyin": "Wǒmen yào miànduì xiànshí wèntí.",
+        "vi": "Chúng ta phải đối mặt với vấn đề thực tế.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "面对面 là gặp trực tiếp, khác 面对一个问题."
+    ],
+    "app_note_vi": "Đối tượng là khó khăn, sự thật hoặc một người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "面对 nghĩa là gì?",
+        "answer": "đối mặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要____现实问题。",
+        "answer": "面对"
+      },
+      {
+        "type": "synonym",
+        "prompt": "面对 khác 面临 ở điểm nào?",
+        "answer": "面对 là thái độ nhìn thẳng vào việc; 面临 là đang bị đặt trước một tình thế, người nói bị động hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_199",
+    "level": "HSK5",
+    "hanzi": "似乎",
+    "pinyin": "sìhū",
+    "display_meaning_vi": "dường như",
+    "meaning_en": "it seems; as if",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic",
+      "writing"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "似乎 + 动词 / 形容词",
+    "collocations": [
+      "似乎明白",
+      "似乎不对",
+      "似乎如此"
+    ],
+    "near_synonyms": [
+      {
+        "word": "好像",
+        "difference_vi": "似乎 trang trọng, suy đoán chưa chắc; 好像 thân mật hơn, cùng ý “hình như”."
+      }
+    ],
+    "app_synonym_note_vi": "似乎 = dường như, trang trọng; 好像 = hình như, thân mật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "天色似乎暗下来了。",
+        "pinyin": "Tiānsè sìhū àn xiàlái le.",
+        "vi": "Trời dường như đang tối lại.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "似乎 không đứng một mình làm câu trả lời. Phải có việc theo sau."
+    ],
+    "app_note_vi": "Đứng trước động từ hoặc tính từ để nói một phỏng đoán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "似乎 nghĩa là gì?",
+        "answer": "dường như"
+      },
+      {
+        "type": "cloze",
+        "prompt": "天色____暗下来了。",
+        "answer": "似乎"
+      },
+      {
+        "type": "synonym",
+        "prompt": "似乎 khác 好像 ở điểm nào?",
+        "answer": "似乎 trang trọng, suy đoán chưa chắc; 好像 thân mật hơn, cùng ý “hình như”."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_200",
+    "level": "HSK5",
+    "hanzi": "事实",
+    "pinyin": "shìshí",
+    "display_meaning_vi": "sự thật",
+    "meaning_en": "fact",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "事实证明 / 客观事实",
+    "collocations": [
+      "事实证明",
+      "客观事实",
+      "事实真相"
+    ],
+    "near_synonyms": [
+      {
+        "word": "实话",
+        "difference_vi": "事实 là việc đã xảy ra, kiểm được; 实话 là lời một người nói thật."
+      }
+    ],
+    "app_synonym_note_vi": "事实 = sự việc có thật; 实话 = lời nói thật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "事实比传言更重要。",
+        "pinyin": "Shìshí bǐ chuányán gèng zhòngyào.",
+        "vi": "Sự thật quan trọng hơn lời đồn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "事实 là danh từ. “Nói thật” là 说实话, không phải 说事实."
+    ],
+    "app_note_vi": "Hay gặp trong lập luận: 事实证明 là sự thật chứng minh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "事实 nghĩa là gì?",
+        "answer": "sự thật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____比传言更重要。",
+        "answer": "事实"
+      },
+      {
+        "type": "synonym",
+        "prompt": "事实 khác 实话 ở điểm nào?",
+        "answer": "事实 là việc đã xảy ra, kiểm được; 实话 là lời một người nói thật."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -40,6 +40,9 @@ const removeItem = (items: string[], value: string) => items.filter((item) => it
 const progressPercent = (done: number, total: number) =>
   total === 0 ? 0 : Math.round((done / total) * 100);
 
+const foldSearchText = (value: string) =>
+  value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
 const formatStudyDate = (date: Date) => date.toISOString().slice(0, 10);
 
 const calculateStreak = (studyDates: string[]) => {
@@ -160,14 +163,14 @@ export default function ChineseLearningApp() {
   const sessionAccuracy = sessionCompletedQuestionIds.length
     ? Math.min(100, Math.round((sessionQuizCorrectCount / sessionCompletedQuestionIds.length) * 100))
     : historicalAccuracy;
-  const normalizedQuery = wordQuery.trim().toLowerCase();
+  const normalizedQuery = foldSearchText(wordQuery.trim());
   const searchResults = normalizedQuery
     ? activeLevelWords
         .filter((word) =>
           word.hanzi.includes(wordQuery.trim()) ||
-          word.pinyin.toLowerCase().includes(normalizedQuery) ||
-          word.meaningVi.toLowerCase().includes(normalizedQuery) ||
-          (word.meaningEn ?? '').toLowerCase().includes(normalizedQuery),
+          foldSearchText(word.pinyin).includes(normalizedQuery) ||
+          foldSearchText(word.meaningVi).includes(normalizedQuery) ||
+          foldSearchText(word.meaningEn ?? '').includes(normalizedQuery),
         )
         .slice(0, 8)
     : [];
@@ -197,13 +200,15 @@ export default function ChineseLearningApp() {
       setFavoriteIds(initialProgress.favoriteIds ?? []);
       setSessionQuizCorrectCount(0);
       setSessionCompletedQuestionIds([]);
-      setTotalQuizCorrectCount(initialProgress.quizCorrectCount ?? 0);
+      const quizCorrectCount = initialProgress.quizCorrectCount ?? 0;
+      const recordedAnswered = initialProgress.quizAnsweredCount;
+      setTotalQuizCorrectCount(quizCorrectCount);
       setTotalQuizAnsweredCount(
-        initialProgress.quizAnsweredCount ??
-          Math.max(
-            initialProgress.quizCorrectCount ?? 0,
-            initialProgress.completedQuestionIds?.length ?? 0,
-          ),
+        Math.max(
+          recordedAnswered ?? 0,
+          quizCorrectCount,
+          initialProgress.completedQuestionIds?.length ?? 0,
+        ),
       );
       setTotalCompletedQuestionIds(initialProgress.completedQuestionIds ?? []);
       const loadedStudyDates = initialProgress.studyDates ?? [];
@@ -789,7 +794,7 @@ export default function ChineseLearningApp() {
         <Text style={styles.sectionTitle}>测验统计 / Quiz Stats</Text>
         <Text style={styles.bodyText}>本次已答题数 / Questions answered this session: {sessionCompletedQuestionIds.length}</Text>
         <Text style={styles.bodyText}>本次答对题数 / Correct answers this session: {sessionQuizCorrectCount}</Text>
-        <Text style={styles.bodyText}>累计已答题数 / Total questions answered: {totalCompletedQuestionIds.length}</Text>
+        <Text style={styles.bodyText}>累计已答题数 / Total questions answered: {totalQuizAnsweredCount}</Text>
         <Text style={styles.bodyText}>累计答对题数 / Total correct answers: {totalQuizCorrectCount}</Text>
         <Text style={styles.bodyText}>当前正确率 / Current accuracy: {sessionAccuracy}%</Text>
         <Text style={styles.bodyText}>累计正确率 / Historical accuracy: {historicalAccuracy}%</Text>
@@ -822,12 +827,13 @@ export default function ChineseLearningApp() {
       <StatusBar style="light" />
       <View style={styles.appShell}>
         <View style={styles.topBar}>
-          <View>
-            <Text style={styles.topBarTitle}>DuongDuong 学中文</Text>
-            <Text style={styles.topBarSubtitle}>中文词汇学习应用 / Chinese vocabulary learning app</Text>
+          <View style={styles.topBarCopy}>
+            <Text style={styles.topBarTitle} numberOfLines={1}>DuongDuong 学中文</Text>
+            <Text style={styles.topBarSubtitle} numberOfLines={2}>中文词汇学习应用 / Chinese vocabulary learning app</Text>
           </View>
           <View style={styles.streakBadge}>
-            <Text style={styles.streakBadgeText}>{`连续 ${currentStreak} 天 / Streak ${currentStreak}`}</Text>
+            <Text style={styles.streakBadgeText}>{`连续 ${currentStreak} 天`}</Text>
+            <Text style={styles.streakBadgeSubtext}>{`Streak ${currentStreak}`}</Text>
           </View>
         </View>
 
@@ -866,13 +872,19 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   topBar: {
-    paddingHorizontal: 20,
+    paddingHorizontal: 16,
     paddingTop: 12,
     paddingBottom: 16,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
+    gap: 8,
     backgroundColor: '#C0392B',
+  },
+  topBarCopy: {
+    flex: 1,
+    flexShrink: 1,
+    minWidth: 0,
   },
   topBarTitle: {
     fontSize: 22,
@@ -885,17 +897,24 @@ const styles = StyleSheet.create({
     color: 'rgba(255,255,255,0.82)',
   },
   streakBadge: {
+    flexShrink: 0,
+    alignItems: 'center',
     backgroundColor: 'rgba(255,255,255,0.14)',
     borderWidth: 1,
     borderColor: 'rgba(255,255,255,0.18)',
-    paddingHorizontal: 14,
-    paddingVertical: 10,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
     borderRadius: 999,
   },
   streakBadgeText: {
-    fontSize: 16,
+    fontSize: 13,
     fontWeight: '700',
     color: '#FFF7ED',
+  },
+  streakBadgeSubtext: {
+    fontSize: 11,
+    fontWeight: '600',
+    color: 'rgba(255,247,237,0.86)',
   },
   contentContainer: {
     paddingHorizontal: 16,

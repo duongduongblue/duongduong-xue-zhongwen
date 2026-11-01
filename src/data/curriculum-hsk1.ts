@@ -26,6 +26,12 @@ export const modules: Module[] = [
   { id: 'hsk5-module-11', levelId: 'HSK5', title: '经济与消费', subtitle: 'Economy & Spending', order: 11 },
   { id: 'hsk5-module-12', levelId: 'HSK5', title: '健康与预防', subtitle: 'Health & Prevention', order: 12 },
   { id: 'hsk5-module-13', levelId: 'HSK5', title: '规则与公平', subtitle: 'Rules & Fairness', order: 13 },
+  { id: 'hsk5-module-14', levelId: 'HSK5', title: '事务与行动', subtitle: 'Affairs & Action', order: 14 },
+  { id: 'hsk5-module-15', levelId: 'HSK5', title: '思维与判断', subtitle: 'Thinking & Judgment', order: 15 },
+  { id: 'hsk5-module-16', levelId: 'HSK5', title: '表达与连接', subtitle: 'Expression & Connectors', order: 16 },
+  { id: 'hsk5-module-17', levelId: 'HSK5', title: '政府与社会', subtitle: 'Government & Society', order: 17 },
+  { id: 'hsk5-module-18', levelId: 'HSK5', title: '学习与研究', subtitle: 'Study & Research', order: 18 },
+  { id: 'hsk5-module-19', levelId: 'HSK5', title: '情感与状态', subtitle: 'Feelings & State', order: 19 },
 ];
 
 export const hsk1LessonDefs = [

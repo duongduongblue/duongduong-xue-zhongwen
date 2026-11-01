@@ -17,6 +17,12 @@ import enriched141To150 from '../../docs/hsk5-batch2-141-150-enriched.json';
 import enriched151To160 from '../../docs/hsk5-batch2-151-160-enriched.json';
 import enriched161To170 from '../../docs/hsk5-batch2-161-170-enriched.json';
 import enriched171To180 from '../../docs/hsk5-batch2-171-180-enriched.json';
+import enriched181To190 from '../../docs/hsk5-batch2-181-190-enriched.json';
+import enriched191To200 from '../../docs/hsk5-batch2-191-200-enriched.json';
+import enriched201To210 from '../../docs/hsk5-batch2-201-210-enriched.json';
+import enriched211To220 from '../../docs/hsk5-batch2-211-220-enriched.json';
+import enriched221To230 from '../../docs/hsk5-batch2-221-230-enriched.json';
+import enriched231To240 from '../../docs/hsk5-batch2-231-240-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -61,7 +67,13 @@ const sourceWords = [
   ...(enriched151To160 as EnrichedWord[]),
   ...(enriched161To170 as EnrichedWord[]),
   ...(enriched171To180 as EnrichedWord[]),
-];
+  ...(enriched181To190 as EnrichedWord[]),
+  ...(enriched191To200 as EnrichedWord[]),
+  ...(enriched201To210 as EnrichedWord[]),
+  ...(enriched211To220 as EnrichedWord[]),
+  ...(enriched221To230 as EnrichedWord[]),
+  ...(enriched231To240 as EnrichedWord[]),
+].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
   {
@@ -189,6 +201,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '18 · 规则',
     topic: '规则与公平 / Quy tắc và sự công bằng',
     color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L19',
+    moduleId: 'hsk5-module-14',
+    title: '19 · 事务',
+    topic: '事务与行动 / Việc và hành động',
+    color: '#E65100',
+  },
+  {
+    id: 'HSK5-F1-L20',
+    moduleId: 'hsk5-module-15',
+    title: '20 · 思维',
+    topic: '思维与判断 / Tư duy và nhận định',
+    color: '#303F9F',
+  },
+  {
+    id: 'HSK5-F1-L21',
+    moduleId: 'hsk5-module-16',
+    title: '21 · 表达',
+    topic: '表达与连接 / Diễn đạt và từ nối',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L22',
+    moduleId: 'hsk5-module-17',
+    title: '22 · 公共',
+    topic: '政府与社会 / Chính phủ và xã hội',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L23',
+    moduleId: 'hsk5-module-18',
+    title: '23 · 研究',
+    topic: '学习与研究 / Học tập và nghiên cứu',
+    color: '#33691E',
+  },
+  {
+    id: 'HSK5-F1-L24',
+    moduleId: 'hsk5-module-19',
+    title: '24 · 情感',
+    topic: '情感与状态 / Cảm xúc và trạng thái',
+    color: '#880E4F',
   },
 ];
 
