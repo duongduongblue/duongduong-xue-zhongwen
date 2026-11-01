@@ -32,6 +32,12 @@ export const modules: Module[] = [
   { id: 'hsk5-module-17', levelId: 'HSK5', title: '政府与社会', subtitle: 'Government & Society', order: 17 },
   { id: 'hsk5-module-18', levelId: 'HSK5', title: '学习与研究', subtitle: 'Study & Research', order: 18 },
   { id: 'hsk5-module-19', levelId: 'HSK5', title: '情感与状态', subtitle: 'Feelings & State', order: 19 },
+  { id: 'hsk5-module-20', levelId: 'HSK5', title: '程度与范围', subtitle: 'Degree & Scope', order: 20 },
+  { id: 'hsk5-module-21', levelId: 'HSK5', title: '人物与身份', subtitle: 'People & Roles', order: 21 },
+  { id: 'hsk5-module-22', levelId: 'HSK5', title: '文化与作品', subtitle: 'Culture & Works', order: 22 },
+  { id: 'hsk5-module-23', levelId: 'HSK5', title: '位置与方向', subtitle: 'Place & Direction', order: 23 },
+  { id: 'hsk5-module-24', levelId: 'HSK5', title: '因果与判断', subtitle: 'Cause & Judgment', order: 24 },
+  { id: 'hsk5-module-25', levelId: 'HSK5', title: '价值与代价', subtitle: 'Value & Cost', order: 25 },
 ];
 
 export const hsk1LessonDefs = [

@@ -1,0 +1,609 @@
+[
+  {
+    "id": "hsk5_batch2_261",
+    "level": "HSK5",
+    "hanzi": "片",
+    "pinyin": "piàn",
+    "display_meaning_vi": "lát; mảnh",
+    "meaning_en": "slice; piece",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "culture",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一片 + 名词 / 薄片",
+    "collocations": [
+      "一片面包",
+      "片刻",
+      "碎片"
+    ],
+    "near_synonyms": [
+      {
+        "word": "块",
+        "difference_vi": "片 là lát mỏng; 块 là miếng dày hoặc cục hơn."
+      }
+    ],
+    "app_synonym_note_vi": "片 = lát mỏng; 块 = miếng, cục.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她把苹果切成薄片。",
+        "pinyin": "Tā bǎ píngguǒ qiē chéng báo piàn.",
+        "vi": "Cô ấy cắt táo thành những lát mỏng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "片 đọc piàn, kể cả 一片面包. Đừng đọc piān. 唱片 cũng đọc piàn."
+    ],
+    "app_note_vi": "片刻 là một lát, chỉ thời gian rất ngắn. 切 đọc qiē khi nghĩa là cắt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "片 nghĩa là gì?",
+        "answer": "lát; mảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她把苹果切成薄____。",
+        "answer": "片"
+      },
+      {
+        "type": "synonym",
+        "prompt": "片 khác 块 ở điểm nào?",
+        "answer": "片 là lát mỏng; 块 là miếng dày hoặc cục hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_262",
+    "level": "HSK5",
+    "hanzi": "作品",
+    "pinyin": "zuòpǐn",
+    "display_meaning_vi": "tác phẩm",
+    "meaning_en": "work of art or literature",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "文学 / 艺术 + 作品",
+    "collocations": [
+      "文学作品",
+      "经典作品",
+      "作品集"
+    ],
+    "near_synonyms": [
+      {
+        "word": "作业",
+        "difference_vi": "作品 là tác phẩm đã hoàn thành để người khác xem; 作业 là bài tập."
+      }
+    ],
+    "app_synonym_note_vi": "作品 = tác phẩm; 作业 = bài tập.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这幅画是他的早期作品。",
+        "pinyin": "Zhè fú huà shì tā de zǎoqī zuòpǐn.",
+        "vi": "Bức tranh này là tác phẩm thời kỳ đầu của anh ấy.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一幅画 dùng 幅, không dùng 个."
+    ],
+    "app_note_vi": "Dùng cho văn, tranh, nhạc và phim.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "作品 nghĩa là gì?",
+        "answer": "tác phẩm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这幅画是他的早期____。",
+        "answer": "作品"
+      },
+      {
+        "type": "synonym",
+        "prompt": "作品 khác 作业 ở điểm nào?",
+        "answer": "作品 là tác phẩm đã hoàn thành để người khác xem; 作业 là bài tập."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_263",
+    "level": "HSK5",
+    "hanzi": "人物",
+    "pinyin": "rénwù",
+    "display_meaning_vi": "nhân vật",
+    "meaning_en": "character; figure",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "历史人物 / 人物形象",
+    "collocations": [
+      "历史人物",
+      "人物形象",
+      "风云人物"
+    ],
+    "near_synonyms": [
+      {
+        "word": "人",
+        "difference_vi": "人物 là người trong truyện, lịch sử hoặc người đáng chú ý; 人 là người nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "人物 = nhân vật; 人 = người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本书的人物很生动。",
+        "pinyin": "Zhè běn shū de rénwù hěn shēngdòng.",
+        "vi": "Nhân vật trong sách này rất sống.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "人物 không thay 人员. 人员 là nhân sự của một việc."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp khi nói truyện, lịch sử và người của công chúng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人物 nghĩa là gì?",
+        "answer": "nhân vật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这本书的____很生动。",
+        "answer": "人物"
+      },
+      {
+        "type": "synonym",
+        "prompt": "人物 khác 人 ở điểm nào?",
+        "answer": "人物 là người trong truyện, lịch sử hoặc người đáng chú ý; 人 là người nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_264",
+    "level": "HSK5",
+    "hanzi": "年代",
+    "pinyin": "niándài",
+    "display_meaning_vi": "thập niên; thời",
+    "meaning_en": "decade; era",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "九十年代 / 那个年代",
+    "collocations": [
+      "那个年代",
+      "年代久远",
+      "战争年代"
+    ],
+    "near_synonyms": [
+      {
+        "word": "时代",
+        "difference_vi": "年代 thường là một khoảng mười năm hoặc một thời đã qua; 时代 là một thời đại dài hơn."
+      }
+    ],
+    "app_synonym_note_vi": "年代 = thập niên hoặc một thời; 时代 = thời đại.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是上世纪九十年代的歌。",
+        "pinyin": "Zhè shì shàng shìjì jiǔshí niándài de gē.",
+        "vi": "Đây là bài hát thập niên 90 của thế kỷ trước.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "九十年代 là các năm 1990–1999, không phải chỉ năm 1990."
+    ],
+    "app_note_vi": "Danh từ chỉ một quãng thời gian. 上世纪 là thế kỷ trước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "年代 nghĩa là gì?",
+        "answer": "thập niên; thời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是上世纪九十____的歌。",
+        "answer": "年代"
+      },
+      {
+        "type": "synonym",
+        "prompt": "年代 khác 时代 ở điểm nào?",
+        "answer": "年代 thường là một khoảng mười năm hoặc một thời đã qua; 时代 là một thời đại dài hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_265",
+    "level": "HSK5",
+    "hanzi": "风格",
+    "pinyin": "fēnggé",
+    "display_meaning_vi": "phong cách",
+    "meaning_en": "style",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "艺术 / 设计 + 风格",
+    "collocations": [
+      "艺术风格",
+      "设计风格",
+      "风格独特"
+    ],
+    "near_synonyms": [
+      {
+        "word": "方式",
+        "difference_vi": "风格 là nét riêng của người hoặc tác phẩm; 方式 là cách làm một việc."
+      }
+    ],
+    "app_synonym_note_vi": "风格 = phong cách; 方式 = cách làm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这栋房子的风格很现代。",
+        "pinyin": "Zhè dòng fángzi de fēnggé hěn xiàndài.",
+        "vi": "Phong cách ngôi nhà này rất hiện đại.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhà cửa đếm bằng 栋 hoặc 座, không đếm 风格 bằng 个 khi muốn nói “một phong cách”: nói 一种风格."
+    ],
+    "app_note_vi": "Danh từ. Dùng cho nghệ thuật, thiết kế và cách viết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "风格 nghĩa là gì?",
+        "answer": "phong cách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这栋房子的____很现代。",
+        "answer": "风格"
+      },
+      {
+        "type": "synonym",
+        "prompt": "风格 khác 方式 ở điểm nào?",
+        "answer": "风格 là nét riêng của người hoặc tác phẩm; 方式 là cách làm một việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_266",
+    "level": "HSK5",
+    "hanzi": "建筑",
+    "pinyin": "jiànzhù",
+    "display_meaning_vi": "công trình; kiến trúc",
+    "meaning_en": "building; architecture",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "古代建筑 / 建筑物",
+    "collocations": [
+      "建筑物",
+      "古代建筑",
+      "建筑工人"
+    ],
+    "near_synonyms": [
+      {
+        "word": "建立",
+        "difference_vi": "建筑 là nhà hoặc ngành xây dựng; 建立 là thiết lập một quan hệ hoặc tổ chức."
+      }
+    ],
+    "app_synonym_note_vi": "建筑 = công trình, kiến trúc; 建立 = thiết lập.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "河边那座建筑很有特色。",
+        "pinyin": "Hé biān nà zuò jiànzhù hěn yǒu tèsè.",
+        "vi": "Công trình bên sông rất có nét riêng.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一座建筑 dùng 座. Đừng nói 建立一个楼 để chỉ xây nhà."
+    ],
+    "app_note_vi": "Vừa là tòa nhà, vừa là ngành kiến trúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "建筑 nghĩa là gì?",
+        "answer": "công trình; kiến trúc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "河边那座____很有特色。",
+        "answer": "建筑"
+      },
+      {
+        "type": "synonym",
+        "prompt": "建筑 khác 建立 ở điểm nào?",
+        "answer": "建筑 là nhà hoặc ngành xây dựng; 建立 là thiết lập một quan hệ hoặc tổ chức."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_267",
+    "level": "HSK5",
+    "hanzi": "角色",
+    "pinyin": "juésè",
+    "display_meaning_vi": "vai",
+    "meaning_en": "role",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "culture",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "扮演角色 / 主要角色",
+    "collocations": [
+      "扮演角色",
+      "主要角色",
+      "角色分配"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在剧中扮演重要角色。",
+        "pinyin": "Tā zài jù zhōng bànyǎn zhòngyào juésè.",
+        "vi": "Cô ấy đóng một vai quan trọng trong vở.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "角色 đọc juésè. 角 ở đây không đọc jiǎo."
+    ],
+    "app_note_vi": "Vai trong kịch, phim, hoặc vị trí của một người trong một việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "角色 nghĩa là gì?",
+        "answer": "vai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在剧中扮演重要____。",
+        "answer": "角色"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_268",
+    "level": "HSK5",
+    "hanzi": "冠军",
+    "pinyin": "guànjūn",
+    "display_meaning_vi": "quán quân",
+    "meaning_en": "champion",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "sport"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "获得冠军 / 世界冠军",
+    "collocations": [
+      "获得冠军",
+      "世界冠军",
+      "冠军奖杯"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她拿到了比赛的冠军。",
+        "pinyin": "Tā nádào le bǐsài de guànjūn.",
+        "vi": "Cô ấy giành ngôi nhất của giải.",
+        "context": "sport"
+      }
+    ],
+    "common_mistakes_vi": [
+      "冠军 là hạng nhất cả giải. Hạng nhất một vòng nhỏ chưa chắc đã là 冠军."
+    ],
+    "app_note_vi": "Danh từ. 获得冠军 hoặc 拿到冠军 đều là giành ngôi nhất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "冠军 nghĩa là gì?",
+        "answer": "quán quân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她拿到了比赛的____。",
+        "answer": "冠军"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_269",
+    "level": "HSK5",
+    "hanzi": "明星",
+    "pinyin": "míngxīng",
+    "display_meaning_vi": "ngôi sao",
+    "meaning_en": "star; celebrity",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电影明星 / 明星效应",
+    "collocations": [
+      "电影明星",
+      "明星效应",
+      "当明星"
+    ],
+    "near_synonyms": [
+      {
+        "word": "星星",
+        "difference_vi": "明星 là người nổi tiếng; 星星 là ngôi sao trên trời."
+      }
+    ],
+    "app_synonym_note_vi": "明星 = người nổi tiếng; 星星 = sao trên trời.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这位明星很受欢迎。",
+        "pinyin": "Zhè wèi míngxīng hěn shòu huānyíng.",
+        "vi": "Ngôi sao này được nhiều người yêu thích.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一位明星 dùng 位. Không gọi mọi người giỏi là 明星."
+    ],
+    "app_note_vi": "Người nổi tiếng trong phim, sân khấu hoặc thể thao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "明星 nghĩa là gì?",
+        "answer": "ngôi sao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这位____很受欢迎。",
+        "answer": "明星"
+      },
+      {
+        "type": "synonym",
+        "prompt": "明星 khác 星星 ở điểm nào?",
+        "answer": "明星 là người nổi tiếng; 星星 là ngôi sao trên trời."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_270",
+    "level": "HSK5",
+    "hanzi": "导演",
+    "pinyin": "dǎoyǎn",
+    "display_meaning_vi": "đạo diễn",
+    "meaning_en": "director; to direct",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电影导演 / 导演 + 作品",
+    "collocations": [
+      "电影导演",
+      "一位导演",
+      "导演这部戏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这部电影的导演很有名。",
+        "pinyin": "Zhè bù diànyǐng de dǎoyǎn hěn yǒumíng.",
+        "vi": "Đạo diễn bộ phim này rất nổi tiếng.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "导演 vừa là người, vừa là động từ “chỉ đạo một tác phẩm”. Một bộ phim đếm bằng 部."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 导演这部戏 là đạo diễn vở này.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "导演 nghĩa là gì?",
+        "answer": "đạo diễn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这部电影的____很有名。",
+        "answer": "导演"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

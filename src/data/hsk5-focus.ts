@@ -23,6 +23,12 @@ import enriched201To210 from '../../docs/hsk5-batch2-201-210-enriched.json';
 import enriched211To220 from '../../docs/hsk5-batch2-211-220-enriched.json';
 import enriched221To230 from '../../docs/hsk5-batch2-221-230-enriched.json';
 import enriched231To240 from '../../docs/hsk5-batch2-231-240-enriched.json';
+import enriched241To250 from '../../docs/hsk5-batch2-241-250-enriched.json';
+import enriched251To260 from '../../docs/hsk5-batch2-251-260-enriched.json';
+import enriched261To270 from '../../docs/hsk5-batch2-261-270-enriched.json';
+import enriched271To280 from '../../docs/hsk5-batch2-271-280-enriched.json';
+import enriched281To290 from '../../docs/hsk5-batch2-281-290-enriched.json';
+import enriched291To300 from '../../docs/hsk5-batch2-291-300-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -73,6 +79,12 @@ const sourceWords = [
   ...(enriched211To220 as EnrichedWord[]),
   ...(enriched221To230 as EnrichedWord[]),
   ...(enriched231To240 as EnrichedWord[]),
+  ...(enriched241To250 as EnrichedWord[]),
+  ...(enriched251To260 as EnrichedWord[]),
+  ...(enriched261To270 as EnrichedWord[]),
+  ...(enriched271To280 as EnrichedWord[]),
+  ...(enriched281To290 as EnrichedWord[]),
+  ...(enriched291To300 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -243,6 +255,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '24 · 情感',
     topic: '情感与状态 / Cảm xúc và trạng thái',
     color: '#880E4F',
+  },
+  {
+    id: 'HSK5-F1-L25',
+    moduleId: 'hsk5-module-20',
+    title: '25 · 程度',
+    topic: '程度与范围 / Mức độ và phạm vi',
+    color: '#546E7A',
+  },
+  {
+    id: 'HSK5-F1-L26',
+    moduleId: 'hsk5-module-21',
+    title: '26 · 人物',
+    topic: '人物与身份 / Con người và vai trò',
+    color: '#43A047',
+  },
+  {
+    id: 'HSK5-F1-L27',
+    moduleId: 'hsk5-module-22',
+    title: '27 · 文化',
+    topic: '文化与作品 / Văn hóa và tác phẩm',
+    color: '#8D6E63',
+  },
+  {
+    id: 'HSK5-F1-L28',
+    moduleId: 'hsk5-module-23',
+    title: '28 · 位置',
+    topic: '位置与方向 / Vị trí và hướng',
+    color: '#1E88E5',
+  },
+  {
+    id: 'HSK5-F1-L29',
+    moduleId: 'hsk5-module-24',
+    title: '29 · 因果',
+    topic: '因果与判断 / Nguyên nhân và nhận định',
+    color: '#6D4C41',
+  },
+  {
+    id: 'HSK5-F1-L30',
+    moduleId: 'hsk5-module-25',
+    title: '30 · 代价',
+    topic: '价值与代价 / Giá trị và cái giá',
+    color: '#D81B60',
   },
 ];
 
