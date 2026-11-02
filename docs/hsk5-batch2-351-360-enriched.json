@@ -1,0 +1,537 @@
+[
+  {
+    "id": "hsk5_batch2_351",
+    "level": "HSK5",
+    "hanzi": "背",
+    "pinyin": "bèi",
+    "display_meaning_vi": "lưng",
+    "meaning_en": "back",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "后背 / 背影 / 背上",
+    "collocations": [
+      "后背",
+      "背影",
+      "背后"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他的背上有一个书包。",
+        "pinyin": "Tā de bèi shàng yǒu yí gè shūbāo.",
+        "vi": "Trên lưng anh ấy có một chiếc cặp.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghĩa lưng đọc bèi. Vác trên lưng đọc bēi, như 背着孩子. 一个 đọc yí gè."
+    ],
+    "app_note_vi": "Danh từ trong bài này là lưng. Đừng đọc thành bēi khi chỉ bộ phận cơ thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "背 nghĩa là gì?",
+        "answer": "lưng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他的____上有一个书包。",
+        "answer": "背"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_352",
+    "level": "HSK5",
+    "hanzi": "吐",
+    "pinyin": "tǔ",
+    "display_meaning_vi": "nhổ",
+    "meaning_en": "to spit",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吐痰 / 吐字清楚",
+    "collocations": [
+      "吐痰",
+      "吐口水",
+      "吐字清楚"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公共场所请不要吐痰。",
+        "pinyin": "Gōnggòng chǎngsuǒ qǐng búyào tǔ tán.",
+        "vi": "Nơi công cộng xin đừng khạc nhổ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "吐痰 đọc tǔ, là nhổ. Nôn đọc tù, như 吐了. 不要 đọc búyào."
+    ],
+    "app_note_vi": "Động từ. 吐字清楚 là phát âm rõ từng chữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吐 nghĩa là gì?",
+        "answer": "nhổ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公共场所请不要____痰。",
+        "answer": "吐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_353",
+    "level": "HSK5",
+    "hanzi": "闻",
+    "pinyin": "wén",
+    "display_meaning_vi": "ngửi",
+    "meaning_en": "to smell",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "闻一闻 / 闻气味",
+    "collocations": [
+      "闻一闻",
+      "闻气味",
+      "好闻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你闻一闻，牛奶坏了没。",
+        "pinyin": "Nǐ wén yi wén, niúnǎi huài le méi.",
+        "vi": "Bạn ngửi xem sữa đã hỏng chưa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "闻一闻 là ngửi. Trong tin tức, 闻 còn có nghĩa gốc là nghe, như 新闻. Họ 闻 viết hoa Wén."
+    ],
+    "app_note_vi": "Động từ. Đứng một mình trong đời sống thường là ngửi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "闻 nghĩa là gì?",
+        "answer": "ngửi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你____一闻，牛奶坏了没。",
+        "answer": "闻"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_354",
+    "level": "HSK5",
+    "hanzi": "受伤",
+    "pinyin": "shòushāng",
+    "display_meaning_vi": "bị thương",
+    "meaning_en": "to be injured",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "避免受伤 / 轻微受伤",
+    "collocations": [
+      "避免受伤",
+      "轻微受伤",
+      "受伤严重"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他踢球时不小心受伤了。",
+        "pinyin": "Tā tī qiú shí bù xiǎoxīn shòushāng le.",
+        "vi": "Lúc đá bóng anh ấy không cẩn thận nên bị thương.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "受伤 là tổn thương trên cơ thể. Nỗi buồn trong lòng không nói 受伤."
+    ],
+    "app_note_vi": "Động từ. 轻微受伤 là thương nhẹ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "受伤 nghĩa là gì?",
+        "answer": "bị thương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他踢球时不小心____了。",
+        "answer": "受伤"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_355",
+    "level": "HSK5",
+    "hanzi": "呼吸",
+    "pinyin": "hūxī",
+    "display_meaning_vi": "hít thở",
+    "meaning_en": "to breathe",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "深呼吸 / 呼吸困难",
+    "collocations": [
+      "深呼吸",
+      "呼吸困难",
+      "呼吸新鲜空气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "紧张时先调整一下呼吸。",
+        "pinyin": "Jǐnzhāng shí xiān tiáozhěng yíxià hūxī.",
+        "vi": "Khi căng thẳng, hãy điều chỉnh hơi thở trước.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "呼吸 là hít vào và thở ra. Khó thở nói 呼吸困难, nên nói nhẹ nhàng."
+    ],
+    "app_note_vi": "Vừa là động từ vừa là danh từ. 一下 đọc yíxià.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "呼吸 nghĩa là gì?",
+        "answer": "hít thở"
+      },
+      {
+        "type": "cloze",
+        "prompt": "紧张时先调整一下____。",
+        "answer": "呼吸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_356",
+    "level": "HSK5",
+    "hanzi": "救",
+    "pinyin": "jiù",
+    "display_meaning_vi": "cứu",
+    "meaning_en": "to save; to rescue",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "救命 / 救人",
+    "collocations": [
+      "救命",
+      "救人",
+      "救助"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "医生及时救了病人。",
+        "pinyin": "Yīshēng jíshí jiù le bìngrén.",
+        "vi": "Bác sĩ đã cứu bệnh nhân kịp thời.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "救 đi với người hoặc việc cần cứu. Cứu gấp thường nói 抢救."
+    ],
+    "app_note_vi": "Động từ. 救命 là kêu cứu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "救 nghĩa là gì?",
+        "answer": "cứu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "医生及时____了病人。",
+        "answer": "救"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_357",
+    "level": "HSK5",
+    "hanzi": "神经",
+    "pinyin": "shénjīng",
+    "display_meaning_vi": "thần kinh",
+    "meaning_en": "nerve",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "神经紧张 / 神经系统",
+    "collocations": [
+      "神经紧张",
+      "神经系统",
+      "神经科"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "发言前他有点神经紧张。",
+        "pinyin": "Fāyán qián tā yǒudiǎn shénjīng jǐnzhāng.",
+        "vi": "Trước khi phát biểu anh ấy hơi căng thẳng.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "神经紧张 là người đang căng. Không phải mọi lúc lo đều gọi là bệnh thần kinh."
+    ],
+    "app_note_vi": "Danh từ. Vừa là dây thần kinh, vừa tả trạng thái căng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "神经 nghĩa là gì?",
+        "answer": "thần kinh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "发言前他有点____紧张。",
+        "answer": "神经"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_358",
+    "level": "HSK5",
+    "hanzi": "醉",
+    "pinyin": "zuì",
+    "display_meaning_vi": "say",
+    "meaning_en": "drunk; intoxicated",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "喝醉 / 微醉",
+    "collocations": [
+      "喝醉",
+      "微醉",
+      "醉酒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他昨晚喝酒喝醉了。",
+        "pinyin": "Tā zuówǎn hē jiǔ hē zuì le.",
+        "vi": "Tối qua anh ấy uống rượu say.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喝醉 là say rượu. 陶醉 là say mê một cảnh hoặc một việc, không phải say rượu."
+    ],
+    "app_note_vi": "Tính từ. 微醉 là hơi chếnh choáng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "醉 nghĩa là gì?",
+        "answer": "say"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他昨晚喝酒喝____了。",
+        "answer": "醉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_359",
+    "level": "HSK5",
+    "hanzi": "胸",
+    "pinyin": "xiōng",
+    "display_meaning_vi": "ngực",
+    "meaning_en": "chest",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "胸前 / 胸口",
+    "collocations": [
+      "胸口",
+      "胸前",
+      "拍胸脯"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "工作人员把证件别在胸前。",
+        "pinyin": "Gōngzuò rényuán bǎ zhèngjiàn bié zài xiōng qián.",
+        "vi": "Nhân viên gài giấy tờ trước ngực.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "胸 là ngực. Đau ngực kéo dài thì nên đi khám, không tự kết luận."
+    ],
+    "app_note_vi": "Danh từ. 拍胸脯 là vỗ ngực nhận việc, cách nói bóng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胸 nghĩa là gì?",
+        "answer": "ngực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "工作人员把证件别在____前。",
+        "answer": "胸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_360",
+    "level": "HSK5",
+    "hanzi": "毛",
+    "pinyin": "máo",
+    "display_meaning_vi": "lông; hào",
+    "meaning_en": "hair; feather; dime",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "羊毛 / 一毛钱",
+    "collocations": [
+      "毛线",
+      "羊毛",
+      "一毛钱"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小猫身上的毛很软。",
+        "pinyin": "Xiǎo māo shēn shang de máo hěn ruǎn.",
+        "vi": "Lông trên mình mèo con rất mềm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "毛 đọc máo. Họ 毛 viết hoa Máo. Trong tiền, 一毛 là một hào, bằng một phần mười tệ."
+    ],
+    "app_note_vi": "Danh từ. Là lông, sợi len, hoặc đơn vị tiền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "毛 nghĩa là gì?",
+        "answer": "lông; hào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小猫身上的____很软。",
+        "answer": "毛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

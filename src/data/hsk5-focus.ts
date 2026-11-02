@@ -29,6 +29,12 @@ import enriched261To270 from '../../docs/hsk5-batch2-261-270-enriched.json';
 import enriched271To280 from '../../docs/hsk5-batch2-271-280-enriched.json';
 import enriched281To290 from '../../docs/hsk5-batch2-281-290-enriched.json';
 import enriched291To300 from '../../docs/hsk5-batch2-291-300-enriched.json';
+import enriched301To310 from '../../docs/hsk5-batch2-301-310-enriched.json';
+import enriched311To320 from '../../docs/hsk5-batch2-311-320-enriched.json';
+import enriched321To330 from '../../docs/hsk5-batch2-321-330-enriched.json';
+import enriched331To340 from '../../docs/hsk5-batch2-331-340-enriched.json';
+import enriched341To350 from '../../docs/hsk5-batch2-341-350-enriched.json';
+import enriched351To360 from '../../docs/hsk5-batch2-351-360-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -85,6 +91,12 @@ const sourceWords = [
   ...(enriched271To280 as EnrichedWord[]),
   ...(enriched281To290 as EnrichedWord[]),
   ...(enriched291To300 as EnrichedWord[]),
+  ...(enriched301To310 as EnrichedWord[]),
+  ...(enriched311To320 as EnrichedWord[]),
+  ...(enriched321To330 as EnrichedWord[]),
+  ...(enriched331To340 as EnrichedWord[]),
+  ...(enriched341To350 as EnrichedWord[]),
+  ...(enriched351To360 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -297,6 +309,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '30 · 代价',
     topic: '价值与代价 / Giá trị và cái giá',
     color: '#D81B60',
+  },
+  {
+    id: 'HSK5-F1-L31',
+    moduleId: 'hsk5-module-26',
+    title: '31 · 项目',
+    topic: '项目与部门 / Dự án và phòng ban',
+    color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L32',
+    moduleId: 'hsk5-module-27',
+    title: '32 · 思想',
+    topic: '思想与创造 / Tư tưởng và sáng tạo',
+    color: '#5E35B1',
+  },
+  {
+    id: 'HSK5-F1-L33',
+    moduleId: 'hsk5-module-28',
+    title: '33 · 情绪',
+    topic: '情绪与感激 / Tâm trạng và lòng biết ơn',
+    color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L34',
+    moduleId: 'hsk5-module-29',
+    title: '34 · 出行',
+    topic: '出行与到达 / Đi lại và đến nơi',
+    color: '#0277BD',
+  },
+  {
+    id: 'HSK5-F1-L35',
+    moduleId: 'hsk5-module-30',
+    title: '35 · 饮食',
+    topic: '饮食与味道 / Ăn uống và mùi vị',
+    color: '#EF6C00',
+  },
+  {
+    id: 'HSK5-F1-L36',
+    moduleId: 'hsk5-module-31',
+    title: '36 · 身体',
+    topic: '身体与感觉 / Cơ thể và cảm giác',
+    color: '#00897B',
   },
 ];
 

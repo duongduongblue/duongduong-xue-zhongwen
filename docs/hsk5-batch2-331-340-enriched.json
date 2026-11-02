@@ -1,0 +1,555 @@
+[
+  {
+    "id": "hsk5_batch2_331",
+    "level": "HSK5",
+    "hanzi": "到达",
+    "pinyin": "dàodá",
+    "display_meaning_vi": "đến nơi",
+    "meaning_en": "to arrive",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "到达 + 地点",
+    "collocations": [
+      "到达机场",
+      "安全到达",
+      "到达时间"
+    ],
+    "near_synonyms": [
+      {
+        "word": "达到",
+        "difference_vi": "到达 là tới một nơi; 达到 là đạt một mức hoặc mục tiêu."
+      }
+    ],
+    "app_synonym_note_vi": "到达 = đến nơi; 达到 = đạt mức.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "火车晚上八点到达北京。",
+        "pinyin": "Huǒchē wǎnshang bā diǎn dàodá Běijīng.",
+        "vi": "Tàu tối tám giờ đến Bắc Kinh.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Địa điểm dùng 到达. Mục tiêu dùng 达到, không đảo hai từ."
+    ],
+    "app_note_vi": "Động từ trang trọng hơn 到. Hay gặp trong lịch tàu xe và thông báo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "到达 nghĩa là gì?",
+        "answer": "đến nơi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "火车晚上八点____北京。",
+        "answer": "到达"
+      },
+      {
+        "type": "synonym",
+        "prompt": "到达 khác 达到 ở điểm nào?",
+        "answer": "到达 là tới một nơi; 达到 là đạt một mức hoặc mục tiêu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_332",
+    "level": "HSK5",
+    "hanzi": "驾驶",
+    "pinyin": "jiàshǐ",
+    "display_meaning_vi": "lái",
+    "meaning_en": "to drive; to pilot",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "驾驶 + 汽车 / 驾驶证",
+    "collocations": [
+      "驾驶证",
+      "驾驶汽车",
+      "安全驾驶"
+    ],
+    "near_synonyms": [
+      {
+        "word": "开",
+        "difference_vi": "驾驶 trang trọng, dùng cho ô tô, tàu hoặc máy bay; 开 là lái trong lời nói hàng ngày."
+      }
+    ],
+    "app_synonym_note_vi": "驾驶 = lái, trang trọng; 开 = lái, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他有十年的驾驶经验。",
+        "pinyin": "Tā yǒu shí nián de jiàshǐ jīngyàn.",
+        "vi": "Anh ấy có mười năm kinh nghiệm lái xe.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "驾驶证 là giấy phép lái. Không nói 开证."
+    ],
+    "app_note_vi": "Động từ. 安全驾驶 là lái an toàn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "驾驶 nghĩa là gì?",
+        "answer": "lái"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他有十年的____经验。",
+        "answer": "驾驶"
+      },
+      {
+        "type": "synonym",
+        "prompt": "驾驶 khác 开 ở điểm nào?",
+        "answer": "驾驶 trang trọng, dùng cho ô tô, tàu hoặc máy bay; 开 là lái trong lời nói hàng ngày."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_333",
+    "level": "HSK5",
+    "hanzi": "高速",
+    "pinyin": "gāosù",
+    "display_meaning_vi": "cao tốc; tốc độ cao",
+    "meaning_en": "high-speed; expressway",
+    "part_of_speech": "adjective/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "高速公路 / 高速发展",
+    "collocations": [
+      "高速公路",
+      "高速列车",
+      "高速发展"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们走高速公路去机场。",
+        "pinyin": "Wǒmen zǒu gāosù gōnglù qù jīchǎng.",
+        "vi": "Chúng tôi đi đường cao tốc ra sân bay.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "高速 nói tắt có thể là đường cao tốc. 高速发展 là phát triển rất nhanh, không phải con đường."
+    ],
+    "app_note_vi": "Vừa là tốc độ cao, vừa là cách nói tắt của 高速公路.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "高速 nghĩa là gì?",
+        "answer": "cao tốc; tốc độ cao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们走____公路去机场。",
+        "answer": "高速"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_334",
+    "level": "HSK5",
+    "hanzi": "一路",
+    "pinyin": "yīlù",
+    "display_meaning_vi": "suốt đường",
+    "meaning_en": "all the way; the whole journey",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一路上 / 一路平安",
+    "collocations": [
+      "一路平安",
+      "一路顺风",
+      "一路上"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一路上大家都在聊天。",
+        "pinyin": "Yīlù shàng dàjiā dōu zài liáotiān.",
+        "vi": "Suốt đường mọi người đều trò chuyện.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一路平安 là lời chúc đi đường bình an, không phải “một con đường an toàn”."
+    ],
+    "app_note_vi": "Suốt chặng đi. Cũng là lời chúc khi ai đó lên đường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "一路 nghĩa là gì?",
+        "answer": "suốt đường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____上大家都在聊天。",
+        "answer": "一路"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_335",
+    "level": "HSK5",
+    "hanzi": "乘",
+    "pinyin": "chéng",
+    "display_meaning_vi": "đi bằng; nhân",
+    "meaning_en": "to ride; to multiply",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "乘车 / 乘飞机 / 乘以",
+    "collocations": [
+      "乘车",
+      "乘飞机",
+      "乘以"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们乘地铁去博物馆。",
+        "pinyin": "Wǒmen chéng dìtiě qù bówùguǎn.",
+        "vi": "Chúng tôi đi tàu điện ngầm đến bảo tàng.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "乘 đọc chéng. shèng là nghĩa cổ chỉ xe ngựa, không dùng ở đây. 三乘以四 là ba nhân bốn."
+    ],
+    "app_note_vi": "Đi bằng một phương tiện, hoặc phép nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "乘 nghĩa là gì?",
+        "answer": "đi bằng; nhân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们____地铁去博物馆。",
+        "answer": "乘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_336",
+    "level": "HSK5",
+    "hanzi": "绕",
+    "pinyin": "rào",
+    "display_meaning_vi": "đi vòng; quấn",
+    "meaning_en": "to detour; to wind around",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "绕路 / 绕过",
+    "collocations": [
+      "绕路",
+      "绕远",
+      "绕圈子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条路绕过了市中心。",
+        "pinyin": "Zhè tiáo lù rào guò le shìzhōngxīn.",
+        "vi": "Con đường này vòng qua trung tâm thành phố.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "绕圈子 là nói vòng vo. 绕路 là đi đường vòng."
+    ],
+    "app_note_vi": "Động từ. Đọc rào, không đọc rǎo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "绕 nghĩa là gì?",
+        "answer": "đi vòng; quấn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条路____过了市中心。",
+        "answer": "绕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_337",
+    "level": "HSK5",
+    "hanzi": "挡",
+    "pinyin": "dǎng",
+    "display_meaning_vi": "chắn",
+    "meaning_en": "to block",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "travel",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "挡住 / 挡雨",
+    "collocations": [
+      "挡住",
+      "挡雨",
+      "别挡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "前面的人挡住了我的视线。",
+        "pinyin": "Qiánmiàn de rén dǎng zhù le wǒ de shìxiàn.",
+        "vi": "Người phía trước chắn tầm nhìn của tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "挡 đọc dǎng khi nghĩa là chắn. Đừng đọc dàng."
+    ],
+    "app_note_vi": "Động từ. 别挡路 là đừng chắn đường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "挡 nghĩa là gì?",
+        "answer": "chắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "前面的人____住了我的视线。",
+        "answer": "挡"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_338",
+    "level": "HSK5",
+    "hanzi": "逃",
+    "pinyin": "táo",
+    "display_meaning_vi": "trốn; chạy thoát",
+    "meaning_en": "to escape; to run away",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "逃走 / 逃跑",
+    "collocations": [
+      "逃走",
+      "逃跑",
+      "逃课"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "那只鸟从笼子里逃走了。",
+        "pinyin": "Nà zhī niǎo cóng lóngzi lǐ táo zǒu le.",
+        "vi": "Con chim đó đã trốn khỏi lồng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "逃课 là trốn học. Trốn một vấn đề trừu tượng vẫn dùng 逃避, không phải lúc nào cũng là 逃."
+    ],
+    "app_note_vi": "Động từ. 逃走 là chạy đi cho thoát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "逃 nghĩa là gì?",
+        "answer": "trốn; chạy thoát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "那只鸟从笼子里____走了。",
+        "answer": "逃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_339",
+    "level": "HSK5",
+    "hanzi": "滚",
+    "pinyin": "gǔn",
+    "display_meaning_vi": "lăn",
+    "meaning_en": "to roll",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "滚下去 / 滚动",
+    "collocations": [
+      "滚动",
+      "滚下去",
+      "打滚"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "球从台阶上滚了下去。",
+        "pinyin": "Qiú cóng táijiē shàng gǔn le xiàqù.",
+        "vi": "Quả bóng lăn từ bậc thềm xuống.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bảo người khác 滚 là đuổi rất thô. Không dùng với người."
+    ],
+    "app_note_vi": "Động từ cho vật tròn tự lăn, hoặc nước sôi sùng sục.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "滚 nghĩa là gì?",
+        "answer": "lăn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "球从台阶上____了下去。",
+        "answer": "滚"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_340",
+    "level": "HSK5",
+    "hanzi": "踩",
+    "pinyin": "cǎi",
+    "display_meaning_vi": "giẫm; đạp",
+    "meaning_en": "to step on",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "踩到 / 踩刹车",
+    "collocations": [
+      "踩到",
+      "踩刹车",
+      "别踩"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下车时别踩到水坑。",
+        "pinyin": "Xià chē shí bié cǎi dào shuǐkēng.",
+        "vi": "Lúc xuống xe đừng giẫm vào vũng nước.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "踩 là dùng chân đè lên. Đạp cửa nói 踢, không phải 踩."
+    ],
+    "app_note_vi": "Động từ. 踩刹车 là đạp phanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "踩 nghĩa là gì?",
+        "answer": "giẫm; đạp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下车时别____到水坑。",
+        "answer": "踩"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

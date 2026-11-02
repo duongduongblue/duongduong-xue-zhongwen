@@ -1,0 +1,587 @@
+[
+  {
+    "id": "hsk5_batch2_311",
+    "level": "HSK5",
+    "hanzi": "创造",
+    "pinyin": "chuàngzào",
+    "display_meaning_vi": "sáng tạo; tạo ra",
+    "meaning_en": "to create",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "think",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "创造 + 机会 / 价值",
+    "collocations": [
+      "创造机会",
+      "创造价值",
+      "创造力"
+    ],
+    "near_synonyms": [
+      {
+        "word": "制造",
+        "difference_vi": "创造 là làm ra cái trước đó chưa có, kể cả cơ hội; 制造 là sản xuất một đồ vật."
+      }
+    ],
+    "app_synonym_note_vi": "创造 = tạo ra cái mới; 制造 = sản xuất đồ vật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要为自己创造练习的机会。",
+        "pinyin": "Wǒmen yào wèi zìjǐ chuàngzào liànxí de jīhuì.",
+        "vi": "Chúng ta phải tự tạo cơ hội luyện tập.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "创造 không dùng cho việc lắp một cái máy có sẵn. Việc đó nói 制造 hoặc 做."
+    ],
+    "app_note_vi": "Động từ. 创造力 là sức sáng tạo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "创造 nghĩa là gì?",
+        "answer": "sáng tạo; tạo ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要为自己____练习的机会。",
+        "answer": "创造"
+      },
+      {
+        "type": "synonym",
+        "prompt": "创造 khác 制造 ở điểm nào?",
+        "answer": "创造 là làm ra cái trước đó chưa có, kể cả cơ hội; 制造 là sản xuất một đồ vật."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_312",
+    "level": "HSK5",
+    "hanzi": "思想",
+    "pinyin": "sīxiǎng",
+    "display_meaning_vi": "tư tưởng",
+    "meaning_en": "thought; thinking",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "思想 + 准备 / 负担",
+    "collocations": [
+      "思想准备",
+      "思想负担",
+      "解放思想"
+    ],
+    "near_synonyms": [
+      {
+        "word": "想法",
+        "difference_vi": "思想 là cả cách nghĩ, khá trang trọng; 想法 là một ý cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "思想 = tư tưởng; 想法 = một ý nghĩ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "那本书改变了他的思想。",
+        "pinyin": "Nà běn shū gǎibiàn le tā de sīxiǎng.",
+        "vi": "Cuốn sách đó đã đổi cách nghĩ của anh ấy.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个想法 nhỏ không nâng thành 思想. 思想是 cả hệ quan niệm."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp trong bài đọc về quan niệm và chuẩn bị tinh thần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "思想 nghĩa là gì?",
+        "answer": "tư tưởng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "那本书改变了他的____。",
+        "answer": "思想"
+      },
+      {
+        "type": "synonym",
+        "prompt": "思想 khác 想法 ở điểm nào?",
+        "answer": "思想 là cả cách nghĩ, khá trang trọng; 想法 là một ý cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_313",
+    "level": "HSK5",
+    "hanzi": "想象",
+    "pinyin": "xiǎngxiàng",
+    "display_meaning_vi": "tưởng tượng",
+    "meaning_en": "to imagine; imagination",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "难以想象 / 想象力",
+    "collocations": [
+      "难以想象",
+      "想象力",
+      "想象空间"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "很难想象没有电的日子。",
+        "pinyin": "Hěn nán xiǎngxiàng méiyǒu diàn de rìzi.",
+        "vi": "Khó tưởng tượng những ngày không có điện.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "想象 là hình dung điều không ở trước mắt. Nhớ một việc đã qua là 记得 hoặc 回忆."
+    ],
+    "app_note_vi": "Vừa là động từ vừa là danh từ. 难以想象 là khó mà hình dung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "想象 nghĩa là gì?",
+        "answer": "tưởng tượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "很难____没有电的日子。",
+        "answer": "想象"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_314",
+    "level": "HSK5",
+    "hanzi": "记忆",
+    "pinyin": "jìyì",
+    "display_meaning_vi": "trí nhớ; ký ức",
+    "meaning_en": "memory; to remember",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "记忆力 / 美好记忆",
+    "collocations": [
+      "记忆力",
+      "美好记忆",
+      "童年记忆"
+    ],
+    "near_synonyms": [
+      {
+        "word": "记得",
+        "difference_vi": "记忆 là trí nhớ hoặc một ký ức; 记得 là nhớ một việc cụ thể, động từ thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "记忆 = ký ức, trí nhớ; 记得 = nhớ một việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这首歌唤起了很多记忆。",
+        "pinyin": "Zhè shǒu gē huànqǐ le hěn duō jìyì.",
+        "vi": "Bài hát này gợi lại rất nhiều ký ức.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng viết 记忆 thành 纪录. 纪录 là kỷ lục."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 记忆力 là khả năng nhớ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "记忆 nghĩa là gì?",
+        "answer": "trí nhớ; ký ức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这首歌唤起了很多____。",
+        "answer": "记忆"
+      },
+      {
+        "type": "synonym",
+        "prompt": "记忆 khác 记得 ở điểm nào?",
+        "answer": "记忆 là trí nhớ hoặc một ký ức; 记得 là nhớ một việc cụ thể, động từ thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_315",
+    "level": "HSK5",
+    "hanzi": "相关",
+    "pinyin": "xiāngguān",
+    "display_meaning_vi": "liên quan",
+    "meaning_en": "related; relevant",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "think",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "相关 + 说明 / 文件",
+    "collocations": [
+      "密切相关",
+      "相关部门",
+      "相关文件"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请先阅读相关说明。",
+        "pinyin": "Qǐng xiān yuèdú xiāngguān shuōmíng.",
+        "vi": "Xin đọc phần giải thích liên quan trước.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "相关 đứng trước danh từ. “Liên quan đến…” còn nói 与…相关."
+    ],
+    "app_note_vi": "Tính từ trang trọng. Hay gặp trong thông báo và tài liệu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "相关 nghĩa là gì?",
+        "answer": "liên quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请先阅读____说明。",
+        "answer": "相关"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_316",
+    "level": "HSK5",
+    "hanzi": "合理",
+    "pinyin": "hélǐ",
+    "display_meaning_vi": "hợp lý",
+    "meaning_en": "reasonable; rational",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "think",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "合理 + 安排 / 要求",
+    "collocations": [
+      "合理安排",
+      "合理要求",
+      "合情合理"
+    ],
+    "near_synonyms": [
+      {
+        "word": "合法",
+        "difference_vi": "合理 là có lý, nghe xuôi; 合法 là đúng luật, chưa chắc hai bên trùng nhau."
+      }
+    ],
+    "app_synonym_note_vi": "合理 = hợp lý; 合法 = đúng luật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个价格还算合理。",
+        "pinyin": "Zhège jiàgé hái suàn hélǐ.",
+        "vi": "Giá này vẫn còn hợp lý.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hợp lý chưa chắc hợp pháp. Hai chữ không thay được cho nhau."
+    ],
+    "app_note_vi": "Tính từ. 还算合理 là tạm gọi là chấp nhận được.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "合理 nghĩa là gì?",
+        "answer": "hợp lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个价格还算____。",
+        "answer": "合理"
+      },
+      {
+        "type": "synonym",
+        "prompt": "合理 khác 合法 ở điểm nào?",
+        "answer": "合理 là có lý, nghe xuôi; 合法 là đúng luật, chưa chắc hai bên trùng nhau."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_317",
+    "level": "HSK5",
+    "hanzi": "一致",
+    "pinyin": "yīzhì",
+    "display_meaning_vi": "nhất trí; giống nhau",
+    "meaning_en": "unanimous; consistent",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "think",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "一致同意 / 不一致",
+    "collocations": [
+      "一致同意",
+      "一致通过",
+      "不一致"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "大家一致同意这个安排。",
+        "pinyin": "Dàjiā yīzhì tóngyì zhège ānpái.",
+        "vi": "Mọi người nhất trí với cách sắp xếp này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一致 là cùng một ý. Một người đồng ý không cần nói 一致, phải là nhiều người hoặc hai phía khớp nhau."
+    ],
+    "app_note_vi": "Tính từ. 不一致 là không khớp, không thống nhất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "一致 nghĩa là gì?",
+        "answer": "nhất trí; giống nhau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "大家____同意这个安排。",
+        "answer": "一致"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_318",
+    "level": "HSK5",
+    "hanzi": "角度",
+    "pinyin": "jiǎodù",
+    "display_meaning_vi": "góc độ",
+    "meaning_en": "angle; point of view",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "从…角度 / 换个角度",
+    "collocations": [
+      "角度不同",
+      "从不同角度",
+      "多角度"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "换个角度看，问题就简单了。",
+        "pinyin": "Huàn gè jiǎodù kàn, wèntí jiù jiǎndān le.",
+        "vi": "Đổi góc nhìn thì vấn đề trở nên đơn giản.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "角度 vừa là góc hình học, vừa là cách nhìn. Trong bài đọc thường là cách nhìn."
+    ],
+    "app_note_vi": "Danh từ. 从不同角度 là từ nhiều phía.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "角度 nghĩa là gì?",
+        "answer": "góc độ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "换个____看，问题就简单了。",
+        "answer": "角度"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_319",
+    "level": "HSK5",
+    "hanzi": "时刻",
+    "pinyin": "shíkè",
+    "display_meaning_vi": "thời khắc; luôn luôn",
+    "meaning_en": "moment; constantly",
+    "part_of_speech": "noun/adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "think",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "关键时刻 / 时刻 + 动词",
+    "collocations": [
+      "关键时刻",
+      "时刻准备",
+      "时刻注意"
+    ],
+    "near_synonyms": [
+      {
+        "word": "时候",
+        "difference_vi": "时刻 là một thời điểm quan trọng, hoặc “lúc nào cũng”; 时候 là lúc, rộng và thông dụng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "时刻 = thời khắc, hoặc luôn luôn; 时候 = lúc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "关键时刻要保持冷静。",
+        "pinyin": "Guānjiàn shíkè yào bǎochí lěngjìng.",
+        "vi": "Giờ phút then chốt phải giữ bình tĩnh.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "时刻准备 là luôn sẵn sàng, không phải “một giờ cụ thể để chuẩn bị”."
+    ],
+    "app_note_vi": "Hai hướng: một thời điểm, và phó từ “luôn”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "时刻 nghĩa là gì?",
+        "answer": "thời khắc; luôn luôn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "关键____要保持冷静。",
+        "answer": "时刻"
+      },
+      {
+        "type": "synonym",
+        "prompt": "时刻 khác 时候 ở điểm nào?",
+        "answer": "时刻 là một thời điểm quan trọng, hoặc “lúc nào cũng”; 时候 là lúc, rộng và thông dụng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_320",
+    "level": "HSK5",
+    "hanzi": "类",
+    "pinyin": "lèi",
+    "display_meaning_vi": "loại",
+    "meaning_en": "kind; category",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "数词 + 类 / 种类",
+    "collocations": [
+      "种类",
+      "类型",
+      "同类"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种问题分成两类。",
+        "pinyin": "Zhè zhǒng wèntí fēn chéng liǎng lèi.",
+        "vi": "Loại vấn đề này chia thành hai nhóm.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "两类 đã đủ, không nói 两个类. 类 cũng nằm trong 种类 và 类似."
+    ],
+    "app_note_vi": "Danh từ hoặc lượng từ loại. Đứng sau số đếm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "类 nghĩa là gì?",
+        "answer": "loại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种问题分成两____。",
+        "answer": "类"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
