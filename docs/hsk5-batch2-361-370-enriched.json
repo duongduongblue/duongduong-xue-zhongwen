@@ -1,0 +1,575 @@
+[
+  {
+    "id": "hsk5_batch2_361",
+    "level": "HSK5",
+    "hanzi": "执行",
+    "pinyin": "zhíxíng",
+    "display_meaning_vi": "chấp hành",
+    "meaning_en": "to carry out",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "按计划执行 / 严格执行",
+    "collocations": [
+      "严格执行",
+      "执行力",
+      "执行任务"
+    ],
+    "near_synonyms": [
+      {
+        "word": "做",
+        "difference_vi": "执行 là làm đúng việc đã định; 做 chỉ là làm, không nhấn kế hoạch."
+      }
+    ],
+    "app_synonym_note_vi": "执行 = chấp hành kế hoạch; 做 = làm nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请按计划执行任务。",
+        "pinyin": "Qǐng àn jìhuà zhíxíng rènwù.",
+        "vi": "Xin làm nhiệm vụ đúng kế hoạch.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "执行 đi với kế hoạch, quy định hoặc nhiệm vụ đã có, không dùng cho một việc tùy hứng."
+    ],
+    "app_note_vi": "Động từ trang trọng. 执行力 là khả năng làm cho xong.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "执行 nghĩa là gì?",
+        "answer": "chấp hành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请按计划____任务。",
+        "answer": "执行"
+      },
+      {
+        "type": "synonym",
+        "prompt": "执行 khác 做 ở điểm nào?",
+        "answer": "执行 là làm đúng việc đã định; 做 chỉ là làm, không nhấn kế hoạch."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_362",
+    "level": "HSK5",
+    "hanzi": "文件",
+    "pinyin": "wénjiàn",
+    "display_meaning_vi": "tài liệu",
+    "meaning_en": "document; file",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一份文件 / 电子文件",
+    "collocations": [
+      "一份文件",
+      "电子文件",
+      "文件柜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "重要文件要再备份一份。",
+        "pinyin": "Zhòngyào wénjiàn yào zài bèifèn yí fèn.",
+        "vi": "Tài liệu quan trọng phải sao lưu thêm một bản.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "文件 vừa là giấy tờ vừa là tệp trên máy. 一份 đọc yí fèn."
+    ],
+    "app_note_vi": "Danh từ. 备份是 sao lưu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "文件 nghĩa là gì?",
+        "answer": "tài liệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "重要____要再备份一份。",
+        "answer": "文件"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_363",
+    "level": "HSK5",
+    "hanzi": "领导",
+    "pinyin": "lǐngdǎo",
+    "display_meaning_vi": "lãnh đạo",
+    "meaning_en": "leader; to lead",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "formal",
+    "grammar_pattern": "领导同意 / 领导能力",
+    "collocations": [
+      "领导能力",
+      "领导下",
+      "领导班子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "领导同意了这个方案。",
+        "pinyin": "Lǐngdǎo tóngyì le zhège fāng'àn.",
+        "vi": "Lãnh đạo đã đồng ý phương án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "领导 vừa là người đứng đầu, vừa là việc dẫn dắt. Gọi một người thì nói 一位领导."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. Hay gặp trong công sở.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "领导 nghĩa là gì?",
+        "answer": "lãnh đạo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____同意了这个方案。",
+        "answer": "领导"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_364",
+    "level": "HSK5",
+    "hanzi": "寻找",
+    "pinyin": "xúnzhǎo",
+    "display_meaning_vi": "tìm kiếm",
+    "meaning_en": "to look for; to seek",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "寻找 + 机会 / 工作",
+    "collocations": [
+      "寻找机会",
+      "寻找工作",
+      "仔细寻找"
+    ],
+    "near_synonyms": [
+      {
+        "word": "找",
+        "difference_vi": "寻找 trang trọng hơn và thường tìm thứ chưa thấy ngay; 找 thông dụng, kể cả tìm một người ở gần."
+      }
+    ],
+    "app_synonym_note_vi": "寻找 = tìm kiếm, trang trọng; 找 = tìm, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他正在寻找一份更合适的工作。",
+        "pinyin": "Tā zhèngzài xúnzhǎo yí fèn gèng héshì de gōngzuò.",
+        "vi": "Anh ấy đang tìm một công việc hợp hơn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一份 đọc yí fèn. 寻找 không thay cho 找到. 找到 là đã tìm thấy."
+    ],
+    "app_note_vi": "Động từ. Nhấn việc tìm có chủ đích.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "寻找 nghĩa là gì?",
+        "answer": "tìm kiếm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他正在____一份更合适的工作。",
+        "answer": "寻找"
+      },
+      {
+        "type": "synonym",
+        "prompt": "寻找 khác 找 ở điểm nào?",
+        "answer": "寻找 trang trọng hơn và thường tìm thứ chưa thấy ngay; 找 thông dụng, kể cả tìm một người ở gần."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_365",
+    "level": "HSK5",
+    "hanzi": "设备",
+    "pinyin": "shèbèi",
+    "display_meaning_vi": "thiết bị",
+    "meaning_en": "equipment",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "办公设备 / 设备维护",
+    "collocations": [
+      "医疗设备",
+      "办公设备",
+      "设备维护"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "实验室买了新设备。",
+        "pinyin": "Shíyànshì mǎi le xīn shèbèi.",
+        "vi": "Phòng thí nghiệm đã mua thiết bị mới.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "设备 là máy và dụng cụ, không phải một món đồ dùng nhỏ. Bút không gọi là 设备."
+    ],
+    "app_note_vi": "Danh từ. Thường dùng cho máy móc của cơ quan, bệnh viện hoặc phòng thí nghiệm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "设备 nghĩa là gì?",
+        "answer": "thiết bị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "实验室买了新____。",
+        "answer": "设备"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_366",
+    "level": "HSK5",
+    "hanzi": "期间",
+    "pinyin": "qījiān",
+    "display_meaning_vi": "trong khoảng đó",
+    "meaning_en": "during; period",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "formal",
+    "grammar_pattern": "假期期间 / 在此期间",
+    "collocations": [
+      "在此期间",
+      "会议期间",
+      "试用期间"
+    ],
+    "near_synonyms": [
+      {
+        "word": "时候",
+        "difference_vi": "期间 là cả một khoảng đã nêu, như kỳ nghỉ hoặc cuộc họp; 时候 là một lúc, rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "期间 = trong suốt khoảng đó; 时候 = lúc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "假期期间书店照常开。",
+        "pinyin": "Jiàqī qījiān shūdiàn zhàocháng kāi.",
+        "vi": "Trong kỳ nghỉ hiệu sách vẫn mở.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "期间 đứng sau khoảng thời gian, không mở đầu câu một mình."
+    ],
+    "app_note_vi": "Danh từ. 在此期间 là trong thời gian này.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "期间 nghĩa là gì?",
+        "answer": "trong khoảng đó"
+      },
+      {
+        "type": "cloze",
+        "prompt": "假期____书店照常开。",
+        "answer": "期间"
+      },
+      {
+        "type": "synonym",
+        "prompt": "期间 khác 时候 ở điểm nào?",
+        "answer": "期间 là cả một khoảng đã nêu, như kỳ nghỉ hoặc cuộc họp; 时候 là một lúc, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_367",
+    "level": "HSK5",
+    "hanzi": "程序",
+    "pinyin": "chéngxù",
+    "display_meaning_vi": "quy trình; chương trình",
+    "meaning_en": "procedure; program",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "按程序 / 计算机程序",
+    "collocations": [
+      "法律程序",
+      "工作程序",
+      "计算机程序"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "报名要按程序来。",
+        "pinyin": "Bàomíng yào àn chéngxù lái.",
+        "vi": "Đăng ký phải làm đúng quy trình.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "程序 vừa là các bước thủ tục, vừa là chương trình máy tính. Nhìn câu để tách hai nghĩa."
+    ],
+    "app_note_vi": "Danh từ. 按程序来 là làm lần lượt theo bước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "程序 nghĩa là gì?",
+        "answer": "quy trình; chương trình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "报名要按____来。",
+        "answer": "程序"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_368",
+    "level": "HSK5",
+    "hanzi": "状况",
+    "pinyin": "zhuàngkuàng",
+    "display_meaning_vi": "tình hình",
+    "meaning_en": "condition; situation",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "健康状况 / 经济状况",
+    "collocations": [
+      "健康状况",
+      "经济状况",
+      "实际状况"
+    ],
+    "near_synonyms": [
+      {
+        "word": "状态",
+        "difference_vi": "状况 là tình hình khách quan của sức khỏe, kinh tế hoặc việc làm; 状态 hay nói phong độ của một người hoặc máy."
+      }
+    ],
+    "app_synonym_note_vi": "状况 = tình hình; 状态 = trạng thái, phong độ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "工厂的经营状况不好。",
+        "pinyin": "Gōngchǎng de jīngyíng zhuàngkuàng bù hǎo.",
+        "vi": "Tình hình kinh doanh của nhà máy không tốt.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "状况不好 là tình hình không tốt, không phải tâm trạng một lúc. Tâm trạng nói 情绪 hoặc 状态."
+    ],
+    "app_note_vi": "Danh từ. Hay đi với sức khỏe, kinh tế và kinh doanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "状况 nghĩa là gì?",
+        "answer": "tình hình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "工厂的经营____不好。",
+        "answer": "状况"
+      },
+      {
+        "type": "synonym",
+        "prompt": "状况 khác 状态 ở điểm nào?",
+        "answer": "状况 là tình hình khách quan của sức khỏe, kinh tế hoặc việc làm; 状态 hay nói phong độ của một người hoặc máy."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_369",
+    "level": "HSK5",
+    "hanzi": "所",
+    "pinyin": "suǒ",
+    "display_meaning_vi": "ngôi",
+    "meaning_en": "measure for schools and hospitals",
+    "part_of_speech": "measure",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一所 + 学校 / 医院",
+    "collocations": [
+      "一所学校",
+      "一所医院",
+      "两所中学"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "镇上新办了一所中学。",
+        "pinyin": "Zhèn shàng xīn bàn le yì suǒ zhōngxué.",
+        "vi": "Trên trấn mới mở một trường cấp hai.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "所 đếm trường, bệnh viện, nhà. 一所 đọc yì suǒ vì 所 là thanh 3. Không dùng 所 để đếm người."
+    ],
+    "app_note_vi": "Lượng từ. Cũng gặp trong 所以, nhưng bài này học cách đếm cơ quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "所 nghĩa là gì?",
+        "answer": "ngôi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "镇上新办了一____中学。",
+        "answer": "所"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_370",
+    "level": "HSK5",
+    "hanzi": "系",
+    "pinyin": "xì",
+    "display_meaning_vi": "khoa",
+    "meaning_en": "department (of a university)",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "历史系 / 系主任",
+    "collocations": [
+      "中文系",
+      "历史系",
+      "系主任"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "哥哥在大学读历史系。",
+        "pinyin": "Gēge zài dàxué dú lìshǐ xì.",
+        "vi": "Anh trai học khoa lịch sử ở đại học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khoa trong trường đọc xì. Buộc, như 系鞋带, đọc jì. Đừng đọc khoa thành jì."
+    ],
+    "app_note_vi": "Danh từ. 系主任 là trưởng khoa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "系 nghĩa là gì?",
+        "answer": "khoa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "哥哥在大学读历史____。",
+        "answer": "系"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

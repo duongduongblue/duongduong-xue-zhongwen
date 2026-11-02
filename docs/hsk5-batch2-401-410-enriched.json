@@ -1,0 +1,545 @@
+[
+  {
+    "id": "hsk5_batch2_401",
+    "level": "HSK5",
+    "hanzi": "欣赏",
+    "pinyin": "xīnshǎng",
+    "display_meaning_vi": "thưởng thức",
+    "meaning_en": "to appreciate; to enjoy",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "欣赏音乐 / 欣赏风景",
+    "collocations": [
+      "欣赏音乐",
+      "欣赏风景",
+      "很欣赏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们坐在海边欣赏日落。",
+        "pinyin": "Wǒmen zuò zài hǎibiān xīnshǎng rìluò.",
+        "vi": "Chúng tôi ngồi bên biển ngắm hoàng hôn.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "欣赏 vừa là thưởng thức cái đẹp, vừa là quý trọng một người: 我很欣赏他."
+    ],
+    "app_note_vi": "Động từ. Không phải chỉ nhìn qua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "欣赏 nghĩa là gì?",
+        "answer": "thưởng thức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们坐在海边____日落。",
+        "answer": "欣赏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_402",
+    "level": "HSK5",
+    "hanzi": "娱乐",
+    "pinyin": "yúlè",
+    "display_meaning_vi": "giải trí",
+    "meaning_en": "entertainment; to entertain",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "娱乐活动 / 娱乐场所",
+    "collocations": [
+      "娱乐活动",
+      "娱乐场所",
+      "娱乐新闻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公园里有很多娱乐设施。",
+        "pinyin": "Gōngyuán lǐ yǒu hěn duō yúlè shèshī.",
+        "vi": "Trong công viên có nhiều chỗ vui chơi.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "乐 đọc lè. Không đọc yuè. 音乐 mới đọc yuè."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 娱乐场所 là nơi giải trí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "娱乐 nghĩa là gì?",
+        "answer": "giải trí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公园里有很多____设施。",
+        "answer": "娱乐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_403",
+    "level": "HSK5",
+    "hanzi": "经典",
+    "pinyin": "jīngdiǎn",
+    "display_meaning_vi": "kinh điển",
+    "meaning_en": "classic",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "经典作品 / 很经典",
+    "collocations": [
+      "经典作品",
+      "经典台词",
+      "很经典"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是一部经典电影。",
+        "pinyin": "Zhè shì yí bù jīngdiǎn diànyǐng.",
+        "vi": "Đây là một bộ phim kinh điển.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一部 đọc yí bù. 经典 là tác phẩm hoặc câu nói được nhớ lâu, không phải mọi thứ cũ."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "经典 nghĩa là gì?",
+        "answer": "kinh điển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是一部____电影。",
+        "answer": "经典"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_404",
+    "level": "HSK5",
+    "hanzi": "时尚",
+    "pinyin": "shíshàng",
+    "display_meaning_vi": "thời trang",
+    "meaning_en": "fashion; fashionable",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "时尚杂志 / 时尚潮流",
+    "collocations": [
+      "时尚杂志",
+      "时尚品牌",
+      "时尚潮流"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这份杂志专门讲时尚。",
+        "pinyin": "Zhè fèn zázhì zhuānmén jiǎng shíshàng.",
+        "vi": "Tạp chí này chuyên nói về thời trang.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "时尚 vừa là danh từ, vừa tả đồ đang hợp thời. 一份杂志的 份 đọc fèn, 这 là zhè."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "时尚 nghĩa là gì?",
+        "answer": "thời trang"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这份杂志专门讲____。",
+        "answer": "时尚"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_405",
+    "level": "HSK5",
+    "hanzi": "背景",
+    "pinyin": "bèijǐng",
+    "display_meaning_vi": "bối cảnh; lai lịch",
+    "meaning_en": "background",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "历史背景 / 家庭背景",
+    "collocations": [
+      "家庭背景",
+      "历史背景",
+      "背景音乐"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "了解历史背景再读这篇文章。",
+        "pinyin": "Liǎojiě lìshǐ bèijǐng zài dú zhè piān wénzhāng.",
+        "vi": "Hiểu bối cảnh lịch sử rồi hãy đọc bài này.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "背景 vừa là phông nền, vừa là hoàn cảnh xuất thân. 背景音乐 là nhạc nền."
+    ],
+    "app_note_vi": "Danh từ. Không phải lưng. Lưng là 背, đọc bèi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "背景 nghĩa là gì?",
+        "answer": "bối cảnh; lai lịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "了解历史____再读这篇文章。",
+        "answer": "背景"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_406",
+    "level": "HSK5",
+    "hanzi": "决赛",
+    "pinyin": "juésài",
+    "display_meaning_vi": "trận chung kết",
+    "meaning_en": "final",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "进入决赛 / 半决赛",
+    "collocations": [
+      "进入决赛",
+      "决赛圈",
+      "半决赛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两队明天进行决赛。",
+        "pinyin": "Liǎng duì míngtiān jìnxíng juésài.",
+        "vi": "Hai đội mai đấu trận chung kết.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "决赛 là vòng cuối. Trước đó thường là 半决赛."
+    ],
+    "app_note_vi": "Danh từ. 进入决赛 là vào chung kết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "决赛 nghĩa là gì?",
+        "answer": "trận chung kết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两队明天进行____。",
+        "answer": "决赛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_407",
+    "level": "HSK5",
+    "hanzi": "幅",
+    "pinyin": "fú",
+    "display_meaning_vi": "bức",
+    "meaning_en": "measure for pictures",
+    "part_of_speech": "measure",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一幅画",
+    "collocations": [
+      "一幅画",
+      "一幅布",
+      "条幅"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "墙上挂着一幅山水画。",
+        "pinyin": "Qiáng shàng guà zhe yì fú shānshuǐ huà.",
+        "vi": "Trên tường treo một bức tranh sơn thủy.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一幅 đọc yì fú vì 幅 là thanh 2. Tranh dùng 幅, không dùng 个."
+    ],
+    "app_note_vi": "Lượng từ cho tranh và một số tấm vải.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "幅 nghĩa là gì?",
+        "answer": "bức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "墙上挂着一____山水画。",
+        "answer": "幅"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_408",
+    "level": "HSK5",
+    "hanzi": "指导",
+    "pinyin": "zhǐdǎo",
+    "display_meaning_vi": "hướng dẫn",
+    "meaning_en": "to guide; guidance",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "指导老师 / 耐心指导",
+    "collocations": [
+      "指导老师",
+      "指导意见",
+      "耐心指导"
+    ],
+    "near_synonyms": [
+      {
+        "word": "教",
+        "difference_vi": "指导 là chỉ cách làm, thường người có kinh nghiệm; 教 là dạy một nội dung."
+      }
+    ],
+    "app_synonym_note_vi": "指导 = hướng dẫn cách làm; 教 = dạy.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师指导我们做实验。",
+        "pinyin": "Lǎoshī zhǐdǎo wǒmen zuò shíyàn.",
+        "vi": "Thầy hướng dẫn chúng tôi làm thí nghiệm.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "指导老师 là giáo viên hướng dẫn, không phải mọi thầy cô."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "指导 nghĩa là gì?",
+        "answer": "hướng dẫn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____我们做实验。",
+        "answer": "指导"
+      },
+      {
+        "type": "synonym",
+        "prompt": "指导 khác 教 ở điểm nào?",
+        "answer": "指导 là chỉ cách làm, thường người có kinh nghiệm; 教 là dạy một nội dung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_409",
+    "level": "HSK5",
+    "hanzi": "阶段",
+    "pinyin": "jiēduàn",
+    "display_meaning_vi": "giai đoạn",
+    "meaning_en": "stage; phase",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "初级阶段 / 现阶段",
+    "collocations": [
+      "初级阶段",
+      "现阶段",
+      "一个阶段"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "汉语学习到了最难的阶段。",
+        "pinyin": "Hànyǔ xuéxí dào le zuì nán de jiēduàn.",
+        "vi": "Việc học tiếng Trung đã đến giai đoạn khó nhất.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个阶段 là một đoạn trong quá trình dài. Không dùng cho một buổi học. Một buổi là 一节课."
+    ],
+    "app_note_vi": "Danh từ. 现阶段 là giai đoạn hiện nay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "阶段 nghĩa là gì?",
+        "answer": "giai đoạn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "汉语学习到了最难的____。",
+        "answer": "阶段"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_410",
+    "level": "HSK5",
+    "hanzi": "节",
+    "pinyin": "jié",
+    "display_meaning_vi": "tiết; đoạn",
+    "meaning_en": "class period; section",
+    "part_of_speech": "measure",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一节课 / 第一节",
+    "collocations": [
+      "一节课",
+      "第一节",
+      "两节车厢"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上午我有三节汉语课。",
+        "pinyin": "Shàngwǔ wǒ yǒu sān jié Hànyǔ kè.",
+        "vi": "Buổi sáng tôi có ba tiết tiếng Trung.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "节 trong 一节课, 节日, 节约 đọc jié. Cách đọc jiē chỉ gặp ở vài từ ít dùng, không dùng cho tiết học."
+    ],
+    "app_note_vi": "Lượng từ cho tiết học, toa xe hoặc một đoạn. Ngày lễ cũng là 节, cùng cách đọc jié.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "节 nghĩa là gì?",
+        "answer": "tiết; đoạn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上午我有三____汉语课。",
+        "answer": "节"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

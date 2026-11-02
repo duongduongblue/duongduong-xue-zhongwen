@@ -35,6 +35,12 @@ import enriched321To330 from '../../docs/hsk5-batch2-321-330-enriched.json';
 import enriched331To340 from '../../docs/hsk5-batch2-331-340-enriched.json';
 import enriched341To350 from '../../docs/hsk5-batch2-341-350-enriched.json';
 import enriched351To360 from '../../docs/hsk5-batch2-351-360-enriched.json';
+import enriched361To370 from '../../docs/hsk5-batch2-361-370-enriched.json';
+import enriched371To380 from '../../docs/hsk5-batch2-371-380-enriched.json';
+import enriched381To390 from '../../docs/hsk5-batch2-381-390-enriched.json';
+import enriched391To400 from '../../docs/hsk5-batch2-391-400-enriched.json';
+import enriched401To410 from '../../docs/hsk5-batch2-401-410-enriched.json';
+import enriched411To420 from '../../docs/hsk5-batch2-411-420-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -97,6 +103,12 @@ const sourceWords = [
   ...(enriched331To340 as EnrichedWord[]),
   ...(enriched341To350 as EnrichedWord[]),
   ...(enriched351To360 as EnrichedWord[]),
+  ...(enriched361To370 as EnrichedWord[]),
+  ...(enriched371To380 as EnrichedWord[]),
+  ...(enriched381To390 as EnrichedWord[]),
+  ...(enriched391To400 as EnrichedWord[]),
+  ...(enriched401To410 as EnrichedWord[]),
+  ...(enriched411To420 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -351,6 +363,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '36 · 身体',
     topic: '身体与感觉 / Cơ thể và cảm giác',
     color: '#00897B',
+  },
+  {
+    id: 'HSK5-F1-L37',
+    moduleId: 'hsk5-module-32',
+    title: '37 · 执行',
+    topic: '执行与程序 / Chấp hành và quy trình',
+    color: '#37474F',
+  },
+  {
+    id: 'HSK5-F1-L38',
+    moduleId: 'hsk5-module-33',
+    title: '38 · 宣布',
+    topic: '宣布与原则 / Tuyên bố và nguyên tắc',
+    color: '#6A1B9A',
+  },
+  {
+    id: 'HSK5-F1-L39',
+    moduleId: 'hsk5-module-34',
+    title: '39 · 身份',
+    topic: '身份与时代 / Danh tính và thời đại',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L40',
+    moduleId: 'hsk5-module-35',
+    title: '40 · 起居',
+    topic: '起居与用具 / Nhà cửa và đồ dùng',
+    color: '#6D4C41',
+  },
+  {
+    id: 'HSK5-F1-L41',
+    moduleId: 'hsk5-module-36',
+    title: '41 · 欣赏',
+    topic: '欣赏与经典 / Thưởng thức và kinh điển',
+    color: '#8E24AA',
+  },
+  {
+    id: 'HSK5-F1-L42',
+    moduleId: 'hsk5-module-37',
+    title: '42 · 思考',
+    topic: '思考与变化 / Suy nghĩ và thay đổi',
+    color: '#1565C0',
   },
 ];
 

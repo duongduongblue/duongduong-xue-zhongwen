@@ -1,0 +1,544 @@
+[
+  {
+    "id": "hsk5_batch2_381",
+    "level": "HSK5",
+    "hanzi": "身份",
+    "pinyin": "shēnfèn",
+    "display_meaning_vi": "danh tính; thân phận",
+    "meaning_en": "identity; status",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "身份证 / 核对身份",
+    "collocations": [
+      "身份证",
+      "身份证明",
+      "核对身份"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "入场时要核对身份。",
+        "pinyin": "Rùchǎng shí yào héduì shēnfèn.",
+        "vi": "Khi vào cửa phải kiểm tra danh tính.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "身份 vừa là giấy tờ tùy thân, vừa là vị thế của một người. 身份证 là chứng minh thư."
+    ],
+    "app_note_vi": "Danh từ. 核对身份 là kiểm tra đúng người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "身份 nghĩa là gì?",
+        "answer": "danh tính; thân phận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "入场时要核对____。",
+        "answer": "身份"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_382",
+    "level": "HSK5",
+    "hanzi": "时代",
+    "pinyin": "shídài",
+    "display_meaning_vi": "thời đại",
+    "meaning_en": "era; age",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "新时代 / 信息时代",
+    "collocations": [
+      "新时代",
+      "信息时代",
+      "时代潮流"
+    ],
+    "near_synonyms": [
+      {
+        "word": "年代",
+        "difference_vi": "时代 là một giai đoạn lớn của xã hội; 年代 thường là một thập niên hoặc một thời ngắn hơn."
+      }
+    ],
+    "app_synonym_note_vi": "时代 = thời đại; 年代 = thập niên, một thời.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "每个时代都有新问题。",
+        "pinyin": "Měi gè shídài dōu yǒu xīn wèntí.",
+        "vi": "Mỗi thời đại đều có vấn đề mới.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "时代 đọc shídài. Họ 时 mới viết hoa Shí, không đổi cách đọc của từ này."
+    ],
+    "app_note_vi": "Danh từ. 信息时代 là thời đại thông tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "时代 nghĩa là gì?",
+        "answer": "thời đại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "每个____都有新问题。",
+        "answer": "时代"
+      },
+      {
+        "type": "synonym",
+        "prompt": "时代 khác 年代 ở điểm nào?",
+        "answer": "时代 là một giai đoạn lớn của xã hội; 年代 thường là một thập niên hoặc một thời ngắn hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_383",
+    "level": "HSK5",
+    "hanzi": "胜利",
+    "pinyin": "shènglì",
+    "display_meaning_vi": "thắng lợi",
+    "meaning_en": "victory",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "取得胜利 / 庆祝胜利",
+    "collocations": [
+      "取得胜利",
+      "庆祝胜利",
+      "胜利果实"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "坚持到底才能胜利。",
+        "pinyin": "Jiānchí dàodǐ cái néng shènglì.",
+        "vi": "Kiên trì đến cùng mới thắng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "胜利 dùng cho trận đấu, cuộc thi hoặc một mục tiêu khó. Một việc nhỏ xong không cần nói 胜利."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 取得胜利 là giành thắng lợi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胜利 nghĩa là gì?",
+        "answer": "thắng lợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "坚持到底才能____。",
+        "answer": "胜利"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_384",
+    "level": "HSK5",
+    "hanzi": "破坏",
+    "pinyin": "pòhuài",
+    "display_meaning_vi": "phá hỏng",
+    "meaning_en": "to damage; to destroy",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "破坏环境 / 破坏纪律",
+    "collocations": [
+      "破坏环境",
+      "破坏纪律",
+      "受到破坏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不要破坏公园的设施。",
+        "pinyin": "Búyào pòhuài gōngyuán de shèshī.",
+        "vi": "Đừng làm hỏng cơ sở vật chất trong công viên.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不要 đọc búyào. 破坏 là làm hư hoặc phá một quy tắc, không phải dọn một thứ cũ."
+    ],
+    "app_note_vi": "Động từ. Đi với môi trường, công trình hoặc kỷ luật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "破坏 nghĩa là gì?",
+        "answer": "phá hỏng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不要____公园的设施。",
+        "answer": "破坏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_385",
+    "level": "HSK5",
+    "hanzi": "威胁",
+    "pinyin": "wēixié",
+    "display_meaning_vi": "đe dọa",
+    "meaning_en": "to threaten; threat",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "受到威胁 / 威胁到",
+    "collocations": [
+      "受到威胁",
+      "威胁到",
+      "安全威胁"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "缺水威胁着今年的收成。",
+        "pinyin": "Quēshuǐ wēixié zhe jīnnián de shōucheng.",
+        "vi": "Thiếu nước đang đe dọa mùa màng năm nay.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "威胁 vừa là lời dọa, vừa là mối nguy thật. 着 đọc nhẹ."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Nói về nguy cơ thì trung tính, không cần tả cách đe dọa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "威胁 nghĩa là gì?",
+        "answer": "đe dọa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "缺水____着今年的收成。",
+        "answer": "威胁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_386",
+    "level": "HSK5",
+    "hanzi": "俱乐部",
+    "pinyin": "jùlèbù",
+    "display_meaning_vi": "câu lạc bộ",
+    "meaning_en": "club",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "加入俱乐部 / 足球俱乐部",
+    "collocations": [
+      "足球俱乐部",
+      "俱乐部会员",
+      "加入俱乐部"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她加入了读书俱乐部。",
+        "pinyin": "Tā jiārù le dúshū jùlèbù.",
+        "vi": "Cô ấy đã tham gia câu lạc bộ đọc sách.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "乐 trong 俱乐部 đọc lè, không đọc yuè. yuè là nhạc, như 音乐."
+    ],
+    "app_note_vi": "Danh từ. Nhóm sinh hoạt theo sở thích hoặc thể thao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "俱乐部 nghĩa là gì?",
+        "answer": "câu lạc bộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她加入了读书____。",
+        "answer": "俱乐部"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_387",
+    "level": "HSK5",
+    "hanzi": "战争",
+    "pinyin": "zhànzhēng",
+    "display_meaning_vi": "chiến tranh",
+    "meaning_en": "war",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "避免战争 / 战争结束",
+    "collocations": [
+      "避免战争",
+      "战争时期",
+      "局部战争"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "战争结束后人们重建家园。",
+        "pinyin": "Zhànzhēng jiéshù hòu rénmen chóngjiàn jiāyuán.",
+        "vi": "Sau khi chiến tranh kết thúc, người ta dựng lại quê nhà.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "战争 là danh từ trong tin và sách. Không dùng để kể một trận cãi nhau."
+    ],
+    "app_note_vi": "Danh từ. 避免战争 là tránh chiến tranh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "战争 nghĩa là gì?",
+        "answer": "chiến tranh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____结束后人们重建家园。",
+        "answer": "战争"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_388",
+    "level": "HSK5",
+    "hanzi": "总统",
+    "pinyin": "zǒngtǒng",
+    "display_meaning_vi": "tổng thống",
+    "meaning_en": "president",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "总统选举 / 当选总统",
+    "collocations": [
+      "总统选举",
+      "总统府",
+      "当选总统"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "总统发表了新年讲话。",
+        "pinyin": "Zǒngtǒng fābiǎo le xīnnián jiǎnghuà.",
+        "vi": "Tổng thống đã đọc lời chúc năm mới.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "总统 là nguyên thủ do bầu cử. Chủ tịch một công ty không gọi là 总统."
+    ],
+    "app_note_vi": "Danh từ. 总统府 là phủ tổng thống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "总统 nghĩa là gì?",
+        "answer": "tổng thống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____发表了新年讲话。",
+        "answer": "总统"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_389",
+    "level": "HSK5",
+    "hanzi": "成长",
+    "pinyin": "chéngzhǎng",
+    "display_meaning_vi": "trưởng thành",
+    "meaning_en": "to grow up; growth",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "成长过程 / 迅速成长",
+    "collocations": [
+      "成长过程",
+      "迅速成长",
+      "陪伴成长"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子在鼓励中慢慢成长。",
+        "pinyin": "Háizi zài gǔlì zhōng mànmàn chéngzhǎng.",
+        "vi": "Trẻ lớn lên dần trong sự động viên.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "成长 vừa là lớn lên, vừa là tiến bộ. Cây mọc nói 生长 là đủ."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Hay gặp khi nói học tập và tuổi trẻ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "成长 nghĩa là gì?",
+        "answer": "trưởng thành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子在鼓励中慢慢____。",
+        "answer": "成长"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_390",
+    "level": "HSK5",
+    "hanzi": "对象",
+    "pinyin": "duìxiàng",
+    "display_meaning_vi": "đối tượng",
+    "meaning_en": "object; target; partner",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "society",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "研究对象 / 服务对象",
+    "collocations": [
+      "研究对象",
+      "服务对象",
+      "找对象"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这项研究的对象是小学生。",
+        "pinyin": "Zhè xiàng yánjiū de duìxiàng shì xiǎoxuéshēng.",
+        "vi": "Đối tượng của nghiên cứu này là học sinh tiểu học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "找对象 trong đời sống là tìm người yêu. Trong bài đọc, 对象 thường là đối tượng của một việc."
+    ],
+    "app_note_vi": "Danh từ. Nhìn câu để biết là đối tượng nghiên cứu hay người yêu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "对象 nghĩa là gì?",
+        "answer": "đối tượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这项研究的____是小学生。",
+        "answer": "对象"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

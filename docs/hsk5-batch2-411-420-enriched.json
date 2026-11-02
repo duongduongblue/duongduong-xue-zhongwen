@@ -1,0 +1,545 @@
+[
+  {
+    "id": "hsk5_batch2_411",
+    "level": "HSK5",
+    "hanzi": "思考",
+    "pinyin": "sīkǎo",
+    "display_meaning_vi": "suy nghĩ kỹ",
+    "meaning_en": "to think over",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "独立思考 / 认真思考",
+    "collocations": [
+      "独立思考",
+      "认真思考",
+      "思考题"
+    ],
+    "near_synonyms": [
+      {
+        "word": "想",
+        "difference_vi": "思考 là suy có chủ đích, sâu hơn; 想 có thể chỉ là nghĩ thoáng hoặc muốn."
+      }
+    ],
+    "app_synonym_note_vi": "思考 = suy nghĩ kỹ; 想 = nghĩ, muốn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "重大决定前要多思考。",
+        "pinyin": "Zhòngdà juédìng qián yào duō sīkǎo.",
+        "vi": "Trước một quyết định lớn phải nghĩ kỹ.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "思考题 là câu hỏi yêu cầu suy nghĩ. Không dùng 思考 cho “muốn ăn”."
+    ],
+    "app_note_vi": "Động từ. Sâu hơn một ý nghĩ thoáng qua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "思考 nghĩa là gì?",
+        "answer": "suy nghĩ kỹ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "重大决定前要多____。",
+        "answer": "思考"
+      },
+      {
+        "type": "synonym",
+        "prompt": "思考 khác 想 ở điểm nào?",
+        "answer": "思考 là suy có chủ đích, sâu hơn; 想 có thể chỉ là nghĩ thoáng hoặc muốn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_412",
+    "level": "HSK5",
+    "hanzi": "追求",
+    "pinyin": "zhuīqiú",
+    "display_meaning_vi": "theo đuổi",
+    "meaning_en": "to pursue; to seek",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "追求梦想 / 追求幸福",
+    "collocations": [
+      "追求梦想",
+      "追求幸福",
+      "不懈追求"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她一直追求自己的梦想。",
+        "pinyin": "Tā yìzhí zhuīqiú zìjǐ de mèngxiǎng.",
+        "vi": "Cô ấy luôn theo đuổi ước mơ của mình.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "追求 cũng dùng khi theo đuổi người mình thích. Trong bài đọc thường là theo một mục tiêu."
+    ],
+    "app_note_vi": "Động từ. 不懈追求 là theo đuổi không bỏ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "追求 nghĩa là gì?",
+        "answer": "theo đuổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她一直____自己的梦想。",
+        "answer": "追求"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_413",
+    "level": "HSK5",
+    "hanzi": "结合",
+    "pinyin": "jiéhé",
+    "display_meaning_vi": "kết hợp",
+    "meaning_en": "to combine; to integrate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "think",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "相结合 / 结合实际",
+    "collocations": [
+      "相结合",
+      "结合实际",
+      "紧密结合"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "把兴趣和学习结合起来。",
+        "pinyin": "Bǎ xìngqù hé xuéxí jiéhé qǐlái.",
+        "vi": "Hãy gắn sở thích với việc học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结合是 gắn hai phía thành một. Không phải “kết hôn” trong tiếng phổ thông hiện nay; kết hôn nói 结婚."
+    ],
+    "app_note_vi": "Động từ. 结合起来 là kết hợp lại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "结合 nghĩa là gì?",
+        "answer": "kết hợp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "把兴趣和学习____起来。",
+        "answer": "结合"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_414",
+    "level": "HSK5",
+    "hanzi": "万一",
+    "pinyin": "wànyī",
+    "display_meaning_vi": "nhỡ đâu",
+    "meaning_en": "just in case; if by chance",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "think",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "以防万一 / 万一下雨",
+    "collocations": [
+      "以防万一",
+      "万一出事",
+      "万一忘了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "带上伞，万一下雨呢。",
+        "pinyin": "Dài shàng sǎn, wànyī xià yǔ ne.",
+        "vi": "Mang ô theo, nhỡ mưa thì sao.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "万一 là việc ít xảy ra nhưng vẫn nên phòng. Không dùng cho việc chắc chắn xảy ra."
+    ],
+    "app_note_vi": "Liên từ. 以防万一 là phòng khi chẳng may.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "万一 nghĩa là gì?",
+        "answer": "nhỡ đâu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "带上伞，____下雨呢。",
+        "answer": "万一"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_415",
+    "level": "HSK5",
+    "hanzi": "命运",
+    "pinyin": "mìngyùn",
+    "display_meaning_vi": "số phận",
+    "meaning_en": "fate; destiny",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "改变命运 / 掌握命运",
+    "collocations": [
+      "掌握命运",
+      "改变命运",
+      "命运安排"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他从不相信所谓的命运。",
+        "pinyin": "Tā cóngbù xiāngxìn suǒwèi de mìngyùn.",
+        "vi": "Anh ấy không tin cái gọi là số phận.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "命运 là cả quãng đời hoặc việc coi như đã định. Một việc rủi ro cụ thể nói 风险."
+    ],
+    "app_note_vi": "Danh từ. 从不 là không bao giờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "命运 nghĩa là gì?",
+        "answer": "số phận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他从不相信所谓的____。",
+        "answer": "命运"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_416",
+    "level": "HSK5",
+    "hanzi": "除",
+    "pinyin": "chú",
+    "display_meaning_vi": "trừ; ngoài ra",
+    "meaning_en": "except; divide",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "除了…以外 / 除以",
+    "collocations": [
+      "除了",
+      "除此之外",
+      "除以"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "除了周日，图书馆都开门。",
+        "pinyin": "Chúle zhōurì, túshūguǎn dōu kāimén.",
+        "vi": "Trừ chủ nhật, thư viện đều mở cửa.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "除了 A là ngoài A ra. 除以 là chia trong toán: 十除以二 là mười chia hai."
+    ],
+    "app_note_vi": "Động từ hoặc giới từ. Hay đi với 了 thành 除了.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "除 nghĩa là gì?",
+        "answer": "trừ; ngoài ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____了周日，图书馆都开门。",
+        "answer": "除"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_417",
+    "level": "HSK5",
+    "hanzi": "涨",
+    "pinyin": "zhǎng",
+    "display_meaning_vi": "tăng",
+    "meaning_en": "to rise",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "economy"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "涨价 / 涨幅",
+    "collocations": [
+      "涨价",
+      "涨幅",
+      "水涨船高"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个月房租又涨了。",
+        "pinyin": "Zhège yuè fángzū yòu zhǎng le.",
+        "vi": "Tháng này tiền nhà lại tăng.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Giá, lương hoặc mực nước tăng thì đọc zhǎng. Nghĩa sưng, như đầu óc căng, có thể đọc zhàng. Giá cả dùng zhǎng."
+    ],
+    "app_note_vi": "Động từ. 涨价 là tăng giá.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "涨 nghĩa là gì?",
+        "answer": "tăng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个月房租又____了。",
+        "answer": "涨"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_418",
+    "level": "HSK5",
+    "hanzi": "露",
+    "pinyin": "lù",
+    "display_meaning_vi": "sương",
+    "meaning_en": "dew",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "露水 / 露珠 / 露天",
+    "collocations": [
+      "露水",
+      "露珠",
+      "露天"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "清晨的草地满是露水。",
+        "pinyin": "Qīngchén de cǎodì mǎn shì lùshuǐ.",
+        "vi": "Sáng sớm bãi cỏ đầy sương.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "露水, 露珠, 露天 đọc lù. Để lộ ra, như 露出来 hoặc 露馅, đọc lòu. Đừng đọc sương thành lòu."
+    ],
+    "app_note_vi": "Danh từ trong bài này là sương. Cách đọc lòu là để lộ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "露 nghĩa là gì?",
+        "answer": "sương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "清晨的草地满是____水。",
+        "answer": "露"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_419",
+    "level": "HSK5",
+    "hanzi": "晕",
+    "pinyin": "yūn",
+    "display_meaning_vi": "chóng mặt",
+    "meaning_en": "dizzy",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "头晕 / 晕倒",
+    "collocations": [
+      "头晕",
+      "晕倒",
+      "晕过去"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他有点头晕。",
+        "pinyin": "Tā yǒudiǎn tóu yūn.",
+        "vi": "Anh ấy hơi chóng mặt.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "头晕 và 晕倒 đọc yūn. Say tàu xe, như 晕车, 晕船, đọc yùn."
+    ],
+    "app_note_vi": "Tính từ. Bài này học nghĩa chóng mặt, đọc yūn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "晕 nghĩa là gì?",
+        "answer": "chóng mặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他有点头____。",
+        "answer": "晕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_420",
+    "level": "HSK5",
+    "hanzi": "摸",
+    "pinyin": "mō",
+    "display_meaning_vi": "sờ",
+    "meaning_en": "to touch; to feel",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摸了摸 / 摸索",
+    "collocations": [
+      "摸了摸",
+      "摸索",
+      "触摸"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子摸了摸小狗的头。",
+        "pinyin": "Háizi mō le mō xiǎo gǒu de tóu.",
+        "vi": "Đứa trẻ sờ đầu chú chó.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "摸 đọc mō. 摸索 là dò cách làm. 摸黑 là đi trong tối."
+    ],
+    "app_note_vi": "Động từ. 摸了摸 là sờ một cái.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摸 nghĩa là gì?",
+        "answer": "sờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子____了摸小狗的头。",
+        "answer": "摸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

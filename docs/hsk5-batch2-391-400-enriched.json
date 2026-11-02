@@ -1,0 +1,546 @@
+[
+  {
+    "id": "hsk5_batch2_391",
+    "level": "HSK5",
+    "hanzi": "套",
+    "pinyin": "tào",
+    "display_meaning_vi": "bộ",
+    "meaning_en": "set; suite",
+    "part_of_speech": "measure",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一套 + 名词",
+    "collocations": [
+      "一套家具",
+      "套装",
+      "全套"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新房里买了一套家具。",
+        "pinyin": "Xīn fáng lǐ mǎi le yí tào jiājù.",
+        "vi": "Trong nhà mới đã mua một bộ nội thất.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一套 đọc yí tào vì 套 là thanh 4. 套 đếm bộ đồ đi cùng nhau."
+    ],
+    "app_note_vi": "Lượng từ. 全套 là cả bộ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "套 nghĩa là gì?",
+        "answer": "bộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新房里买了一____家具。",
+        "answer": "套"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_392",
+    "level": "HSK5",
+    "hanzi": "装",
+    "pinyin": "zhuāng",
+    "display_meaning_vi": "bỏ vào; lắp",
+    "meaning_en": "to load; to install",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "装行李 / 装空调",
+    "collocations": [
+      "装行李",
+      "装空调",
+      "装不下"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "箱子里装不下这些书。",
+        "pinyin": "Xiāngzi lǐ zhuāng bu xià zhèxiē shū.",
+        "vi": "Trong thùng không chứa hết những cuốn sách này.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "装 trong câu này là chứa, bỏ vào. 装空调 là lắp. 装睡 là giả vờ ngủ. Ba nghĩa không đổi cho nhau."
+    ],
+    "app_note_vi": "Động từ. 装不下 là không chứa hết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "装 nghĩa là gì?",
+        "answer": "bỏ vào; lắp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "箱子里____不下这些书。",
+        "answer": "装"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_393",
+    "level": "HSK5",
+    "hanzi": "倒",
+    "pinyin": "dǎo",
+    "display_meaning_vi": "đổ; ngã",
+    "meaning_en": "to fall over",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摔倒 / 倒下 / 倒闭",
+    "collocations": [
+      "摔倒",
+      "倒下",
+      "倒闭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "杯子倒了，水流了一桌。",
+        "pinyin": "Bēizi dǎo le, shuǐ liú le yì zhuō.",
+        "vi": "Cốc đổ, nước chảy cả bàn.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghĩa đổ, ngã đọc dǎo. Rót nước là 倒水, đọc dào. Đừng đọc 杯子倒了 thành dào."
+    ],
+    "app_note_vi": "Động từ. 倒闭 là cửa hàng đóng cửa, cũng đọc dǎo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "倒 nghĩa là gì?",
+        "answer": "đổ; ngã"
+      },
+      {
+        "type": "cloze",
+        "prompt": "杯子____了，水流了一桌。",
+        "answer": "倒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_394",
+    "level": "HSK5",
+    "hanzi": "空间",
+    "pinyin": "kōngjiān",
+    "display_meaning_vi": "không gian",
+    "meaning_en": "space; room",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "活动空间 / 个人空间",
+    "collocations": [
+      "活动空间",
+      "个人空间",
+      "空间很大"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "房间的空间不太够。",
+        "pinyin": "Fángjiān de kōngjiān bú tài gòu.",
+        "vi": "Chỗ trong phòng không đủ lắm.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "空 trong 空间 đọc kōng. 空闲的 空 đọc kòng, là trống rảnh. 不太够 đọc bú tài gòu."
+    ],
+    "app_note_vi": "Danh từ. Vừa là chỗ trống, vừa là khoảng riêng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "空间 nghĩa là gì?",
+        "answer": "không gian"
+      },
+      {
+        "type": "cloze",
+        "prompt": "房间的____不太够。",
+        "answer": "空间"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_395",
+    "level": "HSK5",
+    "hanzi": "立刻",
+    "pinyin": "lìkè",
+    "display_meaning_vi": "lập tức",
+    "meaning_en": "immediately",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "立刻 + 动词",
+    "collocations": [
+      "立刻出发",
+      "立刻停止",
+      "立刻就走"
+    ],
+    "near_synonyms": [
+      {
+        "word": "马上",
+        "difference_vi": "立刻 và 马上 đều là ngay. 立刻 trang trọng hơn một chút; 马上 rất thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "立刻 = lập tức; 马上 = ngay, thông dụng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下课以后立刻回家。",
+        "pinyin": "Xiàkè yǐhòu lìkè huí jiā.",
+        "vi": "Tan học thì về nhà ngay.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "立刻 đứng trước động từ."
+    ],
+    "app_note_vi": "Phó từ. Gần nghĩa với 马上.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "立刻 nghĩa là gì?",
+        "answer": "lập tức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下课以后____回家。",
+        "answer": "立刻"
+      },
+      {
+        "type": "synonym",
+        "prompt": "立刻 khác 马上 ở điểm nào?",
+        "answer": "立刻 và 马上 đều là ngay. 立刻 trang trọng hơn một chút; 马上 rất thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_396",
+    "level": "HSK5",
+    "hanzi": "摆",
+    "pinyin": "bǎi",
+    "display_meaning_vi": "bày; xếp",
+    "meaning_en": "to place; to arrange",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摆放 / 摆整齐",
+    "collocations": [
+      "摆放",
+      "摆整齐",
+      "摆手"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把椅子摆整齐。",
+        "pinyin": "Qǐng bǎ yǐzi bǎi zhěngqí.",
+        "vi": "Xin xếp ghế cho ngay ngắn.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "摆手 là xua tay. 摆事实 là nêu sự thật. Nghĩa gốc vẫn là đặt ra, bày ra."
+    ],
+    "app_note_vi": "Động từ. Hay dùng với đồ đạc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摆 nghĩa là gì?",
+        "answer": "bày; xếp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把椅子____整齐。",
+        "answer": "摆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_397",
+    "level": "HSK5",
+    "hanzi": "钟",
+    "pinyin": "zhōng",
+    "display_meaning_vi": "đồng hồ",
+    "meaning_en": "clock",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "闹钟 / 几点钟",
+    "collocations": [
+      "闹钟",
+      "挂钟",
+      "几点钟"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "客厅墙上的钟停了。",
+        "pinyin": "Kètīng qiáng shàng de zhōng tíng le.",
+        "vi": "Đồng hồ trên tường phòng khách đã dừng.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "钟 đọc zhōng khi là đồng hồ. Họ 钟 cũng đọc Zhōng. 几点钟 là hỏi mấy giờ."
+    ],
+    "app_note_vi": "Danh từ. 闹钟 là đồng hồ báo thức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "钟 nghĩa là gì?",
+        "answer": "đồng hồ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "客厅墙上的____停了。",
+        "answer": "钟"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_398",
+    "level": "HSK5",
+    "hanzi": "布",
+    "pinyin": "bù",
+    "display_meaning_vi": "vải",
+    "meaning_en": "cloth",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一块布 / 棉布",
+    "collocations": [
+      "一块布",
+      "棉布",
+      "布鞋"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这块布可以做窗帘。",
+        "pinyin": "Zhè kuài bù kěyǐ zuò chuānglián.",
+        "vi": "Tấm vải này có thể làm rèm.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "布 là vải. 宣布 và 公布 là công bố, cùng chữ nhưng là từ khác, không phải vải."
+    ],
+    "app_note_vi": "Danh từ. 一块布 đọc yí kuài vì 块 là thanh 4.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "布 nghĩa là gì?",
+        "answer": "vải"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这块____可以做窗帘。",
+        "answer": "布"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_399",
+    "level": "HSK5",
+    "hanzi": "呆",
+    "pinyin": "dāi",
+    "display_meaning_vi": "ở lại; ngẩn ra",
+    "meaning_en": "to stay; blank",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "informal",
+    "grammar_pattern": "呆在家 / 发呆",
+    "collocations": [
+      "呆在家",
+      "发呆",
+      "呆一会儿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下雨了，我们呆在家里吧。",
+        "pinyin": "Xià yǔ le, wǒmen dāi zài jiā lǐ ba.",
+        "vi": "Trời mưa rồi, chúng ta ở nhà nhé.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "呆在家 là ở lì trong nhà. 发呆 là ngẩn ra, không nghĩ gì. Đọc dāi."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. 呆一会儿 là ở thêm một lát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "呆 nghĩa là gì?",
+        "answer": "ở lại; ngẩn ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下雨了，我们____在家里吧。",
+        "answer": "呆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_400",
+    "level": "HSK5",
+    "hanzi": "拍",
+    "pinyin": "pāi",
+    "display_meaning_vi": "vỗ; chụp",
+    "meaning_en": "to pat; to take a photo",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "拍照 / 拍手",
+    "collocations": [
+      "拍照",
+      "拍手",
+      "拍肩"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "大家拍了拍他的肩。",
+        "pinyin": "Dàjiā pāi le pāi tā de jiān.",
+        "vi": "Mọi người vỗ vai anh ấy.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拍手 là vỗ tay. 拍照 là chụp ảnh. 拍戏 là đóng phim. Cùng động từ, khác cụm."
+    ],
+    "app_note_vi": "Động từ. 拍了拍 là vỗ một cái, thân mật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "拍 nghĩa là gì?",
+        "answer": "vỗ; chụp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "大家____了拍他的肩。",
+        "answer": "拍"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

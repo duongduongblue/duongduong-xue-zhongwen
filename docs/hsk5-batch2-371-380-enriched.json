@@ -1,0 +1,589 @@
+[
+  {
+    "id": "hsk5_batch2_371",
+    "level": "HSK5",
+    "hanzi": "宣布",
+    "pinyin": "xuānbù",
+    "display_meaning_vi": "tuyên bố",
+    "meaning_en": "to announce; to declare",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "正式宣布 / 宣布结果",
+    "collocations": [
+      "正式宣布",
+      "宣布结果",
+      "宣布开幕"
+    ],
+    "near_synonyms": [
+      {
+        "word": "说",
+        "difference_vi": "宣布 là thông báo chính thức một quyết định; 说 chỉ là nói."
+      }
+    ],
+    "app_synonym_note_vi": "宣布 = tuyên bố chính thức; 说 = nói.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "裁判宣布比赛现在开始。",
+        "pinyin": "Cáipàn xuānbù bǐsài xiànzài kāishǐ.",
+        "vi": "Trọng tài tuyên bố trận đấu bắt đầu.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "宣布 dùng cho quyết định hoặc kết quả chính thức, không dùng cho chuyện tán gẫu."
+    ],
+    "app_note_vi": "Động từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宣布 nghĩa là gì?",
+        "answer": "tuyên bố"
+      },
+      {
+        "type": "cloze",
+        "prompt": "裁判____比赛现在开始。",
+        "answer": "宣布"
+      },
+      {
+        "type": "synonym",
+        "prompt": "宣布 khác 说 ở điểm nào?",
+        "answer": "宣布 là thông báo chính thức một quyết định; 说 chỉ là nói."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_372",
+    "level": "HSK5",
+    "hanzi": "秘密",
+    "pinyin": "mìmì",
+    "display_meaning_vi": "bí mật",
+    "meaning_en": "secret",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保守秘密 / 秘密文件",
+    "collocations": [
+      "保守秘密",
+      "秘密文件",
+      "秘密行动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是我们两个人的秘密。",
+        "pinyin": "Zhè shì wǒmen liǎng gè rén de mìmì.",
+        "vi": "Đây là bí mật của hai chúng tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "保守秘密 là giữ kín. 个人隐私 là đời sống riêng, không phải mọi bí mật đều là 隐私."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ. Hai âm đều thanh 4: mìmì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "秘密 nghĩa là gì?",
+        "answer": "bí mật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是我们两个人的____。",
+        "answer": "秘密"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_373",
+    "level": "HSK5",
+    "hanzi": "所谓",
+    "pinyin": "suǒwèi",
+    "display_meaning_vi": "cái gọi là",
+    "meaning_en": "so-called",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "formal",
+    "grammar_pattern": "所谓的 + 名词",
+    "collocations": [
+      "所谓的",
+      "所谓成功",
+      "所谓公平"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这就是他所谓的经验吗？",
+        "pinyin": "Zhè jiù shì tā suǒwèi de jīngyàn ma?",
+        "vi": "Đây chính là cái mà anh ấy gọi là kinh nghiệm sao?",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "所谓 thường ngầm không hoàn toàn đồng ý với cách gọi. Không phải từ trung tính để giới thiệu một khái niệm."
+    ],
+    "app_note_vi": "Định ngữ trang trọng. Hay có sắc thái nghi ngờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "所谓 nghĩa là gì?",
+        "answer": "cái gọi là"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这就是他____的经验吗？",
+        "answer": "所谓"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_374",
+    "level": "HSK5",
+    "hanzi": "反正",
+    "pinyin": "fǎnzhèng",
+    "display_meaning_vi": "dù sao",
+    "meaning_en": "anyway",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "反正都一样 / 反正要",
+    "collocations": [
+      "反正都一样",
+      "反正如此",
+      "反正我不管"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "反正要去，不如早点出发。",
+        "pinyin": "Fǎnzhèng yào qù, bùrú zǎo diǎn chūfā.",
+        "vi": "Dù sao cũng đi, chi bằng xuất phát sớm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "反正 kết luận không đổi dù lý do thế nào. Không dùng để mở một lý do mới."
+    ],
+    "app_note_vi": "Phó từ khẩu ngữ. Hay đứng đầu câu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "反正 nghĩa là gì?",
+        "answer": "dù sao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____要去，不如早点出发。",
+        "answer": "反正"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_375",
+    "level": "HSK5",
+    "hanzi": "赶紧",
+    "pinyin": "gǎnjǐn",
+    "display_meaning_vi": "mau lên; tranh thủ",
+    "meaning_en": "hurriedly; without delay",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "informal",
+    "grammar_pattern": "赶紧 + 动词",
+    "collocations": [
+      "赶紧走",
+      "赶紧处理",
+      "赶紧回家"
+    ],
+    "near_synonyms": [
+      {
+        "word": "马上",
+        "difference_vi": "赶紧 thúc làm ngay vì sắp muộn; 马上 chỉ là ngay lập tức, không nhất thiết đang vội."
+      }
+    ],
+    "app_synonym_note_vi": "赶紧 = mau lên, đang vội; 马上 = ngay lập tức.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "要下雨了，赶紧收衣服。",
+        "pinyin": "Yào xià yǔ le, gǎnjǐn shōu yīfu.",
+        "vi": "Sắp mưa rồi, mau thu quần áo.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "赶紧 đứng trước động từ, không đứng cuối câu."
+    ],
+    "app_note_vi": "Phó từ. Thúc người khác hoặc chính mình làm ngay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "赶紧 nghĩa là gì?",
+        "answer": "mau lên; tranh thủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "要下雨了，____收衣服。",
+        "answer": "赶紧"
+      },
+      {
+        "type": "synonym",
+        "prompt": "赶紧 khác 马上 ở điểm nào?",
+        "answer": "赶紧 thúc làm ngay vì sắp muộn; 马上 chỉ là ngay lập tức, không nhất thiết đang vội."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_376",
+    "level": "HSK5",
+    "hanzi": "不必",
+    "pinyin": "búbì",
+    "display_meaning_vi": "không cần",
+    "meaning_en": "need not",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不必担心 / 不必客气",
+    "collocations": [
+      "不必担心",
+      "不必客气",
+      "大可不必"
+    ],
+    "near_synonyms": [
+      {
+        "word": "不用",
+        "difference_vi": "不必 trang trọng hơn một chút; 不用 thông dụng trong lời nói. Cùng ý không cần."
+      }
+    ],
+    "app_synonym_note_vi": "不必 = không cần, hơi trang trọng; 不用 = không cần, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这点小问题不必担心。",
+        "pinyin": "Zhè diǎn xiǎo wèntí búbì dānxīn.",
+        "vi": "Việc nhỏ này không cần lo.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不 trước 必 đọc bú, vì 必 là thanh 4. Cả từ là búbì."
+    ],
+    "app_note_vi": "Phó từ. Khuyên người khác khỏi phải làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不必 nghĩa là gì?",
+        "answer": "không cần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这点小问题____担心。",
+        "answer": "不必"
+      },
+      {
+        "type": "synonym",
+        "prompt": "不必 khác 不用 ở điểm nào?",
+        "answer": "不必 trang trọng hơn một chút; 不用 thông dụng trong lời nói. Cùng ý không cần."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_377",
+    "level": "HSK5",
+    "hanzi": "某",
+    "pinyin": "mǒu",
+    "display_meaning_vi": "nào đó",
+    "meaning_en": "a certain; some",
+    "part_of_speech": "pronoun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "某人 / 某天 / 某些",
+    "collocations": [
+      "某人",
+      "某处",
+      "某些"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "某天早上他突然来了。",
+        "pinyin": "Mǒu tiān zǎoshang tā tūrán lái le.",
+        "vi": "Một buổi sáng nọ anh ấy đột nhiên đến.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "某 giấu tên hoặc không cần nói rõ. Không dùng thay 每. 每 là mỗi."
+    ],
+    "app_note_vi": "Đứng trước danh từ: 某人, 某地, 某些.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "某 nghĩa là gì?",
+        "answer": "nào đó"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____天早上他突然来了。",
+        "answer": "某"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_378",
+    "level": "HSK5",
+    "hanzi": "非",
+    "pinyin": "fēi",
+    "display_meaning_vi": "không; nhất định phải",
+    "meaning_en": "not; insist on",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "非…不可 / 非正式",
+    "collocations": [
+      "非正式",
+      "非要",
+      "莫非"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件事非你去不可。",
+        "pinyin": "Zhè jiàn shì fēi nǐ qù bùkě.",
+        "vi": "Việc này không có bạn đi thì không được.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "非 đọc fēi. 非…不可 nghĩa là bắt buộc phải. Họ 非 mới viết hoa."
+    ],
+    "app_note_vi": "Phủ định trang trọng, hoặc mẫu 非…不可 là nhất định phải.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "非 nghĩa là gì?",
+        "answer": "không; nhất định phải"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件事____你去不可。",
+        "answer": "非"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_379",
+    "level": "HSK5",
+    "hanzi": "评价",
+    "pinyin": "píngjià",
+    "display_meaning_vi": "đánh giá",
+    "meaning_en": "to evaluate; evaluation",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "高度评价 / 评价很高",
+    "collocations": [
+      "高度评价",
+      "评价标准",
+      "作出评价"
+    ],
+    "near_synonyms": [
+      {
+        "word": "批评",
+        "difference_vi": "评价 là nhận xét giá trị, tốt hoặc chưa tốt; 批评 là chỉ ra chỗ sai."
+      }
+    ],
+    "app_synonym_note_vi": "评价 = đánh giá; 批评 = phê bình chỗ sai.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "读者对这本书评价很高。",
+        "pinyin": "Dúzhě duì zhè běn shū píngjià hěn gāo.",
+        "vi": "Người đọc đánh giá cuốn sách này rất cao.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "作出评价 là đưa ra đánh giá. Không phải lúc nào cũng là chê."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "评价 nghĩa là gì?",
+        "answer": "đánh giá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "读者对这本书____很高。",
+        "answer": "评价"
+      },
+      {
+        "type": "synonym",
+        "prompt": "评价 khác 批评 ở điểm nào?",
+        "answer": "评价 là nhận xét giá trị, tốt hoặc chưa tốt; 批评 là chỉ ra chỗ sai."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_380",
+    "level": "HSK5",
+    "hanzi": "原则",
+    "pinyin": "yuánzé",
+    "display_meaning_vi": "nguyên tắc",
+    "meaning_en": "principle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "基本原则 / 坚持原则",
+    "collocations": [
+      "基本原则",
+      "原则问题",
+      "坚持原则"
+    ],
+    "near_synonyms": [
+      {
+        "word": "规则",
+        "difference_vi": "原则 là quy tắc gốc, thường không dễ nhượng; 规则 là điều khoản cụ thể của một việc."
+      }
+    ],
+    "app_synonym_note_vi": "原则 = nguyên tắc gốc; 规则 = quy tắc cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "双方都同意这条原则。",
+        "pinyin": "Shuāngfāng dōu tóngyì zhè tiáo yuánzé.",
+        "vi": "Hai bên đều đồng ý nguyên tắc này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一条原则 dùng 条. Nguyên tắc không phải một mẹo nhỏ."
+    ],
+    "app_note_vi": "Danh từ. 坚持原则 là giữ nguyên tắc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "原则 nghĩa là gì?",
+        "answer": "nguyên tắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "双方都同意这条____。",
+        "answer": "原则"
+      },
+      {
+        "type": "synonym",
+        "prompt": "原则 khác 规则 ở điểm nào?",
+        "answer": "原则 là quy tắc gốc, thường không dễ nhượng; 规则 là điều khoản cụ thể của một việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

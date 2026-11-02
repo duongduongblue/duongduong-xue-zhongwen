@@ -44,6 +44,12 @@ export const modules: Module[] = [
   { id: 'hsk5-module-29', levelId: 'HSK5', title: '出行与到达', subtitle: 'Travel & Arrival', order: 29 },
   { id: 'hsk5-module-30', levelId: 'HSK5', title: '饮食与味道', subtitle: 'Food & Flavor', order: 30 },
   { id: 'hsk5-module-31', levelId: 'HSK5', title: '身体与感觉', subtitle: 'Body & Senses', order: 31 },
+  { id: 'hsk5-module-32', levelId: 'HSK5', title: '执行与程序', subtitle: 'Execution & Procedure', order: 32 },
+  { id: 'hsk5-module-33', levelId: 'HSK5', title: '宣布与原则', subtitle: 'Announcements & Principles', order: 33 },
+  { id: 'hsk5-module-34', levelId: 'HSK5', title: '身份与时代', subtitle: 'Identity & Era', order: 34 },
+  { id: 'hsk5-module-35', levelId: 'HSK5', title: '起居与用具', subtitle: 'Home & Things', order: 35 },
+  { id: 'hsk5-module-36', levelId: 'HSK5', title: '欣赏与经典', subtitle: 'Appreciation & Classics', order: 36 },
+  { id: 'hsk5-module-37', levelId: 'HSK5', title: '思考与变化', subtitle: 'Thought & Change', order: 37 },
 ];
 
 export const hsk1LessonDefs = [
