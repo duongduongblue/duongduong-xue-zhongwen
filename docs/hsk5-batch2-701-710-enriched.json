@@ -215,7 +215,7 @@
     "id": "hsk5_batch2_705",
     "level": "HSK5",
     "hanzi": "省略",
-    "pinyin": "shěnglǜe",
+    "pinyin": "shěnglüè",
     "display_meaning_vi": "lược bớt",
     "meaning_en": "to omit",
     "part_of_speech": "verb",
@@ -241,7 +241,7 @@
     "example_sentences": [
       {
         "zh": "时间不够，这一段可以省略。",
-        "pinyin": "Shíjiān bú gòu, zhè yí duàn kěyǐ shěnglǜe.",
+        "pinyin": "Shíjiān bú gòu, zhè yí duàn kěyǐ shěnglüè.",
         "vi": "Không đủ giờ, đoạn này có thể lược.",
         "context": "study"
       }
