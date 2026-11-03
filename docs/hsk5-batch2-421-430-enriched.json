@@ -1,0 +1,575 @@
+[
+  {
+    "id": "hsk5_batch2_421",
+    "level": "HSK5",
+    "hanzi": "经营",
+    "pinyin": "jīngyíng",
+    "display_meaning_vi": "kinh doanh; điều hành",
+    "meaning_en": "to run a business",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "economy"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "经营商店 / 经营管理",
+    "collocations": [
+      "经营管理",
+      "经营商店",
+      "苦心经营"
+    ],
+    "near_synonyms": [
+      {
+        "word": "管理",
+        "difference_vi": "经营 nhấn mạnh buôn bán hoặc điều hành một cơ sở để có lãi; 管理 là quản lý người và việc, rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "经营 = kinh doanh; 管理 = quản lý.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们夫妻经营一家小店。",
+        "pinyin": "Tāmen fūqī jīngyíng yì jiā xiǎo diàn.",
+        "vi": "Vợ chồng họ kinh doanh một quán nhỏ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一家 đọc yì jiā vì 家 là thanh 1."
+    ],
+    "app_note_vi": "Động từ. Hay đi với cửa hàng, công ty hoặc một cơ sở.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "经营 nghĩa là gì?",
+        "answer": "kinh doanh; điều hành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们夫妻____一家小店。",
+        "answer": "经营"
+      },
+      {
+        "type": "synonym",
+        "prompt": "经营 khác 管理 ở điểm nào?",
+        "answer": "经营 nhấn mạnh buôn bán hoặc điều hành một cơ sở để có lãi; 管理 là quản lý người và việc, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_422",
+    "level": "HSK5",
+    "hanzi": "发挥",
+    "pinyin": "fāhuī",
+    "display_meaning_vi": "phát huy",
+    "meaning_en": "to bring into play",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "发挥优势 / 发挥作用",
+    "collocations": [
+      "发挥作用",
+      "发挥优势",
+      "充分发挥"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他今天没发挥出水平。",
+        "pinyin": "Tā jīntiān méi fāhuī chū shuǐpíng.",
+        "vi": "Hôm nay anh ấy không phát huy được trình độ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发挥出 là đưa được ra. Không dùng 发挥 cho việc “phát thanh”."
+    ],
+    "app_note_vi": "Động từ. Đi với năng lực, ưu thế hoặc tác dụng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发挥 nghĩa là gì?",
+        "answer": "phát huy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他今天没____出水平。",
+        "answer": "发挥"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_423",
+    "level": "HSK5",
+    "hanzi": "取消",
+    "pinyin": "qǔxiāo",
+    "display_meaning_vi": "hủy",
+    "meaning_en": "to cancel",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "取消比赛 / 取消订单",
+    "collocations": [
+      "取消资格",
+      "取消订单",
+      "临时取消"
+    ],
+    "near_synonyms": [
+      {
+        "word": "删除",
+        "difference_vi": "取消 là bỏ một kế hoạch, tư cách hoặc đơn đã định; 删除 là xóa một chữ hoặc một tệp."
+      }
+    ],
+    "app_synonym_note_vi": "取消 = hủy việc đã định; 删除 = xóa nội dung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这场比赛因雨取消了。",
+        "pinyin": "Zhè chǎng bǐsài yīn yǔ qǔxiāo le.",
+        "vi": "Trận đấu này bị hủy vì mưa.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "因雨 là vì mưa. 因 đọc yīn."
+    ],
+    "app_note_vi": "Động từ. Hay gặp khi hủy lịch, đơn hàng hoặc tư cách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "取消 nghĩa là gì?",
+        "answer": "hủy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这场比赛因雨____了。",
+        "answer": "取消"
+      },
+      {
+        "type": "synonym",
+        "prompt": "取消 khác 删除 ở điểm nào?",
+        "answer": "取消 là bỏ một kế hoạch, tư cách hoặc đơn đã định; 删除 là xóa một chữ hoặc một tệp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_424",
+    "level": "HSK5",
+    "hanzi": "确认",
+    "pinyin": "quèrèn",
+    "display_meaning_vi": "xác nhận",
+    "meaning_en": "to confirm",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "确认一下 / 确认无误",
+    "collocations": [
+      "确认收到",
+      "再次确认",
+      "确认无误"
+    ],
+    "near_synonyms": [
+      {
+        "word": "确定",
+        "difference_vi": "确认 là xem lại rồi công nhận đúng; 确定 là chốt hoặc cho là chắc."
+      }
+    ],
+    "app_synonym_note_vi": "确认 = xác nhận lại; 确定 = chốt, cho là chắc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请确认一下订单信息。",
+        "pinyin": "Qǐng quèrèn yíxià dìngdān xìnxī.",
+        "vi": "Xin xác nhận lại thông tin đơn hàng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一下 đọc yíxià. 确认一下 là xem lại cho chắc."
+    ],
+    "app_note_vi": "Động từ. Hay gặp khi đặt chỗ, nhận thư hoặc nhận hàng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "确认 nghĩa là gì?",
+        "answer": "xác nhận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____一下订单信息。",
+        "answer": "确认"
+      },
+      {
+        "type": "synonym",
+        "prompt": "确认 khác 确定 ở điểm nào?",
+        "answer": "确认 là xem lại rồi công nhận đúng; 确定 là chốt hoặc cho là chắc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_425",
+    "level": "HSK5",
+    "hanzi": "优势",
+    "pinyin": "yōushì",
+    "display_meaning_vi": "lợi thế",
+    "meaning_en": "advantage",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "竞争优势 / 发挥优势",
+    "collocations": [
+      "竞争优势",
+      "发挥优势",
+      "优势明显"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "年轻是他最大的优势。",
+        "pinyin": "Niánqīng shì tā zuì dà de yōushì.",
+        "vi": "Trẻ là lợi thế lớn nhất của anh ấy.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "优势 là điểm mạnh hơn bên khác. Một điểm giỏi của mình nói chung có thể là 优点."
+    ],
+    "app_note_vi": "Danh từ. 优势明显 là lợi thế rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "优势 nghĩa là gì?",
+        "answer": "lợi thế"
+      },
+      {
+        "type": "cloze",
+        "prompt": "年轻是他最大的____。",
+        "answer": "优势"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_426",
+    "level": "HSK5",
+    "hanzi": "合同",
+    "pinyin": "hétong",
+    "display_meaning_vi": "hợp đồng",
+    "meaning_en": "contract",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "签合同 / 劳动合同",
+    "collocations": [
+      "签合同",
+      "劳动合同",
+      "合同到期"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "签约前请仔细看合同。",
+        "pinyin": "Qiānyuē qián qǐng zǐxì kàn hétong.",
+        "vi": "Trước khi ký hãy đọc kỹ hợp đồng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "合同的 同 đọc nhẹ: hétong. Đây là văn bản có giá trị pháp lý, không phải lời hứa miệng."
+    ],
+    "app_note_vi": "Danh từ. 签合同 là ký hợp đồng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "合同 nghĩa là gì?",
+        "answer": "hợp đồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "签约前请仔细看____。",
+        "answer": "合同"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_427",
+    "level": "HSK5",
+    "hanzi": "立即",
+    "pinyin": "lìjí",
+    "display_meaning_vi": "ngay lập tức",
+    "meaning_en": "immediately",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "立即行动 / 立即生效",
+    "collocations": [
+      "立即行动",
+      "立即停止",
+      "立即生效"
+    ],
+    "near_synonyms": [
+      {
+        "word": "马上",
+        "difference_vi": "立即 trang trọng, hay gặp trong thông báo; 马上 thông dụng trong lời nói."
+      }
+    ],
+    "app_synonym_note_vi": "立即 = ngay, trang trọng; 马上 = ngay, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听到消息他立即出发。",
+        "pinyin": "Tīngdào xiāoxi tā lìjí chūfā.",
+        "vi": "Nghe tin anh ấy lên đường ngay.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "立即 đứng trước động từ."
+    ],
+    "app_note_vi": "Phó từ. Gần nghĩa với 立刻 và 马上.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "立即 nghĩa là gì?",
+        "answer": "ngay lập tức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听到消息他____出发。",
+        "answer": "立即"
+      },
+      {
+        "type": "synonym",
+        "prompt": "立即 khác 马上 ở điểm nào?",
+        "answer": "立即 trang trọng, hay gặp trong thông báo; 马上 thông dụng trong lời nói."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_428",
+    "level": "HSK5",
+    "hanzi": "计算",
+    "pinyin": "jìsuàn",
+    "display_meaning_vi": "tính toán",
+    "meaning_en": "to calculate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "计算成本 / 计算机",
+    "collocations": [
+      "计算成本",
+      "计算机",
+      "仔细计算"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "买房前要计算好费用。",
+        "pinyin": "Mǎi fáng qián yào jìsuàn hǎo fèiyòng.",
+        "vi": "Trước khi mua nhà phải tính kỹ chi phí.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "计算机 là máy tính, không phải người tính. Người tính là 会计 hoặc chính động từ 计算."
+    ],
+    "app_note_vi": "Động từ. 计算好 là tính xong, tính cho ổn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "计算 nghĩa là gì?",
+        "answer": "tính toán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "买房前要____好费用。",
+        "answer": "计算"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_429",
+    "level": "HSK5",
+    "hanzi": "存",
+    "pinyin": "cún",
+    "display_meaning_vi": "gửi; cất; còn",
+    "meaning_en": "to deposit; to keep",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "存钱 / 存起来",
+    "collocations": [
+      "存钱",
+      "存起来",
+      "生存"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我每月把一部分工资存起来。",
+        "pinyin": "Wǒ měi yuè bǎ yí bùfen gōngzī cún qǐlái.",
+        "vi": "Mỗi tháng tôi gửi một phần lương vào.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "存钱 là gửi tiết kiệm. 生存 là sinh tồn, cùng chữ 存 nhưng là từ khác. 一部分 đọc yí bùfen."
+    ],
+    "app_note_vi": "Động từ. Cũng có nghĩa còn lại, như 存着.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "存 nghĩa là gì?",
+        "answer": "gửi; cất; còn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我每月把一部分工资____起来。",
+        "answer": "存"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_430",
+    "level": "HSK5",
+    "hanzi": "税",
+    "pinyin": "shuì",
+    "display_meaning_vi": "thuế",
+    "meaning_en": "tax",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "交税 / 税率 / 免税",
+    "collocations": [
+      "交税",
+      "税率",
+      "免税"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "收入增加，税也会多。",
+        "pinyin": "Shōurù zēngjiā, shuì yě huì duō.",
+        "vi": "Thu nhập tăng thì thuế cũng nhiều thêm.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "交税 là nộp thuế. 免税 là được miễn thuế."
+    ],
+    "app_note_vi": "Danh từ. Không dùng như động từ “đánh thuế” nếu chưa có 交 hoặc 征.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "税 nghĩa là gì?",
+        "answer": "thuế"
+      },
+      {
+        "type": "cloze",
+        "prompt": "收入增加，____也会多。",
+        "answer": "税"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

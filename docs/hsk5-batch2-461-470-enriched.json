@@ -1,0 +1,547 @@
+[
+  {
+    "id": "hsk5_batch2_461",
+    "level": "HSK5",
+    "hanzi": "克",
+    "pinyin": "kè",
+    "display_meaning_vi": "gam",
+    "meaning_en": "gram",
+    "part_of_speech": "measure",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "五十克 / 千克",
+    "collocations": [
+      "五十克",
+      "千克",
+      "毫克"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这包茶只有五十克。",
+        "pinyin": "Zhè bāo chá zhǐyǒu wǔshí kè.",
+        "vi": "Gói trà này chỉ có năm mươi gam.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "克 ở bài này là gam. Họ 克 cũng đọc Kè. Khắc phục một khó khăn là từ 克服, cùng âm kè."
+    ],
+    "app_note_vi": "Lượng từ khối lượng. 千克 là kilôgam.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "克 nghĩa là gì?",
+        "answer": "gam"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这包茶只有五十____。",
+        "answer": "克"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_462",
+    "level": "HSK5",
+    "hanzi": "支",
+    "pinyin": "zhī",
+    "display_meaning_vi": "cây; bài; đội",
+    "meaning_en": "measure for long things, songs, teams",
+    "part_of_speech": "measure",
+    "difficulty": 3,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一支笔 / 一支歌 / 一支队伍",
+    "collocations": [
+      "一支笔",
+      "一支歌",
+      "一支队伍"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她买了一支黑色钢笔。",
+        "pinyin": "Tā mǎi le yì zhī hēisè gāngbǐ.",
+        "vi": "Cô ấy mua một cây bút máy màu đen.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "支 đọc zhī. 一支 đọc yì zhī vì 支 là thanh 1. Họ 支 cũng đọc Zhī."
+    ],
+    "app_note_vi": "Lượng từ cho vật dài mảnh, bài hát hoặc một đội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "支 nghĩa là gì?",
+        "answer": "cây; bài; đội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她买了一____黑色钢笔。",
+        "answer": "支"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_463",
+    "level": "HSK5",
+    "hanzi": "方",
+    "pinyin": "fāng",
+    "display_meaning_vi": "phía",
+    "meaning_en": "side; direction",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "前方 / 方向",
+    "collocations": [
+      "方向",
+      "前方",
+      "方方面面"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "礼堂在教学楼的前方。",
+        "pinyin": "Lǐtáng zài jiàoxué lóu de qiánfāng.",
+        "vi": "Hội trường ở phía trước tòa nhà dạy học.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "方 đọc fāng khi là phía. Họ 方 đọc Fāng. 方法 là cách làm, cùng chữ.",
+      "方方面面 là mọi mặt."
+    ],
+    "app_note_vi": "Danh từ. 前方 là phía trước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "方 nghĩa là gì?",
+        "answer": "phía"
+      },
+      {
+        "type": "cloze",
+        "prompt": "礼堂在教学楼的前____。",
+        "answer": "方"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_464",
+    "level": "HSK5",
+    "hanzi": "棒",
+    "pinyin": "bàng",
+    "display_meaning_vi": "giỏi; tuyệt",
+    "meaning_en": "excellent; terrific",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "真棒 / 棒极了",
+    "collocations": [
+      "很棒",
+      "棒极了",
+      "棒球"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你今天的发言真棒。",
+        "pinyin": "Nǐ jīntiān de fāyán zhēn bàng.",
+        "vi": "Phần phát biểu của bạn hôm nay giỏi thật.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "棒 trong lời khen là giỏi, tuyệt. 棒球 là bóng chày, cùng chữ."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. 棒极了 là tuyệt lắm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "棒 nghĩa là gì?",
+        "answer": "giỏi; tuyệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你今天的发言真____。",
+        "answer": "棒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_465",
+    "level": "HSK5",
+    "hanzi": "完美",
+    "pinyin": "wánměi",
+    "display_meaning_vi": "hoàn hảo",
+    "meaning_en": "perfect",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "追求完美 / 完美无缺",
+    "collocations": [
+      "完美无缺",
+      "追求完美",
+      "近乎完美"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "谁也不可能事事完美。",
+        "pinyin": "Shéi yě bù kěnéng shìshì wánměi.",
+        "vi": "Không ai có thể việc gì cũng hoàn hảo.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "事事 là mọi việc. 完美无缺 là không một thiếu sót."
+    ],
+    "app_note_vi": "Tính từ. Gần như không có chỗ chê.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "完美 nghĩa là gì?",
+        "answer": "hoàn hảo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "谁也不可能事事____。",
+        "answer": "完美"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_466",
+    "level": "HSK5",
+    "hanzi": "真实",
+    "pinyin": "zhēnshí",
+    "display_meaning_vi": "có thật",
+    "meaning_en": "real; true",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "真实情况 / 真实感受",
+    "collocations": [
+      "真实情况",
+      "真实性",
+      "真实感受"
+    ],
+    "near_synonyms": [
+      {
+        "word": "真的",
+        "difference_vi": "真实 tả sự việc đúng với thực tế; 真的 là quả thật, dùng để nhấn lời nói."
+      }
+    ],
+    "app_synonym_note_vi": "真实 = có thật; 真的 = quả thật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "电影故事并不真实。",
+        "pinyin": "Diànyǐng gùshi bìng bù zhēnshí.",
+        "vi": "Chuyện trong phim không có thật.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "并不 là “thực ra không”. 故事 đọc gùshi, âm sau nhẹ."
+    ],
+    "app_note_vi": "Tính từ. Không giả và không bịa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "真实 nghĩa là gì?",
+        "answer": "có thật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "电影故事并不____。",
+        "answer": "真实"
+      },
+      {
+        "type": "synonym",
+        "prompt": "真实 khác 真的 ở điểm nào?",
+        "answer": "真实 tả sự việc đúng với thực tế; 真的 là quả thật, dùng để nhấn lời nói."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_467",
+    "level": "HSK5",
+    "hanzi": "伟大",
+    "pinyin": "wěidà",
+    "display_meaning_vi": "vĩ đại",
+    "meaning_en": "great",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "伟大人物 / 很伟大",
+    "collocations": [
+      "伟大人物",
+      "伟大精神",
+      "很伟大"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "母亲的付出非常伟大。",
+        "pinyin": "Mǔqīn de fùchū fēicháng wěidà.",
+        "vi": "Sự hy sinh của mẹ thật vĩ đại.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "伟大 là lời khen trang trọng cho người hoặc sự nghiệp lớn. Việc nhỏ dùng 棒 hoặc 好."
+    ],
+    "app_note_vi": "Tính từ. 非常伟大 là vô cùng lớn lao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "伟大 nghĩa là gì?",
+        "answer": "vĩ đại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "母亲的付出非常____。",
+        "answer": "伟大"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_468",
+    "level": "HSK5",
+    "hanzi": "颗",
+    "pinyin": "kē",
+    "display_meaning_vi": "viên; hạt",
+    "meaning_en": "measure for small round things",
+    "part_of_speech": "measure",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一颗星 / 几颗",
+    "collocations": [
+      "一颗星",
+      "一颗心",
+      "颗粒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "碗里还有几颗红枣。",
+        "pinyin": "Wǎn lǐ hái yǒu jǐ kē hóngzǎo.",
+        "vi": "Trong bát còn vài quả táo đỏ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "颗 đếm vật nhỏ tròn như sao, kẹo, hạt, trái tim. Không đếm người."
+    ],
+    "app_note_vi": "Lượng từ. 一颗 đọc yì kē vì 颗 là thanh 1.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "颗 nghĩa là gì?",
+        "answer": "viên; hạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "碗里还有几____红枣。",
+        "answer": "颗"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_469",
+    "level": "HSK5",
+    "hanzi": "直",
+    "pinyin": "zhí",
+    "display_meaning_vi": "thẳng",
+    "meaning_en": "straight",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "笔直 / 又宽又直",
+    "collocations": [
+      "笔直",
+      "直飞",
+      "直说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条马路又宽又直。",
+        "pinyin": "Zhè tiáo mǎlù yòu kuān yòu zhí.",
+        "vi": "Con đường này vừa rộng vừa thẳng.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "直 đọc zhí. Họ 直 cũng đọc Zhí. 直说 là nói thẳng, không vòng vo."
+    ],
+    "app_note_vi": "Tính từ. 笔直 là thẳng tắp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "直 nghĩa là gì?",
+        "answer": "thẳng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条马路又宽又____。",
+        "answer": "直"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_470",
+    "level": "HSK5",
+    "hanzi": "程度",
+    "pinyin": "chéngdù",
+    "display_meaning_vi": "mức độ",
+    "meaning_en": "degree; extent",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "在一定程度上 / 程度不同",
+    "collocations": [
+      "在一定程度上",
+      "程度不同",
+      "严重程度"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两个人的努力程度不一样。",
+        "pinyin": "Liǎng gè rén de nǔlì chéngdù bù yíyàng.",
+        "vi": "Mức độ cố gắng của hai người không giống nhau.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不一样 đọc bù yíyàng. 程度 nói nặng nhẹ, nhiều ít của một tình trạng."
+    ],
+    "app_note_vi": "Danh từ. 在一定程度上 là ở một mức độ nào đó.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "程度 nghĩa là gì?",
+        "answer": "mức độ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两个人的努力____不一样。",
+        "answer": "程度"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

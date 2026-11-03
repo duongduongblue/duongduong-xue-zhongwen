@@ -1,0 +1,580 @@
+[
+  {
+    "id": "hsk5_batch2_431",
+    "level": "HSK5",
+    "hanzi": "答应",
+    "pinyin": "dāying",
+    "display_meaning_vi": "nhận lời",
+    "meaning_en": "to agree; to promise",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "答应别人 / 一口答应",
+    "collocations": [
+      "答应别人",
+      "一口答应",
+      "不答应"
+    ],
+    "near_synonyms": [
+      {
+        "word": "回答",
+        "difference_vi": "答应 là nhận lời làm việc gì; 回答 là trả lời một câu hỏi. Nghe điện thoại nói 接, không nói 答应."
+      }
+    ],
+    "app_synonym_note_vi": "答应 = nhận lời; 回答 = trả lời.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他答应周末帮我搬家。",
+        "pinyin": "Tā dāying zhōumò bāng wǒ bānjiā.",
+        "vi": "Anh ấy nhận lời cuối tuần giúp tôi chuyển nhà.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "答应 đọc dāying, âm sau nhẹ. Không đọc dàyìng."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. Là nhận lời, không phải trả lời điện thoại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "答应 nghĩa là gì?",
+        "answer": "nhận lời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____周末帮我搬家。",
+        "answer": "答应"
+      },
+      {
+        "type": "synonym",
+        "prompt": "答应 khác 回答 ở điểm nào?",
+        "answer": "答应 là nhận lời làm việc gì; 回答 là trả lời một câu hỏi. Nghe điện thoại nói 接, không nói 答应."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_432",
+    "level": "HSK5",
+    "hanzi": "推荐",
+    "pinyin": "tuījiàn",
+    "display_meaning_vi": "giới thiệu",
+    "meaning_en": "to recommend",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "推荐信 / 强烈推荐",
+    "collocations": [
+      "推荐信",
+      "强烈推荐",
+      "推荐人"
+    ],
+    "near_synonyms": [
+      {
+        "word": "介绍",
+        "difference_vi": "推荐 là giới thiệu vì thấy đáng; 介绍 là giới thiệu nói chung, kể cả giới thiệu một người lạ."
+      }
+    ],
+    "app_synonym_note_vi": "推荐 = tiến cử vì thấy hay; 介绍 = giới thiệu nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "朋友推荐我看这部电影。",
+        "pinyin": "Péngyou tuījiàn wǒ kàn zhè bù diànyǐng.",
+        "vi": "Bạn giới thiệu tôi xem bộ phim này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "这部 đọc zhè bù. 推荐 thường kèm lý do đáng xem hoặc đáng dùng."
+    ],
+    "app_note_vi": "Động từ. 推荐信 là thư giới thiệu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "推荐 nghĩa là gì?",
+        "answer": "giới thiệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "朋友____我看这部电影。",
+        "answer": "推荐"
+      },
+      {
+        "type": "synonym",
+        "prompt": "推荐 khác 介绍 ở điểm nào?",
+        "answer": "推荐 là giới thiệu vì thấy đáng; 介绍 là giới thiệu nói chung, kể cả giới thiệu một người lạ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_433",
+    "level": "HSK5",
+    "hanzi": "喊",
+    "pinyin": "hǎn",
+    "display_meaning_vi": "gọi to",
+    "meaning_en": "to shout; to call loudly",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "informal",
+    "grammar_pattern": "大声喊 / 喊人",
+    "collocations": [
+      "大声喊",
+      "喊人",
+      "喊叫"
+    ],
+    "near_synonyms": [
+      {
+        "word": "叫",
+        "difference_vi": "喊 là gọi to, mạnh hơn; 叫 là gọi, thông dụng hơn và không nhất thiết lớn tiếng."
+      }
+    ],
+    "app_synonym_note_vi": "喊 = gọi to; 叫 = gọi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "有人在楼下喊你的名字。",
+        "pinyin": "Yǒu rén zài lóu xià hǎn nǐ de míngzi.",
+        "vi": "Có người dưới lầu gọi to tên bạn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喊是 gọi to. Gọi điện không nói 喊."
+    ],
+    "app_note_vi": "Động từ. 喊叫 là kêu la.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "喊 nghĩa là gì?",
+        "answer": "gọi to"
+      },
+      {
+        "type": "cloze",
+        "prompt": "有人在楼下____你的名字。",
+        "answer": "喊"
+      },
+      {
+        "type": "synonym",
+        "prompt": "喊 khác 叫 ở điểm nào?",
+        "answer": "喊 là gọi to, mạnh hơn; 叫 là gọi, thông dụng hơn và không nhất thiết lớn tiếng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_434",
+    "level": "HSK5",
+    "hanzi": "随时",
+    "pinyin": "suíshí",
+    "display_meaning_vi": "bất cứ lúc nào",
+    "meaning_en": "at any time",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "随时联系 / 随时随地",
+    "collocations": [
+      "随时联系",
+      "随时随地",
+      "随时欢迎"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你可以随时改变主意。",
+        "pinyin": "Nǐ kěyǐ suíshí gǎibiàn zhǔyi.",
+        "vi": "Bạn có thể đổi ý bất cứ lúc nào.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "随时 là không cần hẹn trước. Không phải “theo thời gian”."
+    ],
+    "app_note_vi": "Phó từ. 随时随地 là bất cứ lúc nào, bất cứ đâu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "随时 nghĩa là gì?",
+        "answer": "bất cứ lúc nào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你可以____改变主意。",
+        "answer": "随时"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_435",
+    "level": "HSK5",
+    "hanzi": "不然",
+    "pinyin": "bùrán",
+    "display_meaning_vi": "nếu không thì",
+    "meaning_en": "otherwise",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不然的话 / 要不然",
+    "collocations": [
+      "不然的话",
+      "要不然",
+      "再不然"
+    ],
+    "near_synonyms": [
+      {
+        "word": "否则",
+        "difference_vi": "不然 khẩu ngữ; 否则 trang trọng hơn, hay gặp khi viết. Cùng ý nếu không thì."
+      }
+    ],
+    "app_synonym_note_vi": "不然 = nếu không thì, khẩu ngữ; 否则 = nếu không thì, trang trọng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "快出发吧，不然要迟到。",
+        "pinyin": "Kuài chūfā ba, bùrán yào chídào.",
+        "vi": "Đi mau đi, không thì muộn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不然 đưa hậu quả nếu không làm điều vừa nói."
+    ],
+    "app_note_vi": "Liên từ. 要不然 cùng nghĩa, thân mật hơn nữa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不然 nghĩa là gì?",
+        "answer": "nếu không thì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "快出发吧，____要迟到。",
+        "answer": "不然"
+      },
+      {
+        "type": "synonym",
+        "prompt": "不然 khác 否则 ở điểm nào?",
+        "answer": "不然 khẩu ngữ; 否则 trang trọng hơn, hay gặp khi viết. Cùng ý nếu không thì."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_436",
+    "level": "HSK5",
+    "hanzi": "举",
+    "pinyin": "jǔ",
+    "display_meaning_vi": "giơ; nêu",
+    "meaning_en": "to raise; to cite",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "举手 / 举例 / 举办",
+    "collocations": [
+      "举手",
+      "举例",
+      "举办"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "有问题的同学请先举手。",
+        "pinyin": "Yǒu wèntí de tóngxué qǐng xiān jǔ shǒu.",
+        "vi": "Bạn nào có câu hỏi hãy giơ tay trước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "举手 là giơ tay. 举例 là nêu ví dụ. 举办 là tổ chức. Cùng chữ 举, khác cụm."
+    ],
+    "app_note_vi": "Động từ. Đọc jǔ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "举 nghĩa là gì?",
+        "answer": "giơ; nêu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "有问题的同学请先____手。",
+        "answer": "举"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_437",
+    "level": "HSK5",
+    "hanzi": "明确",
+    "pinyin": "míngquè",
+    "display_meaning_vi": "rõ ràng; dứt khoát",
+    "meaning_en": "clear; explicit",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "明确目标 / 态度明确",
+    "collocations": [
+      "明确目标",
+      "明确指出",
+      "态度明确"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请给出明确的答复。",
+        "pinyin": "Qǐng gěi chū míngquè de dáfù.",
+        "vi": "Xin cho một câu trả lời rõ ràng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "明确 vừa là tính từ “rõ”, vừa là động từ “làm cho rõ”."
+    ],
+    "app_note_vi": "Không mơ hồ. Hay đi với mục tiêu, thái độ và câu trả lời.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "明确 nghĩa là gì?",
+        "answer": "rõ ràng; dứt khoát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请给出____的答复。",
+        "answer": "明确"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_438",
+    "level": "HSK5",
+    "hanzi": "道理",
+    "pinyin": "dàoli",
+    "display_meaning_vi": "lẽ; lý",
+    "meaning_en": "reason; sense",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有道理 / 讲道理",
+    "collocations": [
+      "有道理",
+      "讲道理",
+      "这个道理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你说的话很有道理。",
+        "pinyin": "Nǐ shuō de huà hěn yǒu dàoli.",
+        "vi": "Lời bạn nói rất có lý.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "道理的 理 đọc nhẹ: dàoli. 有道理 là nghe xuôi, đáng đồng ý."
+    ],
+    "app_note_vi": "Danh từ. 讲道理 là nói lẽ phải.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "道理 nghĩa là gì?",
+        "answer": "lẽ; lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你说的话很有____。",
+        "answer": "道理"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_439",
+    "level": "HSK5",
+    "hanzi": "深刻",
+    "pinyin": "shēnkè",
+    "display_meaning_vi": "sâu sắc",
+    "meaning_en": "deep; profound",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "印象深刻 / 深刻理解",
+    "collocations": [
+      "印象深刻",
+      "深刻教训",
+      "深刻理解"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这句话给我留下深刻印象。",
+        "pinyin": "Zhè jù huà gěi wǒ liú xià shēnkè yìnxiàng.",
+        "vi": "Câu này để lại cho tôi ấn tượng sâu.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "印象深刻 là ấn tượng sâu, có thể đảo 深刻印象."
+    ],
+    "app_note_vi": "Tính từ. Hay đi với ấn tượng, bài học hoặc cách hiểu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "深刻 nghĩa là gì?",
+        "answer": "sâu sắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这句话给我留下____印象。",
+        "answer": "深刻"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_440",
+    "level": "HSK5",
+    "hanzi": "不如",
+    "pinyin": "bùrú",
+    "display_meaning_vi": "không bằng",
+    "meaning_en": "not as good as; better to",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "A不如B / 不如 + 动词",
+    "collocations": [
+      "不如以前",
+      "还不如",
+      "不如早点睡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "与其等车，不如走路去。",
+        "pinyin": "Yǔqí děng chē, bùrú zǒu lù qù.",
+        "vi": "Thay vì đợi xe, chi bằng đi bộ.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "与其A，不如B là thay vì A thì bằng B. 不如 + động từ là lời khuyên nên làm."
+    ],
+    "app_note_vi": "Động từ so sánh. B là phía được chọn hơn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不如 nghĩa là gì?",
+        "answer": "không bằng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "与其等车，____走路去。",
+        "answer": "不如"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

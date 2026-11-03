@@ -41,6 +41,12 @@ import enriched381To390 from '../../docs/hsk5-batch2-381-390-enriched.json';
 import enriched391To400 from '../../docs/hsk5-batch2-391-400-enriched.json';
 import enriched401To410 from '../../docs/hsk5-batch2-401-410-enriched.json';
 import enriched411To420 from '../../docs/hsk5-batch2-411-420-enriched.json';
+import enriched421To430 from '../../docs/hsk5-batch2-421-430-enriched.json';
+import enriched431To440 from '../../docs/hsk5-batch2-431-440-enriched.json';
+import enriched441To450 from '../../docs/hsk5-batch2-441-450-enriched.json';
+import enriched451To460 from '../../docs/hsk5-batch2-451-460-enriched.json';
+import enriched461To470 from '../../docs/hsk5-batch2-461-470-enriched.json';
+import enriched471To480 from '../../docs/hsk5-batch2-471-480-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -109,6 +115,12 @@ const sourceWords = [
   ...(enriched391To400 as EnrichedWord[]),
   ...(enriched401To410 as EnrichedWord[]),
   ...(enriched411To420 as EnrichedWord[]),
+  ...(enriched421To430 as EnrichedWord[]),
+  ...(enriched431To440 as EnrichedWord[]),
+  ...(enriched441To450 as EnrichedWord[]),
+  ...(enriched451To460 as EnrichedWord[]),
+  ...(enriched461To470 as EnrichedWord[]),
+  ...(enriched471To480 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -405,6 +417,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '42 · 思考',
     topic: '思考与变化 / Suy nghĩ và thay đổi',
     color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L43',
+    moduleId: 'hsk5-module-38',
+    title: '43 · 经营',
+    topic: '经营与合同 / Kinh doanh và hợp đồng',
+    color: '#C62828',
+  },
+  {
+    id: 'HSK5-F1-L44',
+    moduleId: 'hsk5-module-39',
+    title: '44 · 答应',
+    topic: '答应与道理 / Nhận lời và lẽ phải',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L45',
+    moduleId: 'hsk5-module-40',
+    title: '45 · 公开',
+    topic: '公开与和平 / Công khai và hòa bình',
+    color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L46',
+    moduleId: 'hsk5-module-41',
+    title: '46 · 夜',
+    topic: '夜与自然 / Đêm và thiên nhiên',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L47',
+    moduleId: 'hsk5-module-42',
+    title: '47 · 程度',
+    topic: '程度与形容 / Mức độ và miêu tả',
+    color: '#546E7A',
+  },
+  {
+    id: 'HSK5-F1-L48',
+    moduleId: 'hsk5-module-43',
+    title: '48 · 动作',
+    topic: '身体与动作 / Cơ thể và động tác',
+    color: '#00695C',
   },
 ];
 
