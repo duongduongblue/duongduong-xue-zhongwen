@@ -1,0 +1,546 @@
+[
+  {
+    "id": "hsk5_batch2_591",
+    "level": "HSK5",
+    "hanzi": "堆",
+    "pinyin": "duī",
+    "display_meaning_vi": "đống; chất",
+    "meaning_en": "pile; to pile up",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一堆 / 堆积",
+    "collocations": [
+      "一堆",
+      "堆积",
+      "垃圾堆"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "门口堆着很多快递盒。",
+        "pinyin": "Ménkǒu duī zhe hěn duō kuàidì hé.",
+        "vi": "Trước cửa chất nhiều hộp chuyển phát.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc nhẹ. 一堆 đọc yì duī vì 堆 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 堆积 là chất thành đống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "堆 nghĩa là gì?",
+        "answer": "đống; chất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "门口____着很多快递盒。",
+        "answer": "堆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_592",
+    "level": "HSK5",
+    "hanzi": "拆",
+    "pinyin": "chāi",
+    "display_meaning_vi": "tháo; dỡ",
+    "meaning_en": "to take apart; to unpack",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "拆开 / 拆除",
+    "collocations": [
+      "拆开",
+      "拆信",
+      "拆除"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子迫不及待地拆开礼物。",
+        "pinyin": "Háizi pòbùjídài de chāi kāi lǐwù.",
+        "vi": "Đứa trẻ vội mở quà.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拆开 là mở ra, tháo ra. Lắp vào là 安装."
+    ],
+    "app_note_vi": "Động từ. 拆除 là dỡ bỏ công trình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "拆 nghĩa là gì?",
+        "answer": "tháo; dỡ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子迫不及待地____开礼物。",
+        "answer": "拆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_593",
+    "level": "HSK5",
+    "hanzi": "安装",
+    "pinyin": "ānzhuāng",
+    "display_meaning_vi": "lắp đặt; cài đặt",
+    "meaning_en": "to install",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "安装软件 / 安装空调",
+    "collocations": [
+      "安装软件",
+      "安装空调",
+      "安装设备"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "师傅下午来安装新空调。",
+        "pinyin": "Shīfu xiàwǔ lái ānzhuāng xīn kōngtiáo.",
+        "vi": "Thợ chiều nay đến lắp điều hòa mới.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "安装 dùng cho máy, thiết bị và phần mềm. Mở một tệp không nói 安装."
+    ],
+    "app_note_vi": "Động từ. 安装软件 là cài phần mềm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "安装 nghĩa là gì?",
+        "answer": "lắp đặt; cài đặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "师傅下午来____新空调。",
+        "answer": "安装"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_594",
+    "level": "HSK5",
+    "hanzi": "晒",
+    "pinyin": "shài",
+    "display_meaning_vi": "phơi",
+    "meaning_en": "to dry in the sun",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "晒太阳 / 晒衣服",
+    "collocations": [
+      "晒太阳",
+      "晒衣服",
+      "晒一晒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "被子拿到阳台晒一晒。",
+        "pinyin": "Bèizi ná dào yángtái shài yi shài.",
+        "vi": "Mang chăn ra ban công phơi một lát.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "晒 đọc shài. 晒一晒的 一 đọc nhẹ yi. 晒太阳 là tắm nắng."
+    ],
+    "app_note_vi": "Động từ. 暴晒 là nắng gắt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "晒 nghĩa là gì?",
+        "answer": "phơi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "被子拿到阳台____一晒。",
+        "answer": "晒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_595",
+    "level": "HSK5",
+    "hanzi": "锅",
+    "pinyin": "guō",
+    "display_meaning_vi": "nồi",
+    "meaning_en": "pot; pan",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一口锅 / 锅盖",
+    "collocations": [
+      "铁锅",
+      "一口锅",
+      "锅盖"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这口锅很适合煮汤。",
+        "pinyin": "Zhè kǒu guō hěn shìhé zhǔ tāng.",
+        "vi": "Cái nồi này rất hợp để nấu canh.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一口锅 dùng 口. Nắp nồi là 锅盖."
+    ],
+    "app_note_vi": "Danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "锅 nghĩa là gì?",
+        "answer": "nồi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这口____很适合煮汤。",
+        "answer": "锅"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_596",
+    "level": "HSK5",
+    "hanzi": "冻",
+    "pinyin": "dòng",
+    "display_meaning_vi": "đông; lạnh cóng",
+    "meaning_en": "to freeze",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "冻住 / 冷冻",
+    "collocations": [
+      "冻住",
+      "冷冻",
+      "解冻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "牛奶放在外面冻住了。",
+        "pinyin": "Niúnǎi fàng zài wàimiàn dòng zhù le.",
+        "vi": "Sữa để ngoài trời đông lại.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "冻住 là đông cứng. 解冻 là rã đông. Lạnh người nói 冻得慌."
+    ],
+    "app_note_vi": "Động từ. 冷冻 là ngăn đá.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "冻 nghĩa là gì?",
+        "answer": "đông; lạnh cóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "牛奶放在外面____住了。",
+        "answer": "冻"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_597",
+    "level": "HSK5",
+    "hanzi": "浓",
+    "pinyin": "nóng",
+    "display_meaning_vi": "đậm; đặc",
+    "meaning_en": "strong; thick",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "太浓 / 浓茶",
+    "collocations": [
+      "浓茶",
+      "浓度",
+      "浓厚"
+    ],
+    "near_synonyms": [
+      {
+        "word": "淡",
+        "difference_vi": "浓 là đậm, đặc; 淡 là nhạt."
+      }
+    ],
+    "app_synonym_note_vi": "浓 = đậm; 淡 = nhạt.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这杯咖啡对我来说太浓。",
+        "pinyin": "Zhè bēi kāfēi duì wǒ lái shuō tài nóng.",
+        "vi": "Tách cà phê này với tôi là quá đậm.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "浓 đọc nóng, thanh 2. Đừng đọc thành nóng thanh 4. 浓茶 là trà đặc."
+    ],
+    "app_note_vi": "Tính từ. 浓度 là độ đậm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "浓 nghĩa là gì?",
+        "answer": "đậm; đặc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这杯咖啡对我来说太____。",
+        "answer": "浓"
+      },
+      {
+        "type": "synonym",
+        "prompt": "浓 khác 淡 ở điểm nào?",
+        "answer": "浓 là đậm, đặc; 淡 là nhạt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_598",
+    "level": "HSK5",
+    "hanzi": "摘",
+    "pinyin": "zhāi",
+    "display_meaning_vi": "hái; tháo",
+    "meaning_en": "to pick; to take off",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摘苹果 / 摘帽子",
+    "collocations": [
+      "摘苹果",
+      "摘帽子",
+      "摘眼镜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "果园的苹果熟了可以摘。",
+        "pinyin": "Guǒyuán de píngguǒ shú le kěyǐ zhāi.",
+        "vi": "Táo trong vườn đã chín, có thể hái.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "摘 quả là hái. 摘帽子, 摘眼镜 là tháo ra. Không phải cắt bằng dao; cắt là 切."
+    ],
+    "app_note_vi": "Động từ. Hai hướng: hái và tháo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摘 nghĩa là gì?",
+        "answer": "hái; tháo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "果园的苹果熟了可以____。",
+        "answer": "摘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_599",
+    "level": "HSK5",
+    "hanzi": "土豆",
+    "pinyin": "tǔdòu",
+    "display_meaning_vi": "khoai tây",
+    "meaning_en": "potato",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "土豆丝 / 土豆泥",
+    "collocations": [
+      "土豆丝",
+      "土豆泥",
+      "炸土豆"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈做了土豆炖牛肉。",
+        "pinyin": "Māma zuò le tǔdòu dùn niúròu.",
+        "vi": "Mẹ nấu khoai tây hầm thịt bò.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "土豆 là khoai tây. Khoai lang là 红薯."
+    ],
+    "app_note_vi": "Danh từ. 土豆丝 là khoai tây cắt sợi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "土豆 nghĩa là gì?",
+        "answer": "khoai tây"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈做了____炖牛肉。",
+        "answer": "土豆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_600",
+    "level": "HSK5",
+    "hanzi": "成分",
+    "pinyin": "chéngfèn",
+    "display_meaning_vi": "thành phần",
+    "meaning_en": "ingredient; component",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "成分表 / 主要成分",
+    "collocations": [
+      "化学成分",
+      "主要成分",
+      "成分复杂"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "买食品要看成分表。",
+        "pinyin": "Mǎi shípǐn yào kàn chéngfèn biǎo.",
+        "vi": "Mua thực phẩm nên xem bảng thành phần.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "成分 là những gì tạo nên một thứ. Không phải “thành tích”."
+    ],
+    "app_note_vi": "Danh từ. 成分表 là bảng thành phần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "成分 nghĩa là gì?",
+        "answer": "thành phần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "买食品要看____表。",
+        "answer": "成分"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

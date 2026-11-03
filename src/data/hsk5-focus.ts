@@ -53,6 +53,12 @@ import enriched501To510 from '../../docs/hsk5-batch2-501-510-enriched.json';
 import enriched511To520 from '../../docs/hsk5-batch2-511-520-enriched.json';
 import enriched521To530 from '../../docs/hsk5-batch2-521-530-enriched.json';
 import enriched531To540 from '../../docs/hsk5-batch2-531-540-enriched.json';
+import enriched541To550 from '../../docs/hsk5-batch2-541-550-enriched.json';
+import enriched551To560 from '../../docs/hsk5-batch2-551-560-enriched.json';
+import enriched561To570 from '../../docs/hsk5-batch2-561-570-enriched.json';
+import enriched571To580 from '../../docs/hsk5-batch2-571-580-enriched.json';
+import enriched581To590 from '../../docs/hsk5-batch2-581-590-enriched.json';
+import enriched591To600 from '../../docs/hsk5-batch2-591-600-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -133,6 +139,12 @@ const sourceWords = [
   ...(enriched511To520 as EnrichedWord[]),
   ...(enriched521To530 as EnrichedWord[]),
   ...(enriched531To540 as EnrichedWord[]),
+  ...(enriched541To550 as EnrichedWord[]),
+  ...(enriched551To560 as EnrichedWord[]),
+  ...(enriched561To570 as EnrichedWord[]),
+  ...(enriched571To580 as EnrichedWord[]),
+  ...(enriched581To590 as EnrichedWord[]),
+  ...(enriched591To600 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -513,6 +525,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '54 · 生活',
     topic: '生活与饮食 / Đời sống và ăn uống',
     color: '#EF6C00',
+  },
+  {
+    id: 'HSK5-F1-L55',
+    moduleId: 'hsk5-module-50',
+    title: '55 · 单位',
+    topic: '单位与行业 / Cơ quan và ngành nghề',
+    color: '#00695C',
+  },
+  {
+    id: 'HSK5-F1-L56',
+    moduleId: 'hsk5-module-51',
+    title: '56 · 瞧',
+    topic: '话语与语气 / Lời nói và giọng điệu',
+    color: '#546E7A',
+  },
+  {
+    id: 'HSK5-F1-L57',
+    moduleId: 'hsk5-module-52',
+    title: '57 · 体验',
+    topic: '体验与心情 / Trải nghiệm và tâm trạng',
+    color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L58',
+    moduleId: 'hsk5-module-53',
+    title: '58 · 平',
+    topic: '形容与差别 / Miêu tả và khác biệt',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L59',
+    moduleId: 'hsk5-module-54',
+    title: '59 · 手指',
+    topic: '身体部位 / Bộ phận cơ thể',
+    color: '#6A1B9A',
+  },
+  {
+    id: 'HSK5-F1-L60',
+    moduleId: 'hsk5-module-55',
+    title: '60 · 堆',
+    topic: '家务与饮食 / Việc nhà và ăn uống',
+    color: '#0277BD',
   },
 ];
 

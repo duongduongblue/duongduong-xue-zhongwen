@@ -1,0 +1,558 @@
+[
+  {
+    "id": "hsk5_batch2_571",
+    "level": "HSK5",
+    "hanzi": "平",
+    "pinyin": "píng",
+    "display_meaning_vi": "bằng; phẳng",
+    "meaning_en": "flat; level",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "放平 / 平面",
+    "collocations": [
+      "平面",
+      "水平",
+      "平房"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这张纸放平。",
+        "pinyin": "Qǐng bǎ zhè zhāng zhǐ fàng píng.",
+        "vi": "Xin đặt tờ giấy cho phẳng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "平 đọc píng. Họ 平 cũng đọc Píng. 水平 là trình độ hoặc mặt nước, cùng chữ."
+    ],
+    "app_note_vi": "Tính từ. 放平 là đặt cho phẳng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "平 nghĩa là gì?",
+        "answer": "bằng; phẳng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这张纸放____。",
+        "answer": "平"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_572",
+    "level": "HSK5",
+    "hanzi": "接近",
+    "pinyin": "jiējìn",
+    "display_meaning_vi": "gần tới",
+    "meaning_en": "to approach; close to",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "接近完成 / 接近目标",
+    "collocations": [
+      "接近完成",
+      "接近目标",
+      "非常接近"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "气温已经接近三十度。",
+        "pinyin": "Qìwēn yǐjīng jiējìn sānshí dù.",
+        "vi": "Nhiệt độ đã gần tới ba mươi độ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "接近 là sắp tới một mức hoặc một nơi. Không phải “tiếp nhận”."
+    ],
+    "app_note_vi": "Động từ. 非常接近 là rất gần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "接近 nghĩa là gì?",
+        "answer": "gần tới"
+      },
+      {
+        "type": "cloze",
+        "prompt": "气温已经____三十度。",
+        "answer": "接近"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_573",
+    "level": "HSK5",
+    "hanzi": "出色",
+    "pinyin": "chūsè",
+    "display_meaning_vi": "xuất sắc",
+    "meaning_en": "outstanding",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表现出色 / 出色的成绩",
+    "collocations": [
+      "表现出色",
+      "出色的成绩",
+      "完成得出色"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在比赛中表现得很出色。",
+        "pinyin": "Tā zài bǐsài zhōng biǎoxiàn de hěn chūsè.",
+        "vi": "Trong trận đấu cô ấy thể hiện rất xuất sắc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 trong 表现得 đọc de. 出色 mạnh hơn 不错."
+    ],
+    "app_note_vi": "Tính từ. 完成得出色 là làm xong rất tốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出色 nghĩa là gì?",
+        "answer": "xuất sắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在比赛中表现得很____。",
+        "answer": "出色"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_574",
+    "level": "HSK5",
+    "hanzi": "薄",
+    "pinyin": "báo",
+    "display_meaning_vi": "mỏng",
+    "meaning_en": "thin",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "description",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "太薄 / 薄纸",
+    "collocations": [
+      "薄薄的",
+      "变薄",
+      "薄纸"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件衣服太薄，冬天不能穿。",
+        "pinyin": "Zhè jiàn yīfu tài báo, dōngtiān bù néng chuān.",
+        "vi": "Áo này mỏng quá, mùa đông không mặc được.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mỏng đọc báo, như 纸很薄, 衣服薄. Yếu, như 薄弱, đọc bó. Bạc hà 薄荷 đọc bò."
+    ],
+    "app_note_vi": "Tính từ. Bài này học nghĩa mỏng, đọc báo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "薄 nghĩa là gì?",
+        "answer": "mỏng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件衣服太____，冬天不能穿。",
+        "answer": "薄"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_575",
+    "level": "HSK5",
+    "hanzi": "充分",
+    "pinyin": "chōngfèn",
+    "display_meaning_vi": "đầy đủ",
+    "meaning_en": "sufficient; full",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "充分准备 / 理由充分",
+    "collocations": [
+      "充分考虑",
+      "充分准备",
+      "理由充分"
+    ],
+    "near_synonyms": [
+      {
+        "word": "充足",
+        "difference_vi": "充分 nhấn mạnh đủ mức cần cho một việc; 充足 hay nói số lượng nhiều, như thời gian hoặc hàng hóa."
+      }
+    ],
+    "app_synonym_note_vi": "充分 = đủ để làm việc đó; 充足 = dồi dào về lượng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "出发前要做充分准备。",
+        "pinyin": "Chūfā qián yào zuò chōngfèn zhǔnbèi.",
+        "vi": "Trước khi đi phải chuẩn bị cho đủ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "充分 đứng trước danh từ như 准备, 理由, 考虑."
+    ],
+    "app_note_vi": "Tính từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "充分 nghĩa là gì?",
+        "answer": "đầy đủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "出发前要做____准备。",
+        "answer": "充分"
+      },
+      {
+        "type": "synonym",
+        "prompt": "充分 khác 充足 ở điểm nào?",
+        "answer": "充分 nhấn mạnh đủ mức cần cho một việc; 充足 hay nói số lượng nhiều, như thời gian hoặc hàng hóa."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_576",
+    "level": "HSK5",
+    "hanzi": "差别",
+    "pinyin": "chābié",
+    "display_meaning_vi": "khác biệt",
+    "meaning_en": "difference",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "差别不大 / 没有差别",
+    "collocations": [
+      "很大差别",
+      "没有差别",
+      "差别不大"
+    ],
+    "near_synonyms": [
+      {
+        "word": "区别",
+        "difference_vi": "差别 là khoảng cách giữa hai bên; 区别 là điểm khác để phân biệt."
+      }
+    ],
+    "app_synonym_note_vi": "差别 = mức chênh; 区别 = điểm khác.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两家店的价格差别不大。",
+        "pinyin": "Liǎng jiā diàn de jiàgé chābié bú dà.",
+        "vi": "Giá hai quán không chênh nhiều.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不大 đọc bú dà vì 大 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. 差别不大 là không khác mấy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "差别 nghĩa là gì?",
+        "answer": "khác biệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两家店的价格____不大。",
+        "answer": "差别"
+      },
+      {
+        "type": "synonym",
+        "prompt": "差别 khác 区别 ở điểm nào?",
+        "answer": "差别 là khoảng cách giữa hai bên; 区别 là điểm khác để phân biệt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_577",
+    "level": "HSK5",
+    "hanzi": "独特",
+    "pinyin": "dútè",
+    "display_meaning_vi": "độc đáo",
+    "meaning_en": "unique",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "独特风格 / 很独特",
+    "collocations": [
+      "独特风格",
+      "很独特",
+      "独特看法"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座老城有独特的味道。",
+        "pinyin": "Zhè zuò lǎo chéng yǒu dútè de wèidao.",
+        "vi": "Thành phố cũ này có nét riêng.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "味道 ở đây đọc wèidao, âm sau nhẹ, chỉ sắc thái. 独特 là không giống số đông."
+    ],
+    "app_note_vi": "Tính từ. 独特风格 là phong cách riêng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "独特 nghĩa là gì?",
+        "answer": "độc đáo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座老城有____的味道。",
+        "answer": "独特"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_578",
+    "level": "HSK5",
+    "hanzi": "单调",
+    "pinyin": "dāndiào",
+    "display_meaning_vi": "đơn điệu",
+    "meaning_en": "monotonous",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生活单调 / 单调的工作",
+    "collocations": [
+      "生活单调",
+      "色彩单调",
+      "单调的工作"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "每天只做同样的事，生活很单调。",
+        "pinyin": "Měi tiān zhǐ zuò tóngyàng de shì, shēnghuó hěn dāndiào.",
+        "vi": "Ngày nào cũng làm một việc, cuộc sống rất đơn điệu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "单调 là thiếu thay đổi, dễ chán. Không phải “một điệu nhạc”."
+    ],
+    "app_note_vi": "Tính từ. 色彩单调 là màu sắc nghèo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "单调 nghĩa là gì?",
+        "answer": "đơn điệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "每天只做同样的事，生活很____。",
+        "answer": "单调"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_579",
+    "level": "HSK5",
+    "hanzi": "匆忙",
+    "pinyin": "cōngmáng",
+    "display_meaning_vi": "vội",
+    "meaning_en": "hasty; in a hurry",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "匆忙离开 / 太匆忙",
+    "collocations": [
+      "匆忙离开",
+      "太匆忙",
+      "匆忙之中"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他匆忙吃了早饭就去上课。",
+        "pinyin": "Tā cōngmáng chī le zǎofàn jiù qù shàngkè.",
+        "vi": "Anh ấy ăn sáng vội rồi đi học.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "匆忙 tả cách làm gấp, dễ sót. Mau nhưng vẫn ổn nói 赶快."
+    ],
+    "app_note_vi": "Tính từ. 匆忙之中 là trong lúc vội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "匆忙 nghĩa là gì?",
+        "answer": "vội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____吃了早饭就去上课。",
+        "answer": "匆忙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_580",
+    "level": "HSK5",
+    "hanzi": "表面",
+    "pinyin": "biǎomiàn",
+    "display_meaning_vi": "bề mặt; bề ngoài",
+    "meaning_en": "surface; appearance",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表面上 / 表面现象",
+    "collocations": [
+      "表面上",
+      "表面现象",
+      "表面文章"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "表面上他很冷静。",
+        "pinyin": "Biǎomiàn shàng tā hěn lěngjìng.",
+        "vi": "Bề ngoài anh ấy rất bình tĩnh.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "表面上 thường ngầm nói bên trong không như vậy. Bề mặt cái bàn nói 桌面."
+    ],
+    "app_note_vi": "Danh từ. 表面现象 là hiện tượng bề ngoài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "表面 nghĩa là gì?",
+        "answer": "bề mặt; bề ngoài"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____上他很冷静。",
+        "answer": "表面"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

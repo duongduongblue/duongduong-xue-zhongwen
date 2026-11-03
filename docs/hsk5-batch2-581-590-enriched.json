@@ -1,0 +1,543 @@
+[
+  {
+    "id": "hsk5_batch2_581",
+    "level": "HSK5",
+    "hanzi": "手指",
+    "pinyin": "shǒuzhǐ",
+    "display_meaning_vi": "ngón tay",
+    "meaning_en": "finger",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一根手指 / 手指头",
+    "collocations": [
+      "手指头",
+      "一根手指",
+      "手指灵活"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他手指上贴了创可贴。",
+        "pinyin": "Tā shǒuzhǐ shàng tiē le chuàngkětiē.",
+        "vi": "Trên ngón tay anh ấy có dán băng cá nhân.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一根手指 đọc yì gēn vì 根 là thanh 1. Ngón chân là 脚趾."
+    ],
+    "app_note_vi": "Danh từ. 手指灵活 là ngón tay linh hoạt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "手指 nghĩa là gì?",
+        "answer": "ngón tay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____上贴了创可贴。",
+        "answer": "手指"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_582",
+    "level": "HSK5",
+    "hanzi": "身材",
+    "pinyin": "shēncái",
+    "display_meaning_vi": "vóc dáng",
+    "meaning_en": "figure; build",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保持身材 / 身材高大",
+    "collocations": [
+      "保持身材",
+      "身材苗条",
+      "身材高大"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "运动帮助她保持身材。",
+        "pinyin": "Yùndòng bāngzhù tā bǎochí shēncái.",
+        "vi": "Tập thể dục giúp cô ấy giữ vóc dáng.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "身材 nói dáng người, không phải quần áo. Quần áo là 衣服."
+    ],
+    "app_note_vi": "Danh từ. 身材苗条 là dáng thon.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "身材 nghĩa là gì?",
+        "answer": "vóc dáng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "运动帮助她保持____。",
+        "answer": "身材"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_583",
+    "level": "HSK5",
+    "hanzi": "腰",
+    "pinyin": "yāo",
+    "display_meaning_vi": "eo; lưng",
+    "meaning_en": "waist; lower back",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "腰疼 / 弯腰",
+    "collocations": [
+      "腰疼",
+      "腰围",
+      "弯腰"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "久坐以后腰会有点酸。",
+        "pinyin": "Jiǔ zuò yǐhòu yāo huì yǒudiǎn suān.",
+        "vi": "Ngồi lâu thì eo sẽ hơi mỏi.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "腰 vừa là eo vừa là vùng lưng dưới. Đau thì nói 腰疼, nên nói nhẹ."
+    ],
+    "app_note_vi": "Danh từ. 弯腰 là cúi người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "腰 nghĩa là gì?",
+        "answer": "eo; lưng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "久坐以后____会有点酸。",
+        "answer": "腰"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_584",
+    "level": "HSK5",
+    "hanzi": "肺",
+    "pinyin": "fèi",
+    "display_meaning_vi": "phổi",
+    "meaning_en": "lung",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "肺部 / 肺炎",
+    "collocations": [
+      "肺部",
+      "肺炎",
+      "肺功能"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "感冒以后，他去检查了肺。",
+        "pinyin": "Gǎnmào yǐhòu, tā qù jiǎnchá le fèi.",
+        "vi": "Sau khi cảm, anh ấy đi kiểm tra phổi.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "肺 là cơ quan. Nói về bệnh nên ngắn và nhẹ."
+    ],
+    "app_note_vi": "Danh từ. 肺功能 là chức năng phổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "肺 nghĩa là gì?",
+        "answer": "phổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "感冒以后，他去检查了____。",
+        "answer": "肺"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_585",
+    "level": "HSK5",
+    "hanzi": "精力",
+    "pinyin": "jīnglì",
+    "display_meaning_vi": "sức lực",
+    "meaning_en": "energy",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "精力充沛 / 精力有限",
+    "collocations": [
+      "精力充沛",
+      "精力有限",
+      "耗费精力"
+    ],
+    "near_synonyms": [
+      {
+        "word": "力气",
+        "difference_vi": "精力 là sức làm việc và tập trung; 力气 là sức cơ bắp."
+      }
+    ],
+    "app_synonym_note_vi": "精力 = sức tinh thần và sức làm; 力气 = sức tay chân.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他把精力放在学习上。",
+        "pinyin": "Tā bǎ jīnglì fàng zài xuéxí shàng.",
+        "vi": "Anh ấy dành sức cho việc học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "精力充沛 là tràn sức. 耗费精力 là tốn sức."
+    ],
+    "app_note_vi": "Danh từ. Không chỉ là sức nâng một vật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "精力 nghĩa là gì?",
+        "answer": "sức lực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他把____放在学习上。",
+        "answer": "精力"
+      },
+      {
+        "type": "synonym",
+        "prompt": "精力 khác 力气 ở điểm nào?",
+        "answer": "精力 là sức làm việc và tập trung; 力气 là sức cơ bắp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_586",
+    "level": "HSK5",
+    "hanzi": "脖子",
+    "pinyin": "bózi",
+    "display_meaning_vi": "cổ",
+    "meaning_en": "neck",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "脖子疼 / 伸脖子",
+    "collocations": [
+      "脖子疼",
+      "伸脖子",
+      "围着脖子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "睡觉姿势不好，脖子会疼。",
+        "pinyin": "Shuìjiào zīshì bù hǎo, bózi huì téng.",
+        "vi": "Tư thế ngủ không tốt thì cổ sẽ đau.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "脖子的 子 đọc nhẹ: bózi. Cách nói miệng của cổ."
+    ],
+    "app_note_vi": "Danh từ. 围着脖子 là quàng quanh cổ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "脖子 nghĩa là gì?",
+        "answer": "cổ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "睡觉姿势不好，____会疼。",
+        "answer": "脖子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_587",
+    "level": "HSK5",
+    "hanzi": "肌肉",
+    "pinyin": "jīròu",
+    "display_meaning_vi": "cơ",
+    "meaning_en": "muscle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "肌肉酸痛 / 锻炼肌肉",
+    "collocations": [
+      "肌肉酸痛",
+      "锻炼肌肉",
+      "腿部肌肉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "运动以后肌肉有点酸。",
+        "pinyin": "Yùndòng yǐhòu jīròu yǒudiǎn suān.",
+        "vi": "Sau khi tập, cơ hơi mỏi.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "酸 ở đây là mỏi, không phải chua. 肌肉酸痛 là cơ đau mỏi."
+    ],
+    "app_note_vi": "Danh từ. 锻炼肌肉 là tập cơ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "肌肉 nghĩa là gì?",
+        "answer": "cơ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "运动以后____有点酸。",
+        "answer": "肌肉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_588",
+    "level": "HSK5",
+    "hanzi": "肩膀",
+    "pinyin": "jiānbǎng",
+    "display_meaning_vi": "vai",
+    "meaning_en": "shoulder",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "拍肩膀 / 肩膀疼",
+    "collocations": [
+      "肩膀疼",
+      "拍肩膀",
+      "耸肩膀"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他拍了拍我的肩膀。",
+        "pinyin": "Tā pāi le pāi wǒ de jiānbǎng.",
+        "vi": "Anh ấy vỗ vai tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拍了拍 là vỗ một cái, thân mật. 耸肩膀 là nhún vai."
+    ],
+    "app_note_vi": "Danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "肩膀 nghĩa là gì?",
+        "answer": "vai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他拍了拍我的____。",
+        "answer": "肩膀"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_589",
+    "level": "HSK5",
+    "hanzi": "胳膊",
+    "pinyin": "gēbo",
+    "display_meaning_vi": "cánh tay",
+    "meaning_en": "arm",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "胳膊肘 / 两条胳膊",
+    "collocations": [
+      "胳膊肘",
+      "两条胳膊",
+      "挽着胳膊"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "搬箱子时他胳膊疼了一下。",
+        "pinyin": "Bān xiāngzi shí tā gēbo téng le yíxià.",
+        "vi": "Lúc khuân thùng, cánh tay anh ấy đau một cái.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "胳膊的 âm sau đọc nhẹ: gēbo. 一下 đọc yíxià."
+    ],
+    "app_note_vi": "Danh từ khẩu ngữ. 胳膊肘 là khuỷu tay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胳膊 nghĩa là gì?",
+        "answer": "cánh tay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "搬箱子时他____疼了一下。",
+        "answer": "胳膊"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_590",
+    "level": "HSK5",
+    "hanzi": "骨头",
+    "pinyin": "gǔtou",
+    "display_meaning_vi": "xương",
+    "meaning_en": "bone",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "一根骨头 / 骨头汤",
+    "collocations": [
+      "骨头汤",
+      "一根骨头",
+      "软骨头"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小狗正在啃一根骨头。",
+        "pinyin": "Xiǎo gǒu zhèngzài kěn yì gēn gǔtou.",
+        "vi": "Chú chó đang gặm một khúc xương.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "骨头的 头 đọc nhẹ: gǔtou. 一根 đọc yì gēn. 软骨头 còn là cách nói bóng người thiếu cứng rắn."
+    ],
+    "app_note_vi": "Danh từ. 骨头汤 là canh xương.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "骨头 nghĩa là gì?",
+        "answer": "xương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小狗正在啃一根____。",
+        "answer": "骨头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "id": "hsk5_batch2_541",
+    "level": "HSK5",
+    "hanzi": "单位",
+    "pinyin": "dānwèi",
+    "display_meaning_vi": "đơn vị; cơ quan",
+    "meaning_en": "workplace; unit",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "工作单位 / 计量单位",
+    "collocations": [
+      "工作单位",
+      "单位同事",
+      "计量单位"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在一家设计单位上班。",
+        "pinyin": "Tā zài yì jiā shèjì dānwèi shàngbān.",
+        "vi": "Cô ấy làm ở một đơn vị thiết kế.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一家 đọc yì jiā. 单位 vừa là cơ quan, vừa là đơn vị đo lường."
+    ],
+    "app_note_vi": "Danh từ. 工作单位 là nơi làm việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "单位 nghĩa là gì?",
+        "answer": "đơn vị; cơ quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在一家设计____上班。",
+        "answer": "单位"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_542",
+    "level": "HSK5",
+    "hanzi": "配合",
+    "pinyin": "pèihé",
+    "display_meaning_vi": "phối hợp",
+    "meaning_en": "to cooperate; to coordinate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "互相配合 / 配合工作",
+    "collocations": [
+      "配合工作",
+      "密切配合",
+      "配合默契"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "各部门要互相配合。",
+        "pinyin": "Gè bùmén yào hùxiāng pèihé.",
+        "vi": "Các bộ phận cần phối hợp với nhau.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "配合 là cùng làm cho khớp. Không phải “phối màu” nếu không có ngữ cảnh thiết kế."
+    ],
+    "app_note_vi": "Động từ. 配合默契 là phối hợp ăn ý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "配合 nghĩa là gì?",
+        "answer": "phối hợp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "各部门要互相____。",
+        "answer": "配合"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_543",
+    "level": "HSK5",
+    "hanzi": "亲自",
+    "pinyin": "qīnzì",
+    "display_meaning_vi": "tự mình",
+    "meaning_en": "personally",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "亲自处理 / 亲自参加",
+    "collocations": [
+      "亲自处理",
+      "亲自参加",
+      "亲自过问"
+    ],
+    "near_synonyms": [
+      {
+        "word": "自己",
+        "difference_vi": "亲自 nhấn mạnh chính người đó làm, không nhờ người khác; 自己 chỉ là mình, rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "亲自 = tự mình làm, không ủy thác; 自己 = mình.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "院长亲自来看望学生。",
+        "pinyin": "Yuànzhǎng qīnzì lái kànwàng xuésheng.",
+        "vi": "Viện trưởng tự mình đến thăm học viên.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "亲自 đứng trước động từ."
+    ],
+    "app_note_vi": "Phó từ. Hay gặp khi người có chức vụ tự làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "亲自 nghĩa là gì?",
+        "answer": "tự mình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "院长____来看望学生。",
+        "answer": "亲自"
+      },
+      {
+        "type": "synonym",
+        "prompt": "亲自 khác 自己 ở điểm nào?",
+        "answer": "亲自 nhấn mạnh chính người đó làm, không nhờ người khác; 自己 chỉ là mình, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_544",
+    "level": "HSK5",
+    "hanzi": "承担",
+    "pinyin": "chéngdān",
+    "display_meaning_vi": "gánh vác; chịu",
+    "meaning_en": "to bear; to undertake",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "承担责任 / 承担费用",
+    "collocations": [
+      "承担责任",
+      "承担后果",
+      "承担费用"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "做错了事就要承担责任。",
+        "pinyin": "Zuò cuò le shì jiù yào chéngdān zérèn.",
+        "vi": "Làm sai thì phải chịu trách nhiệm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "承担 đi với trách nhiệm, hậu quả hoặc chi phí, không phải “ôm một cái hộp”."
+    ],
+    "app_note_vi": "Động từ. 承担责任 là nhận trách nhiệm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "承担 nghĩa là gì?",
+        "answer": "gánh vác; chịu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "做错了事就要____责任。",
+        "answer": "承担"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_545",
+    "level": "HSK5",
+    "hanzi": "命令",
+    "pinyin": "mìnglìng",
+    "display_meaning_vi": "mệnh lệnh",
+    "meaning_en": "order; command",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "下命令 / 服从命令",
+    "collocations": [
+      "下命令",
+      "服从命令",
+      "命令句"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "队长已经下了出发命令。",
+        "pinyin": "Duìzhǎng yǐjīng xià le chūfā mìnglìng.",
+        "vi": "Đội trưởng đã ra lệnh xuất phát.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "命令 trang trọng hơn 让. Trong lớp học, thầy bảo làm gì thường nói 让, không nói 命令."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 下命令 là ra lệnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "命令 nghĩa là gì?",
+        "answer": "mệnh lệnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "队长已经下了出发____。",
+        "answer": "命令"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_546",
+    "level": "HSK5",
+    "hanzi": "行业",
+    "pinyin": "hángyè",
+    "display_meaning_vi": "ngành nghề",
+    "meaning_en": "industry; trade",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "服务行业 / 行业标准",
+    "collocations": [
+      "服务行业",
+      "餐饮行业",
+      "行业标准"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在教育行业工作了十年。",
+        "pinyin": "Tā zài jiàoyù hángyè gōngzuò le shí nián.",
+        "vi": "Cô ấy đã làm trong ngành giáo dục mười năm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "行业的 行 đọc háng, không đọc xíng. 行走, 行为 mới đọc xíng. 银行 cũng đọc háng."
+    ],
+    "app_note_vi": "Danh từ. 餐饮行业 là ngành ăn uống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "行业 nghĩa là gì?",
+        "answer": "ngành nghề"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在教育____工作了十年。",
+        "answer": "行业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_547",
+    "level": "HSK5",
+    "hanzi": "把握",
+    "pinyin": "bǎwò",
+    "display_meaning_vi": "nắm chắc",
+    "meaning_en": "to grasp; confidence",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有把握 / 把握机会",
+    "collocations": [
+      "把握机会",
+      "有把握",
+      "把握时间"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次面试我很有把握。",
+        "pinyin": "Zhè cì miànshì wǒ hěn yǒu bǎwò.",
+        "vi": "Lần phỏng vấn này tôi khá chắc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "有把握 là tự tin làm được. 把握机会 là nắm lấy cơ hội."
+    ],
+    "app_note_vi": "Vừa là động từ vừa là danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "把握 nghĩa là gì?",
+        "answer": "nắm chắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次面试我很有____。",
+        "answer": "把握"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_548",
+    "level": "HSK5",
+    "hanzi": "办理",
+    "pinyin": "bànlǐ",
+    "display_meaning_vi": "làm thủ tục",
+    "meaning_en": "to handle (procedures)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "办理手续 / 办理业务",
+    "collocations": [
+      "办理手续",
+      "办理业务",
+      "办理入住"
+    ],
+    "near_synonyms": [
+      {
+        "word": "处理",
+        "difference_vi": "办理 là làm thủ tục tại quầy hoặc cơ quan; 处理 là xử lý một vấn đề."
+      }
+    ],
+    "app_synonym_note_vi": "办理 = làm thủ tục; 处理 = xử lý vấn đề.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我去银行办理开户手续。",
+        "pinyin": "Wǒ qù yínháng bànlǐ kāihù shǒuxù.",
+        "vi": "Tôi đến ngân hàng làm thủ tục mở tài khoản.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "银行的 行 đọc háng. 办理 đi với thủ tục, không phải sửa một cái máy."
+    ],
+    "app_note_vi": "Động từ. 办理入住 là làm thủ tục nhận phòng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "办理 nghĩa là gì?",
+        "answer": "làm thủ tục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我去银行____开户手续。",
+        "answer": "办理"
+      },
+      {
+        "type": "synonym",
+        "prompt": "办理 khác 处理 ở điểm nào?",
+        "answer": "办理 là làm thủ tục tại quầy hoặc cơ quan; 处理 là xử lý một vấn đề."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_549",
+    "level": "HSK5",
+    "hanzi": "保存",
+    "pinyin": "bǎocún",
+    "display_meaning_vi": "lưu; giữ lại",
+    "meaning_en": "to save; to preserve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保存文件 / 保存下来",
+    "collocations": [
+      "保存文件",
+      "保存下来",
+      "妥善保存"
+    ],
+    "near_synonyms": [
+      {
+        "word": "存",
+        "difference_vi": "保存 là giữ cho khỏi mất, kể cả tệp máy tính; 存钱 là gửi tiền."
+      }
+    ],
+    "app_synonym_note_vi": "保存 = lưu, giữ; 存钱 = gửi tiền.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这封邮件保存好。",
+        "pinyin": "Qǐng bǎ zhè fēng yóujiàn bǎocún hǎo.",
+        "vi": "Xin lưu email này cho kỹ.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "保存文件 là lưu tệp. Không phải “bảo tồn di tích” nếu không có ngữ cảnh đó; di tích thường nói 保护."
+    ],
+    "app_note_vi": "Động từ. 保存好 là giữ cho ổn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "保存 nghĩa là gì?",
+        "answer": "lưu; giữ lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这封邮件____好。",
+        "answer": "保存"
+      },
+      {
+        "type": "synonym",
+        "prompt": "保存 khác 存 ở điểm nào?",
+        "answer": "保存 là giữ cho khỏi mất, kể cả tệp máy tính; 存钱 là gửi tiền."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_550",
+    "level": "HSK5",
+    "hanzi": "辞职",
+    "pinyin": "cízhí",
+    "display_meaning_vi": "từ chức; nghỉ việc",
+    "meaning_en": "to resign",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "辞职信 / 提出辞职",
+    "collocations": [
+      "辞职信",
+      "提出辞职",
+      "辞职以后"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他决定下个月辞职。",
+        "pinyin": "Tā juédìng xià gè yuè cízhí.",
+        "vi": "Anh ấy quyết định tháng sau nghỉ việc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "辞职 là tự xin nghỉ. Bị cho nghỉ nói 被解雇 hoặc 被辞退."
+    ],
+    "app_note_vi": "Động từ. 辞职信 là đơn xin nghỉ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "辞职 nghĩa là gì?",
+        "answer": "từ chức; nghỉ việc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他决定下个月____。",
+        "answer": "辞职"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
