@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_611",
+    "level": "HSK5",
+    "hanzi": "班主任",
+    "pinyin": "bānzhǔrèn",
+    "display_meaning_vi": "giáo viên chủ nhiệm",
+    "meaning_en": "homeroom teacher",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "找班主任 / 班主任老师",
+    "collocations": [
+      "班主任老师",
+      "找班主任",
+      "班主任会议"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "班主任今天找我谈话。",
+        "pinyin": "Bānzhǔrèn jīntiān zhǎo wǒ tánhuà.",
+        "vi": "Hôm nay giáo viên chủ nhiệm tìm tôi nói chuyện.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "班主任 là người phụ trách cả lớp, không phải mọi giáo viên."
+    ],
+    "app_note_vi": "Danh từ. 找班主任 là tìm giáo viên chủ nhiệm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "班主任 nghĩa là gì?",
+        "answer": "giáo viên chủ nhiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____今天找我谈话。",
+        "answer": "班主任"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_612",
+    "level": "HSK5",
+    "hanzi": "本科",
+    "pinyin": "běnkē",
+    "display_meaning_vi": "bậc cử nhân",
+    "meaning_en": "undergraduate program",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "读本科 / 本科生",
+    "collocations": [
+      "本科生",
+      "本科学历",
+      "读本科"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在北京读本科。",
+        "pinyin": "Tā zài Běijīng dú běnkē.",
+        "vi": "Cô ấy học bậc cử nhân ở Bắc Kinh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "本科 là bậc đại học hệ cử nhân. Cao học nói 研究生."
+    ],
+    "app_note_vi": "Danh từ. 本科学历 là bằng cử nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "本科 nghĩa là gì?",
+        "answer": "bậc cử nhân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在北京读____。",
+        "answer": "本科"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_613",
+    "level": "HSK5",
+    "hanzi": "操场",
+    "pinyin": "cāochǎng",
+    "display_meaning_vi": "sân trường",
+    "meaning_en": "school playground",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "在操场上 / 大操场",
+    "collocations": [
+      "大操场",
+      "在操场上",
+      "操场跑步"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下课以后同学们去操场打球。",
+        "pinyin": "Xiàkè yǐhòu tóngxuémen qù cāochǎng dǎ qiú.",
+        "vi": "Hết tiết, các bạn ra sân đánh bóng.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "操场 chủ yếu là sân trong trường. Sân vận động lớn nói 体育场."
+    ],
+    "app_note_vi": "Danh từ. 在操场上 là ở trên sân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "操场 nghĩa là gì?",
+        "answer": "sân trường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下课以后同学们去____打球。",
+        "answer": "操场"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_614",
+    "level": "HSK5",
+    "hanzi": "测验",
+    "pinyin": "cèyàn",
+    "display_meaning_vi": "bài kiểm tra",
+    "meaning_en": "quiz; test",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小测验 / 进行测验",
+    "collocations": [
+      "小测验",
+      "听力测验",
+      "进行测验"
+    ],
+    "near_synonyms": [
+      {
+        "word": "考试",
+        "difference_vi": "测验 thường nhỏ, trong lớp; 考试 là kỳ thi chính thức hơn."
+      }
+    ],
+    "app_synonym_note_vi": "测验 = bài kiểm tra nhỏ; 考试 = kỳ thi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "明天有一堂词语小测验。",
+        "pinyin": "Míngtiān yǒu yì táng cíyǔ xiǎo cèyàn.",
+        "vi": "Ngày mai có một bài kiểm tra từ nhỏ.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一堂 đọc yì táng vì 堂 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Nhỏ hơn một kỳ thi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "测验 nghĩa là gì?",
+        "answer": "bài kiểm tra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "明天有一堂词语小____。",
+        "answer": "测验"
+      },
+      {
+        "type": "synonym",
+        "prompt": "测验 khác 考试 ở điểm nào?",
+        "answer": "测验 thường nhỏ, trong lớp; 考试 là kỳ thi chính thức hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_615",
+    "level": "HSK5",
+    "hanzi": "抄",
+    "pinyin": "chāo",
+    "display_meaning_vi": "chép",
+    "meaning_en": "to copy",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "抄写 / 抄下来",
+    "collocations": [
+      "抄写",
+      "抄作业",
+      "抄下来"
+    ],
+    "near_synonyms": [
+      {
+        "word": "写",
+        "difference_vi": "抄 là chép lại chữ đã có; 写 là tự viết."
+      }
+    ],
+    "app_synonym_note_vi": "抄 = chép; 写 = viết.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把生词抄在本子上。",
+        "pinyin": "Qǐng bǎ shēngcí chāo zài běnzi shàng.",
+        "vi": "Xin chép từ mới vào vở.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "抄作业 thường là chép bài của người khác, mang nghĩa không hay. 抄写 là chép cho nhớ."
+    ],
+    "app_note_vi": "Động từ. 抄下来 là chép ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抄 nghĩa là gì?",
+        "answer": "chép"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把生词____在本子上。",
+        "answer": "抄"
+      },
+      {
+        "type": "synonym",
+        "prompt": "抄 khác 写 ở điểm nào?",
+        "answer": "抄 là chép lại chữ đã có; 写 là tự viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_616",
+    "level": "HSK5",
+    "hanzi": "常识",
+    "pinyin": "chángshí",
+    "display_meaning_vi": "kiến thức thường thức",
+    "meaning_en": "common sense",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生活常识 / 基本常识",
+    "collocations": [
+      "生活常识",
+      "基本常识",
+      "缺乏常识"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "过马路要看车，这是常识。",
+        "pinyin": "Guò mǎlù yào kàn chē, zhè shì chángshí.",
+        "vi": "Sang đường phải nhìn xe, đó là điều ai cũng biết.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "长 trong 常识 đọc cháng. Lớn lên đọc zhǎng, như 长大."
+    ],
+    "app_note_vi": "Danh từ. 缺乏常识 là thiếu hiểu biết cơ bản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "常识 nghĩa là gì?",
+        "answer": "kiến thức thường thức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "过马路要看车，这是____。",
+        "answer": "常识"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_617",
+    "level": "HSK5",
+    "hanzi": "成语",
+    "pinyin": "chéngyǔ",
+    "display_meaning_vi": "thành ngữ",
+    "meaning_en": "idiom",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "成语故事 / 一句成语",
+    "collocations": [
+      "一句成语",
+      "成语故事",
+      "使用成语"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个成语背后有一个故事。",
+        "pinyin": "Zhège chéngyǔ bèihòu yǒu yí gè gùshi.",
+        "vi": "Thành ngữ này có một câu chuyện phía sau.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè vì 个 là thanh 4. 故事 đọc gùshi, âm sau nhẹ. Thành ngữ thường bốn chữ, không dịch từng chữ."
+    ],
+    "app_note_vi": "Danh từ. 成语故事 là chuyện của thành ngữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "成语 nghĩa là gì?",
+        "answer": "thành ngữ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____背后有一个故事。",
+        "answer": "成语"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_618",
+    "level": "HSK5",
+    "hanzi": "初级",
+    "pinyin": "chūjí",
+    "display_meaning_vi": "sơ cấp",
+    "meaning_en": "elementary; junior",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "初级阶段 / 初级班",
+    "collocations": [
+      "初级阶段",
+      "初级班",
+      "初级水平"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我在初级班学中文。",
+        "pinyin": "Wǒ zài chūjí bān xué Zhōngwén.",
+        "vi": "Tôi học tiếng Trung ở lớp sơ cấp.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "初级 là bậc thấp. Bậc giữa là 中级, bậc cao là 高级."
+    ],
+    "app_note_vi": "Tính từ. 初级阶段 là giai đoạn đầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "初级 nghĩa là gì?",
+        "answer": "sơ cấp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我在____班学中文。",
+        "answer": "初级"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_619",
+    "level": "HSK5",
+    "hanzi": "教材",
+    "pinyin": "jiàocái",
+    "display_meaning_vi": "giáo trình",
+    "meaning_en": "teaching material",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "汉语教材 / 编写教材",
+    "collocations": [
+      "汉语教材",
+      "教材内容",
+      "编写教材"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本教材适合自学。",
+        "pinyin": "Zhè běn jiàocái shìhé zìxué.",
+        "vi": "Giáo trình này hợp để tự học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "教 trong 教材 đọc jiào. Dạy một môn, như 教书, mới đọc jiāo."
+    ],
+    "app_note_vi": "Danh từ. 编写教材 là biên soạn giáo trình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "教材 nghĩa là gì?",
+        "answer": "giáo trình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这本____适合自学。",
+        "answer": "教材"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_620",
+    "level": "HSK5",
+    "hanzi": "试卷",
+    "pinyin": "shìjuàn",
+    "display_meaning_vi": "đề thi",
+    "meaning_en": "exam paper",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "批改试卷 / 一份试卷",
+    "collocations": [
+      "批改试卷",
+      "一份试卷",
+      "标准试卷"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师还在批改试卷。",
+        "pinyin": "Lǎoshī hái zài pīgǎi shìjuàn.",
+        "vi": "Thầy vẫn đang chấm bài.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "卷 trong 试卷 đọc juàn, là tờ giấy thi. Cuộn lại đọc juǎn, như 卷起来. 还 đọc hái."
+    ],
+    "app_note_vi": "Danh từ. 一份试卷 đọc yí fèn vì 份 là thanh 4.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "试卷 nghĩa là gì?",
+        "answer": "đề thi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师还在批改____。",
+        "answer": "试卷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -59,6 +59,12 @@ import enriched561To570 from '../../docs/hsk5-batch2-561-570-enriched.json';
 import enriched571To580 from '../../docs/hsk5-batch2-571-580-enriched.json';
 import enriched581To590 from '../../docs/hsk5-batch2-581-590-enriched.json';
 import enriched591To600 from '../../docs/hsk5-batch2-591-600-enriched.json';
+import enriched601To610 from '../../docs/hsk5-batch2-601-610-enriched.json';
+import enriched611To620 from '../../docs/hsk5-batch2-611-620-enriched.json';
+import enriched621To630 from '../../docs/hsk5-batch2-621-630-enriched.json';
+import enriched631To640 from '../../docs/hsk5-batch2-631-640-enriched.json';
+import enriched641To650 from '../../docs/hsk5-batch2-641-650-enriched.json';
+import enriched651To660 from '../../docs/hsk5-batch2-651-660-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -145,6 +151,12 @@ const sourceWords = [
   ...(enriched571To580 as EnrichedWord[]),
   ...(enriched581To590 as EnrichedWord[]),
   ...(enriched591To600 as EnrichedWord[]),
+  ...(enriched601To610 as EnrichedWord[]),
+  ...(enriched611To620 as EnrichedWord[]),
+  ...(enriched621To630 as EnrichedWord[]),
+  ...(enriched631To640 as EnrichedWord[]),
+  ...(enriched641To650 as EnrichedWord[]),
+  ...(enriched651To660 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -567,6 +579,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '60 · 堆',
     topic: '家务与饮食 / Việc nhà và ăn uống',
     color: '#0277BD',
+  },
+  {
+    id: 'HSK5-F1-L61',
+    moduleId: 'hsk5-module-56',
+    title: '61 · 爱护',
+    topic: '爱心与态度 / Tấm lòng và thái độ',
+    color: '#C62828',
+  },
+  {
+    id: 'HSK5-F1-L62',
+    moduleId: 'hsk5-module-57',
+    title: '62 · 班主任',
+    topic: '课堂与常识 / Lớp học và kiến thức thường thức',
+    color: '#37474F',
+  },
+  {
+    id: 'HSK5-F1-L63',
+    moduleId: 'hsk5-module-58',
+    title: '63 · 称赞',
+    topic: '称赞与判断 / Khen và nhận định',
+    color: '#6D4C41',
+  },
+  {
+    id: 'HSK5-F1-L64',
+    moduleId: 'hsk5-module-59',
+    title: '64 · 包裹',
+    topic: '家里的物件 / Đồ trong nhà',
+    color: '#558B2F',
+  },
+  {
+    id: 'HSK5-F1-L65',
+    moduleId: 'hsk5-module-60',
+    title: '65 · 岸',
+    topic: '时间与自然 / Thời gian và thiên nhiên',
+    color: '#283593',
+  },
+  {
+    id: 'HSK5-F1-L66',
+    moduleId: 'hsk5-module-61',
+    title: '66 · 编辑',
+    topic: '实行与传递 / Thi hành và truyền đạt',
+    color: '#00897B',
   },
 ];
 

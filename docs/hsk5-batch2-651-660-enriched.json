@@ -1,0 +1,555 @@
+[
+  {
+    "id": "hsk5_batch2_651",
+    "level": "HSK5",
+    "hanzi": "编辑",
+    "pinyin": "biānjí",
+    "display_meaning_vi": "biên tập",
+    "meaning_en": "to edit; editor",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "编辑文章 / 责任编辑",
+    "collocations": [
+      "编辑文章",
+      "责任编辑",
+      "文字编辑"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在出版社当编辑。",
+        "pinyin": "Tā zài chūbǎnshè dāng biānjí.",
+        "vi": "Cô ấy làm biên tập ở nhà xuất bản.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "当 đọc dāng khi nghĩa là làm nghề. Coi là, đúng lúc đọc dàng. 编辑 vừa là nghề vừa là việc sửa bài."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 责任编辑 là biên tập chịu trách nhiệm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "编辑 nghĩa là gì?",
+        "answer": "biên tập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在出版社当____。",
+        "answer": "编辑"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_652",
+    "level": "HSK5",
+    "hanzi": "补充",
+    "pinyin": "bǔchōng",
+    "display_meaning_vi": "bổ sung",
+    "meaning_en": "to supplement",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "补充说明 / 补充一点",
+    "collocations": [
+      "补充说明",
+      "补充能量",
+      "补充一点"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我再补充一句，明天早点到。",
+        "pinyin": "Wǒ zài bǔchōng yí jù, míngtiān zǎodiǎn dào.",
+        "vi": "Tôi bổ sung một câu: ngày mai đến sớm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一句 đọc yí jù vì 句 là thanh 4. 早点 đọc zǎodiǎn. 补充 là thêm phần còn thiếu."
+    ],
+    "app_note_vi": "Động từ. 补充说明 là nói thêm cho rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "补充 nghĩa là gì?",
+        "answer": "bổ sung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我再____一句，明天早点到。",
+        "answer": "补充"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_653",
+    "level": "HSK5",
+    "hanzi": "参考",
+    "pinyin": "cānkǎo",
+    "display_meaning_vi": "tham khảo",
+    "meaning_en": "to consult; reference",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "参考书 / 仅供参考",
+    "collocations": [
+      "参考书",
+      "仅供参考",
+      "参考资料"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些数据只供参考。",
+        "pinyin": "Zhèxiē shùjù zhǐ gōng cānkǎo.",
+        "vi": "Những số liệu này chỉ để tham khảo.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "只 đọc zhǐ khi nghĩa là chỉ. Lượng từ con vật đọc zhī. 仅供参考 là chưa phải kết luận cuối."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 参考书 là sách tham khảo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "参考 nghĩa là gì?",
+        "answer": "tham khảo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些数据只供____。",
+        "answer": "参考"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_654",
+    "level": "HSK5",
+    "hanzi": "步骤",
+    "pinyin": "bùzhòu",
+    "display_meaning_vi": "các bước",
+    "meaning_en": "step in a process",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "按照步骤 / 操作步骤",
+    "collocations": [
+      "操作步骤",
+      "按照步骤",
+      "下一步骤"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请按步骤完成实验。",
+        "pinyin": "Qǐng àn bùzhòu wánchéng shíyàn.",
+        "vi": "Xin làm thí nghiệm theo từng bước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "步骤 là trình tự việc làm, không phải bước chân. Bước chân nói 步."
+    ],
+    "app_note_vi": "Danh từ. 下一步骤 là bước tiếp theo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "步骤 nghĩa là gì?",
+        "answer": "các bước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请按____完成实验。",
+        "answer": "步骤"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_655",
+    "level": "HSK5",
+    "hanzi": "传播",
+    "pinyin": "chuánbō",
+    "display_meaning_vi": "lan truyền",
+    "meaning_en": "to spread",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "传播消息 / 广泛传播",
+    "collocations": [
+      "传播消息",
+      "广泛传播",
+      "文化传播"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "好消息很快在网上传播开了。",
+        "pinyin": "Hǎo xiāoxi hěn kuài zài wǎngshang chuánbō kāi le.",
+        "vi": "Tin tốt lan rất nhanh trên mạng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "传 đọc chuán. Tiểu sử đọc zhuàn, như 传记. 消息 đọc xiāoxi, âm sau nhẹ. 网上 đọc wǎngshang."
+    ],
+    "app_note_vi": "Động từ. Tin, cách làm hoặc văn hóa đi từ người này sang người khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "传播 nghĩa là gì?",
+        "answer": "lan truyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "好消息很快在网上____开了。",
+        "answer": "传播"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_656",
+    "level": "HSK5",
+    "hanzi": "传递",
+    "pinyin": "chuándì",
+    "display_meaning_vi": "truyền đi",
+    "meaning_en": "to pass on",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "传递信息 / 互相传递",
+    "collocations": [
+      "传递信息",
+      "传递火炬",
+      "互相传递"
+    ],
+    "near_synonyms": [
+      {
+        "word": "传播",
+        "difference_vi": "传递 là chuyển từ tay này sang tay kia; 传播 là lan rộng ra nhiều người."
+      }
+    ],
+    "app_synonym_note_vi": "传递 = chuyển tay; 传播 = lan rộng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这份文件传递给下一位。",
+        "pinyin": "Qǐng bǎ zhè fèn wénjiàn chuándì gěi xià yí wèi.",
+        "vi": "Xin chuyển hồ sơ này cho người tiếp theo.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "传 đọc chuán. 一位 đọc yí wèi vì 位 là thanh 4."
+    ],
+    "app_note_vi": "Động từ. 传递火炬 là truyền đuốc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "传递 nghĩa là gì?",
+        "answer": "truyền đi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这份文件____给下一位。",
+        "answer": "传递"
+      },
+      {
+        "type": "synonym",
+        "prompt": "传递 khác 传播 ở điểm nào?",
+        "answer": "传递 là chuyển từ tay này sang tay kia; 传播 là lan rộng ra nhiều người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_657",
+    "level": "HSK5",
+    "hanzi": "传说",
+    "pinyin": "chuánshuō",
+    "display_meaning_vi": "truyền thuyết",
+    "meaning_en": "legend",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "古代传说 / 传说中",
+    "collocations": [
+      "古代传说",
+      "传说中",
+      "有一个传说"
+    ],
+    "near_synonyms": [
+      {
+        "word": "故事",
+        "difference_vi": "传说 là chuyện dân gian chưa kiểm chứng; 故事 là câu chuyện nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "传说 = truyền thuyết; 故事 = câu chuyện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个湖有一个古老的传说。",
+        "pinyin": "Zhège hú yǒu yí gè gǔlǎo de chuánshuō.",
+        "vi": "Hồ này có một truyền thuyết cũ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "传 đọc chuán. 一个 đọc yí gè. 传说 chưa phải sự thật đã kiểm chứng."
+    ],
+    "app_note_vi": "Danh từ. 传说中 là trong truyền thuyết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "传说 nghĩa là gì?",
+        "answer": "truyền thuyết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个湖有一个古老的____。",
+        "answer": "传说"
+      },
+      {
+        "type": "synonym",
+        "prompt": "传说 khác 故事 ở điểm nào?",
+        "answer": "传说 là chuyện dân gian chưa kiểm chứng; 故事 là câu chuyện nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_658",
+    "level": "HSK5",
+    "hanzi": "促使",
+    "pinyin": "cùshǐ",
+    "display_meaning_vi": "thúc đẩy",
+    "meaning_en": "to prompt; to spur",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "促使发展 / 促使人们",
+    "collocations": [
+      "促使发展",
+      "促使人们",
+      "促使他"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次失败促使他更加努力。",
+        "pinyin": "Zhè cì shībài cùshǐ tā gèngjiā nǔlì.",
+        "vi": "Lần thất bại này thúc anh ấy cố hơn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "促使 là một việc làm người khác phải hành động. Không phải tự mình muốn."
+    ],
+    "app_note_vi": "Động từ trang trọng. Hay đi với một kết quả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "促使 nghĩa là gì?",
+        "answer": "thúc đẩy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次失败____他更加努力。",
+        "answer": "促使"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_659",
+    "level": "HSK5",
+    "hanzi": "趁",
+    "pinyin": "chèn",
+    "display_meaning_vi": "tranh thủ",
+    "meaning_en": "to take advantage of a moment",
+    "part_of_speech": "preposition",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "趁热 / 趁早",
+    "collocations": [
+      "趁热",
+      "趁早",
+      "趁机"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "趁天气好，我们去公园吧。",
+        "pinyin": "Chèn tiānqì hǎo, wǒmen qù gōngyuán ba.",
+        "vi": "Tranh thủ trời đẹp, chúng ta đi công viên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "趁 đọc chèn, thanh 4. Không đọc chéng. 吧 đọc nhẹ. Làm khi điều kiện còn thuận."
+    ],
+    "app_note_vi": "Giới từ. 趁热 là tranh thủ lúc còn nóng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "趁 nghĩa là gì?",
+        "answer": "tranh thủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____天气好，我们去公园吧。",
+        "answer": "趁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_660",
+    "level": "HSK5",
+    "hanzi": "实行",
+    "pinyin": "shíxíng",
+    "display_meaning_vi": "thi hành",
+    "meaning_en": "to put into effect",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "实行政策 / 开始实行",
+    "collocations": [
+      "实行政策",
+      "开始实行",
+      "实行制度"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新班规明天开始实行。",
+        "pinyin": "Xīn bānguī míngtiān kāishǐ shíxíng.",
+        "vi": "Nội quy lớp mới bắt đầu áp dụng từ ngày mai.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "行 trong 实行 đọc xíng. Ngành nghề và ngân hàng đọc háng, như 行业, 银行."
+    ],
+    "app_note_vi": "Động từ. Dùng cho quy định, chính sách hoặc kế hoạch được đưa vào làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "实行 nghĩa là gì?",
+        "answer": "thi hành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新班规明天开始____。",
+        "answer": "实行"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
