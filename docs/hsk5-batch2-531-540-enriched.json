@@ -1,0 +1,546 @@
+[
+  {
+    "id": "hsk5_batch2_531",
+    "level": "HSK5",
+    "hanzi": "玻璃",
+    "pinyin": "bōli",
+    "display_meaning_vi": "thủy tinh; kính",
+    "meaning_en": "glass",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "玻璃窗 / 玻璃杯",
+    "collocations": [
+      "玻璃窗",
+      "玻璃杯",
+      "一块玻璃"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "玻璃窗被风吹得很干净。",
+        "pinyin": "Bōli chuāng bèi fēng chuī de hěn gānjìng.",
+        "vi": "Cửa kính bị gió thổi rất sạch.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "玻璃的 璃 đọc nhẹ: bōli. 得 trong 吹得 đọc de."
+    ],
+    "app_note_vi": "Danh từ. 玻璃杯 là cốc thủy tinh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "玻璃 nghĩa là gì?",
+        "answer": "thủy tinh; kính"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____窗被风吹得很干净。",
+        "answer": "玻璃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_532",
+    "level": "HSK5",
+    "hanzi": "锁",
+    "pinyin": "suǒ",
+    "display_meaning_vi": "khóa",
+    "meaning_en": "lock; to lock",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "锁门 / 一把锁",
+    "collocations": [
+      "锁门",
+      "一把锁",
+      "开锁"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "出门记得把门锁上。",
+        "pinyin": "Chūmén jìde bǎ mén suǒ shàng.",
+        "vi": "Ra ngoài nhớ khóa cửa.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "锁门 là khóa cửa. 开锁 là mở khóa. Đọc suǒ, khác từ 所 đếm trường."
+    ],
+    "app_note_vi": "Vừa là danh từ vừa là động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "锁 nghĩa là gì?",
+        "answer": "khóa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "出门记得把门____上。",
+        "answer": "锁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_533",
+    "level": "HSK5",
+    "hanzi": "公寓",
+    "pinyin": "gōngyù",
+    "display_meaning_vi": "căn hộ",
+    "meaning_en": "apartment",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一套公寓 / 公寓楼",
+    "collocations": [
+      "公寓楼",
+      "出租公寓",
+      "一套公寓"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我租了一套小公寓。",
+        "pinyin": "Wǒ zū le yí tào xiǎo gōngyù.",
+        "vi": "Tôi thuê một căn hộ nhỏ.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一套 đọc yí tào. 公寓 là căn hộ trong nhà nhiều tầng, không phải biệt thự."
+    ],
+    "app_note_vi": "Danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "公寓 nghĩa là gì?",
+        "answer": "căn hộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我租了一套小____。",
+        "answer": "公寓"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_534",
+    "level": "HSK5",
+    "hanzi": "玩具",
+    "pinyin": "wánjù",
+    "display_meaning_vi": "đồ chơi",
+    "meaning_en": "toy",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "儿童玩具 / 玩具店",
+    "collocations": [
+      "儿童玩具",
+      "玩具店",
+      "玩具车"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "柜子里放着很多儿童玩具。",
+        "pinyin": "Guìzi lǐ fàng zhe hěn duō értóng wánjù.",
+        "vi": "Trong tủ có rất nhiều đồ chơi trẻ em.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc nhẹ. 玩具是 đồ chơi, không phải dụng cụ học."
+    ],
+    "app_note_vi": "Danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "玩具 nghĩa là gì?",
+        "answer": "đồ chơi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "柜子里放着很多儿童____。",
+        "answer": "玩具"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_535",
+    "level": "HSK5",
+    "hanzi": "厕所",
+    "pinyin": "cèsuǒ",
+    "display_meaning_vi": "nhà vệ sinh",
+    "meaning_en": "toilet",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "上厕所 / 公共厕所",
+    "collocations": [
+      "上厕所",
+      "公共厕所",
+      "厕所在哪"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请问厕所在哪儿？",
+        "pinyin": "Qǐngwèn cèsuǒ zài nǎr?",
+        "vi": "Xin hỏi nhà vệ sinh ở đâu?",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "上厕所 là đi vệ sinh. Hỏi chỗ thì nói 厕所在哪儿."
+    ],
+    "app_note_vi": "Danh từ. Cách nói trực tiếp và thông dụng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "厕所 nghĩa là gì?",
+        "answer": "nhà vệ sinh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请问____在哪儿？",
+        "answer": "厕所"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_536",
+    "level": "HSK5",
+    "hanzi": "排队",
+    "pinyin": "páiduì",
+    "display_meaning_vi": "xếp hàng",
+    "meaning_en": "to line up",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "排队等候 / 排队上车",
+    "collocations": [
+      "排队等候",
+      "排队买票",
+      "不用排队"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请大家先排队上车。",
+        "pinyin": "Qǐng dàjiā xiān páiduì shàng chē.",
+        "vi": "Xin mọi người xếp hàng lên xe trước.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "排队 là đứng thành hàng. Chen là 插队."
+    ],
+    "app_note_vi": "Động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "排队 nghĩa là gì?",
+        "answer": "xếp hàng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请大家先____上车。",
+        "answer": "排队"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_537",
+    "level": "HSK5",
+    "hanzi": "烫",
+    "pinyin": "tàng",
+    "display_meaning_vi": "nóng bỏng",
+    "meaning_en": "scalding; to scald",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "太烫 / 烫手",
+    "collocations": [
+      "烫手",
+      "烫伤",
+      "烫衣服"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "汤太烫，凉一会儿再喝。",
+        "pinyin": "Tāng tài tàng, liáng yíhuìr zài hē.",
+        "vi": "Canh nóng quá, để nguội một lát rồi hãy uống.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "烫 là nóng đến mức bỏng. 热 chỉ là nóng. 一会儿 đọc yíhuìr."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 烫衣服 là là quần áo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "烫 nghĩa là gì?",
+        "answer": "nóng bỏng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "汤太____，凉一会儿再喝。",
+        "answer": "烫"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_538",
+    "level": "HSK5",
+    "hanzi": "蔬菜",
+    "pinyin": "shūcài",
+    "display_meaning_vi": "rau",
+    "meaning_en": "vegetables",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "新鲜蔬菜 / 蔬菜汤",
+    "collocations": [
+      "新鲜蔬菜",
+      "蔬菜水果",
+      "蔬菜汤"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚饭有肉也有蔬菜。",
+        "pinyin": "Wǎnfàn yǒu ròu yě yǒu shūcài.",
+        "vi": "Cơm tối có thịt và có rau.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "蔬菜 là rau nói chung. Một loại rau cụ thể có thể gọi tên riêng."
+    ],
+    "app_note_vi": "Danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "蔬菜 nghĩa là gì?",
+        "answer": "rau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚饭有肉也有____。",
+        "answer": "蔬菜"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_539",
+    "level": "HSK5",
+    "hanzi": "口味",
+    "pinyin": "kǒuwèi",
+    "display_meaning_vi": "khẩu vị",
+    "meaning_en": "taste; flavor preference",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "口味重 / 符合口味",
+    "collocations": [
+      "口味重",
+      "符合口味",
+      "地方口味"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家店的口味偏咸。",
+        "pinyin": "Zhè jiā diàn de kǒuwèi piān xián.",
+        "vi": "Khẩu vị quán này hơi mặn.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "口味 là vị quen ăn hoặc vị của quán. Mùi là 味道."
+    ],
+    "app_note_vi": "Danh từ. 口味重 là ăn mặn hoặc đậm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "口味 nghĩa là gì?",
+        "answer": "khẩu vị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家店的____偏咸。",
+        "answer": "口味"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_540",
+    "level": "HSK5",
+    "hanzi": "淡",
+    "pinyin": "dàn",
+    "display_meaning_vi": "nhạt",
+    "meaning_en": "bland; light",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "味道淡 / 颜色很淡",
+    "collocations": [
+      "味道淡",
+      "淡淡的",
+      "颜色很淡"
+    ],
+    "near_synonyms": [
+      {
+        "word": "薄",
+        "difference_vi": "淡 là vị nhạt hoặc màu nhạt; 薄 là mỏng."
+      }
+    ],
+    "app_synonym_note_vi": "淡 = nhạt; 薄 = mỏng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这碗汤有点淡，再加一点盐。",
+        "pinyin": "Zhè wǎn tāng yǒudiǎn dàn, zài jiā yìdiǎn yán.",
+        "vi": "Bát canh này hơi nhạt, thêm một chút muối.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一点 đọc yìdiǎn. 淡 còn là màu nhạt: 颜色很淡."
+    ],
+    "app_note_vi": "Tính từ. Ngược với đậm là 浓, với mặn là thêm muối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "淡 nghĩa là gì?",
+        "answer": "nhạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这碗汤有点____，再加一点盐。",
+        "answer": "淡"
+      },
+      {
+        "type": "synonym",
+        "prompt": "淡 khác 薄 ở điểm nào?",
+        "answer": "淡 là vị nhạt hoặc màu nhạt; 薄 là mỏng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

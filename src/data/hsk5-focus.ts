@@ -47,6 +47,12 @@ import enriched441To450 from '../../docs/hsk5-batch2-441-450-enriched.json';
 import enriched451To460 from '../../docs/hsk5-batch2-451-460-enriched.json';
 import enriched461To470 from '../../docs/hsk5-batch2-461-470-enriched.json';
 import enriched471To480 from '../../docs/hsk5-batch2-471-480-enriched.json';
+import enriched481To490 from '../../docs/hsk5-batch2-481-490-enriched.json';
+import enriched491To500 from '../../docs/hsk5-batch2-491-500-enriched.json';
+import enriched501To510 from '../../docs/hsk5-batch2-501-510-enriched.json';
+import enriched511To520 from '../../docs/hsk5-batch2-511-520-enriched.json';
+import enriched521To530 from '../../docs/hsk5-batch2-521-530-enriched.json';
+import enriched531To540 from '../../docs/hsk5-batch2-531-540-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -121,6 +127,12 @@ const sourceWords = [
   ...(enriched451To460 as EnrichedWord[]),
   ...(enriched461To470 as EnrichedWord[]),
   ...(enriched471To480 as EnrichedWord[]),
+  ...(enriched481To490 as EnrichedWord[]),
+  ...(enriched491To500 as EnrichedWord[]),
+  ...(enriched501To510 as EnrichedWord[]),
+  ...(enriched511To520 as EnrichedWord[]),
+  ...(enriched521To530 as EnrichedWord[]),
+  ...(enriched531To540 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -459,6 +471,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '48 · 动作',
     topic: '身体与动作 / Cơ thể và động tác',
     color: '#00695C',
+  },
+  {
+    id: 'HSK5-F1-L49',
+    moduleId: 'hsk5-module-44',
+    title: '49 · 企业',
+    topic: '企业与权力 / Doanh nghiệp và quyền lực',
+    color: '#B71C1C',
+  },
+  {
+    id: 'HSK5-F1-L50',
+    moduleId: 'hsk5-module-45',
+    title: '50 · 话题',
+    topic: '话题与重复 / Chủ đề và sự lặp lại',
+    color: '#4527A0',
+  },
+  {
+    id: 'HSK5-F1-L51',
+    moduleId: 'hsk5-module-46',
+    title: '51 · 表情',
+    topic: '表情与感情 / Nét mặt và cảm xúc',
+    color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L52',
+    moduleId: 'hsk5-module-47',
+    title: '52 · 圈',
+    topic: '圈与变化 / Vòng tròn và thay đổi',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L53',
+    moduleId: 'hsk5-module-48',
+    title: '53 · 课程',
+    topic: '课程与阅读 / Môn học và việc đọc',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L54',
+    moduleId: 'hsk5-module-49',
+    title: '54 · 生活',
+    topic: '生活与饮食 / Đời sống và ăn uống',
+    color: '#EF6C00',
   },
 ];
 

@@ -1,0 +1,566 @@
+[
+  {
+    "id": "hsk5_batch2_481",
+    "level": "HSK5",
+    "hanzi": "企业",
+    "pinyin": "qǐyè",
+    "display_meaning_vi": "doanh nghiệp",
+    "meaning_en": "enterprise; company",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "国有企业 / 企业管理",
+    "collocations": [
+      "国有企业",
+      "企业管理",
+      "民营企业"
+    ],
+    "near_synonyms": [
+      {
+        "word": "公司",
+        "difference_vi": "企业 nhấn mạnh đơn vị sản xuất hoặc kinh doanh; 公司 là công ty, cách gọi thông dụng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "企业 = doanh nghiệp; 公司 = công ty.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家企业雇用了上千人。",
+        "pinyin": "Zhè jiā qǐyè gùyòng le shàng qiān rén.",
+        "vi": "Doanh nghiệp này thuê hơn một nghìn người.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "企业 là danh từ. Không nói 企业一个商店 cho một quán nhỏ; quán nhỏ nói 店."
+    ],
+    "app_note_vi": "Danh từ. Hay đi với nhà nước, tư nhân và quản lý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "企业 nghĩa là gì?",
+        "answer": "doanh nghiệp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家____雇用了上千人。",
+        "answer": "企业"
+      },
+      {
+        "type": "synonym",
+        "prompt": "企业 khác 公司 ở điểm nào?",
+        "answer": "企业 nhấn mạnh đơn vị sản xuất hoặc kinh doanh; 公司 là công ty, cách gọi thông dụng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_482",
+    "level": "HSK5",
+    "hanzi": "方案",
+    "pinyin": "fāng'àn",
+    "display_meaning_vi": "phương án",
+    "meaning_en": "plan; proposal",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "设计方案 / 解决方案",
+    "collocations": [
+      "设计方案",
+      "解决方案",
+      "方案通过"
+    ],
+    "near_synonyms": [
+      {
+        "word": "计划",
+        "difference_vi": "方案 là bản đề xuất cụ thể để chọn; 计划 là kế hoạch việc sẽ làm."
+      }
+    ],
+    "app_synonym_note_vi": "方案 = phương án để chọn; 计划 = kế hoạch.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "经理采纳了我们的方案。",
+        "pinyin": "Jīnglǐ cǎinà le wǒmen de fāng'àn.",
+        "vi": "Giám đốc đã nhận phương án của chúng tôi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "方案 là một bản để xét, chưa chắc đã được thực hiện."
+    ],
+    "app_note_vi": "Danh từ. 解决方案 là cách giải quyết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "方案 nghĩa là gì?",
+        "answer": "phương án"
+      },
+      {
+        "type": "cloze",
+        "prompt": "经理采纳了我们的____。",
+        "answer": "方案"
+      },
+      {
+        "type": "synonym",
+        "prompt": "方案 khác 计划 ở điểm nào?",
+        "answer": "方案 là bản đề xuất cụ thể để chọn; 计划 là kế hoạch việc sẽ làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_483",
+    "level": "HSK5",
+    "hanzi": "生产",
+    "pinyin": "shēngchǎn",
+    "display_meaning_vi": "sản xuất",
+    "meaning_en": "to produce; to manufacture",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生产线 / 生产日期",
+    "collocations": [
+      "生产线",
+      "生产日期",
+      "安全生产"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家厂生产运动鞋。",
+        "pinyin": "Zhè jiā chǎng shēngchǎn yùndòngxié.",
+        "vi": "Nhà máy này sản xuất giày thể thao.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "生产 là làm ra hàng loạt. Làm một món thủ công nhỏ nói 做 hoặc 制作."
+    ],
+    "app_note_vi": "Động từ. 安全生产 là sản xuất an toàn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "生产 nghĩa là gì?",
+        "answer": "sản xuất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家厂____运动鞋。",
+        "answer": "生产"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_484",
+    "level": "HSK5",
+    "hanzi": "争取",
+    "pinyin": "zhēngqǔ",
+    "display_meaning_vi": "phấn đấu giành",
+    "meaning_en": "to strive for",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "争取时间 / 争取支持",
+    "collocations": [
+      "争取时间",
+      "争取支持",
+      "争取胜利"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "队里在争取出场名额。",
+        "pinyin": "Duì lǐ zài zhēngqǔ chūchǎng míng'é.",
+        "vi": "Trong đội đang phấn đấu để có suất ra sân.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "争取 là cố để đạt một thứ chưa chắc có. Đã có rồi thì không nói 争取."
+    ],
+    "app_note_vi": "Động từ. Đi với thời gian, sự ủng hộ hoặc một suất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "争取 nghĩa là gì?",
+        "answer": "phấn đấu giành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "队里在____出场名额。",
+        "answer": "争取"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_485",
+    "level": "HSK5",
+    "hanzi": "权力",
+    "pinyin": "quánlì",
+    "display_meaning_vi": "quyền lực",
+    "meaning_en": "power; authority",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "行使权力 / 权力很大",
+    "collocations": [
+      "行使权力",
+      "权力机构",
+      "权力很大"
+    ],
+    "near_synonyms": [
+      {
+        "word": "权利",
+        "difference_vi": "权力 và 权利 cùng đọc quánlì. 权力 là quyền lực để điều hành; 权利 là quyền được hưởng."
+      }
+    ],
+    "app_synonym_note_vi": "权力 = quyền lực; 权利 = quyền lợi. Cùng âm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "经理没有权力这么做。",
+        "pinyin": "Jīnglǐ méiyǒu quánlì zhème zuò.",
+        "vi": "Giám đốc không có quyền làm như vậy.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhìn chữ 力 thì là quyền lực. Chữ 利 là quyền lợi. Đừng viết lẫn."
+    ],
+    "app_note_vi": "Danh từ. 行使权力 là thực thi quyền lực.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "权力 nghĩa là gì?",
+        "answer": "quyền lực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "经理没有____这么做。",
+        "answer": "权力"
+      },
+      {
+        "type": "synonym",
+        "prompt": "权力 khác 权利 ở điểm nào?",
+        "answer": "权力 và 权利 cùng đọc quánlì. 权力 là quyền lực để điều hành; 权利 là quyền được hưởng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_486",
+    "level": "HSK5",
+    "hanzi": "凭",
+    "pinyin": "píng",
+    "display_meaning_vi": "dựa vào",
+    "meaning_en": "on the basis of; by",
+    "part_of_speech": "preposition",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "凭票入场 / 凭借",
+    "collocations": [
+      "凭票入场",
+      "凭借",
+      "凭什么"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "凭学生证可以打折。",
+        "pinyin": "Píng xuéshēngzhèng kěyǐ dǎzhé.",
+        "vi": "Dựa vào thẻ sinh viên thì được giảm giá.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "凭 đứng trước căn cứ: thẻ, vé, chứng cứ. 凭什么 là “dựa vào đâu”, thường khi không đồng ý."
+    ],
+    "app_note_vi": "Giới từ. 凭借 cũng là dựa vào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "凭 nghĩa là gì?",
+        "answer": "dựa vào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____学生证可以打折。",
+        "answer": "凭"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_487",
+    "level": "HSK5",
+    "hanzi": "尽量",
+    "pinyin": "jǐnliàng",
+    "display_meaning_vi": "cố hết mức có thể",
+    "meaning_en": "as much as possible",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "尽量 + 动词",
+    "collocations": [
+      "尽量早点",
+      "尽量避免",
+      "尽量完成"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请尽量在周五前交稿。",
+        "pinyin": "Qǐng jǐnliàng zài zhōuwǔ qián jiāo gǎo.",
+        "vi": "Xin cố nộp bài trước thứ Sáu.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "尽量 đọc jǐnliàng. Cũng có người đọc jìnliàng, cùng nghĩa. Bài này dùng jǐnliàng."
+    ],
+    "app_note_vi": "Phó từ. Đứng trước động từ, nghĩa là làm trong mức có thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尽量 nghĩa là gì?",
+        "answer": "cố hết mức có thể"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____在周五前交稿。",
+        "answer": "尽量"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_488",
+    "level": "HSK5",
+    "hanzi": "资格",
+    "pinyin": "zīgé",
+    "display_meaning_vi": "tư cách; đủ điều kiện",
+    "meaning_en": "qualification",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "有资格 / 资格证",
+    "collocations": [
+      "取得资格",
+      "资格证",
+      "资格审查"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她有资格申请这份工作。",
+        "pinyin": "Tā yǒu zīgé shēnqǐng zhè fèn gōngzuò.",
+        "vi": "Cô ấy đủ điều kiện nộp đơn công việc này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "有资格 là đủ điều kiện hoặc đủ tư cách. Không phải “có giấy tờ” nói chung."
+    ],
+    "app_note_vi": "Danh từ. 资格证 là chứng chỉ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "资格 nghĩa là gì?",
+        "answer": "tư cách; đủ điều kiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她有____申请这份工作。",
+        "answer": "资格"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_489",
+    "level": "HSK5",
+    "hanzi": "紧急",
+    "pinyin": "jǐnjí",
+    "display_meaning_vi": "khẩn cấp",
+    "meaning_en": "urgent",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "紧急情况 / 紧急出口",
+    "collocations": [
+      "紧急情况",
+      "紧急会议",
+      "紧急出口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "紧急出口在走廊尽头。",
+        "pinyin": "Jǐnjí chūkǒu zài zǒuláng jìntóu.",
+        "vi": "Lối thoát khẩn cấp ở cuối hành lang.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "紧急 là cần xử lý ngay. Việc chỉ hơi vội nói 赶紧 là đủ."
+    ],
+    "app_note_vi": "Tính từ. 紧急出口 là lối thoát hiểm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "紧急 nghĩa là gì?",
+        "answer": "khẩn cấp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____出口在走廊尽头。",
+        "answer": "紧急"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_490",
+    "level": "HSK5",
+    "hanzi": "联合",
+    "pinyin": "liánhé",
+    "display_meaning_vi": "liên hợp; cùng nhau",
+    "meaning_en": "to unite; joint",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "联合举办 / 联合国",
+    "collocations": [
+      "联合国",
+      "联合声明",
+      "联合举办"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两所学校联合举办活动。",
+        "pinyin": "Liǎng suǒ xuéxiào liánhé jǔbàn huódòng.",
+        "vi": "Hai trường cùng tổ chức một hoạt động.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "联合是 hai phía cùng làm. Một người tự làm không nói 联合."
+    ],
+    "app_note_vi": "Động từ hoặc tính từ. 联合国 là Liên Hợp Quốc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "联合 nghĩa là gì?",
+        "answer": "liên hợp; cùng nhau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两所学校____举办活动。",
+        "answer": "联合"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

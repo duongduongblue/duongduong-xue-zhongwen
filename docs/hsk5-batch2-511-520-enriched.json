@@ -1,0 +1,554 @@
+[
+  {
+    "id": "hsk5_batch2_511",
+    "level": "HSK5",
+    "hanzi": "圈",
+    "pinyin": "quān",
+    "display_meaning_vi": "vòng tròn",
+    "meaning_en": "circle; ring",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "画圈 / 圆圈 / 绕一圈",
+    "collocations": [
+      "画圈",
+      "圆圈",
+      "绕一圈"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请在正确答案上画个圈。",
+        "pinyin": "Qǐng zài zhèngquè dá'àn shàng huà gè quān.",
+        "vi": "Hãy khoanh vòng vào câu đúng.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vòng tròn đọc quān, như 画圈, 绕一圈. Chuồng nuôi đọc juàn, như 猪圈. Nhốt đọc juān."
+    ],
+    "app_note_vi": "Danh từ. Bài này học nghĩa vòng tròn, đọc quān.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "圈 nghĩa là gì?",
+        "answer": "vòng tròn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请在正确答案上画个____。",
+        "answer": "圈"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_512",
+    "level": "HSK5",
+    "hanzi": "消失",
+    "pinyin": "xiāoshī",
+    "display_meaning_vi": "biến mất",
+    "meaning_en": "to disappear",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "突然消失 / 逐渐消失",
+    "collocations": [
+      "消失不见",
+      "突然消失",
+      "逐渐消失"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雨停以后彩虹慢慢消失。",
+        "pinyin": "Yǔ tíng yǐhòu cǎihóng mànmàn xiāoshī.",
+        "vi": "Mưa tạnh rồi cầu vồng từ từ biến mất.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "消失 là không còn thấy. Giấu đi là 藏. Mất đồ là 丢."
+    ],
+    "app_note_vi": "Động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "消失 nghĩa là gì?",
+        "answer": "biến mất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雨停以后彩虹慢慢____。",
+        "answer": "消失"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_513",
+    "level": "HSK5",
+    "hanzi": "稳定",
+    "pinyin": "wěndìng",
+    "display_meaning_vi": "ổn định",
+    "meaning_en": "stable; steady",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保持稳定 / 情绪稳定",
+    "collocations": [
+      "保持稳定",
+      "情绪稳定",
+      "局势稳定"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "最近菜价比较稳定。",
+        "pinyin": "Zuìjìn càijià bǐjiào wěndìng.",
+        "vi": "Gần đây giá rau khá ổn định.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "稳定 là không dao động mạnh. 安静 là yên tĩnh, không phải ổn định."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 保持稳定 là giữ ổn định.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "稳定 nghĩa là gì?",
+        "answer": "ổn định"
+      },
+      {
+        "type": "cloze",
+        "prompt": "最近菜价比较____。",
+        "answer": "稳定"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_514",
+    "level": "HSK5",
+    "hanzi": "巨大",
+    "pinyin": "jùdà",
+    "display_meaning_vi": "to lớn",
+    "meaning_en": "huge",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "巨大变化 / 巨大压力",
+    "collocations": [
+      "巨大成功",
+      "巨大压力",
+      "巨大影响"
+    ],
+    "near_synonyms": [
+      {
+        "word": "很大",
+        "difference_vi": "巨大 trang trọng và mạnh hơn; 很大 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "巨大 = cực lớn, trang trọng; 很大 = rất lớn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座桥发生了巨大变化。",
+        "pinyin": "Zhè zuò qiáo fāshēng le jùdà biànhuà.",
+        "vi": "Cây cầu này đã thay đổi rất lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "巨大 hay đi với thay đổi, áp lực, thành công, không dùng cho một cái bàn."
+    ],
+    "app_note_vi": "Tính từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "巨大 nghĩa là gì?",
+        "answer": "to lớn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座桥发生了____变化。",
+        "answer": "巨大"
+      },
+      {
+        "type": "synonym",
+        "prompt": "巨大 khác 很大 ở điểm nào?",
+        "answer": "巨大 trang trọng và mạnh hơn; 很大 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_515",
+    "level": "HSK5",
+    "hanzi": "紧",
+    "pinyin": "jǐn",
+    "display_meaning_vi": "chặt; gấp",
+    "meaning_en": "tight; urgent",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "太紧 / 抓紧",
+    "collocations": [
+      "抓紧",
+      "紧接着",
+      "紧绷"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这双鞋的鞋带系得太紧了。",
+        "pinyin": "Zhè shuāng xié de xiédài jì de tài jǐn le.",
+        "vi": "Dây giày này buộc quá chặt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "系鞋带的 系 đọc jì, không đọc xì. 得 đọc de. 紧 là chặt hoặc gấp."
+    ],
+    "app_note_vi": "Tính từ. 抓紧 là nắm chắc hoặc tranh thủ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "紧 nghĩa là gì?",
+        "answer": "chặt; gấp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这双鞋的鞋带系得太____了。",
+        "answer": "紧"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_516",
+    "level": "HSK5",
+    "hanzi": "顶",
+    "pinyin": "dǐng",
+    "display_meaning_vi": "đỉnh; đội",
+    "meaning_en": "top; to carry on the head",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "山顶 / 一顶帽子",
+    "collocations": [
+      "山顶",
+      "屋顶",
+      "一顶帽子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这边山顶的风特别大。",
+        "pinyin": "Zhèbiān shāndǐng de fēng tèbié dà.",
+        "vi": "Gió trên đỉnh núi bên này đặc biệt lớn.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "顶 vừa là đỉnh, vừa là đội trên đầu, vừa đếm mũ: 一顶帽子."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 屋顶 là mái nhà.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "顶 nghĩa là gì?",
+        "answer": "đỉnh; đội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这边山____的风特别大。",
+        "answer": "顶"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_517",
+    "level": "HSK5",
+    "hanzi": "特殊",
+    "pinyin": "tèshū",
+    "display_meaning_vi": "đặc biệt",
+    "meaning_en": "special",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "特殊情况 / 特殊性",
+    "collocations": [
+      "特殊情况",
+      "特殊待遇",
+      "特殊性"
+    ],
+    "near_synonyms": [
+      {
+        "word": "特别",
+        "difference_vi": "特殊 nhấn mạnh khác lệ thường, hay trong quy định; 特别 thông dụng hơn, cũng là rất."
+      }
+    ],
+    "app_synonym_note_vi": "特殊 = đặc biệt, khác lệ; 特别 = đặc biệt hoặc rất.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "特殊情况可以再商量。",
+        "pinyin": "Tèshū qíngkuàng kěyǐ zài shāngliang.",
+        "vi": "Trường hợp đặc biệt thì có thể bàn thêm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "特殊情况 là tình huống ngoại lệ, không phải mọi việc hơi lạ."
+    ],
+    "app_note_vi": "Tính từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "特殊 nghĩa là gì?",
+        "answer": "đặc biệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____情况可以再商量。",
+        "answer": "特殊"
+      },
+      {
+        "type": "synonym",
+        "prompt": "特殊 khác 特别 ở điểm nào?",
+        "answer": "特殊 nhấn mạnh khác lệ thường, hay trong quy định; 特别 thông dụng hơn, cũng là rất."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_518",
+    "level": "HSK5",
+    "hanzi": "彻底",
+    "pinyin": "chèdǐ",
+    "display_meaning_vi": "triệt để",
+    "meaning_en": "thorough; complete",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "彻底解决 / 彻底改变",
+    "collocations": [
+      "彻底解决",
+      "彻底改变",
+      "彻底休息"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "房间被彻底打扫了一遍。",
+        "pinyin": "Fángjiān bèi chèdǐ dǎsǎo le yí biàn.",
+        "vi": "Phòng được dọn sạch hoàn toàn một lượt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一遍 đọc yí biàn. 彻底 là đến cùng, không sót."
+    ],
+    "app_note_vi": "Tính từ hoặc phó từ. 彻底解决 là giải quyết dứt điểm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "彻底 nghĩa là gì?",
+        "answer": "triệt để"
+      },
+      {
+        "type": "cloze",
+        "prompt": "房间被____打扫了一遍。",
+        "answer": "彻底"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_519",
+    "level": "HSK5",
+    "hanzi": "龙",
+    "pinyin": "lóng",
+    "display_meaning_vi": "rồng",
+    "meaning_en": "dragon",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一条龙 / 龙舟",
+    "collocations": [
+      "一条龙",
+      "龙舟",
+      "龙年"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子在纸上画了一条龙。",
+        "pinyin": "Háizi zài zhǐ shàng huà le yì tiáo lóng.",
+        "vi": "Đứa trẻ vẽ một con rồng trên giấy.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "龙 đọc lóng. Họ 龙 đọc Lóng. 一条 đọc yì tiáo vì 条 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. 龙舟 là thuyền rồng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "龙 nghĩa là gì?",
+        "answer": "rồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子在纸上画了一条____。",
+        "answer": "龙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_520",
+    "level": "HSK5",
+    "hanzi": "诗",
+    "pinyin": "shī",
+    "display_meaning_vi": "thơ",
+    "meaning_en": "poem",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一首诗 / 古诗",
+    "collocations": [
+      "一首诗",
+      "古诗",
+      "现代诗"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子给妈妈写了一首诗。",
+        "pinyin": "Háizi gěi māma xiě le yì shǒu shī.",
+        "vi": "Đứa trẻ viết cho mẹ một bài thơ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "诗 đọc shī. 一首 đọc yì shǒu vì 首 là thanh 3. Họ hoặc tên sách 诗经 không đổi cách đọc của từ 诗 trong câu thường."
+    ],
+    "app_note_vi": "Danh từ. 古诗 là thơ cổ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "诗 nghĩa là gì?",
+        "answer": "thơ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子给妈妈写了一首____。",
+        "answer": "诗"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
