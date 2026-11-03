@@ -65,6 +65,12 @@ import enriched621To630 from '../../docs/hsk5-batch2-621-630-enriched.json';
 import enriched631To640 from '../../docs/hsk5-batch2-631-640-enriched.json';
 import enriched641To650 from '../../docs/hsk5-batch2-641-650-enriched.json';
 import enriched651To660 from '../../docs/hsk5-batch2-651-660-enriched.json';
+import enriched661To670 from '../../docs/hsk5-batch2-661-670-enriched.json';
+import enriched671To680 from '../../docs/hsk5-batch2-671-680-enriched.json';
+import enriched681To690 from '../../docs/hsk5-batch2-681-690-enriched.json';
+import enriched691To700 from '../../docs/hsk5-batch2-691-700-enriched.json';
+import enriched701To710 from '../../docs/hsk5-batch2-701-710-enriched.json';
+import enriched711To720 from '../../docs/hsk5-batch2-711-720-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -157,6 +163,12 @@ const sourceWords = [
   ...(enriched631To640 as EnrichedWord[]),
   ...(enriched641To650 as EnrichedWord[]),
   ...(enriched651To660 as EnrichedWord[]),
+  ...(enriched661To670 as EnrichedWord[]),
+  ...(enriched671To680 as EnrichedWord[]),
+  ...(enriched681To690 as EnrichedWord[]),
+  ...(enriched691To700 as EnrichedWord[]),
+  ...(enriched701To710 as EnrichedWord[]),
+  ...(enriched711To720 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -621,6 +633,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '66 · 编辑',
     topic: '实行与传递 / Thi hành và truyền đạt',
     color: '#00897B',
+  },
+  {
+    id: 'HSK5-F1-L67',
+    moduleId: 'hsk5-module-62',
+    title: '67 · 不得了',
+    topic: '情绪与反应 / Cảm xúc và phản ứng',
+    color: '#7B1FA2',
+  },
+  {
+    id: 'HSK5-F1-L68',
+    moduleId: 'hsk5-module-63',
+    title: '68 · 发言',
+    topic: '工作与发言 / Công việc và phát biểu',
+    color: '#006064',
+  },
+  {
+    id: 'HSK5-F1-L69',
+    moduleId: 'hsk5-module-64',
+    title: '69 · 本质',
+    topic: '本质与程度 / Bản chất và mức độ',
+    color: '#BF360C',
+  },
+  {
+    id: 'HSK5-F1-L70',
+    moduleId: 'hsk5-module-65',
+    title: '70 · 调皮',
+    topic: '性格与日常 / Tính cách và đời thường',
+    color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L71',
+    moduleId: 'hsk5-module-66',
+    title: '71 · 假装',
+    topic: '选择与场合 / Lựa chọn và tình huống',
+    color: '#1B5E20',
+  },
+  {
+    id: 'HSK5-F1-L72',
+    moduleId: 'hsk5-module-67',
+    title: '72 · 长途',
+    topic: '路程与转告 / Đường đi và nhắn lại',
+    color: '#4A148C',
   },
 ];
 

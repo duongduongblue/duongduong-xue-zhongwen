@@ -1,0 +1,553 @@
+[
+  {
+    "id": "hsk5_batch2_681",
+    "level": "HSK5",
+    "hanzi": "本质",
+    "pinyin": "běnzhì",
+    "display_meaning_vi": "bản chất",
+    "meaning_en": "essence; true nature",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "问题的本质 / 看清本质",
+    "collocations": [
+      "本质问题",
+      "问题的本质",
+      "看清本质"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "问题的本质是沟通不够。",
+        "pinyin": "Wèntí de běnzhì shì gōutōng bú gòu.",
+        "vi": "Bản chất vấn đề là giao tiếp chưa đủ.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不够 đọc búgòu vì 够 là thanh 4. 本质 là cái cốt lõi, không phải hiện tượng bề ngoài."
+    ],
+    "app_note_vi": "Danh từ trang trọng. 看清本质 là thấy đúng gốc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "本质 nghĩa là gì?",
+        "answer": "bản chất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "问题的____是沟通不够。",
+        "answer": "本质"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_682",
+    "level": "HSK5",
+    "hanzi": "必然",
+    "pinyin": "bìrán",
+    "display_meaning_vi": "tất yếu",
+    "meaning_en": "inevitable",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "必然结果 / 必然趋势",
+    "collocations": [
+      "必然结果",
+      "必然趋势",
+      "是必然的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不努力，失败是必然的。",
+        "pinyin": "Bù nǔlì, shībài shì bìrán de.",
+        "vi": "Không cố gắng thì thất bại là điều tất yếu.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "努力 là thanh 3, nên 不 vẫn đọc bù. 必然 là chắc sẽ xảy ra."
+    ],
+    "app_note_vi": "Tính từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "必然 nghĩa là gì?",
+        "answer": "tất yếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不努力，失败是____的。",
+        "answer": "必然"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_683",
+    "level": "HSK5",
+    "hanzi": "必需",
+    "pinyin": "bìxū",
+    "display_meaning_vi": "không thể thiếu",
+    "meaning_en": "essential",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "必需品 / 生活必需",
+    "collocations": [
+      "必需品",
+      "生活必需",
+      "必需的条件"
+    ],
+    "near_synonyms": [
+      {
+        "word": "必须",
+        "difference_vi": "必需 là thứ không thể thiếu; 必须 là phải làm."
+      }
+    ],
+    "app_synonym_note_vi": "必需 = không thể thiếu; 必须 = phải.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "水是生活的必需品。",
+        "pinyin": "Shuǐ shì shēnghuó de bìxūpǐn.",
+        "vi": "Nước là thứ không thể thiếu trong đời sống.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "必需 hay đứng trước danh từ, như 必需品. 必须 đứng trước động từ."
+    ],
+    "app_note_vi": "Tính từ. 生活必需 là nhu cầu thiết yếu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "必需 nghĩa là gì?",
+        "answer": "không thể thiếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "水是生活的____品。",
+        "answer": "必需"
+      },
+      {
+        "type": "synonym",
+        "prompt": "必需 khác 必须 ở điểm nào?",
+        "answer": "必需 là thứ không thể thiếu; 必须 là phải làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_684",
+    "level": "HSK5",
+    "hanzi": "比例",
+    "pinyin": "bǐlì",
+    "display_meaning_vi": "tỷ lệ",
+    "meaning_en": "proportion; ratio",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "男女比例 / 比例失调",
+    "collocations": [
+      "男女比例",
+      "比例失调",
+      "占比例"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "男女比例差不多。",
+        "pinyin": "Nánnǚ bǐlì chàbuduō.",
+        "vi": "Tỷ lệ nam nữ gần như nhau.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "差不多的 不 đọc nhẹ bu. 比例 là con số so sánh, không phải một phần của bài."
+    ],
+    "app_note_vi": "Danh từ. 占比例 là chiếm một tỷ lệ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "比例 nghĩa là gì?",
+        "answer": "tỷ lệ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "男女____差不多。",
+        "answer": "比例"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_685",
+    "level": "HSK5",
+    "hanzi": "抽象",
+    "pinyin": "chōuxiàng",
+    "display_meaning_vi": "trừu tượng",
+    "meaning_en": "abstract",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "抽象概念 / 太抽象",
+    "collocations": [
+      "太抽象",
+      "抽象概念",
+      "很抽象"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个说法太抽象了。",
+        "pinyin": "Zhège shuōfǎ tài chōuxiàng le.",
+        "vi": "Cách nói này trừu tượng quá.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "抽象 là khó hình dung. Cụ thể là 具体."
+    ],
+    "app_note_vi": "Tính từ. 抽象概念 là khái niệm trừu tượng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抽象 nghĩa là gì?",
+        "answer": "trừu tượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个说法太____了。",
+        "answer": "抽象"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_686",
+    "level": "HSK5",
+    "hanzi": "次要",
+    "pinyin": "cìyào",
+    "display_meaning_vi": "thứ yếu",
+    "meaning_en": "secondary",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "次要问题 / 次要的",
+    "collocations": [
+      "次要问题",
+      "次要矛盾",
+      "次要的"
+    ],
+    "near_synonyms": [
+      {
+        "word": "主要",
+        "difference_vi": "次要 là phần kém quan trọng; 主要 là phần chính."
+      }
+    ],
+    "app_synonym_note_vi": "次要 = thứ yếu; 主要 = chủ yếu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "先做重要的，次要的可以等等。",
+        "pinyin": "Xiān zuò zhòngyào de, cìyào de kěyǐ děng deng.",
+        "vi": "Làm việc quan trọng trước, việc phụ có thể để sau.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "重要的 重 đọc zhòng, là nặng, quan trọng. Lặp lại mới đọc chóng. 等等 âm sau nhẹ."
+    ],
+    "app_note_vi": "Tính từ. Đối với 主要.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "次要 nghĩa là gì?",
+        "answer": "thứ yếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "先做重要的，____的可以等等。",
+        "answer": "次要"
+      },
+      {
+        "type": "synonym",
+        "prompt": "次要 khác 主要 ở điểm nào?",
+        "answer": "次要 là phần kém quan trọng; 主要 là phần chính."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_687",
+    "level": "HSK5",
+    "hanzi": "单纯",
+    "pinyin": "dānchún",
+    "display_meaning_vi": "đơn thuần",
+    "meaning_en": "simple; pure",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很单纯 / 单纯的",
+    "collocations": [
+      "想法单纯",
+      "很单纯",
+      "单纯的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他的想法很单纯。",
+        "pinyin": "Tā de xiǎngfǎ hěn dānchún.",
+        "vi": "Suy nghĩ của anh ấy rất đơn thuần.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "单纯 vừa là không phức tạp, vừa là ngây. Không phải chỉ có một người; một mình là 单独."
+    ],
+    "app_note_vi": "Tính từ. 想法单纯 là nghĩ đơn giản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "单纯 nghĩa là gì?",
+        "answer": "đơn thuần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他的想法很____。",
+        "answer": "单纯"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_688",
+    "level": "HSK5",
+    "hanzi": "地道",
+    "pinyin": "dìdao",
+    "display_meaning_vi": "đúng chất",
+    "meaning_en": "authentic",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "很地道 / 地道的北京话",
+    "collocations": [
+      "很地道",
+      "地道的北京话",
+      "味道地道"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家店的北京烤鸭很地道。",
+        "pinyin": "Zhè jiā diàn de Běijīng kǎoyā hěn dìdao.",
+        "vi": "Vịt quay Bắc Kinh của quán này rất đúng chất.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地道 nghĩa đúng chất đọc dìdao, âm sau nhẹ. Nghĩa đường hầm đọc dìdào."
+    ],
+    "app_note_vi": "Tính từ. Hay khen đồ ăn hoặc giọng nói chuẩn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地道 nghĩa là gì?",
+        "answer": "đúng chất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家店的北京烤鸭很____。",
+        "answer": "地道"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_689",
+    "level": "HSK5",
+    "hanzi": "等于",
+    "pinyin": "děngyú",
+    "display_meaning_vi": "bằng",
+    "meaning_en": "to equal",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "等于二 / 不等于",
+    "collocations": [
+      "等于二",
+      "不等于",
+      "几乎等于"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一加一等于二。",
+        "pinyin": "Yī jiā yī děngyú èr.",
+        "vi": "Một cộng một bằng hai.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phép tính dùng 二, không dùng 两. 一 đứng một mình đọc yī."
+    ],
+    "app_note_vi": "Động từ. 不等于 là không bằng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "等于 nghĩa là gì?",
+        "answer": "bằng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一加一____二。",
+        "answer": "等于"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_690",
+    "level": "HSK5",
+    "hanzi": "个别",
+    "pinyin": "gèbié",
+    "display_meaning_vi": "cá biệt",
+    "meaning_en": "individual; a few",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "个别情况 / 个别人",
+    "collocations": [
+      "个别情况",
+      "个别人",
+      "个别现象"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这只是个别情况。",
+        "pinyin": "Zhè zhǐ shì gèbié qíngkuàng.",
+        "vi": "Đây chỉ là trường hợp cá biệt.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "只 đọc zhǐ, nghĩa là chỉ. 个别 là số ít, không đại diện cho tất cả."
+    ],
+    "app_note_vi": "Tính từ. 个别人 là một vài người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "个别 nghĩa là gì?",
+        "answer": "cá biệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这只是____情况。",
+        "answer": "个别"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

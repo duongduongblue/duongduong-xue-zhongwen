@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_691",
+    "level": "HSK5",
+    "hanzi": "调皮",
+    "pinyin": "tiáopí",
+    "display_meaning_vi": "nghịch",
+    "meaning_en": "naughty",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "调皮的孩子 / 很调皮",
+    "collocations": [
+      "很调皮",
+      "调皮的孩子",
+      "有点调皮"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这孩子有点调皮。",
+        "pinyin": "Zhè háizi yǒudiǎn tiáopí.",
+        "vi": "Đứa trẻ này hơi nghịch.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "调 trong 调皮 đọc tiáo. Chuyển, điều tra đọc diào, như 调查, 声调."
+    ],
+    "app_note_vi": "Tính từ. Nghịch nhưng thường đáng yêu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "调皮 nghĩa là gì?",
+        "answer": "nghịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这孩子有点____。",
+        "answer": "调皮"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_692",
+    "level": "HSK5",
+    "hanzi": "丑",
+    "pinyin": "chǒu",
+    "display_meaning_vi": "xấu",
+    "meaning_en": "ugly",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "丑小鸭 / 长得丑",
+    "collocations": [
+      "丑小鸭",
+      "不丑",
+      "长得丑"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这幅画并不丑。",
+        "pinyin": "Zhè fú huà bìng bù chǒu.",
+        "vi": "Bức tranh này không xấu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "丑 đọc chǒu. 不 đứng trước thanh 3, vẫn đọc bù."
+    ],
+    "app_note_vi": "Tính từ. 丑小鸭 là vịt con xấu xí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "丑 nghĩa là gì?",
+        "answer": "xấu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这幅画并不____。",
+        "answer": "丑"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_693",
+    "level": "HSK5",
+    "hanzi": "闯",
+    "pinyin": "chuǎng",
+    "display_meaning_vi": "xông",
+    "meaning_en": "to rush; to cause (trouble)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "闯红灯 / 闯祸",
+    "collocations": [
+      "闯红灯",
+      "闯祸",
+      "敢闯"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他闯了红灯。",
+        "pinyin": "Tā chuǎng le hóngdēng.",
+        "vi": "Anh ấy đã vượt đèn đỏ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "闯红灯 là đi khi đèn đỏ. 闯祸 là gây chuyện."
+    ],
+    "app_note_vi": "Động từ. Vừa là xông vào, vừa là gây ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "闯 nghĩa là gì?",
+        "answer": "xông"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____了红灯。",
+        "answer": "闯"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_694",
+    "level": "HSK5",
+    "hanzi": "吵架",
+    "pinyin": "chǎojià",
+    "display_meaning_vi": "cãi nhau",
+    "meaning_en": "to quarrel",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "informal",
+    "grammar_pattern": "吵架了 / 不要吵架",
+    "collocations": [
+      "吵架了",
+      "跟他吵架",
+      "不要吵架"
+    ],
+    "near_synonyms": [
+      {
+        "word": "辩论",
+        "difference_vi": "吵架 là nóng giận, không cần lý lẽ chặt; 辩论 là tranh luận có lập luận."
+      }
+    ],
+    "app_synonym_note_vi": "吵架 = cãi nhau; 辩论 = tranh luận.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们俩又吵架了。",
+        "pinyin": "Tāmen liǎ yòu chǎojià le.",
+        "vi": "Hai người họ lại cãi nhau.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "俩 đọc liǎ, là hai người. 吵架 không phải tranh luận có tổ chức."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吵架 nghĩa là gì?",
+        "answer": "cãi nhau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们俩又____了。",
+        "answer": "吵架"
+      },
+      {
+        "type": "synonym",
+        "prompt": "吵架 khác 辩论 ở điểm nào?",
+        "answer": "吵架 là nóng giận, không cần lý lẽ chặt; 辩论 là tranh luận có lập luận."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_695",
+    "level": "HSK5",
+    "hanzi": "催",
+    "pinyin": "cuī",
+    "display_meaning_vi": "thúc",
+    "meaning_en": "to urge",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "催促 / 催他",
+    "collocations": [
+      "催促",
+      "催一下",
+      "催他"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈催我早点睡觉。",
+        "pinyin": "Māma cuī wǒ zǎodiǎn shuìjiào.",
+        "vi": "Mẹ thúc tôi đi ngủ sớm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "早点 đọc zǎodiǎn. 催 là giục người khác làm mau."
+    ],
+    "app_note_vi": "Động từ. 催促 trang trọng hơn một chút.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "催 nghĩa là gì?",
+        "answer": "thúc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈____我早点睡觉。",
+        "answer": "催"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_696",
+    "level": "HSK5",
+    "hanzi": "逗",
+    "pinyin": "dòu",
+    "display_meaning_vi": "trêu",
+    "meaning_en": "to tease; to amuse",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "逗笑 / 逗孩子",
+    "collocations": [
+      "逗笑",
+      "逗孩子",
+      "逗乐"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他总爱逗孩子笑。",
+        "pinyin": "Tā zǒng ài dòu háizi xiào.",
+        "vi": "Anh ấy hay trêu cho trẻ cười.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "逗笑 là làm người khác cười. Không phải trêu tức; trêu tức hay nói 气."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. 逗乐 là chọc cười.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "逗 nghĩa là gì?",
+        "answer": "trêu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他总爱____孩子笑。",
+        "answer": "逗"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_697",
+    "level": "HSK5",
+    "hanzi": "打听",
+    "pinyin": "dǎting",
+    "display_meaning_vi": "hỏi thăm",
+    "meaning_en": "to ask about",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "打听消息 / 打听一下",
+    "collocations": [
+      "打听消息",
+      "打听一下",
+      "四处打听"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我想打听一下火车几点开。",
+        "pinyin": "Wǒ xiǎng dǎting yíxià huǒchē jǐ diǎn kāi.",
+        "vi": "Tôi muốn hỏi tàu mấy giờ chạy.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "听 đọc nhẹ ting: dǎting. 一下 đọc yíxià vì 下 là thanh 4. 打听 là hỏi để biết tin, không phải nghe bài."
+    ],
+    "app_note_vi": "Động từ. 四处打听 là hỏi khắp nơi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打听 nghĩa là gì?",
+        "answer": "hỏi thăm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我想____一下火车几点开。",
+        "answer": "打听"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_698",
+    "level": "HSK5",
+    "hanzi": "打招呼",
+    "pinyin": "dǎzhāohu",
+    "display_meaning_vi": "chào",
+    "meaning_en": "to greet",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "先打招呼 / 互相打招呼",
+    "collocations": [
+      "先打招呼",
+      "互相打招呼",
+      "见面打招呼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "见面要先打招呼。",
+        "pinyin": "Jiànmiàn yào xiān dǎzhāohu.",
+        "vi": "Gặp mặt thì chào trước.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "呼 đọc nhẹ hu: dǎzhāohu. 招 chỉ đọc zhāo, không phải chữ 朝."
+    ],
+    "app_note_vi": "Động từ. 互相打招呼 là chào nhau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打招呼 nghĩa là gì?",
+        "answer": "chào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "见面要先____。",
+        "answer": "打招呼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_699",
+    "level": "HSK5",
+    "hanzi": "点心",
+    "pinyin": "diǎnxin",
+    "display_meaning_vi": "đồ điểm tâm",
+    "meaning_en": "snack; pastry",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吃点心 / 一盘点心",
+    "collocations": [
+      "吃点心",
+      "一盘点心",
+      "广东点心"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下午茶有点心。",
+        "pinyin": "Xiàwǔchá yǒu diǎnxin.",
+        "vi": "Trà chiều có đồ điểm tâm.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "心 đọc nhẹ xin: diǎnxin. 一盘 đọc yì pán vì 盘 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Bánh hoặc món ăn nhẹ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "点心 nghĩa là gì?",
+        "answer": "đồ điểm tâm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下午茶有____。",
+        "answer": "点心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_700",
+    "level": "HSK5",
+    "hanzi": "豆腐",
+    "pinyin": "dòufu",
+    "display_meaning_vi": "đậu phụ",
+    "meaning_en": "tofu",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "豆腐汤 / 一块豆腐",
+    "collocations": [
+      "豆腐汤",
+      "豆腐脑",
+      "一块豆腐"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈做了豆腐汤。",
+        "pinyin": "Māma zuò le dòufu tāng.",
+        "vi": "Mẹ nấu canh đậu phụ.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "腐 đọc nhẹ fu: dòufu. 一块 đọc yí kuài vì 块 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. 豆腐脑 là tàu hũ non.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "豆腐 nghĩa là gì?",
+        "answer": "đậu phụ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈做了____汤。",
+        "answer": "豆腐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
