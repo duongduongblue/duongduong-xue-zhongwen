@@ -1,0 +1,553 @@
+[
+  {
+    "id": "hsk5_batch2_721",
+    "level": "HSK5",
+    "hanzi": "包含",
+    "pinyin": "bāohán",
+    "display_meaning_vi": "bao gồm",
+    "meaning_en": "to contain",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "包含在内 / 包含内容",
+    "collocations": [
+      "包含在内",
+      "包含内容",
+      "不包含"
+    ],
+    "near_synonyms": [
+      {
+        "word": "包括",
+        "difference_vi": "包含 là bên trong có những thành phần đó; 包括 là kể vào một danh sách."
+      }
+    ],
+    "app_synonym_note_vi": "包含 = chứa đựng; 包括 = kể cả.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个价格包含早餐。",
+        "pinyin": "Zhège jiàgé bāohán zǎocān.",
+        "vi": "Giá này đã gồm bữa sáng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "包含是里面有。不包含是不算在内。"
+    ],
+    "app_note_vi": "Động từ. 包含在内 là tính cả vào trong.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "包含 nghĩa là gì?",
+        "answer": "bao gồm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个价格____早餐。",
+        "answer": "包含"
+      },
+      {
+        "type": "synonym",
+        "prompt": "包含 khác 包括 ở điểm nào?",
+        "answer": "包含 là bên trong có những thành phần đó; 包括 là kể vào một danh sách."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_722",
+    "level": "HSK5",
+    "hanzi": "保留",
+    "pinyin": "bǎoliú",
+    "display_meaning_vi": "giữ lại",
+    "meaning_en": "to retain; to reserve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保留意见 / 保留座位",
+    "collocations": [
+      "保留意见",
+      "保留下来",
+      "保留座位"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请保留这张票。",
+        "pinyin": "Qǐng bǎoliú zhè zhāng piào.",
+        "vi": "Xin giữ tờ vé này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "保留 là còn để đó, chưa bỏ. Vứt đi nói 扔掉."
+    ],
+    "app_note_vi": "Động từ. 保留意见 là giữ ý kiến của mình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "保留 nghĩa là gì?",
+        "answer": "giữ lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____这张票。",
+        "answer": "保留"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_723",
+    "level": "HSK5",
+    "hanzi": "标点",
+    "pinyin": "biāodiǎn",
+    "display_meaning_vi": "dấu câu",
+    "meaning_en": "punctuation",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "标点符号 / 打标点",
+    "collocations": [
+      "标点符号",
+      "打标点",
+      "标点错误"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "写句子别忘了标点。",
+        "pinyin": "Xiě jùzi bié wàng le biāodiǎn.",
+        "vi": "Viết câu đừng quên dấu câu.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "标点是逗号、句号这类符号，不是文字。"
+    ],
+    "app_note_vi": "Danh từ. 标点符号 là các dấu câu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "标点 nghĩa là gì?",
+        "answer": "dấu câu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "写句子别忘了____。",
+        "answer": "标点"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_724",
+    "level": "HSK5",
+    "hanzi": "从而",
+    "pinyin": "cóng'ér",
+    "display_meaning_vi": "từ đó mà",
+    "meaning_en": "thus; thereby",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "从而达到 / 从而明白",
+    "collocations": [
+      "从而达到",
+      "从而明白",
+      "从而得出"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他每天练习，从而提高了口语。",
+        "pinyin": "Tā měi tiān liànxí, cóng'ér tígāo le kǒuyǔ.",
+        "vi": "Anh ấy luyện mỗi ngày, từ đó nói tốt hơn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "从而 nối kết quả với việc vừa nói. Giữa cóng và ér có dấu nháy."
+    ],
+    "app_note_vi": "Liên từ trang trọng. Đứng trước kết quả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "从而 nghĩa là gì?",
+        "answer": "từ đó mà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他每天练习，____提高了口语。",
+        "answer": "从而"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_725",
+    "level": "HSK5",
+    "hanzi": "从此",
+    "pinyin": "cóngcǐ",
+    "display_meaning_vi": "từ đó",
+    "meaning_en": "from then on",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "从此以后 / 从此不再",
+    "collocations": [
+      "从此以后",
+      "从此不再",
+      "从此时起"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "从此以后，她不再迟到。",
+        "pinyin": "Cóngcǐ yǐhòu, tā bú zài chídào.",
+        "vi": "Từ đó về sau cô ấy không đi muộn nữa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不再 đọc bú zài vì 再 là thanh 4. 从此 chỉ mốc đã qua."
+    ],
+    "app_note_vi": "Phó từ. Hay đi với 以后.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "从此 nghĩa là gì?",
+        "answer": "từ đó"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____以后，她不再迟到。",
+        "answer": "从此"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_726",
+    "level": "HSK5",
+    "hanzi": "凡是",
+    "pinyin": "fánshì",
+    "display_meaning_vi": "hễ là",
+    "meaning_en": "every; any",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "凡是问题 / 凡是这样",
+    "collocations": [
+      "凡是人",
+      "凡是问题",
+      "凡是这样"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "凡是学生都可以借书。",
+        "pinyin": "Fánshì xuésheng dōu kěyǐ jiè shū.",
+        "vi": "Hễ là học viên thì đều được mượn sách.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "凡是 hay đi với 都. Không dùng cho một người cụ thể."
+    ],
+    "app_note_vi": "Phó từ. Đứng đầu câu, chỉ mọi trường hợp thuộc loại đó.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "凡是 nghĩa là gì?",
+        "answer": "hễ là"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____学生都可以借书。",
+        "answer": "凡是"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_727",
+    "level": "HSK5",
+    "hanzi": "反而",
+    "pinyin": "fǎn'ér",
+    "display_meaning_vi": "ngược lại",
+    "meaning_en": "on the contrary",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "反而更好 / 反而增加",
+    "collocations": [
+      "反而更好",
+      "反而失败",
+      "反而增加"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雨大了，人反而更多。",
+        "pinyin": "Yǔ dà le, rén fǎn'ér gèng duō.",
+        "vi": "Mưa to, người lại càng đông.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "反而 chỉ kết quả trái với điều người ta tưởng. Có dấu nháy giữa fǎn và ér."
+    ],
+    "app_note_vi": "Phó từ. Đứng trước kết quả bất ngờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "反而 nghĩa là gì?",
+        "answer": "ngược lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雨大了，人____更多。",
+        "answer": "反而"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_728",
+    "level": "HSK5",
+    "hanzi": "反复",
+    "pinyin": "fǎnfù",
+    "display_meaning_vi": "lặp đi lặp lại",
+    "meaning_en": "repeatedly",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "反复练习 / 反复思考",
+    "collocations": [
+      "反复练习",
+      "反复思考",
+      "反复出现"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请反复读这句。",
+        "pinyin": "Qǐng fǎnfù dú zhè jù.",
+        "vi": "Xin đọc đi đọc lại câu này.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "反复 là làm nhiều lần. Một lần thì không nói 反复."
+    ],
+    "app_note_vi": "Phó từ. 反复练习 là luyện đi luyện lại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "反复 nghĩa là gì?",
+        "answer": "lặp đi lặp lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____读这句。",
+        "answer": "反复"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_729",
+    "level": "HSK5",
+    "hanzi": "否定",
+    "pinyin": "fǒudìng",
+    "display_meaning_vi": "phủ định",
+    "meaning_en": "to negate; negative",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "加以否定 / 否定意见",
+    "collocations": [
+      "否定意见",
+      "加以否定",
+      "否定自己"
+    ],
+    "near_synonyms": [
+      {
+        "word": "否认",
+        "difference_vi": "否定 là bác một nhận định; 否认 là không thừa nhận một việc."
+      }
+    ],
+    "app_synonym_note_vi": "否定 = phủ định; 否认 = không thừa nhận.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他没有否定我的想法。",
+        "pinyin": "Tā méiyǒu fǒudìng wǒ de xiǎngfǎ.",
+        "vi": "Anh ấy không phủ định ý của tôi.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "没有否定 là vẫn còn chỗ cho ý đó."
+    ],
+    "app_note_vi": "Động từ trang trọng. 加以否定 là bác bỏ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "否定 nghĩa là gì?",
+        "answer": "phủ định"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他没有____我的想法。",
+        "answer": "否定"
+      },
+      {
+        "type": "synonym",
+        "prompt": "否定 khác 否认 ở điểm nào?",
+        "answer": "否定 là bác một nhận định; 否认 là không thừa nhận một việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_730",
+    "level": "HSK5",
+    "hanzi": "改正",
+    "pinyin": "gǎizhèng",
+    "display_meaning_vi": "sửa cho đúng",
+    "meaning_en": "to correct",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "改正错误 / 及时改正",
+    "collocations": [
+      "改正错误",
+      "及时改正",
+      "改正过来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "发现错误要马上改正。",
+        "pinyin": "Fāxiàn cuòwù yào mǎshàng gǎizhèng.",
+        "vi": "Thấy lỗi thì sửa ngay.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "正 trong 改正 đọc zhèng. Tháng giêng đọc zhēng, như 正月."
+    ],
+    "app_note_vi": "Động từ. 改正过来 là sửa cho xong.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "改正 nghĩa là gì?",
+        "answer": "sửa cho đúng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "发现错误要马上____。",
+        "answer": "改正"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

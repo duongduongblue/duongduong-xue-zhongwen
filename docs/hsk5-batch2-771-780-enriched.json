@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_771",
+    "level": "HSK5",
+    "hanzi": "结账",
+    "pinyin": "jiézhàng",
+    "display_meaning_vi": "tính tiền",
+    "meaning_en": "to settle the bill",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去结账 / 现在结账",
+    "collocations": [
+      "去结账",
+      "现在结账",
+      "结账离开"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "吃完饭我们去结账。",
+        "pinyin": "Chī wán fàn wǒmen qù jiézhàng.",
+        "vi": "Ăn xong chúng tôi đi tính tiền.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结 trong 结账 đọc jié. Chắc, bền đọc jiē, như 结实."
+    ],
+    "app_note_vi": "Động từ. 现在结账 là tính tiền bây giờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "结账 nghĩa là gì?",
+        "answer": "tính tiền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "吃完饭我们去____。",
+        "answer": "结账"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_772",
+    "level": "HSK5",
+    "hanzi": "节省",
+    "pinyin": "jiéshěng",
+    "display_meaning_vi": "tiết kiệm",
+    "meaning_en": "to save; to economize",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "节省时间 / 节省开支",
+    "collocations": [
+      "节省时间",
+      "节省开支",
+      "节省能源"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "关灯可以节省电。",
+        "pinyin": "Guān dēng kěyǐ jiéshěng diàn.",
+        "vi": "Tắt đèn thì tiết kiệm điện.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "省 trong 节省 đọc shěng, là bớt, để dành. Tự kiểm đọc xǐng, như 反省. Tỉnh cũng đọc shěng."
+    ],
+    "app_note_vi": "Động từ. 节省开支 là giảm chi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "节省 nghĩa là gì?",
+        "answer": "tiết kiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "关灯可以____电。",
+        "answer": "节省"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_773",
+    "level": "HSK5",
+    "hanzi": "尽力",
+    "pinyin": "jìnlì",
+    "display_meaning_vi": "cố hết sức",
+    "meaning_en": "to try one's best",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "尽力帮助 / 已经尽力",
+    "collocations": [
+      "尽力帮助",
+      "已经尽力",
+      "尽力而为"
+    ],
+    "near_synonyms": [
+      {
+        "word": "尽量",
+        "difference_vi": "尽力 là làm hết sức mình, 尽 đọc jìn. 尽量 là trong mức có thể, 尽 đọc jǐn."
+      }
+    ],
+    "app_synonym_note_vi": "尽力 = cố hết sức; 尽量 = hết mức có thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我已经尽力了。",
+        "pinyin": "Wǒ yǐjīng jìnlì le.",
+        "vi": "Tôi đã cố hết sức rồi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "尽 trong 尽力 đọc jìn. Hết mức có thể đọc jǐn, như 尽量."
+    ],
+    "app_note_vi": "Động từ. 尽力而为 là cố đến đâu hay đến đó.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尽力 nghĩa là gì?",
+        "answer": "cố hết sức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我已经____了。",
+        "answer": "尽力"
+      },
+      {
+        "type": "synonym",
+        "prompt": "尽力 khác 尽量 ở điểm nào?",
+        "answer": "尽力 là làm hết sức mình, 尽 đọc jìn. 尽量 là trong mức có thể, 尽 đọc jǐn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_774",
+    "level": "HSK5",
+    "hanzi": "教训",
+    "pinyin": "jiàoxun",
+    "display_meaning_vi": "bài học",
+    "meaning_en": "a lesson; to teach a lesson",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吸取教训 / 一次教训",
+    "collocations": [
+      "吸取教训",
+      "一次教训",
+      "深刻教训"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次失败是一个教训。",
+        "pinyin": "Zhè cì shībài shì yí gè jiàoxun.",
+        "vi": "Lần thất bại này là một bài học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "教 đọc jiào. Dạy một việc cụ thể, như 教我, đọc jiāo. 训 đọc nhẹ xun. 一个 đọc yí gè."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 吸取教训 là rút bài học.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "教训 nghĩa là gì?",
+        "answer": "bài học"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次失败是一个____。",
+        "answer": "教训"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_775",
+    "level": "HSK5",
+    "hanzi": "汇率",
+    "pinyin": "huìlǜ",
+    "display_meaning_vi": "tỷ giá",
+    "meaning_en": "exchange rate",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "汇率变化 / 查看汇率",
+    "collocations": [
+      "汇率变化",
+      "查看汇率",
+      "汇率上升"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "出国前先看汇率。",
+        "pinyin": "Chūguó qián xiān kàn huìlǜ.",
+        "vi": "Trước khi ra nước ngoài hãy xem tỷ giá.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "率 trong 汇率 đọc lǜ, thanh 4 trên ü, không có e theo sau. Dẫn đầu đọc shuài, như 率领."
+    ],
+    "app_note_vi": "Danh từ. 查看汇率 là tra tỷ giá.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "汇率 nghĩa là gì?",
+        "answer": "tỷ giá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "出国前先看____。",
+        "answer": "汇率"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_776",
+    "level": "HSK5",
+    "hanzi": "开发",
+    "pinyin": "kāifā",
+    "display_meaning_vi": "khai thác",
+    "meaning_en": "to develop",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "开发软件 / 开发资源",
+    "collocations": [
+      "开发软件",
+      "开发资源",
+      "新开发"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们正在开发一个新程序。",
+        "pinyin": "Tāmen zhèngzài kāifā yí gè xīn chéngxù.",
+        "vi": "Họ đang làm một chương trình mới.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. Tóc đọc fà, như 头发. 一个 đọc yí gè."
+    ],
+    "app_note_vi": "Động từ. Dùng cho phần mềm, đất và sản phẩm mới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "开发 nghĩa là gì?",
+        "answer": "khai thác"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们正在____一个新程序。",
+        "answer": "开发"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_777",
+    "level": "HSK5",
+    "hanzi": "卡车",
+    "pinyin": "kǎchē",
+    "display_meaning_vi": "xe tải",
+    "meaning_en": "truck",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一辆卡车 / 开卡车",
+    "collocations": [
+      "一辆卡车",
+      "开卡车",
+      "卡车司机"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "门口停着一辆卡车。",
+        "pinyin": "Ménkǒu tíng zhe yí liàng kǎchē.",
+        "vi": "Trước cửa đỗ một xe tải.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "卡 đọc kǎ. Mắc kẹt đọc qiǎ, như 卡住. 一辆 đọc yí liàng vì 辆 là thanh 4. 着 đọc nhẹ."
+    ],
+    "app_note_vi": "Danh từ. 卡车司机 là tài xế xe tải.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "卡车 nghĩa là gì?",
+        "answer": "xe tải"
+      },
+      {
+        "type": "cloze",
+        "prompt": "门口停着一辆____。",
+        "answer": "卡车"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_778",
+    "level": "HSK5",
+    "hanzi": "看不起",
+    "pinyin": "kànbuqǐ",
+    "display_meaning_vi": "coi thường",
+    "meaning_en": "to look down on",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "看不起人 / 别看不起",
+    "collocations": [
+      "看不起人",
+      "别看不起",
+      "被人看不起"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不要看不起普通的工作。",
+        "pinyin": "Bú yào kànbuqǐ pǔtōng de gōngzuò.",
+        "vi": "Đừng coi thường công việc bình thường.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. Trông nom đọc kān, như 看门. 看不起里的 不 đọc nhẹ bu. 不要的 不 đọc bú vì 要 là thanh 4."
+    ],
+    "app_note_vi": "Cụm động từ. 被人看不起 là bị coi thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "看不起 nghĩa là gì?",
+        "answer": "coi thường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不要____普通的工作。",
+        "answer": "看不起"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_779",
+    "level": "HSK5",
+    "hanzi": "当代",
+    "pinyin": "dāngdài",
+    "display_meaning_vi": "đương đại",
+    "meaning_en": "contemporary",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "当代社会 / 当代文学",
+    "collocations": [
+      "当代社会",
+      "当代文学",
+      "当代青年"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "当代青年喜欢网上学习。",
+        "pinyin": "Dāngdài qīngnián xǐhuan wǎngshang xuéxí.",
+        "vi": "Thanh niên ngày nay thích học trên mạng.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "当 trong 当代 đọc dāng. Mắc lừa đọc dàng, như 上当. 喜欢 đọc xǐhuan, âm sau nhẹ. 网上的 上 đọc nhẹ."
+    ],
+    "app_note_vi": "Danh từ. Chỉ thời hiện nay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "当代 nghĩa là gì?",
+        "answer": "đương đại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____青年喜欢网上学习。",
+        "answer": "当代"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_780",
+    "level": "HSK5",
+    "hanzi": "华裔",
+    "pinyin": "Huáyì",
+    "display_meaning_vi": "người gốc Hoa",
+    "meaning_en": "person of Chinese descent",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "华裔作家 / 华裔学生",
+    "collocations": [
+      "华裔作家",
+      "华裔学生",
+      "一位华裔"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她是一位华裔作家。",
+        "pinyin": "Tā shì yí wèi Huáyì zuòjiā.",
+        "vi": "Cô ấy là một nhà văn gốc Hoa.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "华 trong 华裔 đọc Huá. Tên núi Hoa Sơn đọc Huà, như 华山. 一位 đọc yí wèi vì 位 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Người có gốc Trung Quốc sinh hoặc sống ở nước khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "华裔 nghĩa là gì?",
+        "answer": "người gốc Hoa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她是一位____作家。",
+        "answer": "华裔"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

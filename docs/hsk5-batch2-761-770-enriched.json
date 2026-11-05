@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_761",
+    "level": "HSK5",
+    "hanzi": "胡同",
+    "pinyin": "hútòng",
+    "display_meaning_vi": "ngõ",
+    "meaning_en": "alley; hutong",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "北京胡同 / 一条胡同",
+    "collocations": [
+      "北京胡同",
+      "一条胡同",
+      "胡同口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条胡同很安静。",
+        "pinyin": "Zhè tiáo hútòng hěn ānjìng.",
+        "vi": "Ngõ này rất yên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "同 trong 胡同 đọc tòng, không đọc tóng. 相同的 同 mới đọc tóng. 一条 đọc yì tiáo vì 条 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Ngõ nhỏ, hay gặp ở Bắc Kinh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胡同 nghĩa là gì?",
+        "answer": "ngõ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条____很安静。",
+        "answer": "胡同"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_762",
+    "level": "HSK5",
+    "hanzi": "房东",
+    "pinyin": "fángdōng",
+    "display_meaning_vi": "chủ nhà",
+    "meaning_en": "landlord",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "房东先生 / 找房东",
+    "collocations": [
+      "房东先生",
+      "找房东",
+      "房东电话"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "房东说明天来修水管。",
+        "pinyin": "Fángdōng shuō míngtiān lái xiū shuǐguǎn.",
+        "vi": "Chủ nhà nói ngày mai đến sửa ống nước.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "房东 là người cho thuê nhà. Người thuê là 房客."
+    ],
+    "app_note_vi": "Danh từ. 找房东 là tìm chủ nhà.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "房东 nghĩa là gì?",
+        "answer": "chủ nhà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____说明天来修水管。",
+        "answer": "房东"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_763",
+    "level": "HSK5",
+    "hanzi": "隔壁",
+    "pinyin": "gébì",
+    "display_meaning_vi": "bên cạnh",
+    "meaning_en": "next door",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "隔壁邻居 / 住在隔壁",
+    "collocations": [
+      "隔壁邻居",
+      "住在隔壁",
+      "隔壁班"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "隔壁邻居很热情。",
+        "pinyin": "Gébì línjū hěn rèqíng.",
+        "vi": "Hàng xóm bên cạnh rất nhiệt tình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "隔壁 là ngay sát, một bức tường hoặc một lớp. Xa hơn nói 附近."
+    ],
+    "app_note_vi": "Danh từ. 隔壁班 là lớp bên cạnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "隔壁 nghĩa là gì?",
+        "answer": "bên cạnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____邻居很热情。",
+        "answer": "隔壁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_764",
+    "level": "HSK5",
+    "hanzi": "广场",
+    "pinyin": "guǎngchǎng",
+    "display_meaning_vi": "quảng trường",
+    "meaning_en": "public square",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "广场上 / 中心广场",
+    "collocations": [
+      "人民广场",
+      "广场上",
+      "中心广场"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚上广场上有很多人。",
+        "pinyin": "Wǎnshang guǎngchǎng shang yǒu hěn duō rén.",
+        "vi": "Tối trên quảng trường có rất nhiều người.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "晚上 đọc wǎnshang. 上 ở 广场上 đọc nhẹ shang."
+    ],
+    "app_note_vi": "Danh từ. Khoảng đất rộng giữa phố.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "广场 nghĩa là gì?",
+        "answer": "quảng trường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚上____上有很多人。",
+        "answer": "广场"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_765",
+    "level": "HSK5",
+    "hanzi": "柜台",
+    "pinyin": "guìtái",
+    "display_meaning_vi": "quầy",
+    "meaning_en": "counter",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "服务柜台 / 在柜台",
+    "collocations": [
+      "服务柜台",
+      "柜台后面",
+      "在柜台"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请到柜台取票。",
+        "pinyin": "Qǐng dào guìtái qǔ piào.",
+        "vi": "Xin đến quầy lấy vé.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "柜台 là chỗ nhân viên đứng phục vụ. Không phải cái bàn ăn."
+    ],
+    "app_note_vi": "Danh từ. 服务柜台 là quầy dịch vụ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "柜台 nghĩa là gì?",
+        "answer": "quầy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请到____取票。",
+        "answer": "柜台"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_766",
+    "level": "HSK5",
+    "hanzi": "罐头",
+    "pinyin": "guàntou",
+    "display_meaning_vi": "đồ hộp",
+    "meaning_en": "canned food",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "开罐头 / 罐头食品",
+    "collocations": [
+      "鱼罐头",
+      "开罐头",
+      "罐头食品"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚饭有鱼罐头。",
+        "pinyin": "Wǎnfàn yǒu yú guàntou.",
+        "vi": "Bữa tối có cá hộp.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "头 đọc nhẹ tou: guàntou. Không phải cái đầu; cái đầu nói 头."
+    ],
+    "app_note_vi": "Danh từ. 开罐头 là mở hộp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "罐头 nghĩa là gì?",
+        "answer": "đồ hộp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚饭有鱼____。",
+        "answer": "罐头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_767",
+    "level": "HSK5",
+    "hanzi": "电池",
+    "pinyin": "diànchí",
+    "display_meaning_vi": "pin",
+    "meaning_en": "battery",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "换电池 / 电池没电",
+    "collocations": [
+      "换电池",
+      "电池没电",
+      "一节电池"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "遥控器该换电池了。",
+        "pinyin": "Yáokòngqì gāi huàn diànchí le.",
+        "vi": "Điều khiển nên thay pin rồi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "电池 là pin. Cục sạc là 充电器. 一节 đọc yì jié vì 节 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. 电池没电 là pin hết điện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "电池 nghĩa là gì?",
+        "answer": "pin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "遥控器该换____了。",
+        "answer": "电池"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_768",
+    "level": "HSK5",
+    "hanzi": "电台",
+    "pinyin": "diàntái",
+    "display_meaning_vi": "đài phát thanh",
+    "meaning_en": "radio station",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "广播电台 / 电台节目",
+    "collocations": [
+      "广播电台",
+      "收听电台",
+      "电台节目"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我常听这个电台的新闻。",
+        "pinyin": "Wǒ cháng tīng zhège diàntái de xīnwén.",
+        "vi": "Tôi thường nghe tin của đài này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "常 ở đây là chữ 常, đọc cháng, nghĩa là thường. Không phải chữ 长. 新闻 đọc xīnwén."
+    ],
+    "app_note_vi": "Danh từ. 广播电台 là đài phát thanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "电台 nghĩa là gì?",
+        "answer": "đài phát thanh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我常听这个____的新闻。",
+        "answer": "电台"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_769",
+    "level": "HSK5",
+    "hanzi": "肥皂",
+    "pinyin": "féizào",
+    "display_meaning_vi": "xà phòng",
+    "meaning_en": "soap",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "用肥皂 / 一块肥皂",
+    "collocations": [
+      "用肥皂",
+      "一块肥皂",
+      "肥皂泡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "洗手要用肥皂。",
+        "pinyin": "Xǐ shǒu yào yòng féizào.",
+        "vi": "Rửa tay thì dùng xà phòng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一块 đọc yí kuài vì 块 là thanh 4. Nước rửa tay lỏng thường nói 洗手液."
+    ],
+    "app_note_vi": "Danh từ. 肥皂泡 là bong bóng xà phòng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "肥皂 nghĩa là gì?",
+        "answer": "xà phòng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "洗手要用____。",
+        "answer": "肥皂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_770",
+    "level": "HSK5",
+    "hanzi": "夹子",
+    "pinyin": "jiāzi",
+    "display_meaning_vi": "cái kẹp",
+    "meaning_en": "clip",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个夹子 / 用夹子",
+    "collocations": [
+      "一个夹子",
+      "用夹子",
+      "文件夹子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "把试卷用夹子夹好。",
+        "pinyin": "Bǎ shìjuàn yòng jiāzi jiā hǎo.",
+        "vi": "Kẹp bài thi bằng cái kẹp.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "夹 trong 夹子 đọc jiā, là kẹp. Áo kép đọc jiá, như 夹袄. 子 đọc nhẹ. 试卷的 卷 đọc juàn."
+    ],
+    "app_note_vi": "Danh từ. 文件夹子 là kẹp hồ sơ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "夹子 nghĩa là gì?",
+        "answer": "cái kẹp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "把试卷用____夹好。",
+        "answer": "夹子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

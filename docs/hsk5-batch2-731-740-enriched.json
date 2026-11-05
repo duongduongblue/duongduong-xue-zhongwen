@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_731",
+    "level": "HSK5",
+    "hanzi": "分别",
+    "pinyin": "fēnbié",
+    "display_meaning_vi": "chia tay",
+    "meaning_en": "to part; respectively",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "跟朋友分别 / 分别处理",
+    "collocations": [
+      "跟朋友分别",
+      "分别处理",
+      "分别是"
+    ],
+    "near_synonyms": [
+      {
+        "word": "分开",
+        "difference_vi": "分别 là người chia tay, hoặc lần lượt từng cái; 分开 là tách vật ra."
+      }
+    ],
+    "app_synonym_note_vi": "分别 = chia tay hoặc lần lượt; 分开 = tách ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "毕业后我们在车站分别。",
+        "pinyin": "Bìyè hòu wǒmen zài chēzhàn fēnbié.",
+        "vi": "Sau tốt nghiệp chúng tôi chia tay ở ga.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "分 trong 分别 đọc fēn. Phần, quá mức đọc fèn, như 过分. 分别 còn có nghĩa lần lượt, như 分别处理."
+    ],
+    "app_note_vi": "Động từ. Hai nghĩa: chia tay và lần lượt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "分别 nghĩa là gì?",
+        "answer": "chia tay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "毕业后我们在车站____。",
+        "answer": "分别"
+      },
+      {
+        "type": "synonym",
+        "prompt": "分别 khác 分开 ở điểm nào?",
+        "answer": "分别 là người chia tay, hoặc lần lượt từng cái; 分开 là tách vật ra."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_732",
+    "level": "HSK5",
+    "hanzi": "分布",
+    "pinyin": "fēnbù",
+    "display_meaning_vi": "phân bố",
+    "meaning_en": "to be distributed",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "分布广泛 / 人口分布",
+    "collocations": [
+      "分布在",
+      "分布广泛",
+      "人口分布"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些店分布在全市。",
+        "pinyin": "Zhèxiē diàn fēnbù zài quán shì.",
+        "vi": "Các cửa hàng này nằm khắp thành phố.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "分 đọc fēn. 分布 là rải ở nhiều nơi, không phải chia cho từng người."
+    ],
+    "app_note_vi": "Động từ. 人口分布 là dân cư phân bố thế nào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "分布 nghĩa là gì?",
+        "answer": "phân bố"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些店____在全市。",
+        "answer": "分布"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_733",
+    "level": "HSK5",
+    "hanzi": "分配",
+    "pinyin": "fēnpèi",
+    "display_meaning_vi": "phân chia",
+    "meaning_en": "to assign; to distribute",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "分配任务 / 分配时间",
+    "collocations": [
+      "分配任务",
+      "分配时间",
+      "合理分配"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师把任务分配给各组。",
+        "pinyin": "Lǎoshī bǎ rènwu fēnpèi gěi gè zǔ.",
+        "vi": "Thầy chia việc cho từng nhóm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "分 đọc fēn. 任务 đọc rènwu, âm sau nhẹ. 分配 là chia cho người hoặc việc."
+    ],
+    "app_note_vi": "Động từ. 合理分配 là chia hợp lý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "分配 nghĩa là gì?",
+        "answer": "phân chia"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师把任务____给各组。",
+        "answer": "分配"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_734",
+    "level": "HSK5",
+    "hanzi": "纷纷",
+    "pinyin": "fēnfēn",
+    "display_meaning_vi": "nhao nhao",
+    "meaning_en": "one after another",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "纷纷报名 / 纷纷表示",
+    "collocations": [
+      "纷纷报名",
+      "纷纷表示",
+      "议论纷纷"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听到消息，大家纷纷报名。",
+        "pinyin": "Tīngdào xiāoxi, dàjiā fēnfēn bàomíng.",
+        "vi": "Nghe tin, mọi người đua nhau đăng ký.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "纷纷 viết bằng 纷, không phải 分. 消息 đọc xiāoxi, âm sau nhẹ."
+    ],
+    "app_note_vi": "Phó từ. Nhiều người làm cùng một lúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "纷纷 nghĩa là gì?",
+        "answer": "nhao nhao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听到消息，大家____报名。",
+        "answer": "纷纷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_735",
+    "level": "HSK5",
+    "hanzi": "过分",
+    "pinyin": "guòfèn",
+    "display_meaning_vi": "quá đáng",
+    "meaning_en": "excessive",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "太过分 / 过分担心",
+    "collocations": [
+      "太过分",
+      "过分担心",
+      "做得过分"
+    ],
+    "near_synonyms": [
+      {
+        "word": "过度",
+        "difference_vi": "过分 hay chê một cách cư xử; 过度 hay nói một mức vượt quá, như tập hay lo."
+      }
+    ],
+    "app_synonym_note_vi": "过分 = quá đáng; 过度 = quá mức.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个玩笑开得太过分了。",
+        "pinyin": "Zhège wánxiào kāi de tài guòfèn le.",
+        "vi": "Trò đùa này quá đáng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "分 trong 过分 đọc fèn, thanh 4. Chia, phân biệt đọc fēn, như 分别, 分配. 得 đọc nhẹ de."
+    ],
+    "app_note_vi": "Tính từ. 太过分 là quá mức chấp nhận được.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "过分 nghĩa là gì?",
+        "answer": "quá đáng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个玩笑开得太____了。",
+        "answer": "过分"
+      },
+      {
+        "type": "synonym",
+        "prompt": "过分 khác 过度 ở điểm nào?",
+        "answer": "过分 hay chê một cách cư xử; 过度 hay nói một mức vượt quá, như tập hay lo."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_736",
+    "level": "HSK5",
+    "hanzi": "奋斗",
+    "pinyin": "fèndòu",
+    "display_meaning_vi": "phấn đấu",
+    "meaning_en": "to strive",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "奋斗目标 / 共同奋斗",
+    "collocations": [
+      "奋斗目标",
+      "共同奋斗",
+      "艰苦奋斗"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们为这个目标奋斗了十年。",
+        "pinyin": "Tāmen wèi zhège mùbiāo fèndòu le shí nián.",
+        "vi": "Họ phấn đấu vì mục tiêu này mười năm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "斗 trong 奋斗 đọc dòu, là đấu tranh. Đấu đong đọc dǒu, như 北斗. 为 đọc wèi."
+    ],
+    "app_note_vi": "Động từ. 艰苦奋斗 là phấn đấu gian khổ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "奋斗 nghĩa là gì?",
+        "answer": "phấn đấu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们为这个目标____了十年。",
+        "answer": "奋斗"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_737",
+    "level": "HSK5",
+    "hanzi": "罚款",
+    "pinyin": "fákuǎn",
+    "display_meaning_vi": "phạt tiền",
+    "meaning_en": "a fine; to fine",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "交罚款 / 罚款通知",
+    "collocations": [
+      "交罚款",
+      "罚款通知",
+      "被罚款"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "乱停车会被罚款。",
+        "pinyin": "Luàn tíng chē huì bèi fákuǎn.",
+        "vi": "Đỗ xe bừa sẽ bị phạt tiền.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "罚款 là tiền phạt hoặc việc phạt. Không phải trả tiền mua hàng; mua hàng nói 付款."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 交罚款 là nộp tiền phạt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "罚款 nghĩa là gì?",
+        "answer": "phạt tiền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "乱停车会被____。",
+        "answer": "罚款"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_738",
+    "level": "HSK5",
+    "hanzi": "付款",
+    "pinyin": "fùkuǎn",
+    "display_meaning_vi": "trả tiền",
+    "meaning_en": "to pay",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "付款方式 / 网上付款",
+    "collocations": [
+      "付款方式",
+      "网上付款",
+      "付款成功"
+    ],
+    "near_synonyms": [
+      {
+        "word": "罚款",
+        "difference_vi": "付款 là trả tiền hàng hoặc dịch vụ; 罚款 là tiền phạt."
+      }
+    ],
+    "app_synonym_note_vi": "付款 = trả tiền; 罚款 = phạt tiền.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请用手机付款。",
+        "pinyin": "Qǐng yòng shǒujī fùkuǎn.",
+        "vi": "Xin trả bằng điện thoại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "付款 là người mua trả. Thu tiền nói 收款."
+    ],
+    "app_note_vi": "Động từ. 网上付款 là trả trên mạng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "付款 nghĩa là gì?",
+        "answer": "trả tiền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请用手机____。",
+        "answer": "付款"
+      },
+      {
+        "type": "synonym",
+        "prompt": "付款 khác 罚款 ở điểm nào?",
+        "answer": "付款 là trả tiền hàng hoặc dịch vụ; 罚款 là tiền phạt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_739",
+    "level": "HSK5",
+    "hanzi": "辅导",
+    "pinyin": "fǔdǎo",
+    "display_meaning_vi": "kèm cặp",
+    "meaning_en": "to tutor; to coach",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "辅导孩子 / 课后辅导",
+    "collocations": [
+      "辅导孩子",
+      "课后辅导",
+      "辅导班"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈晚上辅导我数学。",
+        "pinyin": "Māma wǎnshang fǔdǎo wǒ shùxué.",
+        "vi": "Tối mẹ kèm tôi môn toán.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "晚上 đọc wǎnshang, âm sau nhẹ. 辅导 là giúp người khác học hoặc làm."
+    ],
+    "app_note_vi": "Động từ. 辅导班 là lớp kèm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "辅导 nghĩa là gì?",
+        "answer": "kèm cặp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈晚上____我数学。",
+        "answer": "辅导"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_740",
+    "level": "HSK5",
+    "hanzi": "服从",
+    "pinyin": "fúcóng",
+    "display_meaning_vi": "tuân theo",
+    "meaning_en": "to obey",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "服从安排 / 服从命令",
+    "collocations": [
+      "服从安排",
+      "服从命令",
+      "服从指挥"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "队员要服从教练的安排。",
+        "pinyin": "Duìyuán yào fúcóng jiàoliàn de ānpái.",
+        "vi": "Cầu thủ phải theo sắp xếp của huấn luyện viên.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "服从 trang trọng hơn 听. Nghe một tin không nói 服从."
+    ],
+    "app_note_vi": "Động từ trang trọng. 服从命令 là tuân lệnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "服从 nghĩa là gì?",
+        "answer": "tuân theo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "队员要____教练的安排。",
+        "answer": "服从"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

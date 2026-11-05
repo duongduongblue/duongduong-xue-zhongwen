@@ -71,6 +71,12 @@ import enriched681To690 from '../../docs/hsk5-batch2-681-690-enriched.json';
 import enriched691To700 from '../../docs/hsk5-batch2-691-700-enriched.json';
 import enriched701To710 from '../../docs/hsk5-batch2-701-710-enriched.json';
 import enriched711To720 from '../../docs/hsk5-batch2-711-720-enriched.json';
+import enriched721To730 from '../../docs/hsk5-batch2-721-730-enriched.json';
+import enriched731To740 from '../../docs/hsk5-batch2-731-740-enriched.json';
+import enriched741To750 from '../../docs/hsk5-batch2-741-750-enriched.json';
+import enriched751To760 from '../../docs/hsk5-batch2-751-760-enriched.json';
+import enriched761To770 from '../../docs/hsk5-batch2-761-770-enriched.json';
+import enriched771To780 from '../../docs/hsk5-batch2-771-780-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -169,6 +175,12 @@ const sourceWords = [
   ...(enriched691To700 as EnrichedWord[]),
   ...(enriched701To710 as EnrichedWord[]),
   ...(enriched711To720 as EnrichedWord[]),
+  ...(enriched721To730 as EnrichedWord[]),
+  ...(enriched731To740 as EnrichedWord[]),
+  ...(enriched741To750 as EnrichedWord[]),
+  ...(enriched751To760 as EnrichedWord[]),
+  ...(enriched761To770 as EnrichedWord[]),
+  ...(enriched771To780 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -675,6 +687,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '72 · 长途',
     topic: '路程与转告 / Đường đi và nhắn lại',
     color: '#4A148C',
+  },
+  {
+    id: 'HSK5-F1-L73',
+    moduleId: 'hsk5-module-68',
+    title: '73 · 包含',
+    topic: '词语与连接 / Từ và cách nối',
+    color: '#0D47A1',
+  },
+  {
+    id: 'HSK5-F1-L74',
+    moduleId: 'hsk5-module-69',
+    title: '74 · 分别',
+    topic: '分配与分寸 / Phân chia và chừng mực',
+    color: '#E65100',
+  },
+  {
+    id: 'HSK5-F1-L75',
+    moduleId: 'hsk5-module-70',
+    title: '75 · 好奇',
+    topic: '态度与评价 / Thái độ và đánh giá',
+    color: '#33691E',
+  },
+  {
+    id: 'HSK5-F1-L76',
+    moduleId: 'hsk5-module-71',
+    title: '76 · 划船',
+    topic: '动作 / Động tác',
+    color: '#880E4F',
+  },
+  {
+    id: 'HSK5-F1-L77',
+    moduleId: 'hsk5-module-72',
+    title: '77 · 胡同',
+    topic: '街巷与用品 / Ngõ và đồ dùng',
+    color: '#3E2723',
+  },
+  {
+    id: 'HSK5-F1-L78',
+    moduleId: 'hsk5-module-73',
+    title: '78 · 结账',
+    topic: '账目与努力 / Tính tiền và nỗ lực',
+    color: '#01579B',
   },
 ];
 
