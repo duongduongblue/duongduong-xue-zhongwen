@@ -77,6 +77,12 @@ import enriched741To750 from '../../docs/hsk5-batch2-741-750-enriched.json';
 import enriched751To760 from '../../docs/hsk5-batch2-751-760-enriched.json';
 import enriched761To770 from '../../docs/hsk5-batch2-761-770-enriched.json';
 import enriched771To780 from '../../docs/hsk5-batch2-771-780-enriched.json';
+import enriched781To790 from '../../docs/hsk5-batch2-781-790-enriched.json';
+import enriched791To800 from '../../docs/hsk5-batch2-791-800-enriched.json';
+import enriched801To810 from '../../docs/hsk5-batch2-801-810-enriched.json';
+import enriched811To820 from '../../docs/hsk5-batch2-811-820-enriched.json';
+import enriched821To830 from '../../docs/hsk5-batch2-821-830-enriched.json';
+import enriched831To840 from '../../docs/hsk5-batch2-831-840-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -181,6 +187,12 @@ const sourceWords = [
   ...(enriched751To760 as EnrichedWord[]),
   ...(enriched761To770 as EnrichedWord[]),
   ...(enriched771To780 as EnrichedWord[]),
+  ...(enriched781To790 as EnrichedWord[]),
+  ...(enriched791To800 as EnrichedWord[]),
+  ...(enriched801To810 as EnrichedWord[]),
+  ...(enriched811To820 as EnrichedWord[]),
+  ...(enriched821To830 as EnrichedWord[]),
+  ...(enriched831To840 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -729,6 +741,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '78 · 结账',
     topic: '账目与努力 / Tính tiền và nỗ lực',
     color: '#01579B',
+  },
+  {
+    id: 'HSK5-F1-L79',
+    moduleId: 'hsk5-module-74',
+    title: '79 · 本领',
+    topic: '本领与性格 / Bản lĩnh và tính cách',
+    color: '#1A237E',
+  },
+  {
+    id: 'HSK5-F1-L80',
+    moduleId: 'hsk5-module-75',
+    title: '80 · 工厂',
+    topic: '工厂与劳动 / Nhà máy và lao động',
+    color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L81',
+    moduleId: 'hsk5-module-76',
+    title: '81 · 相处',
+    topic: '相处与读音 / Chung sống và cách đọc',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L82',
+    moduleId: 'hsk5-module-77',
+    title: '82 · 青少年',
+    topic: '青少年与家庭 / Thanh thiếu niên và gia đình',
+    color: '#C62828',
+  },
+  {
+    id: 'HSK5-F1-L83',
+    moduleId: 'hsk5-module-78',
+    title: '83 · 天空',
+    topic: '天空与食物 / Bầu trời và thức ăn',
+    color: '#546E7A',
+  },
+  {
+    id: 'HSK5-F1-L84',
+    moduleId: 'hsk5-module-79',
+    title: '84 · 下载',
+    topic: '下载与纪律 / Tải xuống và kỷ luật',
+    color: '#2E7D32',
   },
 ];
 

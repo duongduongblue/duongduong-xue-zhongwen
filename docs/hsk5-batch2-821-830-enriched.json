@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_821",
+    "level": "HSK5",
+    "hanzi": "天空",
+    "pinyin": "tiānkōng",
+    "display_meaning_vi": "bầu trời",
+    "meaning_en": "sky",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "蓝蓝的天空 / 天空中",
+    "collocations": [
+      "蓝蓝的天空",
+      "天空中",
+      "广阔的天空"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今天天空很蓝。",
+        "pinyin": "Jīntiān tiānkōng hěn lán.",
+        "vi": "Hôm nay bầu trời rất xanh.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "空 đọc kōng, là trống, trên trời. Rảnh đọc kòng, như 空闲."
+    ],
+    "app_note_vi": "Danh từ. Phía trên mặt đất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "天空 nghĩa là gì?",
+        "answer": "bầu trời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今天____很蓝。",
+        "answer": "天空"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_822",
+    "level": "HSK5",
+    "hanzi": "地震",
+    "pinyin": "dìzhèn",
+    "display_meaning_vi": "động đất",
+    "meaning_en": "earthquake",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "发生地震 / 小地震",
+    "collocations": [
+      "发生地震",
+      "地震以后",
+      "小地震"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "昨晚发生了小地震。",
+        "pinyin": "Zuówǎn fāshēng le xiǎo dìzhèn.",
+        "vi": "Tối qua có một trận động đất nhỏ.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. Nói ngắn, không mô tả thiệt hại."
+    ],
+    "app_note_vi": "Danh từ. Mặt đất rung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地震 nghĩa là gì?",
+        "answer": "động đất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "昨晚发生了小____。",
+        "answer": "地震"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_823",
+    "level": "HSK5",
+    "hanzi": "蝴蝶",
+    "pinyin": "húdié",
+    "display_meaning_vi": "bướm",
+    "meaning_en": "butterfly",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一只蝴蝶 / 花蝴蝶",
+    "collocations": [
+      "一只蝴蝶",
+      "花蝴蝶",
+      "蝴蝶结"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "花园里有一只蝴蝶。",
+        "pinyin": "Huāyuán lǐ yǒu yì zhī húdié.",
+        "vi": "Trong vườn có một con bướm.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "只 làm lượng từ con vật đọc zhī, thanh 1. Chỉ, mới đọc zhǐ. 一只 đọc yì zhī vì 只 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. 蝴蝶结 là nơ hình bướm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "蝴蝶 nghĩa là gì?",
+        "answer": "bướm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "花园里有一只____。",
+        "answer": "蝴蝶"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_824",
+    "level": "HSK5",
+    "hanzi": "花生",
+    "pinyin": "huāshēng",
+    "display_meaning_vi": "đậu phộng",
+    "meaning_en": "peanut",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "花生米 / 花生油",
+    "collocations": [
+      "花生米",
+      "花生油",
+      "一袋花生"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我喜欢吃花生。",
+        "pinyin": "Wǒ xǐhuan chī huāshēng.",
+        "vi": "Tôi thích ăn đậu phộng.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喜欢 đọc xǐhuan, âm sau nhẹ. 一袋 đọc yí dài vì 袋 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. 花生米 là lạc đã bóc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "花生 nghĩa là gì?",
+        "answer": "đậu phộng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我喜欢吃____。",
+        "answer": "花生"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_825",
+    "level": "HSK5",
+    "hanzi": "黄瓜",
+    "pinyin": "huángguā",
+    "display_meaning_vi": "dưa chuột",
+    "meaning_en": "cucumber",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一根黄瓜 / 凉拌黄瓜",
+    "collocations": [
+      "一根黄瓜",
+      "凉拌黄瓜",
+      "新鲜黄瓜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈切了一根黄瓜。",
+        "pinyin": "Māma qiē le yì gēn huángguā.",
+        "vi": "Mẹ thái một quả dưa chuột.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "切 đọc qiē, là cắt. Sát, mật thiết đọc qiè, như 密切. 一根 đọc yì gēn vì 根 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. 凉拌黄瓜 là dưa chuột trộn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "黄瓜 nghĩa là gì?",
+        "answer": "dưa chuột"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈切了一根____。",
+        "answer": "黄瓜"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_826",
+    "level": "HSK5",
+    "hanzi": "醋",
+    "pinyin": "cù",
+    "display_meaning_vi": "giấm",
+    "meaning_en": "vinegar",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一瓶醋 / 米醋",
+    "collocations": [
+      "一瓶醋",
+      "米醋",
+      "加点醋"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这盘菜要加点醋。",
+        "pinyin": "Zhè pán cài yào jiā diǎn cù.",
+        "vi": "Đĩa này cần thêm chút giấm.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一瓶 đọc yì píng vì 瓶 là thanh 2. 吃醋 còn là ghen, cách nói miệng."
+    ],
+    "app_note_vi": "Danh từ. Gia vị chua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "醋 nghĩa là gì?",
+        "answer": "giấm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这盘菜要加点____。",
+        "answer": "醋"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_827",
+    "level": "HSK5",
+    "hanzi": "油炸",
+    "pinyin": "yóuzhá",
+    "display_meaning_vi": "chiên ngập dầu",
+    "meaning_en": "deep-fried",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "油炸食品 / 油炸花生",
+    "collocations": [
+      "油炸食品",
+      "油炸花生",
+      "少吃油炸"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "油炸食品别吃太多。",
+        "pinyin": "Yóuzhá shípǐn bié chī tài duō.",
+        "vi": "Đồ chiên ngập dầu đừng ăn quá nhiều.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "炸 đọc zhá, là chiên. Nổ đọc zhà, như 炸弹. 少 đọc shǎo, là ít."
+    ],
+    "app_note_vi": "Động từ. Chiên trong nhiều dầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "油炸 nghĩa là gì?",
+        "answer": "chiên ngập dầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____食品别吃太多。",
+        "answer": "油炸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_828",
+    "level": "HSK5",
+    "hanzi": "品种",
+    "pinyin": "pǐnzhǒng",
+    "display_meaning_vi": "giống",
+    "meaning_en": "variety; breed",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "新品种 / 品种很多",
+    "collocations": [
+      "新品种",
+      "品种很多",
+      "作物品种"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个品种的苹果很甜。",
+        "pinyin": "Zhège pǐnzhǒng de píngguǒ hěn tián.",
+        "vi": "Giống táo này rất ngọt.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "种 đọc zhǒng, là loại. Trồng đọc zhòng, như 种树."
+    ],
+    "app_note_vi": "Danh từ. Một loại trong cùng một thứ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "品种 nghĩa là gì?",
+        "answer": "giống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____的苹果很甜。",
+        "answer": "品种"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_829",
+    "level": "HSK5",
+    "hanzi": "海鲜",
+    "pinyin": "hǎixiān",
+    "display_meaning_vi": "hải sản",
+    "meaning_en": "seafood",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "海鲜面 / 新鲜海鲜",
+    "collocations": [
+      "海鲜面",
+      "新鲜海鲜",
+      "一盘海鲜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚饭我们吃海鲜。",
+        "pinyin": "Wǎnfàn wǒmen chī hǎixiān.",
+        "vi": "Tối chúng tôi ăn hải sản.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "鲜 đọc xiān, là tươi. Nghĩa hiếm đọc xiǎn, ít gặp trong bài này. 一盘 đọc yì pán vì 盘 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Cá và hải sản tươi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "海鲜 nghĩa là gì?",
+        "answer": "hải sản"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚饭我们吃____。",
+        "answer": "海鲜"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_830",
+    "level": "HSK5",
+    "hanzi": "景色",
+    "pinyin": "jǐngsè",
+    "display_meaning_vi": "cảnh",
+    "meaning_en": "scenery",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "景色优美 / 自然景色",
+    "collocations": [
+      "景色优美",
+      "自然景色",
+      "景色好"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "山上的景色真美。",
+        "pinyin": "Shān shang de jǐngsè zhēn měi.",
+        "vi": "Cảnh trên núi đẹp thật.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "色 đọc sè. Phai màu đọc shǎi, như 掉色. 上 đọc nhẹ shang."
+    ],
+    "app_note_vi": "Danh từ. Quang cảnh nhìn thấy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "景色 nghĩa là gì?",
+        "answer": "cảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "山上的____真美。",
+        "answer": "景色"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

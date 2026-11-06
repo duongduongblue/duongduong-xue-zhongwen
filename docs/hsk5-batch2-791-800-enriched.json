@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_791",
+    "level": "HSK5",
+    "hanzi": "工厂",
+    "pinyin": "gōngchǎng",
+    "display_meaning_vi": "nhà máy",
+    "meaning_en": "factory",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一家工厂 / 工厂里",
+    "collocations": [
+      "一家工厂",
+      "工厂里",
+      "汽车工厂"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爸爸在工厂上班。",
+        "pinyin": "Bàba zài gōngchǎng shàngbān.",
+        "vi": "Bố làm ở nhà máy.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一家 đọc yì jiā vì 家 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. Nơi sản xuất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "工厂 nghĩa là gì?",
+        "answer": "nhà máy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爸爸在____上班。",
+        "answer": "工厂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_792",
+    "level": "HSK5",
+    "hanzi": "工人",
+    "pinyin": "gōngrén",
+    "display_meaning_vi": "công nhân",
+    "meaning_en": "worker",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "工人师傅 / 当工人",
+    "collocations": [
+      "工人师傅",
+      "青年工人",
+      "当工人"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他是一名工人。",
+        "pinyin": "Tā shì yì míng gōngrén.",
+        "vi": "Anh ấy là một công nhân.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一名 đọc yì míng vì 名 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Người làm trong nhà máy hoặc công trường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "工人 nghĩa là gì?",
+        "answer": "công nhân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他是一名____。",
+        "answer": "工人"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_793",
+    "level": "HSK5",
+    "hanzi": "工业",
+    "pinyin": "gōngyè",
+    "display_meaning_vi": "công nghiệp",
+    "meaning_en": "industry",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "工业区 / 工业产品",
+    "collocations": [
+      "工业区",
+      "工业产品",
+      "发展工业"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座城市的工业很发达。",
+        "pinyin": "Zhè zuò chéngshì de gōngyè hěn fādá.",
+        "vi": "Công nghiệp của thành phố này rất phát triển.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 trong 发达 đọc fā. Tóc đọc fà."
+    ],
+    "app_note_vi": "Danh từ. Ngành sản xuất lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "工业 nghĩa là gì?",
+        "answer": "công nghiệp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座城市的____很发达。",
+        "answer": "工业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_794",
+    "level": "HSK5",
+    "hanzi": "工程师",
+    "pinyin": "gōngchéngshī",
+    "display_meaning_vi": "kỹ sư",
+    "meaning_en": "engineer",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "软件工程师 / 当工程师",
+    "collocations": [
+      "软件工程师",
+      "一名工程师",
+      "当工程师"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她是软件工程师。",
+        "pinyin": "Tā shì ruǎnjiàn gōngchéngshī.",
+        "vi": "Cô ấy là kỹ sư phần mềm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "工程师 là nghề thiết kế và kỹ thuật, không phải mọi người trong nhà máy."
+    ],
+    "app_note_vi": "Danh từ. 当工程师 là làm kỹ sư.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "工程师 nghĩa là gì?",
+        "answer": "kỹ sư"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她是软件____。",
+        "answer": "工程师"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_795",
+    "level": "HSK5",
+    "hanzi": "改革",
+    "pinyin": "gǎigé",
+    "display_meaning_vi": "cải cách",
+    "meaning_en": "to reform",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "改革开放 / 教育改革",
+    "collocations": [
+      "改革开放",
+      "教育改革",
+      "进行改革"
+    ],
+    "near_synonyms": [
+      {
+        "word": "改进",
+        "difference_vi": "改革 là đổi cách tổ chức lớn; 改进 là làm một việc tốt hơn."
+      }
+    ],
+    "app_synonym_note_vi": "改革 = cải cách; 改进 = cải thiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校正在改革课程。",
+        "pinyin": "Xuéxiào zhèngzài gǎigé kèchéng.",
+        "vi": "Trường đang cải cách môn học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "改革 lớn hơn sửa một chi tiết."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "改革 nghĩa là gì?",
+        "answer": "cải cách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校正在____课程。",
+        "answer": "改革"
+      },
+      {
+        "type": "synonym",
+        "prompt": "改革 khác 改进 ở điểm nào?",
+        "answer": "改革 là đổi cách tổ chức lớn; 改进 là làm một việc tốt hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_796",
+    "level": "HSK5",
+    "hanzi": "改进",
+    "pinyin": "gǎijìn",
+    "display_meaning_vi": "cải thiện",
+    "meaning_en": "to improve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "改进方法 / 不断改进",
+    "collocations": [
+      "改进方法",
+      "不断改进",
+      "改进服务"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要改进服务。",
+        "pinyin": "Wǒmen yào gǎijìn fúwù.",
+        "vi": "Chúng tôi cần cải thiện dịch vụ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "改进 là làm cho tốt hơn cái đã có."
+    ],
+    "app_note_vi": "Động từ. 改进方法 là sửa cách làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "改进 nghĩa là gì?",
+        "answer": "cải thiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要____服务。",
+        "answer": "改进"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_797",
+    "level": "HSK5",
+    "hanzi": "劳动",
+    "pinyin": "láodòng",
+    "display_meaning_vi": "lao động",
+    "meaning_en": "labor; to work",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "劳动节 / 参加劳动",
+    "collocations": [
+      "劳动节",
+      "体力劳动",
+      "参加劳动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "劳动节我们休息一天。",
+        "pinyin": "Láodòngjié wǒmen xiūxi yì tiān.",
+        "vi": "Ngày Lao động chúng tôi nghỉ một ngày.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "休息 đọc xiūxi, âm sau nhẹ. 一天 đọc yì tiān vì 天 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 劳动节 là ngày 1 tháng 5.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "劳动 nghĩa là gì?",
+        "answer": "lao động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____节我们休息一天。",
+        "answer": "劳动"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_798",
+    "level": "HSK5",
+    "hanzi": "公布",
+    "pinyin": "gōngbù",
+    "display_meaning_vi": "công bố",
+    "meaning_en": "to announce",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "公布结果 / 公布名单",
+    "collocations": [
+      "公布结果",
+      "公布名单",
+      "向社会公布"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "成绩明天公布。",
+        "pinyin": "Chéngjì míngtiān gōngbù.",
+        "vi": "Điểm ngày mai sẽ được công bố.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "公布 là đưa ra cho mọi người biết, trang trọng hơn 告诉."
+    ],
+    "app_note_vi": "Động từ trang trọng. 公布名单 là công bố danh sách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "公布 nghĩa là gì?",
+        "answer": "công bố"
+      },
+      {
+        "type": "cloze",
+        "prompt": "成绩明天____。",
+        "answer": "公布"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_799",
+    "level": "HSK5",
+    "hanzi": "坦率",
+    "pinyin": "tǎnshuài",
+    "display_meaning_vi": "thẳng thắn",
+    "meaning_en": "frank",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "坦率地说 / 很坦率",
+    "collocations": [
+      "坦率地说",
+      "很坦率",
+      "为人坦率"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他坦率地说出了想法。",
+        "pinyin": "Tā tǎnshuài de shuō chū le xiǎngfǎ.",
+        "vi": "Anh ấy nói thẳng ý mình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "率 trong 坦率 đọc shuài, là thẳng, dẫn đầu. Tỷ lệ đọc lǜ, như 汇率. lǜ có dấu thanh trên ü, không có e theo sau. 地 đọc nhẹ de."
+    ],
+    "app_note_vi": "Tính từ. 坦率地说 là nói một cách thẳng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "坦率 nghĩa là gì?",
+        "answer": "thẳng thắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____地说出了想法。",
+        "answer": "坦率"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_800",
+    "level": "HSK5",
+    "hanzi": "数码",
+    "pinyin": "shùmǎ",
+    "display_meaning_vi": "kỹ thuật số",
+    "meaning_en": "digital",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "数码相机 / 数码产品",
+    "collocations": [
+      "数码相机",
+      "数码产品",
+      "数码时代"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这台数码相机很轻。",
+        "pinyin": "Zhè tái shùmǎ xiàngjī hěn qīng.",
+        "vi": "Máy ảnh số này rất nhẹ.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "数 trong 数码 đọc shù, là số. Đếm đọc shǔ, như 数一数. 相机的 相 đọc xiàng, là hình. Lẫn nhau đọc xiāng, như 互相."
+    ],
+    "app_note_vi": "Danh từ. Chỉ thiết bị dùng số.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "数码 nghĩa là gì?",
+        "answer": "kỹ thuật số"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这台____相机很轻。",
+        "answer": "数码"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

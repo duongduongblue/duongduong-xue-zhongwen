@@ -86,6 +86,12 @@ export const modules: Module[] = [
   { id: 'hsk5-module-71', levelId: 'HSK5', title: '动作', subtitle: 'Actions', order: 71 },
   { id: 'hsk5-module-72', levelId: 'HSK5', title: '街巷与用品', subtitle: 'Streets & Things', order: 72 },
   { id: 'hsk5-module-73', levelId: 'HSK5', title: '账目与努力', subtitle: 'Bills & Effort', order: 73 },
+  { id: 'hsk5-module-74', levelId: 'HSK5', title: '本领与性格', subtitle: 'Skill & Character', order: 74 },
+  { id: 'hsk5-module-75', levelId: 'HSK5', title: '工厂与劳动', subtitle: 'Factories & Labor', order: 75 },
+  { id: 'hsk5-module-76', levelId: 'HSK5', title: '相处与读音', subtitle: 'Getting Along & Readings', order: 76 },
+  { id: 'hsk5-module-77', levelId: 'HSK5', title: '青少年与家庭', subtitle: 'Youth & Family', order: 77 },
+  { id: 'hsk5-module-78', levelId: 'HSK5', title: '天空与食物', subtitle: 'Sky & Food', order: 78 },
+  { id: 'hsk5-module-79', levelId: 'HSK5', title: '下载与纪律', subtitle: 'Downloads & Discipline', order: 79 },
 ];
 
 export const hsk1LessonDefs = [

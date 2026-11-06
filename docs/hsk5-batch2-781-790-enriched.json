@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_781",
+    "level": "HSK5",
+    "hanzi": "本领",
+    "pinyin": "běnlǐng",
+    "display_meaning_vi": "bản lĩnh",
+    "meaning_en": "skill; ability",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有本领 / 学本领",
+    "collocations": [
+      "有本领",
+      "学本领",
+      "真本领"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她有一手好本领。",
+        "pinyin": "Tā yǒu yì shǒu hǎo běnlǐng.",
+        "vi": "Cô ấy có một tay nghề giỏi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一手 đọc yì shǒu vì 手 là thanh 3. 好 ở đây đọc hǎo, là tốt."
+    ],
+    "app_note_vi": "Danh từ. 学本领 là học một tài năng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "本领 nghĩa là gì?",
+        "answer": "bản lĩnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她有一手好____。",
+        "answer": "本领"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_782",
+    "level": "HSK5",
+    "hanzi": "个性",
+    "pinyin": "gèxìng",
+    "display_meaning_vi": "tính cách",
+    "meaning_en": "personality",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很有个性 / 个性强",
+    "collocations": [
+      "很有个性",
+      "个性强",
+      "个性不同"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他个性很强。",
+        "pinyin": "Tā gèxìng hěn qiáng.",
+        "vi": "Anh ấy có cá tính mạnh.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "强 ở đây đọc qiáng, là mạnh. Miễn cưỡng đọc qiǎng, như 勉强."
+    ],
+    "app_note_vi": "Danh từ. 很有个性 là có nét riêng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "个性 nghĩa là gì?",
+        "answer": "tính cách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____很强。",
+        "answer": "个性"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_783",
+    "level": "HSK5",
+    "hanzi": "各自",
+    "pinyin": "gèzì",
+    "display_meaning_vi": "mỗi người",
+    "meaning_en": "each; respective",
+    "part_of_speech": "pronoun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "各自准备 / 各自回家",
+    "collocations": [
+      "各自准备",
+      "各自回家",
+      "各自的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请各自准备发言。",
+        "pinyin": "Qǐng gèzì zhǔnbèi fāyán.",
+        "vi": "Xin mỗi người chuẩn bị phát biểu.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 trong 发言 đọc fā. Tóc đọc fà."
+    ],
+    "app_note_vi": "Đại từ. Chỉ từng người một, không phải cả nhóm chung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "各自 nghĩa là gì?",
+        "answer": "mỗi người"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____准备发言。",
+        "answer": "各自"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_784",
+    "level": "HSK5",
+    "hanzi": "单独",
+    "pinyin": "dāndú",
+    "display_meaning_vi": "một mình",
+    "meaning_en": "alone; separately",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "单独行动 / 单独见面",
+    "collocations": [
+      "单独行动",
+      "单独见面",
+      "单独生活"
+    ],
+    "near_synonyms": [
+      {
+        "word": "独自",
+        "difference_vi": "单独 nhấn mạnh không có người khác cùng làm; 独自 nhấn mạnh một mình."
+      }
+    ],
+    "app_synonym_note_vi": "单独 = riêng, một mình; 独自 = một mình.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我想单独跟你谈谈。",
+        "pinyin": "Wǒ xiǎng dāndú gēn nǐ tán tan.",
+        "vi": "Tôi muốn nói riêng với bạn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "谈谈 âm sau nhẹ tan."
+    ],
+    "app_note_vi": "Tính từ. Làm riêng, không kèm người khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "单独 nghĩa là gì?",
+        "answer": "một mình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我想____跟你谈谈。",
+        "answer": "单独"
+      },
+      {
+        "type": "synonym",
+        "prompt": "单独 khác 独自 ở điểm nào?",
+        "answer": "单独 nhấn mạnh không có người khác cùng làm; 独自 nhấn mạnh một mình."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_785",
+    "level": "HSK5",
+    "hanzi": "胆小鬼",
+    "pinyin": "dǎnxiǎoguǐ",
+    "display_meaning_vi": "người nhát",
+    "meaning_en": "coward",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "真是胆小鬼 / 别当胆小鬼",
+    "collocations": [
+      "真是胆小鬼",
+      "别当胆小鬼",
+      "小胆小鬼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别笑他是胆小鬼。",
+        "pinyin": "Bié xiào tā shì dǎnxiǎoguǐ.",
+        "vi": "Đừng cười anh ấy nhát.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "鬼 đọc guǐ. Cách nói miệng, hơi chọc. Khiêm tốn hơn nói 胆子小."
+    ],
+    "app_note_vi": "Danh từ khẩu ngữ. Chỉ người dễ sợ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胆小鬼 nghĩa là gì?",
+        "answer": "người nhát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别笑他是____。",
+        "answer": "胆小鬼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_786",
+    "level": "HSK5",
+    "hanzi": "良好",
+    "pinyin": "liánghǎo",
+    "display_meaning_vi": "tốt",
+    "meaning_en": "good; fine",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "成绩良好 / 良好习惯",
+    "collocations": [
+      "成绩良好",
+      "表现良好",
+      "良好习惯"
+    ],
+    "near_synonyms": [
+      {
+        "word": "好",
+        "difference_vi": "良好 trang trọng hơn, hay nói thói quen và kết quả; 好 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "良好 = tốt, trang trọng; 好 = tốt, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他的学习习惯很良好。",
+        "pinyin": "Tā de xuéxí xíguàn hěn liánghǎo.",
+        "vi": "Thói quen học của anh ấy rất tốt.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好 trong 良好 đọc hǎo, là tốt. Ham, thích đọc hào, như 好奇."
+    ],
+    "app_note_vi": "Tính từ trang trọng. Hay khen kết quả và thói quen.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "良好 nghĩa là gì?",
+        "answer": "tốt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他的学习习惯很____。",
+        "answer": "良好"
+      },
+      {
+        "type": "synonym",
+        "prompt": "良好 khác 好 ở điểm nào?",
+        "answer": "良好 trang trọng hơn, hay nói thói quen và kết quả; 好 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_787",
+    "level": "HSK5",
+    "hanzi": "老实",
+    "pinyin": "lǎoshi",
+    "display_meaning_vi": "thật thà",
+    "meaning_en": "honest; well-behaved",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "老老实实 / 老实说",
+    "collocations": [
+      "老老实实",
+      "老实说",
+      "为人老实"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他是一个老实人。",
+        "pinyin": "Tā shì yí gè lǎoshi rén.",
+        "vi": "Anh ấy là người thật thà.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "实 đọc nhẹ shi: lǎoshi. 一个 đọc yí gè vì 个 là thanh 4."
+    ],
+    "app_note_vi": "Tính từ. Thật thà, không gian.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "老实 nghĩa là gì?",
+        "answer": "thật thà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他是一个____人。",
+        "answer": "老实"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_788",
+    "level": "HSK5",
+    "hanzi": "乖",
+    "pinyin": "guāi",
+    "display_meaning_vi": "ngoan",
+    "meaning_en": "well-behaved",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "很乖 / 真乖",
+    "collocations": [
+      "很乖",
+      "乖乖",
+      "真乖"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "宝宝今天很乖。",
+        "pinyin": "Bǎobao jīntiān hěn guāi.",
+        "vi": "Bé hôm nay rất ngoan.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "宝宝 âm sau nhẹ bao. 乖 hay nói với trẻ."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. Ngoan, dễ bảo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "乖 nghĩa là gì?",
+        "answer": "ngoan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "宝宝今天很____。",
+        "answer": "乖"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_789",
+    "level": "HSK5",
+    "hanzi": "格外",
+    "pinyin": "géwài",
+    "display_meaning_vi": "đặc biệt",
+    "meaning_en": "especially",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "格外高兴 / 格外注意",
+    "collocations": [
+      "格外高兴",
+      "格外注意",
+      "格外冷"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今天的菜格外好吃。",
+        "pinyin": "Jīntiān de cài géwài hǎochī.",
+        "vi": "Món hôm nay ngon đặc biệt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好吃的 好 đọc hǎo. 格外 mạnh hơn 很 một chút, có ý hơn mức thường."
+    ],
+    "app_note_vi": "Phó từ. Hơn mức bình thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "格外 nghĩa là gì?",
+        "answer": "đặc biệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今天的菜____好吃。",
+        "answer": "格外"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_790",
+    "level": "HSK5",
+    "hanzi": "关怀",
+    "pinyin": "guānhuái",
+    "display_meaning_vi": "quan tâm",
+    "meaning_en": "care; solicitude",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "感谢关怀 / 深切关怀",
+    "collocations": [
+      "感谢关怀",
+      "深切关怀",
+      "关怀备至"
+    ],
+    "near_synonyms": [
+      {
+        "word": "关心",
+        "difference_vi": "关怀 trang trọng hơn, thường là người trên với người dưới; 关心 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "关怀 = quan tâm, trang trọng; 关心 = quan tâm, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "谢谢您的关怀。",
+        "pinyin": "Xièxie nín de guānhuái.",
+        "vi": "Cảm ơn sự quan tâm của ngài.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "谢谢 đọc xièxie, âm sau nhẹ."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "关怀 nghĩa là gì?",
+        "answer": "quan tâm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "谢谢您的____。",
+        "answer": "关怀"
+      },
+      {
+        "type": "synonym",
+        "prompt": "关怀 khác 关心 ở điểm nào?",
+        "answer": "关怀 trang trọng hơn, thường là người trên với người dưới; 关心 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

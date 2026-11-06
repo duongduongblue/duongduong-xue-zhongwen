@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_801",
+    "level": "HSK5",
+    "hanzi": "相处",
+    "pinyin": "xiāngchǔ",
+    "display_meaning_vi": "sống với nhau",
+    "meaning_en": "to get along",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "和睦相处 / 相处得很好",
+    "collocations": [
+      "和睦相处",
+      "相处得很好",
+      "难以相处"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "同学之间要好好相处。",
+        "pinyin": "Tóngxué zhī jiān yào hǎohāo xiāngchǔ.",
+        "vi": "Bạn học phải sống với nhau cho tốt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "相 đọc xiāng, là lẫn nhau. Tướng, ảnh đọc xiàng, như 相机. 处 đọc chǔ, là đối xử. Nơi chốn đọc chù, như 到处. 好好 đọc hǎohāo."
+    ],
+    "app_note_vi": "Động từ. 相处得很好 là ở với nhau rất ổn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "相处 nghĩa là gì?",
+        "answer": "sống với nhau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "同学之间要好好____。",
+        "answer": "相处"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_802",
+    "level": "HSK5",
+    "hanzi": "相对",
+    "pinyin": "xiāngduì",
+    "display_meaning_vi": "tương đối",
+    "meaning_en": "relative; relatively",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "相对而言 / 相对稳定",
+    "collocations": [
+      "相对而言",
+      "相对稳定",
+      "相对来说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里相对安静。",
+        "pinyin": "Zhèlǐ xiāngduì ānjìng.",
+        "vi": "Chỗ này tương đối yên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "相 đọc xiāng. 相对 là so với cái khác, không phải tuyệt đối."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 相对来说 là nói một cách tương đối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "相对 nghĩa là gì?",
+        "answer": "tương đối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里____安静。",
+        "answer": "相对"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_803",
+    "level": "HSK5",
+    "hanzi": "相似",
+    "pinyin": "xiāngsì",
+    "display_meaning_vi": "tương tự",
+    "meaning_en": "similar",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很相似 / 相似之处",
+    "collocations": [
+      "很相似",
+      "相似之处",
+      "大致相似"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这两张脸很相似。",
+        "pinyin": "Zhè liǎng zhāng liǎn hěn xiāngsì.",
+        "vi": "Hai khuôn mặt này rất giống.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "似 trong 相似 đọc sì. 似的 đọc shìde. 两 dùng trước lượng từ, không dùng 二."
+    ],
+    "app_note_vi": "Tính từ. Giống ở nhiều điểm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "相似 nghĩa là gì?",
+        "answer": "tương tự"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这两张脸很____。",
+        "answer": "相似"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_804",
+    "level": "HSK5",
+    "hanzi": "协调",
+    "pinyin": "xiétiáo",
+    "display_meaning_vi": "phối hợp",
+    "meaning_en": "to coordinate; harmonious",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "协调工作 / 互相协调",
+    "collocations": [
+      "协调工作",
+      "互相协调",
+      "色彩协调"
+    ],
+    "near_synonyms": [
+      {
+        "word": "配合",
+        "difference_vi": "协调 nhấn mạnh các bên khớp với nhau; 配合 là cùng làm cho ăn ý."
+      }
+    ],
+    "app_synonym_note_vi": "协调 = điều phối cho khớp; 配合 = phối hợp làm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "各部门要互相协调。",
+        "pinyin": "Gè bùmén yào hùxiāng xiétiáo.",
+        "vi": "Các bộ phận phải phối hợp với nhau.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "调 trong 协调 đọc tiáo, là điều chỉnh. Giọng hoặc điều đi đọc diào, như 声调, 强调."
+    ],
+    "app_note_vi": "Động từ. Làm cho các phần khớp nhau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "协调 nghĩa là gì?",
+        "answer": "phối hợp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "各部门要互相____。",
+        "answer": "协调"
+      },
+      {
+        "type": "synonym",
+        "prompt": "协调 khác 配合 ở điểm nào?",
+        "answer": "协调 nhấn mạnh các bên khớp với nhau; 配合 là cùng làm cho ăn ý."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_805",
+    "level": "HSK5",
+    "hanzi": "强调",
+    "pinyin": "qiángdiào",
+    "display_meaning_vi": "nhấn mạnh",
+    "meaning_en": "to emphasize",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "强调重点 / 再三强调",
+    "collocations": [
+      "强调重点",
+      "再三强调",
+      "特别强调"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师强调了发音。",
+        "pinyin": "Lǎoshī qiángdiào le fāyīn.",
+        "vi": "Thầy đã nhấn mạnh cách phát âm.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "调 đọc diào, không đọc tiáo. 强 đọc qiáng, là mạnh. Miễn cưỡng đọc qiǎng, như 勉强. 倔强 đọc jiàng. 发 đọc fā."
+    ],
+    "app_note_vi": "Động từ. Nói rõ phần quan trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "强调 nghĩa là gì?",
+        "answer": "nhấn mạnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____了发音。",
+        "answer": "强调"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_806",
+    "level": "HSK5",
+    "hanzi": "声调",
+    "pinyin": "shēngdiào",
+    "display_meaning_vi": "thanh điệu",
+    "meaning_en": "tone",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "四个声调 / 注意声调",
+    "collocations": [
+      "四个声调",
+      "声调不同",
+      "注意声调"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "汉语有四个声调。",
+        "pinyin": "Hànyǔ yǒu sì gè shēngdiào.",
+        "vi": "Tiếng Hán có bốn thanh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "调 đọc diào. Bốn thanh là 1, 2, 3, 4. Thanh nhẹ không tính vào bốn thanh này."
+    ],
+    "app_note_vi": "Danh từ. 注意声调 là chú ý thanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "声调 nghĩa là gì?",
+        "answer": "thanh điệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "汉语有四个____。",
+        "answer": "声调"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_807",
+    "level": "HSK5",
+    "hanzi": "应用",
+    "pinyin": "yìngyòng",
+    "display_meaning_vi": "ứng dụng",
+    "meaning_en": "to apply; application",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "应用软件 / 实际应用",
+    "collocations": [
+      "应用软件",
+      "广泛应用",
+      "实际应用"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个方法可以应用。",
+        "pinyin": "Zhège fāngfǎ kěyǐ yìngyòng.",
+        "vi": "Cách này có thể đem ra dùng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "应 đọc yìng, là ứng. Nên đọc yīng, như 应该."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Đem cái đã học vào việc thật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "应用 nghĩa là gì?",
+        "answer": "ứng dụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个方法可以____。",
+        "answer": "应用"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_808",
+    "level": "HSK5",
+    "hanzi": "应聘",
+    "pinyin": "yìngpìn",
+    "display_meaning_vi": "ứng tuyển",
+    "meaning_en": "to apply for a job",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "应聘职位 / 应聘成功",
+    "collocations": [
+      "应聘职位",
+      "前往应聘",
+      "应聘成功"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她去公司应聘了。",
+        "pinyin": "Tā qù gōngsī yìngpìn le.",
+        "vi": "Cô ấy đã đến công ty ứng tuyển.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "应 đọc yìng. 应聘 là xin một việc được đăng. Thuê người nói 招聘."
+    ],
+    "app_note_vi": "Động từ. 应聘成功 là xin được việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "应聘 nghĩa là gì?",
+        "answer": "ứng tuyển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她去公司____了。",
+        "answer": "应聘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_809",
+    "level": "HSK5",
+    "hanzi": "自觉",
+    "pinyin": "zìjué",
+    "display_meaning_vi": "tự giác",
+    "meaning_en": "conscientious; conscious",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自觉学习 / 很自觉",
+    "collocations": [
+      "自觉学习",
+      "提高自觉",
+      "很自觉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他自觉完成了作业。",
+        "pinyin": "Tā zìjué wánchéng le zuòyè.",
+        "vi": "Anh ấy tự giác làm xong bài.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "觉 trong 自觉 đọc jué. Ngủ đọc jiào, như 睡觉."
+    ],
+    "app_note_vi": "Tính từ. Tự làm mà không cần nhắc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自觉 nghĩa là gì?",
+        "answer": "tự giác"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____完成了作业。",
+        "answer": "自觉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_810",
+    "level": "HSK5",
+    "hanzi": "宿舍",
+    "pinyin": "sùshè",
+    "display_meaning_vi": "ký túc xá",
+    "meaning_en": "dormitory",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "学生宿舍 / 回宿舍",
+    "collocations": [
+      "学生宿舍",
+      "回宿舍",
+      "宿舍楼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我住在学校宿舍。",
+        "pinyin": "Wǒ zhù zài xuéxiào sùshè.",
+        "vi": "Tôi ở ký túc xá của trường.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "舍 trong 宿舍 đọc shè, là nhà. Không nỡ đọc shě, như 舍不得."
+    ],
+    "app_note_vi": "Danh từ. Chỗ ở của học viên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宿舍 nghĩa là gì?",
+        "answer": "ký túc xá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我住在学校____。",
+        "answer": "宿舍"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
