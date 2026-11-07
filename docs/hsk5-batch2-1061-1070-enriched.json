@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_1061",
+    "level": "HSK5",
+    "hanzi": "说服",
+    "pinyin": "shuōfú",
+    "display_meaning_vi": "thuyết phục",
+    "meaning_en": "to persuade",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "说服别人 / 被说服",
+    "collocations": [
+      "说服别人",
+      "被说服",
+      "试图说服"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他说服了大家。",
+        "pinyin": "Tā shuōfú le dàjiā.",
+        "vi": "Anh ấy đã thuyết phục mọi người.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "说 trong 说服 đọc shuō. Thuyết khách 说客 đọc shuì. Du thuyết 游说 đọc shuì."
+    ],
+    "app_note_vi": "Động từ. Làm người khác đồng ý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "说服 nghĩa là gì?",
+        "answer": "thuyết phục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____了大家。",
+        "answer": "说服"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1062",
+    "level": "HSK5",
+    "hanzi": "说不定",
+    "pinyin": "shuōbudìng",
+    "display_meaning_vi": "biết đâu",
+    "meaning_en": "perhaps; maybe",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "说不定会 / 说不定是",
+    "collocations": [
+      "说不定会",
+      "说不定是",
+      "也说不定"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "明天说不定会下雨。",
+        "pinyin": "Míngtiān shuōbudìng huì xià yǔ.",
+        "vi": "Ngày mai biết đâu sẽ mưa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不 đọc nhẹ bu: shuōbudìng. Không phải kết luận chắc."
+    ],
+    "app_note_vi": "Phó từ. Nói điều có thể xảy ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "说不定 nghĩa là gì?",
+        "answer": "biết đâu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "明天____会下雨。",
+        "answer": "说不定"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1063",
+    "level": "HSK5",
+    "hanzi": "实话",
+    "pinyin": "shíhuà",
+    "display_meaning_vi": "lời thật",
+    "meaning_en": "truthful words",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "说实话 / 一句实话",
+    "collocations": [
+      "说实话",
+      "一句实话",
+      "实话实说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请跟我说实话。",
+        "pinyin": "Qǐng gēn wǒ shuō shíhuà.",
+        "vi": "Xin nói thật với tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一句 đọc yí jù vì 句 là thanh 4. 实话是 lời đúng sự thật."
+    ],
+    "app_note_vi": "Danh từ. 说实话 là nói thật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "实话 nghĩa là gì?",
+        "answer": "lời thật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请跟我说____。",
+        "answer": "实话"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1064",
+    "level": "HSK5",
+    "hanzi": "何必",
+    "pinyin": "hébì",
+    "display_meaning_vi": "cần gì",
+    "meaning_en": "why bother",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "何必呢 / 何必这样",
+    "collocations": [
+      "何必呢",
+      "何必这样",
+      "又何必"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "何必为这点小事生气？",
+        "pinyin": "Hébì wèi zhè diǎn xiǎoshì shēngqì?",
+        "vi": "Cần gì giận vì chuyện nhỏ này?",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "为 đọc wèi, là vì. Làm đọc wéi."
+    ],
+    "app_note_vi": "Phó từ. Hỏi cho thấy việc ấy không đáng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "何必 nghĩa là gì?",
+        "answer": "cần gì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____为这点小事生气？",
+        "answer": "何必"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1065",
+    "level": "HSK5",
+    "hanzi": "何况",
+    "pinyin": "hékuàng",
+    "display_meaning_vi": "huống hồ",
+    "meaning_en": "let alone",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "更何况 / 何况是",
+    "collocations": [
+      "更何况",
+      "何况是",
+      "何况他"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "大人都难，何况孩子。",
+        "pinyin": "Dàren dōu nán, hékuàng háizi.",
+        "vi": "Người lớn còn khó, huống hồ trẻ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "难 đọc nán. 大人 đọc dàren, âm sau nhẹ. 何况 đẩy ý sang mức hơn."
+    ],
+    "app_note_vi": "Liên từ. Đứng đầu vế sau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "何况 nghĩa là gì?",
+        "answer": "huống hồ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "大人都难，____孩子。",
+        "answer": "何况"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1066",
+    "level": "HSK5",
+    "hanzi": "糊涂",
+    "pinyin": "hútu",
+    "display_meaning_vi": "hồ đồ",
+    "meaning_en": "muddled",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很糊涂 / 别糊涂",
+    "collocations": [
+      "很糊涂",
+      "别糊涂",
+      "糊涂账"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件事我弄糊涂了。",
+        "pinyin": "Zhè jiàn shì wǒ nòng hútu le.",
+        "vi": "Việc này tôi rối cả lên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "涂 đọc nhẹ tu: hútu. 糊涂 là không rõ việc, không phải cố ý."
+    ],
+    "app_note_vi": "Tính từ. 糊涂账 là sổ sách lộn xộn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "糊涂 nghĩa là gì?",
+        "answer": "hồ đồ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件事我弄____了。",
+        "answer": "糊涂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1067",
+    "level": "HSK5",
+    "hanzi": "谈判",
+    "pinyin": "tánpàn",
+    "display_meaning_vi": "đàm phán",
+    "meaning_en": "to negotiate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "进行谈判 / 贸易谈判",
+    "collocations": [
+      "进行谈判",
+      "贸易谈判",
+      "谈判成功"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "双方正在谈判。",
+        "pinyin": "Shuāngfāng zhèngzài tánpàn.",
+        "vi": "Hai bên đang đàm phán.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "谈判 là bàn để đi đến thỏa thuận. Cãi nhau nói 吵架."
+    ],
+    "app_note_vi": "Động từ. 谈判成功 là đàm phán thành.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "谈判 nghĩa là gì?",
+        "answer": "đàm phán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "双方正在____。",
+        "answer": "谈判"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1068",
+    "level": "HSK5",
+    "hanzi": "提问",
+    "pinyin": "tíwèn",
+    "display_meaning_vi": "đặt câu hỏi",
+    "meaning_en": "to ask a question",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "举手提问 / 欢迎提问",
+    "collocations": [
+      "举手提问",
+      "欢迎提问",
+      "回答提问"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请大家踊跃提问。",
+        "pinyin": "Qǐng dàjiā yǒngyuè tíwèn.",
+        "vi": "Xin mọi người mạnh dạn hỏi.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "跃 đọc yuè. 提问 là hỏi trong lớp hoặc cuộc họp."
+    ],
+    "app_note_vi": "Động từ. 回答提问 là trả lời câu hỏi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "提问 nghĩa là gì?",
+        "answer": "đặt câu hỏi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请大家踊跃____。",
+        "answer": "提问"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1069",
+    "level": "HSK5",
+    "hanzi": "题目",
+    "pinyin": "tímù",
+    "display_meaning_vi": "đề bài",
+    "meaning_en": "topic; question",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一道题目 / 考试题目",
+    "collocations": [
+      "一道题目",
+      "考试题目",
+      "题目很难"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这道题目不太难。",
+        "pinyin": "Zhè dào tímù bú tài nán.",
+        "vi": "Đề này không quá khó.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不太 đọc bú tài vì 太 là thanh 4. 题目 là đề bài hoặc chủ đề."
+    ],
+    "app_note_vi": "Danh từ. 一道题目 là một câu hỏi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "题目 nghĩa là gì?",
+        "answer": "đề bài"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这道____不太难。",
+        "answer": "题目"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1070",
+    "level": "HSK5",
+    "hanzi": "激烈",
+    "pinyin": "jīliè",
+    "display_meaning_vi": "gay gắt",
+    "meaning_en": "intense; fierce",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "激烈的比赛 / 讨论激烈",
+    "collocations": [
+      "激烈的比赛",
+      "讨论激烈",
+      "竞争激烈"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "比赛很激烈。",
+        "pinyin": "Bǐsài hěn jīliè.",
+        "vi": "Trận đấu rất gay.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "激烈 tả mức mạnh, như tranh luận hoặc thi đấu."
+    ],
+    "app_note_vi": "Tính từ. Không phải chậm rãi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "激烈 nghĩa là gì?",
+        "answer": "gay gắt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "比赛很____。",
+        "answer": "激烈"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

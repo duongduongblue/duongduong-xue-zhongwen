@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_1081",
+    "level": "HSK5",
+    "hanzi": "手续",
+    "pinyin": "shǒuxù",
+    "display_meaning_vi": "thủ tục",
+    "meaning_en": "procedure; formalities",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "办理手续 / 手续简单",
+    "collocations": [
+      "办理手续",
+      "手续简单",
+      "办完手续"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "办签证要办手续。",
+        "pinyin": "Bàn qiānzhèng yào bàn shǒuxù.",
+        "vi": "Làm thị thực thì phải làm thủ tục.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "手续 là các bước giấy tờ. Một bước nói 步骤."
+    ],
+    "app_note_vi": "Danh từ. 办理手续 là làm thủ tục.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "手续 nghĩa là gì?",
+        "answer": "thủ tục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "办签证要办____。",
+        "answer": "手续"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1082",
+    "level": "HSK5",
+    "hanzi": "收据",
+    "pinyin": "shōujù",
+    "display_meaning_vi": "biên lai",
+    "meaning_en": "receipt",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "开收据 / 一张收据",
+    "collocations": [
+      "开收据",
+      "一张收据",
+      "收据丢失"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请给我开一张收据。",
+        "pinyin": "Qǐng gěi wǒ kāi yì zhāng shōujù.",
+        "vi": "Xin viết cho tôi một biên lai.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "据 đọc jù. Túng thiếu 拮据 đọc jū. 一张 đọc yì zhāng vì 张 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. Giấy chứng nhận đã nhận tiền hoặc đồ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "收据 nghĩa là gì?",
+        "answer": "biên lai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请给我开一张____。",
+        "answer": "收据"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1083",
+    "level": "HSK5",
+    "hanzi": "输入",
+    "pinyin": "shūrù",
+    "display_meaning_vi": "nhập vào",
+    "meaning_en": "to input; to import",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "输入密码 / 输入法",
+    "collocations": [
+      "输入密码",
+      "输入法",
+      "重新输入"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请输入密码。",
+        "pinyin": "Qǐng shūrù mìmǎ.",
+        "vi": "Xin nhập mật khẩu.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "输入 là gõ vào máy hoặc đưa vào. Đưa ra nói 输出."
+    ],
+    "app_note_vi": "Động từ. 输入法 là bộ gõ chữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "输入 nghĩa là gì?",
+        "answer": "nhập vào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____密码。",
+        "answer": "输入"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1084",
+    "level": "HSK5",
+    "hanzi": "软件",
+    "pinyin": "ruǎnjiàn",
+    "display_meaning_vi": "phần mềm",
+    "meaning_en": "software",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "安装软件 / 软件公司",
+    "collocations": [
+      "安装软件",
+      "软件公司",
+      "下载软件"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个软件很好用。",
+        "pinyin": "Zhège ruǎnjiàn hěn hǎoyòng.",
+        "vi": "Phần mềm này rất dễ dùng.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好 đọc hǎo. 软件 là chương trình, không phải cái máy."
+    ],
+    "app_note_vi": "Danh từ. 安装软件 là cài phần mềm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "软件 nghĩa là gì?",
+        "answer": "phần mềm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____很好用。",
+        "answer": "软件"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1085",
+    "level": "HSK5",
+    "hanzi": "删除",
+    "pinyin": "shānchú",
+    "display_meaning_vi": "xóa",
+    "meaning_en": "to delete",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "删除文件 / 删除记录",
+    "collocations": [
+      "删除文件",
+      "删除记录",
+      "永久删除"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请删除这封邮件。",
+        "pinyin": "Qǐng shānchú zhè fēng yóujiàn.",
+        "vi": "Xin xóa email này.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "删除 là bỏ khỏi máy hoặc danh sách. Xé giấy nói 撕."
+    ],
+    "app_note_vi": "Động từ. 永久删除 là xóa hẳn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "删除 nghĩa là gì?",
+        "answer": "xóa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____这封邮件。",
+        "answer": "删除"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1086",
+    "level": "HSK5",
+    "hanzi": "鼠标",
+    "pinyin": "shǔbiāo",
+    "display_meaning_vi": "chuột máy",
+    "meaning_en": "mouse",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "移动鼠标 / 鼠标垫",
+    "collocations": [
+      "移动鼠标",
+      "鼠标垫",
+      "无线鼠标"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "鼠标放在右边。",
+        "pinyin": "Shǔbiāo fàng zài yòubian.",
+        "vi": "Chuột máy để bên phải.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "边 đọc nhẹ bian. 鼠标 là thiết bị điều khiển con trỏ."
+    ],
+    "app_note_vi": "Danh từ. 鼠标垫 là tấm lót chuột.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鼠标 nghĩa là gì?",
+        "answer": "chuột máy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____放在右边。",
+        "answer": "鼠标"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1087",
+    "level": "HSK5",
+    "hanzi": "零件",
+    "pinyin": "língjiàn",
+    "display_meaning_vi": "linh kiện",
+    "meaning_en": "part; component",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个零件 / 换零件",
+    "collocations": [
+      "一个零件",
+      "换零件",
+      "机器零件"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个零件坏了。",
+        "pinyin": "Zhège língjiàn huài le.",
+        "vi": "Linh kiện này hỏng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè. 零件 là bộ phận nhỏ của máy."
+    ],
+    "app_note_vi": "Danh từ. 换零件 là thay linh kiện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "零件 nghĩa là gì?",
+        "answer": "linh kiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____坏了。",
+        "answer": "零件"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1088",
+    "level": "HSK5",
+    "hanzi": "零钱",
+    "pinyin": "língqián",
+    "display_meaning_vi": "tiền lẻ",
+    "meaning_en": "small change",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "换零钱 / 没有零钱",
+    "collocations": [
+      "换零钱",
+      "没有零钱",
+      "零钱不够"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我没有零钱。",
+        "pinyin": "Wǒ méiyǒu língqián.",
+        "vi": "Tôi không có tiền lẻ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不够 đọc bú gòu vì 够 là thanh 4. 零钱 là tiền mệnh giá nhỏ."
+    ],
+    "app_note_vi": "Danh từ. 换零钱 là đổi tiền lẻ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "零钱 nghĩa là gì?",
+        "answer": "tiền lẻ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我没有____。",
+        "answer": "零钱"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1089",
+    "level": "HSK5",
+    "hanzi": "轮流",
+    "pinyin": "lúnliú",
+    "display_meaning_vi": "luân phiên",
+    "meaning_en": "to take turns",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "轮流值日 / 轮流发言",
+    "collocations": [
+      "轮流值日",
+      "轮流发言",
+      "大家轮流"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们轮流值日。",
+        "pinyin": "Wǒmen lúnliú zhírì.",
+        "vi": "Chúng tôi luân phiên trực nhật.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "轮 đọc lún, thanh 2. 轮流 là lần lượt từng người."
+    ],
+    "app_note_vi": "Động từ. 轮流发言 là lần lượt phát biểu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "轮流 nghĩa là gì?",
+        "answer": "luân phiên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们____值日。",
+        "answer": "轮流"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1090",
+    "level": "HSK5",
+    "hanzi": "陆续",
+    "pinyin": "lùxù",
+    "display_meaning_vi": "lần lượt",
+    "meaning_en": "one after another",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "陆续到达 / 陆续回来",
+    "collocations": [
+      "陆续到达",
+      "陆续回来",
+      "陆续出现"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "客人陆续到了。",
+        "pinyin": "Kèren lùxù dào le.",
+        "vi": "Khách lần lượt đến.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "客人 đọc kèren, âm sau nhẹ. 陆续 là không cùng một lúc."
+    ],
+    "app_note_vi": "Phó từ. Đứng trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "陆续 nghĩa là gì?",
+        "answer": "lần lượt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "客人____到了。",
+        "answer": "陆续"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

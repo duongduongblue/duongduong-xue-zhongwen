@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_1041",
+    "level": "HSK5",
+    "hanzi": "地理",
+    "pinyin": "dìlǐ",
+    "display_meaning_vi": "địa lý",
+    "meaning_en": "geography",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "上地理课 / 自然地理",
+    "collocations": [
+      "上地理课",
+      "自然地理",
+      "地理知识"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们在上地理课。",
+        "pinyin": "Wǒmen zài shàng dìlǐ kè.",
+        "vi": "Chúng tôi đang học địa lý.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地 trong 地理 đọc dì, là đất. Trợ từ 的 và 地 đọc de."
+    ],
+    "app_note_vi": "Danh từ. Môn học về đất và vùng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地理 nghĩa là gì?",
+        "answer": "địa lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们在上____课。",
+        "answer": "地理"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1042",
+    "level": "HSK5",
+    "hanzi": "沙漠",
+    "pinyin": "shāmò",
+    "display_meaning_vi": "sa mạc",
+    "meaning_en": "desert",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一片沙漠 / 穿过沙漠",
+    "collocations": [
+      "一片沙漠",
+      "沙漠地区",
+      "穿过沙漠"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "沙漠里几乎没有水。",
+        "pinyin": "Shāmò lǐ jīhū méiyǒu shuǐ.",
+        "vi": "Trong sa mạc hầu như không có nước.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一片 đọc yí piàn vì 片 là thanh 4. 片 ở đây đọc piàn."
+    ],
+    "app_note_vi": "Danh từ. Vùng rất khô, nhiều cát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "沙漠 nghĩa là gì?",
+        "answer": "sa mạc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____里几乎没有水。",
+        "answer": "沙漠"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1043",
+    "level": "HSK5",
+    "hanzi": "沙滩",
+    "pinyin": "shātān",
+    "display_meaning_vi": "bãi cát",
+    "meaning_en": "beach",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "沙滩上 / 海边沙滩",
+    "collocations": [
+      "沙滩上",
+      "海边沙滩",
+      "一片沙滩"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子们在沙滩上玩。",
+        "pinyin": "Háizimen zài shātān shang wán.",
+        "vi": "Bọn trẻ chơi trên bãi cát.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "上 đọc nhẹ shang."
+    ],
+    "app_note_vi": "Danh từ. Bờ biển có cát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "沙滩 nghĩa là gì?",
+        "answer": "bãi cát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子们在____上玩。",
+        "answer": "沙滩"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1044",
+    "level": "HSK5",
+    "hanzi": "闪电",
+    "pinyin": "shǎndiàn",
+    "display_meaning_vi": "tia chớp",
+    "meaning_en": "lightning",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一道闪电 / 闪电过后",
+    "collocations": [
+      "一道闪电",
+      "闪电过后",
+      "打闪电"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一道闪电划过天空。",
+        "pinyin": "Yí dào shǎndiàn huá guò tiānkōng.",
+        "vi": "Một tia chớp lóe qua bầu trời.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一道 đọc yí dào vì 道 là thanh 4. 划过 đọc huá, là lướt. Kế hoạch đọc huà."
+    ],
+    "app_note_vi": "Danh từ. Ánh sáng của sấm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "闪电 nghĩa là gì?",
+        "answer": "tia chớp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一道____划过天空。",
+        "answer": "闪电"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1045",
+    "level": "HSK5",
+    "hanzi": "黄金",
+    "pinyin": "huángjīn",
+    "display_meaning_vi": "vàng",
+    "meaning_en": "gold",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "黄金价格 / 一块黄金",
+    "collocations": [
+      "黄金价格",
+      "一块黄金",
+      "黄金周"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "黄金价格上涨了。",
+        "pinyin": "Huángjīn jiàgé shàngzhǎng le.",
+        "vi": "Giá vàng đã tăng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "涨 đọc zhǎng, là tăng giá. Phồng, căng đọc zhàng. 一块 đọc yí kuài vì 块 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Kim loại quý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "黄金 nghĩa là gì?",
+        "answer": "vàng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____价格上涨了。",
+        "answer": "黄金"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1046",
+    "level": "HSK5",
+    "hanzi": "光滑",
+    "pinyin": "guānghuá",
+    "display_meaning_vi": "nhẵn",
+    "meaning_en": "smooth",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表面光滑 / 很光滑",
+    "collocations": [
+      "表面光滑",
+      "很光滑",
+      "光滑的石头"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这块石头很光滑。",
+        "pinyin": "Zhè kuài shítou hěn guānghuá.",
+        "vi": "Hòn đá này rất nhẵn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "头 đọc nhẹ tou: shítou."
+    ],
+    "app_note_vi": "Tính từ. Mặt không ráp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "光滑 nghĩa là gì?",
+        "answer": "nhẵn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这块石头很____。",
+        "answer": "光滑"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1047",
+    "level": "HSK5",
+    "hanzi": "光明",
+    "pinyin": "guāngmíng",
+    "display_meaning_vi": "sáng; tốt đẹp",
+    "meaning_en": "bright; promising",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "前途光明 / 光明正大",
+    "collocations": [
+      "光明的前途",
+      "前途光明",
+      "光明正大"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "前途是光明的。",
+        "pinyin": "Qiántú shì guāngmíng de.",
+        "vi": "Tương lai là sáng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "光明 vừa là có ánh sáng, vừa là hướng tốt."
+    ],
+    "app_note_vi": "Tính từ. 前途光明 là triển vọng tốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "光明 nghĩa là gì?",
+        "answer": "sáng; tốt đẹp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "前途是____的。",
+        "answer": "光明"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1048",
+    "level": "HSK5",
+    "hanzi": "广大",
+    "pinyin": "guǎngdà",
+    "display_meaning_vi": "đông đảo",
+    "meaning_en": "vast; the general public",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "广大读者 / 广大地区",
+    "collocations": [
+      "广大读者",
+      "广大地区",
+      "广大群众"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "广大读者喜欢这本书。",
+        "pinyin": "Guǎngdà dúzhě xǐhuan zhè běn shū.",
+        "vi": "Đông đảo bạn đọc thích cuốn sách này.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喜欢 đọc xǐhuan, âm sau nhẹ. 广大 chỉ số đông hoặc vùng rộng."
+    ],
+    "app_note_vi": "Tính từ. Hay đứng trước người hoặc vùng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "广大 nghĩa là gì?",
+        "answer": "đông đảo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____读者喜欢这本书。",
+        "answer": "广大"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1049",
+    "level": "HSK5",
+    "hanzi": "果实",
+    "pinyin": "guǒshí",
+    "display_meaning_vi": "quả; thành quả",
+    "meaning_en": "fruit; result",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "结出果实 / 果实成熟",
+    "collocations": [
+      "结出果实",
+      "果实成熟",
+      "丰硕果实"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "树上结出了果实。",
+        "pinyin": "Shù shàng jiē chū le guǒshí.",
+        "vi": "Trên cây đã ra quả.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结 trong 结出 đọc jiē, là ra quả. Kết thúc hoặc tính tiền đọc jié, như 结束, 结账."
+    ],
+    "app_note_vi": "Danh từ. Quả cây, cũng chỉ kết quả của công sức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "果实 nghĩa là gì?",
+        "answer": "quả; thành quả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "树上结出了____。",
+        "answer": "果实"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1050",
+    "level": "HSK5",
+    "hanzi": "梨",
+    "pinyin": "lí",
+    "display_meaning_vi": "lê",
+    "meaning_en": "pear",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个梨 / 梨树",
+    "collocations": [
+      "一个梨",
+      "梨树",
+      "削梨"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我吃了一个梨。",
+        "pinyin": "Wǒ chī le yí gè lí.",
+        "vi": "Tôi ăn một quả lê.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè vì 个 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Quả lê.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "梨 nghĩa là gì?",
+        "answer": "lê"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我吃了一个____。",
+        "answer": "梨"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

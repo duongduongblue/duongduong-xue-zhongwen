@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_1091",
+    "level": "HSK5",
+    "hanzi": "摄影",
+    "pinyin": "shèyǐng",
+    "display_meaning_vi": "nhiếp ảnh",
+    "meaning_en": "photography",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "喜欢摄影 / 摄影展",
+    "collocations": [
+      "喜欢摄影",
+      "摄影展",
+      "摄影比赛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他喜欢摄影。",
+        "pinyin": "Tā xǐhuan shèyǐng.",
+        "vi": "Anh ấy thích nhiếp ảnh.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喜欢 đọc xǐhuan, âm sau nhẹ. 摄影 là chụp ảnh như một sở thích hoặc nghề."
+    ],
+    "app_note_vi": "Danh từ. 摄影展 là triển lãm ảnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摄影 nghĩa là gì?",
+        "answer": "nhiếp ảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他喜欢____。",
+        "answer": "摄影"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1092",
+    "level": "HSK5",
+    "hanzi": "美术",
+    "pinyin": "měishù",
+    "display_meaning_vi": "mỹ thuật",
+    "meaning_en": "fine arts",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "美术课 / 美术馆",
+    "collocations": [
+      "美术课",
+      "学美术",
+      "美术馆"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在学美术。",
+        "pinyin": "Tā zài xué měishù.",
+        "vi": "Cô ấy đang học mỹ thuật.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "美术 gồm vẽ, thủ công và xem tranh. Không phải mọi môn học."
+    ],
+    "app_note_vi": "Danh từ. 美术馆 là bảo tàng mỹ thuật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "美术 nghĩa là gì?",
+        "answer": "mỹ thuật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在学____。",
+        "answer": "美术"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1093",
+    "level": "HSK5",
+    "hanzi": "解放",
+    "pinyin": "jiěfàng",
+    "display_meaning_vi": "giải phóng",
+    "meaning_en": "to liberate; liberation",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "解放思想 / 获得解放",
+    "collocations": [
+      "解放思想",
+      "获得解放",
+      "解放后"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座城市是那年解放的。",
+        "pinyin": "Zhè zuò chéngshì shì nà nián jiěfàng de.",
+        "vi": "Thành phố này được giải phóng năm ấy.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "解 đọc jiě. Họ Giải hoặc đưa tù đọc xiè. Áp giải đọc jiè, như 押解."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Thoát khỏi ràng buộc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "解放 nghĩa là gì?",
+        "answer": "giải phóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座城市是那年____的。",
+        "answer": "解放"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1094",
+    "level": "HSK5",
+    "hanzi": "活跃",
+    "pinyin": "huóyuè",
+    "display_meaning_vi": "sôi nổi",
+    "meaning_en": "active; lively",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "气氛活跃 / 很活跃",
+    "collocations": [
+      "气氛活跃",
+      "很活跃",
+      "活跃市场"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "课堂气氛很活跃。",
+        "pinyin": "Kètáng qìfēn hěn huóyuè.",
+        "vi": "Không khí lớp học rất sôi nổi.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "氛 đọc fēn, thanh 1. Không phải chữ 分. Chia đọc fēn, quá đáng đọc fèn."
+    ],
+    "app_note_vi": "Tính từ. Nhiều người tham gia, không trầm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "活跃 nghĩa là gì?",
+        "answer": "sôi nổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "课堂气氛很____。",
+        "answer": "活跃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1095",
+    "level": "HSK5",
+    "hanzi": "时髦",
+    "pinyin": "shímáo",
+    "display_meaning_vi": "hợp mốt",
+    "meaning_en": "fashionable",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很时髦 / 赶时髦",
+    "collocations": [
+      "很时髦",
+      "赶时髦",
+      "时髦的衣服"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件衣服很时髦。",
+        "pinyin": "Zhè jiàn yīfu hěn shímáo.",
+        "vi": "Áo này rất hợp mốt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "时髦 là đúng kiểu đang được ưa. Bền, chắc không nói 时髦."
+    ],
+    "app_note_vi": "Tính từ. 赶时髦 là chạy theo mốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "时髦 nghĩa là gì?",
+        "answer": "hợp mốt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件衣服很____。",
+        "answer": "时髦"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1096",
+    "level": "HSK5",
+    "hanzi": "丝绸",
+    "pinyin": "sīchóu",
+    "display_meaning_vi": "lụa",
+    "meaning_en": "silk",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "丝绸围巾 / 真丝绸",
+    "collocations": [
+      "丝绸围巾",
+      "真丝绸",
+      "丝绸之路"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条围巾是丝绸的。",
+        "pinyin": "Zhè tiáo wéijīn shì sīchóu de.",
+        "vi": "Khăn này làm bằng lụa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "条 là thanh 2. 丝绸 mềm và bóng."
+    ],
+    "app_note_vi": "Danh từ. Vải tơ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "丝绸 nghĩa là gì?",
+        "answer": "lụa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条围巾是____的。",
+        "answer": "丝绸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1097",
+    "level": "HSK5",
+    "hanzi": "寺庙",
+    "pinyin": "sìmiào",
+    "display_meaning_vi": "chùa",
+    "meaning_en": "temple",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一座寺庙 / 参观寺庙",
+    "collocations": [
+      "一座寺庙",
+      "参观寺庙",
+      "古老寺庙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "山上有一座寺庙。",
+        "pinyin": "Shān shàng yǒu yí zuò sìmiào.",
+        "vi": "Trên núi có một ngôi chùa.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一座 đọc yí zuò vì 座 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Nơi thờ tự.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "寺庙 nghĩa là gì?",
+        "answer": "chùa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "山上有一座____。",
+        "answer": "寺庙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1098",
+    "level": "HSK5",
+    "hanzi": "太极拳",
+    "pinyin": "tàijíquán",
+    "display_meaning_vi": "thái cực quyền",
+    "meaning_en": "tai chi",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打太极拳 / 学太极拳",
+    "collocations": [
+      "打太极拳",
+      "学太极拳",
+      "太极拳班"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爷爷每天打太极拳。",
+        "pinyin": "Yéye měi tiān dǎ tàijíquán.",
+        "vi": "Ông tập thái cực mỗi ngày.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "太极拳 là môn tập chậm, chú ý thở."
+    ],
+    "app_note_vi": "Danh từ. 打太极拳 là tập thái cực.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "太极拳 nghĩa là gì?",
+        "answer": "thái cực quyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爷爷每天打____。",
+        "answer": "太极拳"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1099",
+    "level": "HSK5",
+    "hanzi": "太太",
+    "pinyin": "tàitai",
+    "display_meaning_vi": "bà; vợ",
+    "meaning_en": "Mrs.; wife",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "王太太 / 他太太",
+    "collocations": [
+      "王太太",
+      "他太太",
+      "太太们"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "王太太来接孩子。",
+        "pinyin": "Wáng tàitai lái jiē háizi.",
+        "vi": "Bà Vương đến đón con.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "太 âm sau nhẹ: tàitai. Cách gọi vợ hoặc phụ nữ đã có gia đình, lịch sự."
+    ],
+    "app_note_vi": "Danh từ. Đứng sau họ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "太太 nghĩa là gì?",
+        "answer": "bà; vợ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "王____来接孩子。",
+        "answer": "太太"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1100",
+    "level": "HSK5",
+    "hanzi": "桃",
+    "pinyin": "táo",
+    "display_meaning_vi": "đào",
+    "meaning_en": "peach",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个桃 / 桃树",
+    "collocations": [
+      "一个桃",
+      "桃子",
+      "桃树"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夏天的桃子熟了。",
+        "pinyin": "Xiàtiān de táozi shú le.",
+        "vi": "Đào mùa hè đã chín.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi. 一个 đọc yí gè. 桃 là quả đào."
+    ],
+    "app_note_vi": "Danh từ. 桃子 là quả đào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "桃 nghĩa là gì?",
+        "answer": "đào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "夏天的____子熟了。",
+        "answer": "桃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

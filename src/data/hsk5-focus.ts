@@ -103,6 +103,12 @@ import enriched1001To1010 from '../../docs/hsk5-batch2-1001-1010-enriched.json';
 import enriched1011To1020 from '../../docs/hsk5-batch2-1011-1020-enriched.json';
 import enriched1021To1030 from '../../docs/hsk5-batch2-1021-1030-enriched.json';
 import enriched1031To1040 from '../../docs/hsk5-batch2-1031-1040-enriched.json';
+import enriched1041To1050 from '../../docs/hsk5-batch2-1041-1050-enriched.json';
+import enriched1051To1060 from '../../docs/hsk5-batch2-1051-1060-enriched.json';
+import enriched1061To1070 from '../../docs/hsk5-batch2-1061-1070-enriched.json';
+import enriched1071To1080 from '../../docs/hsk5-batch2-1071-1080-enriched.json';
+import enriched1081To1090 from '../../docs/hsk5-batch2-1081-1090-enriched.json';
+import enriched1091To1100 from '../../docs/hsk5-batch2-1091-1100-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -233,6 +239,12 @@ const sourceWords = [
   ...(enriched1011To1020 as EnrichedWord[]),
   ...(enriched1021To1030 as EnrichedWord[]),
   ...(enriched1031To1040 as EnrichedWord[]),
+  ...(enriched1041To1050 as EnrichedWord[]),
+  ...(enriched1051To1060 as EnrichedWord[]),
+  ...(enriched1061To1070 as EnrichedWord[]),
+  ...(enriched1071To1080 as EnrichedWord[]),
+  ...(enriched1081To1090 as EnrichedWord[]),
+  ...(enriched1091To1100 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -963,6 +975,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '104 · 平常',
     topic: '平常与规律 / Bình thường và quy luật',
     color: '#546E7A',
+  },
+  {
+    id: 'HSK5-F1-L105',
+    moduleId: 'hsk5-module-100',
+    title: '105 · 地理',
+    topic: '地理与风光 / Địa lý và phong cảnh',
+    color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L106',
+    moduleId: 'hsk5-module-101',
+    title: '106 · 日常',
+    topic: '日常与日期 / Hàng ngày và ngày tháng',
+    color: '#0D47A1',
+  },
+  {
+    id: 'HSK5-F1-L107',
+    moduleId: 'hsk5-module-102',
+    title: '107 · 说服',
+    topic: '说服与谈论 / Thuyết phục và bàn luận',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L108',
+    moduleId: 'hsk5-module-103',
+    title: '108 · 使劲儿',
+    topic: '使劲儿与动作 / Gắng sức và động tác',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L109',
+    moduleId: 'hsk5-module-104',
+    title: '109 · 手续',
+    topic: '手续与设备 / Thủ tục và thiết bị',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L110',
+    moduleId: 'hsk5-module-105',
+    title: '110 · 摄影',
+    topic: '摄影与生活 / Nhiếp ảnh và đời sống',
+    color: '#6A1B9A',
   },
 ];
 

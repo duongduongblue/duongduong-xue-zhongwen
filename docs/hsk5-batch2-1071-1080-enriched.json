@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_1071",
+    "level": "HSK5",
+    "hanzi": "使劲儿",
+    "pinyin": "shǐjìnr",
+    "display_meaning_vi": "dùng hết sức",
+    "meaning_en": "to exert all one's strength",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "使劲儿推 / 别使劲儿",
+    "collocations": [
+      "使劲儿推",
+      "别使劲儿",
+      "用力使劲儿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他使劲儿把门推开。",
+        "pinyin": "Tā shǐjìnr bǎ mén tuī kāi.",
+        "vi": "Anh ấy ráng sức đẩy cửa ra.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "劲 đọc jìn, là sức. Mạnh, đối thủ đọc jìng, như 强劲, 劲敌. 儿 đọc nhẹ, dính vào jìnr."
+    ],
+    "app_note_vi": "Cụm động từ khẩu ngữ. Có 儿 ở cuối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "使劲儿 nghĩa là gì?",
+        "answer": "dùng hết sức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____把门推开。",
+        "answer": "使劲儿"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1072",
+    "level": "HSK5",
+    "hanzi": "伸",
+    "pinyin": "shēn",
+    "display_meaning_vi": "duỗi",
+    "meaning_en": "to stretch",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "伸手 / 伸懒腰",
+    "collocations": [
+      "伸手",
+      "伸懒腰",
+      "伸出来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把手伸出来。",
+        "pinyin": "Qǐng bǎ shǒu shēn chūlai.",
+        "vi": "Xin đưa tay ra.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "出来 đọc chūlai, âm sau nhẹ."
+    ],
+    "app_note_vi": "Động từ. Đưa một bộ phận ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "伸 nghĩa là gì?",
+        "answer": "duỗi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把手____出来。",
+        "answer": "伸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1073",
+    "level": "HSK5",
+    "hanzi": "甩",
+    "pinyin": "shuǎi",
+    "display_meaning_vi": "vung",
+    "meaning_en": "to fling; to swing",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "甩手 / 甩开",
+    "collocations": [
+      "甩手",
+      "甩开",
+      "甩了一下"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他把水甩干。",
+        "pinyin": "Tā bǎ shuǐ shuǎi gān.",
+        "vi": "Anh ấy vẩy cho ráo nước.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "干 đọc gān, là khô. Làm việc đọc gàn, như 能干. 一下 đọc yíxià."
+    ],
+    "app_note_vi": "Động từ. Vung mạnh cho rời ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "甩 nghĩa là gì?",
+        "answer": "vung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他把水____干。",
+        "answer": "甩"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1074",
+    "level": "HSK5",
+    "hanzi": "洒",
+    "pinyin": "sǎ",
+    "display_meaning_vi": "làm đổ; rắc",
+    "meaning_en": "to spill; to sprinkle",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "洒水 / 洒了",
+    "collocations": [
+      "洒水",
+      "洒了",
+      "洒在地上"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他不小心把水洒了。",
+        "pinyin": "Tā bù xiǎoxīn bǎ shuǐ sǎ le.",
+        "vi": "Anh ấy sơ ý làm đổ nước.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "洒 đọc sǎ, chữ nước, là đổ hoặc rắc. Rải hạt viết 撒. 撒 buông đọc sā."
+    ],
+    "app_note_vi": "Động từ. Nước hoặc hạt rơi ra ngoài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "洒 nghĩa là gì?",
+        "answer": "làm đổ; rắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他不小心把水____了。",
+        "answer": "洒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1075",
+    "level": "HSK5",
+    "hanzi": "浇",
+    "pinyin": "jiāo",
+    "display_meaning_vi": "tưới",
+    "meaning_en": "to water",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "浇花 / 浇水",
+    "collocations": [
+      "浇花",
+      "浇水",
+      "浇了一遍"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈在浇花。",
+        "pinyin": "Māma zài jiāo huā.",
+        "vi": "Mẹ đang tưới hoa.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "浇 đọc jiāo, chữ nước, là tưới. Dạy viết 教: dạy một việc đọc jiāo, bài học đọc jiào."
+    ],
+    "app_note_vi": "Động từ. Đổ nước cho cây.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "浇 nghĩa là gì?",
+        "answer": "tưới"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈在____花。",
+        "answer": "浇"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1076",
+    "level": "HSK5",
+    "hanzi": "捡",
+    "pinyin": "jiǎn",
+    "display_meaning_vi": "nhặt",
+    "meaning_en": "to pick up",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "捡起来 / 捡垃圾",
+    "collocations": [
+      "捡起来",
+      "捡垃圾",
+      "捡到了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把纸捡起来。",
+        "pinyin": "Qǐng bǎ zhǐ jiǎn qǐlai.",
+        "vi": "Xin nhặt tờ giấy lên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "起来 đọc qǐlai, âm sau nhẹ."
+    ],
+    "app_note_vi": "Động từ. Nhặt vật rơi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "捡 nghĩa là gì?",
+        "answer": "nhặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把纸____起来。",
+        "answer": "捡"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1077",
+    "level": "HSK5",
+    "hanzi": "煎",
+    "pinyin": "jiān",
+    "display_meaning_vi": "rán",
+    "meaning_en": "to pan-fry",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "煎蛋 / 煎鱼",
+    "collocations": [
+      "煎蛋",
+      "煎鱼",
+      "油煎"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早饭煎了两个蛋。",
+        "pinyin": "Zǎofàn jiān le liǎng gè dàn.",
+        "vi": "Bữa sáng rán hai quả trứng.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "两个 dùng 两. 煎 là rán ít dầu. Chiên ngập dầu là 炸, đọc zhá."
+    ],
+    "app_note_vi": "Động từ. Rán trên chảo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "煎 nghĩa là gì?",
+        "answer": "rán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早饭____了两个蛋。",
+        "answer": "煎"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1078",
+    "level": "HSK5",
+    "hanzi": "剪刀",
+    "pinyin": "jiǎndāo",
+    "display_meaning_vi": "cái kéo",
+    "meaning_en": "scissors",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把剪刀 / 用剪刀",
+    "collocations": [
+      "一把剪刀",
+      "用剪刀",
+      "剪刀锋利"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "用剪刀剪开绳子。",
+        "pinyin": "Yòng jiǎndāo jiǎn kāi shéngzi.",
+        "vi": "Dùng kéo cắt dây.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi. 一把 đọc yì bǎ vì 把 là thanh 3."
+    ],
+    "app_note_vi": "Danh từ. Đồ cắt có hai lưỡi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "剪刀 nghĩa là gì?",
+        "answer": "cái kéo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "用____剪开绳子。",
+        "answer": "剪刀"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1079",
+    "level": "HSK5",
+    "hanzi": "手套",
+    "pinyin": "shǒutào",
+    "display_meaning_vi": "găng tay",
+    "meaning_en": "glove",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一副手套 / 戴手套",
+    "collocations": [
+      "一副手套",
+      "戴手套",
+      "棉手套"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "冬天要戴手套。",
+        "pinyin": "Dōngtiān yào dài shǒutào.",
+        "vi": "Mùa đông phải đeo găng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一副 đọc yí fù vì 副 là thanh 4. 戴 đọc dài."
+    ],
+    "app_note_vi": "Danh từ. Đồ mang ở tay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "手套 nghĩa là gì?",
+        "answer": "găng tay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "冬天要戴____。",
+        "answer": "手套"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1080",
+    "level": "HSK5",
+    "hanzi": "绳子",
+    "pinyin": "shéngzi",
+    "display_meaning_vi": "dây",
+    "meaning_en": "rope",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一根绳子 / 绳子断了",
+    "collocations": [
+      "一根绳子",
+      "绳子断了",
+      "解绳子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这根绳子很结实。",
+        "pinyin": "Zhè gēn shéngzi hěn jiēshi.",
+        "vi": "Sợi dây này rất chắc.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ. 结实 đọc jiēshi, âm sau nhẹ. Kết thúc đọc jié."
+    ],
+    "app_note_vi": "Danh từ. Dây buộc hoặc kéo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "绳子 nghĩa là gì?",
+        "answer": "dây"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这根____很结实。",
+        "answer": "绳子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
