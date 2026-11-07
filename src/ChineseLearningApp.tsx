@@ -551,7 +551,7 @@ export default function ChineseLearningApp() {
       <View style={styles.heroCard}>
         <Text style={styles.heroTitle}>DuongDuong 学中文</Text>
         <Text style={styles.heroDescription}>
-          HSK 1 available · HSK 5 focus prototype ready
+          HSK 1 available · HSK 4 and HSK 5 focus ready
         </Text>
         <View style={styles.heroActions}>
           <ActionButton label="开始学习 / Start Learning" onPress={() => setActiveTab('learn')} />

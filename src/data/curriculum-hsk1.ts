@@ -4,7 +4,7 @@ export const levels: Level[] = [
   { id: 'HSK1', displayName: 'HSK 1', available: true, description: 'Current content', targetWordCount: 300 },
   { id: 'HSK2', displayName: 'HSK 2', available: false, description: 'Planned', targetWordCount: 500 },
   { id: 'HSK3', displayName: 'HSK 3', available: false, description: 'Planned', targetWordCount: 1000 },
-  { id: 'HSK4', displayName: 'HSK 4', available: false, description: 'Planned', targetWordCount: 2000 },
+  { id: 'HSK4', displayName: 'HSK 4', available: true, description: 'HSK 2.0 level 4', targetWordCount: 600 },
   { id: 'HSK5', displayName: 'HSK 5', available: true, description: 'Prototype', targetWordCount: 3600 },
 ];
 
@@ -148,6 +148,12 @@ export const modules: Module[] = [
   { id: 'hsk5-module-133', levelId: 'HSK5', title: '透明与形容', subtitle: 'trong suốt & Description', order: 133 },
   { id: 'hsk5-module-134', levelId: 'HSK5', title: '严肃与形容', subtitle: 'nghiêm túc & Description', order: 134 },
   { id: 'hsk5-module-135', levelId: 'HSK5', title: '银与财物', subtitle: 'bạc & Money', order: 135 },
+  { id: 'hsk4-module-1', levelId: 'HSK4', title: '工作', subtitle: 'Work', order: 1 },
+  { id: 'hsk4-module-2', levelId: 'HSK4', title: '学习', subtitle: 'Study', order: 2 },
+  { id: 'hsk4-module-3', levelId: 'HSK4', title: '心情', subtitle: 'Feelings', order: 3 },
+  { id: 'hsk4-module-4', levelId: 'HSK4', title: '人物', subtitle: 'People', order: 4 },
+  { id: 'hsk4-module-5', levelId: 'HSK4', title: '生活', subtitle: 'Daily life', order: 5 },
+  { id: 'hsk4-module-6', levelId: 'HSK4', title: '出行', subtitle: 'Travel', order: 6 },
 ];
 
 export const hsk1LessonDefs = [
