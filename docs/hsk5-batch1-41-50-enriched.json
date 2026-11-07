@@ -299,7 +299,7 @@
     "exam_tags": ["reading", "cloze", "writing"],
     "register": "formal",
     "grammar_pattern": "此外，…… / 除此之外",
-    "collocations": ["此外", "除此之外", "此外还"],
+    "collocations": ["此外", "此外还", "此外还包括"],
     "near_synonyms": [
       {
         "word": "另外",

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1191",
+    "level": "HSK5",
+    "hanzi": "热心",
+    "pinyin": "rèxīn",
+    "display_meaning_vi": "nhiệt tình",
+    "meaning_en": "glad to help",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "热心人 / 热心帮助",
+    "collocations": [
+      "热心人",
+      "热心帮助",
+      "热心公益"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "热心 là nhiệt tình giúp; 热爱 là yêu một việc hoặc một lĩnh vực.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "邻居热心帮我们搬家。",
+        "pinyin": "Lín jū rè xīn bāng wǒ men bān jiā.",
+        "vi": "Hàng xóm nhiệt tình giúp chúng tôi chuyển nhà.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người sẵn sàng giúp. Khen tính cách, không phải không khí buổi tiệc."
+    ],
+    "app_note_vi": "Người sẵn sàng giúp. Khen tính cách, không phải không khí buổi tiệc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "热心 nghĩa là gì?",
+        "answer": "nhiệt tình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "邻居____帮我们搬家。",
+        "answer": "热心"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 热心?",
+        "answer": "热心 là nhiệt tình giúp; 热爱 là yêu một việc hoặc một lĩnh vực."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1192",
+    "level": "HSK5",
+    "hanzi": "善良",
+    "pinyin": "shànliáng",
+    "display_meaning_vi": "lương thiện",
+    "meaning_en": "good-hearted",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "心地善良 / 善良正直",
+    "collocations": [
+      "心地善良",
+      "善良正直",
+      "本性善良"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "邻居都说他很善良。",
+        "pinyin": "Lín jū dōu shuō tā hěn shàn liáng.",
+        "vi": "Hàng xóm đều nói anh ấy rất lương thiện.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khen lòng tốt, không hại người."
+    ],
+    "app_note_vi": "Khen lòng tốt, không hại người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "善良 nghĩa là gì?",
+        "answer": "lương thiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "邻居都说他很____。",
+        "answer": "善良"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1193",
+    "level": "HSK5",
+    "hanzi": "士兵",
+    "pinyin": "shìbīng",
+    "display_meaning_vi": "binh sĩ",
+    "meaning_en": "soldier",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一名士兵 / 普通士兵",
+    "collocations": [
+      "一名士兵",
+      "普通士兵",
+      "士兵们"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "年轻士兵正在边境巡逻。",
+        "pinyin": "Nián qīng shì bīng zhèng zài biān jìng xún luó.",
+        "vi": "Người lính trẻ đang tuần tra ở biên giới.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ người lính, hẹp hơn từ chỉ quân nhân nói chung."
+    ],
+    "app_note_vi": "Chỉ người lính, hẹp hơn từ chỉ quân nhân nói chung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "士兵 nghĩa là gì?",
+        "answer": "binh sĩ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "年轻____正在边境巡逻。",
+        "answer": "士兵"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1194",
+    "level": "HSK5",
+    "hanzi": "私人",
+    "pinyin": "sīrén",
+    "display_meaning_vi": "riêng tư",
+    "meaning_en": "private",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "私人空间 / 私人医生",
+    "collocations": [
+      "私人空间",
+      "私人医生",
+      "私人财产"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "私人 nhấn mạnh riêng tư; 个人 nhấn mạnh từng người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请尊重别人的私人空间。",
+        "pinyin": "Qǐng zūn zhòng bié rén de sī rén kōng jiān.",
+        "vi": "Hãy tôn trọng khoảng riêng của người khác.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "尊重的 重 đọc zhòng. Làm lại đọc chóng, như 重新, 重建."
+    ],
+    "app_note_vi": "Thuộc cá nhân, không muốn người ngoài động vào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "私人 nghĩa là gì?",
+        "answer": "riêng tư"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请尊重别人的____空间。",
+        "answer": "私人"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 私人?",
+        "answer": "私人 nhấn mạnh riêng tư; 个人 nhấn mạnh từng người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1195",
+    "level": "HSK5",
+    "hanzi": "天真",
+    "pinyin": "tiānzhēn",
+    "display_meaning_vi": "ngây thơ",
+    "meaning_en": "innocent",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "天真烂漫 / 天真无邪",
+    "collocations": [
+      "天真烂漫",
+      "天真无邪",
+      "太天真"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "天真 là ngây thơ; 幼稚 thường chê là non nớt.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小孩子的想法很天真。",
+        "pinyin": "Xiǎo hái zi de xiǎng fǎ hěn tiān zhēn.",
+        "vi": "Ý nghĩ của trẻ rất ngây thơ.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Có thể là lời khen trong sáng, hoặc chê là cả tin."
+    ],
+    "app_note_vi": "Có thể là lời khen trong sáng, hoặc chê là cả tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "天真 nghĩa là gì?",
+        "answer": "ngây thơ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小孩子的想法很____。",
+        "answer": "天真"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 天真?",
+        "answer": "天真 là ngây thơ; 幼稚 thường chê là non nớt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1196",
+    "level": "HSK5",
+    "hanzi": "团",
+    "pinyin": "tuán",
+    "display_meaning_vi": "đoàn; cục",
+    "meaning_en": "group; a round mass",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "旅游团 / 代表团",
+    "collocations": [
+      "旅游团",
+      "代表团",
+      "一团"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们跟团去了一趟云南。",
+        "pinyin": "Wǒ men gēn tuán qù le yí tàng yún nán.",
+        "vi": "Chúng tôi đi Vân Nam theo đoàn.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đoàn người đi cùng. Cũng đếm vật vo tròn."
+    ],
+    "app_note_vi": "Đoàn người đi cùng. Cũng đếm vật vo tròn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "团 nghĩa là gì?",
+        "answer": "đoàn; cục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们跟____去了一趟云南。",
+        "answer": "团"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1197",
+    "level": "HSK5",
+    "hanzi": "温柔",
+    "pinyin": "wēnróu",
+    "display_meaning_vi": "dịu dàng",
+    "meaning_en": "gentle",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "声音温柔 / 温柔体贴",
+    "collocations": [
+      "声音温柔",
+      "温柔体贴",
+      "温柔地"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "温柔 là dịu dàng; 温暖 là ấm áp.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她说话的声音很温柔。",
+        "pinyin": "Tā shuō huà de shēng yīn hěn wēn róu.",
+        "vi": "Giọng cô ấy nói rất dịu dàng.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tả tính cách hoặc giọng, thường là người."
+    ],
+    "app_note_vi": "Tả tính cách hoặc giọng, thường là người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "温柔 nghĩa là gì?",
+        "answer": "dịu dàng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她说话的声音很____。",
+        "answer": "温柔"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 温柔?",
+        "answer": "温柔 là dịu dàng; 温暖 là ấm áp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1198",
+    "level": "HSK5",
+    "hanzi": "小伙子",
+    "pinyin": "xiǎohuǒzi",
+    "display_meaning_vi": "chàng trai",
+    "meaning_en": "young man",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小伙子们 / 年轻小伙子",
+    "collocations": [
+      "小伙子们",
+      "年轻小伙子",
+      "一个小伙子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "那个小伙子主动把座位让了。",
+        "pinyin": "Nà ge xiǎo huǒ zi zhǔ dòng bǎ zuò wèi ràng le.",
+        "vi": "Chàng trai đó chủ động nhường chỗ ngồi.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cách gọi thân mật người nam trẻ."
+    ],
+    "app_note_vi": "Cách gọi thân mật người nam trẻ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "小伙子 nghĩa là gì?",
+        "answer": "chàng trai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "那个____主动把座位让了。",
+        "answer": "小伙子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1199",
+    "level": "HSK5",
+    "hanzi": "小气",
+    "pinyin": "xiǎoqì",
+    "display_meaning_vi": "keo kiệt",
+    "meaning_en": "stingy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小气鬼 / 很小气",
+    "collocations": [
+      "小气鬼",
+      "很小气",
+      "别小气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "小气 là keo; 节约 là tiết kiệm, mang nghĩa tốt.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "朋友聚会别那么小气。",
+        "pinyin": "Péng yǒu jù huì bié nà me xiǎo qì.",
+        "vi": "Họp bạn đừng keo thế.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chê người hẹp về tiền hoặc lòng. Tiết kiệm là lời khen."
+    ],
+    "app_note_vi": "Chê người hẹp về tiền hoặc lòng. Tiết kiệm là lời khen.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "小气 nghĩa là gì?",
+        "answer": "keo kiệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "朋友聚会别那么____。",
+        "answer": "小气"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 小气?",
+        "answer": "小气 là keo; 节约 là tiết kiệm, mang nghĩa tốt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1200",
+    "level": "HSK5",
+    "hanzi": "孝顺",
+    "pinyin": "xiàoshùn",
+    "display_meaning_vi": "hiếu thảo",
+    "meaning_en": "filial",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "孝顺父母 / 很孝顺",
+    "collocations": [
+      "孝顺父母",
+      "很孝顺",
+      "孝顺儿子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "常回家看看也是一种孝顺。",
+        "pinyin": "Cháng huí jiā kàn kàn yě shì yì zhǒng xiào shùn.",
+        "vi": "Thường về thăm nhà cũng là một cách có hiếu.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Quan tâm và hết lòng với cha mẹ."
+    ],
+    "app_note_vi": "Quan tâm và hết lòng với cha mẹ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "孝顺 nghĩa là gì?",
+        "answer": "hiếu thảo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "常回家看看也是一种____。",
+        "answer": "孝顺"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

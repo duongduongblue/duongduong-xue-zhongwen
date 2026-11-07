@@ -1,0 +1,577 @@
+[
+  {
+    "id": "hsk5_batch2_1381",
+    "level": "HSK5",
+    "hanzi": "严肃",
+    "pinyin": "yánsù",
+    "display_meaning_vi": "nghiêm túc",
+    "meaning_en": "serious",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表情严肃 / 严肃认真",
+    "collocations": [
+      "表情严肃",
+      "严肃认真",
+      "严肃处理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "严肃 là nghiêm, có phần căng; 严格 là yêu cầu khắt khe.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "谈到安全，老师的表情很严肃。",
+        "pinyin": "Tán dào ān quán lǎo shī de biǎo qíng hěn yán sù.",
+        "vi": "Nói đến an toàn, nét mặt thầy rất nghiêm.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vẻ mặt đứng đắn, hoặc cách xử lý không xuề xòa."
+    ],
+    "app_note_vi": "Vẻ mặt đứng đắn, hoặc cách xử lý không xuề xòa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "严肃 nghĩa là gì?",
+        "answer": "nghiêm túc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "谈到安全，老师的表情很____。",
+        "answer": "严肃"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 严肃?",
+        "answer": "严肃 là nghiêm, có phần căng; 严格 là yêu cầu khắt khe."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1382",
+    "level": "HSK5",
+    "hanzi": "样式",
+    "pinyin": "yàngshì",
+    "display_meaning_vi": "kiểu dáng",
+    "meaning_en": "style of a design",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "样式新颖 / 各种样式",
+    "collocations": [
+      "样式新颖",
+      "各种样式",
+      "新样式"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "样式 là kiểu dáng đồ; 方式 là cách làm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我更喜欢简单的样式。",
+        "pinyin": "Wǒ gèng xǐ huān jiǎn dān de yàng shì.",
+        "vi": "Tôi thích kiểu dáng đơn giản hơn.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kiểu thiết kế bên ngoài của đồ vật."
+    ],
+    "app_note_vi": "Kiểu thiết kế bên ngoài của đồ vật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "样式 nghĩa là gì?",
+        "answer": "kiểu dáng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我更喜欢简单的____。",
+        "answer": "样式"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 样式?",
+        "answer": "样式 là kiểu dáng đồ; 方式 là cách làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1383",
+    "level": "HSK5",
+    "hanzi": "用途",
+    "pinyin": "yòngtú",
+    "display_meaning_vi": "công dụng",
+    "meaning_en": "a use",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "用途广泛 / 多种用途",
+    "collocations": [
+      "用途广泛",
+      "多种用途",
+      "实际用途"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "用途 là công dụng, phạm vi dùng; 用处 là chỗ hữu ích, khẩu ngữ hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种工具用途很多。",
+        "pinyin": "Zhè zhǒng gōng jù yòng tú hěn duō.",
+        "vi": "Dụng cụ này có nhiều công dụng.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hay nói một đồ vật dùng được vào những việc gì."
+    ],
+    "app_note_vi": "Hay nói một đồ vật dùng được vào những việc gì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "用途 nghĩa là gì?",
+        "answer": "công dụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种工具____很多。",
+        "answer": "用途"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 用途?",
+        "answer": "用途 là công dụng, phạm vi dùng; 用处 là chỗ hữu ích, khẩu ngữ hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1384",
+    "level": "HSK5",
+    "hanzi": "优美",
+    "pinyin": "yōuměi",
+    "display_meaning_vi": "đẹp thanh thoát",
+    "meaning_en": "graceful",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "环境优美 / 姿态优美",
+    "collocations": [
+      "环境优美",
+      "姿态优美",
+      "风景优美"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "优美 tả vẻ đẹp thanh; 美丽 là đẹp nói chung; 优秀 là giỏi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "湖边的风景很优美。",
+        "pinyin": "Hú biān de fēng jǐng hěn yōu měi.",
+        "vi": "Phong cảnh bên hồ rất thanh và đẹp.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng cho cảnh, dáng hoặc lời văn đẹp một cách thanh."
+    ],
+    "app_note_vi": "Dùng cho cảnh, dáng hoặc lời văn đẹp một cách thanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "优美 nghĩa là gì?",
+        "answer": "đẹp thanh thoát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "湖边的风景很____。",
+        "answer": "优美"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 优美?",
+        "answer": "优美 tả vẻ đẹp thanh; 美丽 là đẹp nói chung; 优秀 là giỏi."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1385",
+    "level": "HSK5",
+    "hanzi": "有利",
+    "pinyin": "yǒulì",
+    "display_meaning_vi": "có lợi",
+    "meaning_en": "beneficial",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有利条件 / 有利于",
+    "collocations": [
+      "有利条件",
+      "有利于",
+      "有利地位"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "有利 là có lợi; 有力 là có sức, đừng viết lẫn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "合作对双方都有利。",
+        "pinyin": "Hé zuò duì shuāng fāng dōu yǒu lì.",
+        "vi": "Hợp tác có lợi cho cả hai phía.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nói một việc đem lại lợi cho ai hoặc cho việc gì."
+    ],
+    "app_note_vi": "Nói một việc đem lại lợi cho ai hoặc cho việc gì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "有利 nghĩa là gì?",
+        "answer": "có lợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "合作对双方都____。",
+        "answer": "有利"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 有利?",
+        "answer": "有利 là có lợi; 有力 là có sức, đừng viết lẫn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1386",
+    "level": "HSK5",
+    "hanzi": "至今",
+    "pinyin": "zhìjīn",
+    "display_meaning_vi": "đến nay",
+    "meaning_en": "until now",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "时至今日 / 至今未变",
+    "collocations": [
+      "时至今日",
+      "至今未变",
+      "至今记得"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "至今 là từ trước đến bây giờ; 直到 là cho đến một mốc, có thể ở tương lai.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "那封信至今没有回音。",
+        "pinyin": "Nà fēng xìn zhì jīn méi yǒu huí yīn.",
+        "vi": "Bức thư đó đến nay vẫn chưa có hồi âm.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Từ một lúc trước kéo dài tới bây giờ."
+    ],
+    "app_note_vi": "Từ một lúc trước kéo dài tới bây giờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "至今 nghĩa là gì?",
+        "answer": "đến nay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "那封信____没有回音。",
+        "answer": "至今"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 至今?",
+        "answer": "至今 là từ trước đến bây giờ; 直到 là cho đến một mốc, có thể ở tương lai."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1387",
+    "level": "HSK5",
+    "hanzi": "周到",
+    "pinyin": "zhōudào",
+    "display_meaning_vi": "chu đáo",
+    "meaning_en": "thoughtful",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "考虑周到 / 照顾周到",
+    "collocations": [
+      "考虑周到",
+      "照顾周到",
+      "想得周到"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "周到 là chu đáo trong cách lo liệu; 全面 là đủ mọi mặt, trung tính hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "酒店的服务非常周到。",
+        "pinyin": "Jiǔ diàn de fú wù fēi cháng zhōu dào.",
+        "vi": "Dịch vụ của khách sạn rất chu đáo.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghĩ và lo đủ các mặt, không để sơ suất."
+    ],
+    "app_note_vi": "Nghĩ và lo đủ các mặt, không để sơ suất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "周到 nghĩa là gì?",
+        "answer": "chu đáo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "酒店的服务非常____。",
+        "answer": "周到"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 周到?",
+        "answer": "周到 là chu đáo trong cách lo liệu; 全面 là đủ mọi mặt, trung tính hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1388",
+    "level": "HSK5",
+    "hanzi": "紫",
+    "pinyin": "zǐ",
+    "display_meaning_vi": "tím",
+    "meaning_en": "purple",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "紫砂壶 / 紫罗兰",
+    "collocations": [
+      "紫砂壶",
+      "紫罗兰",
+      "紫红色"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她选了一条紫色的裙子。",
+        "pinyin": "Tā xuǎn le yì tiáo zǐ sè de qún zi.",
+        "vi": "Cô ấy chọn một chiếc váy tím.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tên màu tím."
+    ],
+    "app_note_vi": "Tên màu tím.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "紫 nghĩa là gì?",
+        "answer": "tím"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她选了一条____色的裙子。",
+        "answer": "紫"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1389",
+    "level": "HSK5",
+    "hanzi": "总共",
+    "pinyin": "zǒnggòng",
+    "display_meaning_vi": "tổng cộng",
+    "meaning_en": "in total",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "总共有 / 总共花了",
+    "collocations": [
+      "总共有",
+      "总共花了",
+      "总共才"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "总共 và 一共 đều là tổng cộng; 总共 hay đứng trước số lượng cuối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些书总共只要五十块。",
+        "pinyin": "Zhè xiē shū zǒng gòng zhǐ yào wǔ shí kuài.",
+        "vi": "Mấy quyển sách này tính tổng chỉ năm mươi tệ.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nêu con số sau khi cộng hết."
+    ],
+    "app_note_vi": "Nêu con số sau khi cộng hết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "总共 nghĩa là gì?",
+        "answer": "tổng cộng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些书____只要五十块。",
+        "answer": "总共"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 总共?",
+        "answer": "总共 và 一共 đều là tổng cộng; 总共 hay đứng trước số lượng cuối."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1390",
+    "level": "HSK5",
+    "hanzi": "最初",
+    "pinyin": "zuìchū",
+    "display_meaning_vi": "lúc đầu",
+    "meaning_en": "at first",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "最初阶段 / 最初想法",
+    "collocations": [
+      "最初阶段",
+      "最初想法",
+      "最初目的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "最初 là thời điểm sớm nhất; 开始 còn là động từ, nghĩa là bắt đầu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "最初这里只是一个小村。",
+        "pinyin": "Zuì chū zhè lǐ zhǐ shì yí gè xiǎo cūn.",
+        "vi": "Ban đầu đây chỉ là một ngôi làng nhỏ.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thời điểm sớm nhất của một quá trình."
+    ],
+    "app_note_vi": "Thời điểm sớm nhất của một quá trình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "最初 nghĩa là gì?",
+        "answer": "lúc đầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____这里只是一个小村。",
+        "answer": "最初"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 最初?",
+        "answer": "最初 là thời điểm sớm nhất; 开始 còn là động từ, nghĩa là bắt đầu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

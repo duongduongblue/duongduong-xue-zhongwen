@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1201",
+    "level": "HSK5",
+    "hanzi": "虚心",
+    "pinyin": "xūxīn",
+    "display_meaning_vi": "cầu thị",
+    "meaning_en": "modest and willing to learn",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "虚心请教 / 虚心学习",
+    "collocations": [
+      "虚心请教",
+      "虚心学习",
+      "虚心接受"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "虚心 là chịu nghe để học; 谦虚 là khiêm tốn nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他虚心接受了大家的意见。",
+        "pinyin": "Tā xū xīn jiē shòu le dà jiā de yì jiàn.",
+        "vi": "Anh ấy cầu thị tiếp nhận ý kiến của mọi người.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Sẵn sàng nghe góp ý, không tự ái."
+    ],
+    "app_note_vi": "Sẵn sàng nghe góp ý, không tự ái.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "虚心 nghĩa là gì?",
+        "answer": "cầu thị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____接受了大家的意见。",
+        "answer": "虚心"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 虚心?",
+        "answer": "虚心 là chịu nghe để học; 谦虚 là khiêm tốn nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1202",
+    "level": "HSK5",
+    "hanzi": "一辈子",
+    "pinyin": "yíbèizi",
+    "display_meaning_vi": "cả đời",
+    "meaning_en": "a whole lifetime",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一辈子难忘 / 过一辈子",
+    "collocations": [
+      "一辈子难忘",
+      "过一辈子",
+      "一辈子的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他打算在这个城市住一辈子。",
+        "pinyin": "Tā dǎ suàn zài zhè ge chéng shì zhù yí bèi zi.",
+        "vi": "Anh ấy định ở thành phố này cả đời.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 辈 thanh 4 đọc yí. 子 đọc nhẹ zi."
+    ],
+    "app_note_vi": "Suốt một đời người, cách nói thân mật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "一辈子 nghĩa là gì?",
+        "answer": "cả đời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他打算在这个城市住____。",
+        "answer": "一辈子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1203",
+    "level": "HSK5",
+    "hanzi": "英俊",
+    "pinyin": "yīngjùn",
+    "display_meaning_vi": "đẹp trai",
+    "meaning_en": "handsome",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "英俊潇洒 / 相貌英俊",
+    "collocations": [
+      "英俊潇洒",
+      "相貌英俊",
+      "英俊少年"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "照片里的新郎很英俊。",
+        "pinyin": "Zhào piān lǐ de xīn láng hěn yīng jùn.",
+        "vi": "Chú rể trong ảnh rất đẹp trai.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khen vẻ ngoài của nam giới."
+    ],
+    "app_note_vi": "Khen vẻ ngoài của nam giới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "英俊 nghĩa là gì?",
+        "answer": "đẹp trai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "照片里的新郎很____。",
+        "answer": "英俊"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1204",
+    "level": "HSK5",
+    "hanzi": "迎接",
+    "pinyin": "yíngjiē",
+    "display_meaning_vi": "đón",
+    "meaning_en": "to go and welcome",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "迎接客人 / 迎接挑战",
+    "collocations": [
+      "迎接客人",
+      "迎接挑战",
+      "迎接新年"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "迎接 là đi đón; 欢迎 là hoan nghênh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "全家人到车站迎接他。",
+        "pinyin": "Quán jiā rén dào chē zhàn yíng jiē tā.",
+        "vi": "Cả nhà ra ga đón anh ấy.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đi đón người đến, hoặc sẵn sàng đón một việc mới."
+    ],
+    "app_note_vi": "Đi đón người đến, hoặc sẵn sàng đón một việc mới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "迎接 nghĩa là gì?",
+        "answer": "đón"
+      },
+      {
+        "type": "cloze",
+        "prompt": "全家人到车站____他。",
+        "answer": "迎接"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 迎接?",
+        "answer": "迎接 là đi đón; 欢迎 là hoan nghênh."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1205",
+    "level": "HSK5",
+    "hanzi": "主人",
+    "pinyin": "zhǔrén",
+    "display_meaning_vi": "chủ nhà",
+    "meaning_en": "the host",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "主人翁 / 主人公",
+    "collocations": [
+      "主人翁",
+      "主人公",
+      "主人家"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "主人把最好的房间留给客人。",
+        "pinyin": "Zhǔ rén bǎ zuì hǎo de fáng jiān liú gěi kè rén.",
+        "vi": "Chủ nhà dành phòng đẹp nhất cho khách.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người tiếp khách tại nhà, hoặc người sở hữu."
+    ],
+    "app_note_vi": "Người tiếp khách tại nhà, hoặc người sở hữu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "主人 nghĩa là gì?",
+        "answer": "chủ nhà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____把最好的房间留给客人。",
+        "answer": "主人"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1206",
+    "level": "HSK5",
+    "hanzi": "自私",
+    "pinyin": "zìsī",
+    "display_meaning_vi": "ích kỷ",
+    "meaning_en": "selfish",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自私自利 / 显得自私",
+    "collocations": [
+      "自私自利",
+      "显得自私",
+      "克服自私"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别太自私，也想想别人。",
+        "pinyin": "Bié tài zì sī yě xiǎng xiǎng bié rén.",
+        "vi": "Đừng ích kỷ quá, hãy nghĩ cho người khác nữa.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ nghĩ đến lợi của mình."
+    ],
+    "app_note_vi": "Chỉ nghĩ đến lợi của mình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自私 nghĩa là gì?",
+        "answer": "ích kỷ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别太____，也想想别人。",
+        "answer": "自私"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1207",
+    "level": "HSK5",
+    "hanzi": "组合",
+    "pinyin": "zǔhé",
+    "display_meaning_vi": "kết hợp",
+    "meaning_en": "a combination",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "重新组合 / 最佳组合",
+    "collocations": [
+      "重新组合",
+      "最佳组合",
+      "自由组合"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "组合 là ghép thành một nhóm; 组成 nhấn mạnh các phần tạo nên một thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这三个人组合得很默契。",
+        "pinyin": "Zhè sān gè rén zǔ hé dé hěn mò qì.",
+        "vi": "Ba người này phối hợp rất ăn ý.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ghép người hoặc vật thành một nhóm."
+    ],
+    "app_note_vi": "Ghép người hoặc vật thành một nhóm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "组合 nghĩa là gì?",
+        "answer": "kết hợp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这三个人____得很默契。",
+        "answer": "组合"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 组合?",
+        "answer": "组合 là ghép thành một nhóm; 组成 nhấn mạnh các phần tạo nên một thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1208",
+    "level": "HSK5",
+    "hanzi": "尊敬",
+    "pinyin": "zūnjìng",
+    "display_meaning_vi": "kính trọng",
+    "meaning_en": "to respect",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "尊敬师长 / 尊敬长辈",
+    "collocations": [
+      "尊敬师长",
+      "尊敬长辈",
+      "令人尊敬"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "尊敬 là kính trọng người; 尊重 rộng hơn, còn dùng cho ý kiến và quyền của người khác.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们应该尊敬老师。",
+        "pinyin": "Wǒ men yīng gāi zūn jìng lǎo shī.",
+        "vi": "Chúng ta nên kính trọng thầy cô.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kính trọng người, thường là thầy cô hoặc người lớn tuổi."
+    ],
+    "app_note_vi": "Kính trọng người, thường là thầy cô hoặc người lớn tuổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尊敬 nghĩa là gì?",
+        "answer": "kính trọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们应该____老师。",
+        "answer": "尊敬"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 尊敬?",
+        "answer": "尊敬 là kính trọng người; 尊重 rộng hơn, còn dùng cho ý kiến và quyền của người khác."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1209",
+    "level": "HSK5",
+    "hanzi": "盼望",
+    "pinyin": "pànwàng",
+    "display_meaning_vi": "mong ngóng",
+    "meaning_en": "to long for something",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "盼望已久 / 殷切盼望",
+    "collocations": [
+      "盼望已久",
+      "殷切盼望",
+      "盼望着"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "盼望 mang nỗi nhớ mong; 期待 trung tính hơn, hay dùng cho sự kiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "奶奶盼望我们回家。",
+        "pinyin": "Nǎi nǎi pàn wàng wǒ men huí jiā.",
+        "vi": "Bà mong chúng tôi về nhà.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mong có tình cảm, thường là người hoặc ngày mình chờ."
+    ],
+    "app_note_vi": "Mong có tình cảm, thường là người hoặc ngày mình chờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "盼望 nghĩa là gì?",
+        "answer": "mong ngóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "奶奶____我们回家。",
+        "answer": "盼望"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 盼望?",
+        "answer": "盼望 mang nỗi nhớ mong; 期待 trung tính hơn, hay dùng cho sự kiện."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1210",
+    "level": "HSK5",
+    "hanzi": "佩服",
+    "pinyin": "pèifú",
+    "display_meaning_vi": "khâm phục",
+    "meaning_en": "to feel real respect for someone",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "令人佩服 / 佩服不已",
+    "collocations": [
+      "令人佩服",
+      "佩服不已",
+      "非常佩服"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我很佩服她的耐心。",
+        "pinyin": "Wǒ hěn pèi fú tā de nài xīn.",
+        "vi": "Tôi rất khâm phục sự kiên nhẫn của cô ấy.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phục vì tài hoặc đức, không chỉ là thích."
+    ],
+    "app_note_vi": "Phục vì tài hoặc đức, không chỉ là thích.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "佩服 nghĩa là gì?",
+        "answer": "khâm phục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我很____她的耐心。",
+        "answer": "佩服"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

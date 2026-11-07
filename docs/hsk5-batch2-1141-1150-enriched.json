@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1141",
+    "level": "HSK5",
+    "hanzi": "修改",
+    "pinyin": "xiūgǎi",
+    "display_meaning_vi": "sửa lại",
+    "meaning_en": "to revise",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "修改文章 / 修改意见",
+    "collocations": [
+      "修改文章",
+      "修改意见",
+      "反复修改"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "修改 là sửa nội dung; 修理 là sửa đồ vật hỏng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "报告还要再修改两处。",
+        "pinyin": "Bào gào hái yào zài xiū gǎi liǎng chù.",
+        "vi": "Báo cáo còn phải sửa hai chỗ nữa.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Sửa nội dung cho tốt hơn, thường là bài viết hoặc kế hoạch."
+    ],
+    "app_note_vi": "Sửa nội dung cho tốt hơn, thường là bài viết hoặc kế hoạch.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "修改 nghĩa là gì?",
+        "answer": "sửa lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "报告还要再____两处。",
+        "answer": "修改"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 修改?",
+        "answer": "修改 là sửa nội dung; 修理 là sửa đồ vật hỏng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1142",
+    "level": "HSK5",
+    "hanzi": "学期",
+    "pinyin": "xuéqī",
+    "display_meaning_vi": "học kỳ",
+    "meaning_en": "school term",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "新学期 / 本学期",
+    "collocations": [
+      "新学期",
+      "本学期",
+      "学期末"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新学期从下周一开始。",
+        "pinyin": "Xīn xué qī cóng xià zhōu yì kāi shǐ.",
+        "vi": "Học kỳ mới bắt đầu từ thứ Hai tuần sau.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Một kỳ trong năm học, không phải cả năm."
+    ],
+    "app_note_vi": "Một kỳ trong năm học, không phải cả năm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "学期 nghĩa là gì?",
+        "answer": "học kỳ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新____从下周一开始。",
+        "answer": "学期"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1143",
+    "level": "HSK5",
+    "hanzi": "学术",
+    "pinyin": "xuéshù",
+    "display_meaning_vi": "học thuật",
+    "meaning_en": "academic",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "学术论文 / 学术会议",
+    "collocations": [
+      "学术论文",
+      "学术会议",
+      "学术研究"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他发表了一篇学术论文。",
+        "pinyin": "Tā fā biǎo le yì piān xué shù lùn wén.",
+        "vi": "Anh ấy công bố một bài luận học thuật.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thuộc nghiên cứu chuyên môn."
+    ],
+    "app_note_vi": "Thuộc nghiên cứu chuyên môn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "学术 nghĩa là gì?",
+        "answer": "học thuật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他发表了一篇____论文。",
+        "answer": "学术"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1144",
+    "level": "HSK5",
+    "hanzi": "学问",
+    "pinyin": "xuéwèn",
+    "display_meaning_vi": "học vấn",
+    "meaning_en": "learning",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有学问 / 做学问",
+    "collocations": [
+      "有学问",
+      "做学问",
+      "学问深"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "学问 là học vấn sâu; 知识 là kiến thức nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爷爷是个很有学问的人。",
+        "pinyin": "Yé yé shì gè hěn yǒu xué wèn de rén.",
+        "vi": "Ông là người rất có học vấn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tri thức sâu do học lâu, không chỉ bằng cấp."
+    ],
+    "app_note_vi": "Tri thức sâu do học lâu, không chỉ bằng cấp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "学问 nghĩa là gì?",
+        "answer": "học vấn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爷爷是个很有____的人。",
+        "answer": "学问"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 学问?",
+        "answer": "学问 là học vấn sâu; 知识 là kiến thức nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1145",
+    "level": "HSK5",
+    "hanzi": "乙",
+    "pinyin": "yǐ",
+    "display_meaning_vi": "hạng hai; bên B",
+    "meaning_en": "the second; party B",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "乙方 / 乙等",
+    "collocations": [
+      "乙方",
+      "乙等",
+      "甲乙丙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "合同上本公司是乙方。",
+        "pinyin": "Hé tong shàng běn gōng sī shì yǐ fāng.",
+        "vi": "Trên hợp đồng công ty chúng tôi là bên B.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thứ tự sau hạng nhất: hạng B, nhóm B, hoặc bên B."
+    ],
+    "app_note_vi": "Thứ tự sau hạng nhất: hạng B, nhóm B, hoặc bên B.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "乙 nghĩa là gì?",
+        "answer": "hạng hai; bên B"
+      },
+      {
+        "type": "cloze",
+        "prompt": "合同上本公司是____方。",
+        "answer": "乙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1146",
+    "level": "HSK5",
+    "hanzi": "幼儿园",
+    "pinyin": "yòuéryuán",
+    "display_meaning_vi": "trường mẫu giáo",
+    "meaning_en": "kindergarten",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "上幼儿园 / 幼儿园老师",
+    "collocations": [
+      "上幼儿园",
+      "幼儿园老师",
+      "私立幼儿园"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "弟弟每天去幼儿园。",
+        "pinyin": "Dì di měi tiān qù yòu ér yuán.",
+        "vi": "Em trai ngày nào cũng đi học mẫu giáo.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dành cho trẻ trước tiểu học, thường khoảng ba đến sáu tuổi."
+    ],
+    "app_note_vi": "Dành cho trẻ trước tiểu học, thường khoảng ba đến sáu tuổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "幼儿园 nghĩa là gì?",
+        "answer": "trường mẫu giáo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "弟弟每天去____。",
+        "answer": "幼儿园"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1147",
+    "level": "HSK5",
+    "hanzi": "运用",
+    "pinyin": "yùnyòng",
+    "display_meaning_vi": "vận dụng",
+    "meaning_en": "to apply",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "灵活运用 / 运用自如",
+    "collocations": [
+      "灵活运用",
+      "运用自如",
+      "实际运用"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "运用 là đem ra dùng cho linh hoạt; 使用 là sử dụng đồ hoặc công cụ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "工作中要运用新方法。",
+        "pinyin": "Gōng zuò zhōng yào yùn yòng xīn fāng fǎ.",
+        "vi": "Trong công việc phải vận dụng cách làm mới.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đem kiến thức hoặc cách làm ra dùng, trang trọng hơn 用."
+    ],
+    "app_note_vi": "Đem kiến thức hoặc cách làm ra dùng, trang trọng hơn 用.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "运用 nghĩa là gì?",
+        "answer": "vận dụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "工作中要____新方法。",
+        "answer": "运用"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 运用?",
+        "answer": "运用 là đem ra dùng cho linh hoạt; 使用 là sử dụng đồ hoặc công cụ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1148",
+    "level": "HSK5",
+    "hanzi": "哲学",
+    "pinyin": "zhéxué",
+    "display_meaning_vi": "triết học",
+    "meaning_en": "philosophy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "哲学家 / 哲学系",
+    "collocations": [
+      "哲学家",
+      "哲学系",
+      "人生哲学"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妹妹对哲学产生了兴趣。",
+        "pinyin": "Mèi mèi duì zhé xué chǎn shēng le xìng qù.",
+        "vi": "Em gái bắt đầu thấy thích triết học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Môn học hoặc cách nghĩ về các câu hỏi lớn của đời sống."
+    ],
+    "app_note_vi": "Môn học hoặc cách nghĩ về các câu hỏi lớn của đời sống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "哲学 nghĩa là gì?",
+        "answer": "triết học"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妹妹对____产生了兴趣。",
+        "answer": "哲学"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1149",
+    "level": "HSK5",
+    "hanzi": "逐步",
+    "pinyin": "zhúbù",
+    "display_meaning_vi": "từng bước",
+    "meaning_en": "step by step",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "逐步完善 / 逐步推进",
+    "collocations": [
+      "逐步完善",
+      "逐步推进",
+      "逐步实施"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "逐步 là từng bước có trình tự; 逐渐 là thay đổi từ từ, không nhấn từng bước.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子的汉语在逐步提高。",
+        "pinyin": "Hái zi de hàn yǔ zài zhú bù tí gāo.",
+        "vi": "Tiếng Trung của bé đang tiến bộ từng bước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tiến lên theo từng bước có thứ tự."
+    ],
+    "app_note_vi": "Tiến lên theo từng bước có thứ tự.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "逐步 nghĩa là gì?",
+        "answer": "từng bước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子的汉语在____提高。",
+        "answer": "逐步"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 逐步?",
+        "answer": "逐步 là từng bước có trình tự; 逐渐 là thay đổi từ từ, không nhấn từng bước."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1150",
+    "level": "HSK5",
+    "hanzi": "专心",
+    "pinyin": "zhuānxīn",
+    "display_meaning_vi": "tập trung",
+    "meaning_en": "focused",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "专心致志 / 专心听讲",
+    "collocations": [
+      "专心致志",
+      "专心听讲",
+      "专心工作"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "专心 là đang dồn tâm vào một việc; 关注 là chú ý theo dõi, chưa chắc đang làm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请专心把这页看完。",
+        "pinyin": "Qǐng zhuān xīn bǎ zhè yè kàn wán.",
+        "vi": "Hãy tập trung đọc hết trang này.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dồn sự chú ý vào một việc, không nghĩ sang chuyện khác."
+    ],
+    "app_note_vi": "Dồn sự chú ý vào một việc, không nghĩ sang chuyện khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "专心 nghĩa là gì?",
+        "answer": "tập trung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____把这页看完。",
+        "answer": "专心"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 专心?",
+        "answer": "专心 là đang dồn tâm vào một việc; 关注 là chú ý theo dõi, chưa chắc đang làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

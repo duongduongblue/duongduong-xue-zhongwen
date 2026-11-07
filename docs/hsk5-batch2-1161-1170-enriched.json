@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1161",
+    "level": "HSK5",
+    "hanzi": "设施",
+    "pinyin": "shèshī",
+    "display_meaning_vi": "cơ sở vật chất",
+    "meaning_en": "facilities people use",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "公共设施 / 基础设施",
+    "collocations": [
+      "公共设施",
+      "基础设施",
+      "设施齐全"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "设施 là tiện ích, công trình; 设备 là máy móc đem lắp vào.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小区的健身设施不错。",
+        "pinyin": "Xiǎo qū de jiàn shēn shè shī bú cuò.",
+        "vi": "Chỗ tập của khu nhà khá tốt.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Công trình, tiện ích như đường, công viên, nhà vệ sinh công cộng."
+    ],
+    "app_note_vi": "Công trình, tiện ích như đường, công viên, nhà vệ sinh công cộng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "设施 nghĩa là gì?",
+        "answer": "cơ sở vật chất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小区的健身____不错。",
+        "answer": "设施"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 设施?",
+        "answer": "设施 là tiện ích, công trình; 设备 là máy móc đem lắp vào."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1162",
+    "level": "HSK5",
+    "hanzi": "双方",
+    "pinyin": "shuāngfāng",
+    "display_meaning_vi": "hai bên",
+    "meaning_en": "both sides",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "双方同意 / 双方代表",
+    "collocations": [
+      "双方同意",
+      "双方代表",
+      "甲乙双方"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "双方都愿意再让一步。",
+        "pinyin": "Shuāng fāng dōu yuàn yì zài ràng yí bù.",
+        "vi": "Hai bên đều sẵn sàng nhường thêm một bước.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng trong thương lượng, hợp đồng hoặc tranh chấp."
+    ],
+    "app_note_vi": "Dùng trong thương lượng, hợp đồng hoặc tranh chấp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "双方 nghĩa là gì?",
+        "answer": "hai bên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____都愿意再让一步。",
+        "answer": "双方"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1163",
+    "level": "HSK5",
+    "hanzi": "提倡",
+    "pinyin": "tíchàng",
+    "display_meaning_vi": "đề xướng",
+    "meaning_en": "to advocate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "提倡节约 / 提倡阅读",
+    "collocations": [
+      "提倡节约",
+      "提倡阅读",
+      "值得提倡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "提倡 là kêu gọi mọi người làm; 建议 là đề nghị một việc cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "医生提倡每天走一走路。",
+        "pinyin": "Yī shēng tí chàng měi tiān zǒu yì zǒu lù.",
+        "vi": "Bác sĩ đề xướng mọi người đi bộ mỗi ngày.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kêu gọi nhiều người cùng làm một việc tốt."
+    ],
+    "app_note_vi": "Kêu gọi nhiều người cùng làm một việc tốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "提倡 nghĩa là gì?",
+        "answer": "đề xướng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "医生____每天走一走路。",
+        "answer": "提倡"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 提倡?",
+        "answer": "提倡 là kêu gọi mọi người làm; 建议 là đề nghị một việc cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1164",
+    "level": "HSK5",
+    "hanzi": "通讯",
+    "pinyin": "tōngxùn",
+    "display_meaning_vi": "thông tin liên lạc",
+    "meaning_en": "communications",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "通讯录 / 通讯设备",
+    "collocations": [
+      "通讯录",
+      "通讯设备",
+      "通讯中断"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "通讯 thiên về phương tiện liên lạc; 通信 còn là việc trao đổi tin.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "海上的通讯一度中断了。",
+        "pinyin": "Hǎi shàng de tōng xùn yí dù zhōng duàn le.",
+        "vi": "Liên lạc trên biển đã có lúc bị đứt.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ hệ thống liên lạc từ xa."
+    ],
+    "app_note_vi": "Chỉ hệ thống liên lạc từ xa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "通讯 nghĩa là gì?",
+        "answer": "thông tin liên lạc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "海上的____一度中断了。",
+        "answer": "通讯"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 通讯?",
+        "answer": "通讯 thiên về phương tiện liên lạc; 通信 còn là việc trao đổi tin."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1165",
+    "level": "HSK5",
+    "hanzi": "统一",
+    "pinyin": "tǒngyī",
+    "display_meaning_vi": "thống nhất",
+    "meaning_en": "to unify",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "统一标准 / 统一思想",
+    "collocations": [
+      "统一标准",
+      "统一思想",
+      "统一行动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "服装的颜色已经统一了。",
+        "pinyin": "Fú zhuāng de yán sè yǐ jīng tǒng yī le.",
+        "vi": "Màu đồng phục đã được thống nhất.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 đứng cuối đọc yī, không biến thanh."
+    ],
+    "app_note_vi": "Hợp lại thành một, hoặc làm cho giống nhau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "统一 nghĩa là gì?",
+        "answer": "thống nhất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "服装的颜色已经____了。",
+        "answer": "统一"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1166",
+    "level": "HSK5",
+    "hanzi": "统治",
+    "pinyin": "tǒngzhì",
+    "display_meaning_vi": "cai trị",
+    "meaning_en": "to rule",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "封建统治 / 统治者",
+    "collocations": [
+      "封建统治",
+      "统治者",
+      "统治地位"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本书讲古代的统治。",
+        "pinyin": "Zhè běn shū jiǎng gǔ dài de tǒng zhì.",
+        "vi": "Sách này nói về sự cai trị thời xưa.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Quyền lực chính trị quản một vùng hoặc một nước."
+    ],
+    "app_note_vi": "Quyền lực chính trị quản một vùng hoặc một nước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "统治 nghĩa là gì?",
+        "answer": "cai trị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这本书讲古代的____。",
+        "answer": "统治"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1167",
+    "level": "HSK5",
+    "hanzi": "外交",
+    "pinyin": "wàijiāo",
+    "display_meaning_vi": "ngoại giao",
+    "meaning_en": "diplomacy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "外交官 / 外交部",
+    "collocations": [
+      "外交官",
+      "外交部",
+      "外交关系"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他父亲长期从事外交工作。",
+        "pinyin": "Tā fù qīn cháng qī cóng shì wài jiāo gōng zuò.",
+        "vi": "Bố anh ấy làm công tác ngoại giao lâu năm.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Quan hệ chính thức giữa các nước."
+    ],
+    "app_note_vi": "Quan hệ chính thức giữa các nước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "外交 nghĩa là gì?",
+        "answer": "ngoại giao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他父亲长期从事____工作。",
+        "answer": "外交"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1168",
+    "level": "HSK5",
+    "hanzi": "违反",
+    "pinyin": "wéifǎn",
+    "display_meaning_vi": "vi phạm",
+    "meaning_en": "to violate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "违反规定 / 违反法律",
+    "collocations": [
+      "违反规定",
+      "违反法律",
+      "违反合同"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "违反 là làm trái quy định; 反对 là phản đối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "超速就是违反交通规则。",
+        "pinyin": "Chāo sù jiù shì wéi fǎn jiāo tōng guī zé.",
+        "vi": "Chạy quá tốc độ là vi phạm luật giao thông.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm trái quy định, luật hoặc nguyên tắc."
+    ],
+    "app_note_vi": "Làm trái quy định, luật hoặc nguyên tắc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "违反 nghĩa là gì?",
+        "answer": "vi phạm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "超速就是____交通规则。",
+        "answer": "违反"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 违反?",
+        "answer": "违反 là làm trái quy định; 反对 là phản đối."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1169",
+    "level": "HSK5",
+    "hanzi": "维护",
+    "pinyin": "wéihù",
+    "display_meaning_vi": "giữ gìn",
+    "meaning_en": "to safeguard",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "维护权益 / 维护和平",
+    "collocations": [
+      "维护权益",
+      "维护和平",
+      "设备维护"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "维护 là giữ cho khỏi hỏng hoặc bị hại; 保护 là bảo vệ nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "人人都该维护公共秩序。",
+        "pinyin": "Rén rén dōu gāi wéi hù gōng gòng zhì xù.",
+        "vi": "Ai cũng nên giữ gìn trật tự chung.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Giữ cho quyền lợi, quan hệ hoặc hệ thống khỏi bị hại."
+    ],
+    "app_note_vi": "Giữ cho quyền lợi, quan hệ hoặc hệ thống khỏi bị hại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "维护 nghĩa là gì?",
+        "answer": "giữ gìn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "人人都该____公共秩序。",
+        "answer": "维护"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 维护?",
+        "answer": "维护 là giữ cho khỏi hỏng hoặc bị hại; 保护 là bảo vệ nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1170",
+    "level": "HSK5",
+    "hanzi": "文明",
+    "pinyin": "wénmíng",
+    "display_meaning_vi": "văn minh",
+    "meaning_en": "civilized",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "文明礼貌 / 古代文明",
+    "collocations": [
+      "文明礼貌",
+      "古代文明",
+      "精神文明"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上车时请大家文明排队。",
+        "pinyin": "Shàng chē shí qǐng dà jiā wén míng pái duì.",
+        "vi": "Lên xe xin mọi người xếp hàng lịch sự.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là nền văn minh, vừa là tính từ có văn hóa."
+    ],
+    "app_note_vi": "Vừa là nền văn minh, vừa là tính từ có văn hóa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "文明 nghĩa là gì?",
+        "answer": "văn minh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上车时请大家____排队。",
+        "answer": "文明"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

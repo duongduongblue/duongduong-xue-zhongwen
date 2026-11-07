@@ -1,0 +1,572 @@
+[
+  {
+    "id": "hsk5_batch2_1371",
+    "level": "HSK5",
+    "hanzi": "透明",
+    "pinyin": "tòumíng",
+    "display_meaning_vi": "trong suốt",
+    "meaning_en": "transparent",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "透明玻璃 / 透明度",
+    "collocations": [
+      "透明玻璃",
+      "透明度",
+      "公开透明"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "瓶子是透明玻璃做的。",
+        "pinyin": "Píng zi shì tòu míng bō li zuò de.",
+        "vi": "Cái chai làm bằng thủy tinh trong suốt.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhìn xuyên được. Cũng chỉ việc công khai, minh bạch."
+    ],
+    "app_note_vi": "Nhìn xuyên được. Cũng chỉ việc công khai, minh bạch.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "透明 nghĩa là gì?",
+        "answer": "trong suốt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "瓶子是____玻璃做的。",
+        "answer": "透明"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1372",
+    "level": "HSK5",
+    "hanzi": "突出",
+    "pinyin": "tūchū",
+    "display_meaning_vi": "nổi bật",
+    "meaning_en": "standing out",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表现突出 / 突出贡献",
+    "collocations": [
+      "表现突出",
+      "突出贡献",
+      "重点突出"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "突出 là nổi hơn hẳn; 优秀 là giỏi, xuất sắc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她的口语在班里很突出。",
+        "pinyin": "Tā de kǒu yǔ zài bān lǐ hěn tū chū.",
+        "vi": "Khẩu ngữ của cô ấy nổi bật trong lớp.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vượt hẳn lên. Cũng tả vật lồi ra ngoài."
+    ],
+    "app_note_vi": "Vượt hẳn lên. Cũng tả vật lồi ra ngoài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "突出 nghĩa là gì?",
+        "answer": "nổi bật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她的口语在班里很____。",
+        "answer": "突出"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 突出?",
+        "answer": "突出 là nổi hơn hẳn; 优秀 là giỏi, xuất sắc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1373",
+    "level": "HSK5",
+    "hanzi": "歪",
+    "pinyin": "wāi",
+    "display_meaning_vi": "lệch",
+    "meaning_en": "crooked",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "歪着 / 戴歪",
+    "collocations": [
+      "歪着",
+      "戴歪",
+      "歪歪扭扭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "歪 là lệch, không ngay; 斜 là nghiêng theo một góc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "车上的箱子放歪了。",
+        "pinyin": "Chē shàng de xiāng zi fàng wāi le.",
+        "vi": "Thùng trên xe để bị lệch.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không thẳng, nghiêng sang một bên."
+    ],
+    "app_note_vi": "Không thẳng, nghiêng sang một bên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "歪 nghĩa là gì?",
+        "answer": "lệch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "车上的箱子放____了。",
+        "answer": "歪"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 歪?",
+        "answer": "歪 là lệch, không ngay; 斜 là nghiêng theo một góc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1374",
+    "level": "HSK5",
+    "hanzi": "完整",
+    "pinyin": "wánzhěng",
+    "display_meaning_vi": "đầy đủ, trọn vẹn",
+    "meaning_en": "complete and intact",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "完整版 / 保持完整",
+    "collocations": [
+      "完整版",
+      "保持完整",
+      "完整无缺"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "完整 là đủ phần; 完美 là hoàn hảo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请听我把话说完整。",
+        "pinyin": "Qǐng tīng wǒ bǎ huà shuō wán zhěng.",
+        "vi": "Xin nghe tôi nói cho trọn câu.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không thiếu bộ phận nào, chưa chắc đã hoàn hảo."
+    ],
+    "app_note_vi": "Không thiếu bộ phận nào, chưa chắc đã hoàn hảo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "完整 nghĩa là gì?",
+        "answer": "đầy đủ, trọn vẹn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请听我把话说____。",
+        "answer": "完整"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 完整?",
+        "answer": "完整 là đủ phần; 完美 là hoàn hảo."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1375",
+    "level": "HSK5",
+    "hanzi": "显得",
+    "pinyin": "xiǎnde",
+    "display_meaning_vi": "trông có vẻ",
+    "meaning_en": "to appear",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "显得年轻 / 显得很小",
+    "collocations": [
+      "显得年轻",
+      "显得很小",
+      "显得突出"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "显得 là trông có vẻ; 觉得 là tự mình cảm thấy.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这身衣服让她显得精神。",
+        "pinyin": "Zhè shēn yī fú ràng tā xiǎn de jīng shén.",
+        "vi": "Bộ đồ này khiến cô ấy trông khỏe khoắn.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 đọc nhẹ de. Làm được đọc dé, như 得到. Phải đọc děi."
+    ],
+    "app_note_vi": "Nhìn từ bên ngoài có vẻ vậy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "显得 nghĩa là gì?",
+        "answer": "trông có vẻ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这身衣服让她____精神。",
+        "answer": "显得"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 显得?",
+        "answer": "显得 là trông có vẻ; 觉得 là tự mình cảm thấy."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1376",
+    "level": "HSK5",
+    "hanzi": "斜",
+    "pinyin": "xié",
+    "display_meaning_vi": "xiên, nghiêng",
+    "meaning_en": "slanted",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "斜线 / 斜着",
+    "collocations": [
+      "斜线",
+      "斜着",
+      "倾斜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "斜 là nghiêng có góc; 歪 là lệch, không ngay ngắn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下午的阳光斜照进房间。",
+        "pinyin": "Xià wǔ de yáng guāng xié zhào jìn fáng jiān.",
+        "vi": "Chiều nắng xiên chiếu vào phòng.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lệch một góc, không phải đặt sai cho lệch hẳn."
+    ],
+    "app_note_vi": "Lệch một góc, không phải đặt sai cho lệch hẳn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "斜 nghĩa là gì?",
+        "answer": "xiên, nghiêng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下午的阳光____照进房间。",
+        "answer": "斜"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 斜?",
+        "answer": "斜 là nghiêng có góc; 歪 là lệch, không ngay ngắn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1377",
+    "level": "HSK5",
+    "hanzi": "形式",
+    "pinyin": "xíngshì",
+    "display_meaning_vi": "hình thức",
+    "meaning_en": "form",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "形式多样 / 流于形式",
+    "collocations": [
+      "形式多样",
+      "流于形式",
+      "艺术形式"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "形式 là hình thức; 形势 là tình thế.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "活动形式可以再多样一些。",
+        "pinyin": "Huó dòng xíng shì kě yǐ zài duō yàng yì xiē.",
+        "vi": "Hình thức hoạt động có thể đa dạng hơn.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cách trình bày bên ngoài, đối lập với nội dung."
+    ],
+    "app_note_vi": "Cách trình bày bên ngoài, đối lập với nội dung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "形式 nghĩa là gì?",
+        "answer": "hình thức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "活动____可以再多样一些。",
+        "answer": "形式"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 形式?",
+        "answer": "形式 là hình thức; 形势 là tình thế."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1378",
+    "level": "HSK5",
+    "hanzi": "形状",
+    "pinyin": "xíngzhuàng",
+    "display_meaning_vi": "hình dạng",
+    "meaning_en": "shape",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "各种形状 / 形状不同",
+    "collocations": [
+      "各种形状",
+      "形状不同",
+      "形状奇特"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "形状 là hình dạng vật; 形象 là ấn tượng, hình ảnh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "云的形状一直在变化。",
+        "pinyin": "Yún de xíng zhuàng yì zhí zài biàn huà.",
+        "vi": "Hình đám mây cứ thay đổi.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dáng bên ngoài của vật."
+    ],
+    "app_note_vi": "Dáng bên ngoài của vật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "形状 nghĩa là gì?",
+        "answer": "hình dạng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "云的____一直在变化。",
+        "answer": "形状"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 形状?",
+        "answer": "形状 là hình dạng vật; 形象 là ấn tượng, hình ảnh."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1379",
+    "level": "HSK5",
+    "hanzi": "雄伟",
+    "pinyin": "xióngwěi",
+    "display_meaning_vi": "hùng vĩ",
+    "meaning_en": "majestic",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "气势雄伟 / 雄伟壮丽",
+    "collocations": [
+      "气势雄伟",
+      "雄伟壮丽",
+      "雄伟的建筑"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "长城看上去非常雄伟。",
+        "pinyin": "Cháng chéng kàn shàng qù fēi cháng xióng wěi.",
+        "vi": "Vạn Lý Trường Thành trông rất hùng vĩ.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tả công trình hoặc núi lớn, có khí thế."
+    ],
+    "app_note_vi": "Tả công trình hoặc núi lớn, có khí thế.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "雄伟 nghĩa là gì?",
+        "answer": "hùng vĩ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "长城看上去非常____。",
+        "answer": "雄伟"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1380",
+    "level": "HSK5",
+    "hanzi": "迅速",
+    "pinyin": "xùnsù",
+    "display_meaning_vi": "nhanh chóng",
+    "meaning_en": "rapid",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "迅速发展 / 迅速提高",
+    "collocations": [
+      "迅速发展",
+      "迅速提高",
+      "迅速反应"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "迅速 trang trọng; 快 thân mật hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "火势被迅速控制住了。",
+        "pinyin": "Huǒ shì bèi xùn sù kòng zhì zhù le.",
+        "vi": "Đám cháy được khống chế rất nhanh.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhanh và kịp thời, trang trọng hơn nói thường."
+    ],
+    "app_note_vi": "Nhanh và kịp thời, trang trọng hơn nói thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "迅速 nghĩa là gì?",
+        "answer": "nhanh chóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "火势被____控制住了。",
+        "answer": "迅速"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 迅速?",
+        "answer": "迅速 trang trọng; 快 thân mật hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

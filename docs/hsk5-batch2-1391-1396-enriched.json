@@ -1,0 +1,335 @@
+[
+  {
+    "id": "hsk5_batch2_1391",
+    "level": "HSK5",
+    "hanzi": "银",
+    "pinyin": "yín",
+    "display_meaning_vi": "bạc",
+    "meaning_en": "silver",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "银牌 / 银色",
+    "collocations": [
+      "银牌",
+      "银色",
+      "银器"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在比赛中获得了一枚银牌。",
+        "pinyin": "Tā zài bǐ sài zhōng huò dé le yì méi yín pái.",
+        "vi": "Cô ấy giành một huy chương bạc trong cuộc thi.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kim loại bạc hoặc màu bạc. Ngân hàng là một từ đã tách nghĩa."
+    ],
+    "app_note_vi": "Kim loại bạc hoặc màu bạc. Ngân hàng là một từ đã tách nghĩa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "银 nghĩa là gì?",
+        "answer": "bạc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在比赛中获得了一枚____牌。",
+        "answer": "银"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1392",
+    "level": "HSK5",
+    "hanzi": "硬币",
+    "pinyin": "yìngbì",
+    "display_meaning_vi": "tiền xu",
+    "meaning_en": "coin",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一枚硬币 / 投硬币",
+    "collocations": [
+      "一枚硬币",
+      "投硬币",
+      "收集硬币"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "口袋里还剩几枚硬币。",
+        "pinyin": "Kǒu dài lǐ hái shèng jǐ méi yìng bì.",
+        "vi": "Trong túi còn vài đồng xu.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tiền kim loại, khác tiền giấy."
+    ],
+    "app_note_vi": "Tiền kim loại, khác tiền giấy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "硬币 nghĩa là gì?",
+        "answer": "tiền xu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "口袋里还剩几枚____。",
+        "answer": "硬币"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1393",
+    "level": "HSK5",
+    "hanzi": "优惠",
+    "pinyin": "yōuhuì",
+    "display_meaning_vi": "ưu đãi",
+    "meaning_en": "a special offer",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "优惠政策 / 优惠价",
+    "collocations": [
+      "优惠政策",
+      "优惠价",
+      "价格优惠"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "优惠 là ưu đãi về giá hoặc điều kiện; 便宜 chỉ là rẻ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "付款时可以享受优惠。",
+        "pinyin": "Fù kuǎn shí kě yǐ xiǎng shòu yōu huì.",
+        "vi": "Lúc thanh toán được hưởng ưu đãi.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng cho giá, vé hoặc chính sách dễ hơn, rẻ hơn bình thường."
+    ],
+    "app_note_vi": "Dùng cho giá, vé hoặc chính sách dễ hơn, rẻ hơn bình thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "优惠 nghĩa là gì?",
+        "answer": "ưu đãi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "付款时可以享受____。",
+        "answer": "优惠"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 优惠?",
+        "answer": "优惠 là ưu đãi về giá hoặc điều kiện; 便宜 chỉ là rẻ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1394",
+    "level": "HSK5",
+    "hanzi": "账户",
+    "pinyin": "zhànghù",
+    "display_meaning_vi": "tài khoản",
+    "meaning_en": "an account",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "银行账户 / 账户余额",
+    "collocations": [
+      "银行账户",
+      "账户余额",
+      "账户安全"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "账户 là tài khoản; 账号 là dãy số của tài khoản đó.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把工资打到这个账户。",
+        "pinyin": "Qǐng bǎ gōng zī dǎ dào zhè ge zhàng hù.",
+        "vi": "Hãy chuyển lương vào tài khoản này.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tài khoản để giữ và chuyển tiền, thường ở ngân hàng."
+    ],
+    "app_note_vi": "Tài khoản để giữ và chuyển tiền, thường ở ngân hàng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "账户 nghĩa là gì?",
+        "answer": "tài khoản"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把工资打到这个____。",
+        "answer": "账户"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 账户?",
+        "answer": "账户 là tài khoản; 账号 là dãy số của tài khoản đó."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1395",
+    "level": "HSK5",
+    "hanzi": "挣钱",
+    "pinyin": "zhèngqián",
+    "display_meaning_vi": "kiếm tiền",
+    "meaning_en": "to earn money",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "挣钱养家 / 挣钱不容易",
+    "collocations": [
+      "挣钱养家",
+      "挣钱不容易",
+      "出去挣钱"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "挣钱 nhấn mạnh bỏ sức ra kiếm; 赚钱 cũng là kiếm tiền và dùng rất rộng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这份工作挺挣钱的。",
+        "pinyin": "Zhè fèn gōng zuò tǐng zhèng qián de.",
+        "vi": "Công việc này kiếm tiền khá tốt.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kiếm tiền bằng công sức làm việc."
+    ],
+    "app_note_vi": "Kiếm tiền bằng công sức làm việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "挣钱 nghĩa là gì?",
+        "answer": "kiếm tiền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这份工作挺____的。",
+        "answer": "挣钱"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 挣钱?",
+        "answer": "挣钱 nhấn mạnh bỏ sức ra kiếm; 赚钱 cũng là kiếm tiền và dùng rất rộng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1396",
+    "level": "HSK5",
+    "hanzi": "支票",
+    "pinyin": "zhīpiào",
+    "display_meaning_vi": "séc",
+    "meaning_en": "a bank check",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "现金支票 / 开支票",
+    "collocations": [
+      "现金支票",
+      "开支票",
+      "支票簿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他用支票付了房租。",
+        "pinyin": "Tā yòng zhī piào fù le fáng zū.",
+        "vi": "Anh ấy trả tiền nhà bằng séc.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tờ ủy nhiệm để ngân hàng trả tiền."
+    ],
+    "app_note_vi": "Tờ ủy nhiệm để ngân hàng trả tiền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "支票 nghĩa là gì?",
+        "answer": "séc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他用____付了房租。",
+        "answer": "支票"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

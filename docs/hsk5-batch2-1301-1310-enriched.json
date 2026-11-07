@@ -1,0 +1,547 @@
+[
+  {
+    "id": "hsk5_batch2_1301",
+    "level": "HSK5",
+    "hanzi": "铜",
+    "pinyin": "tóng",
+    "display_meaning_vi": "đồng",
+    "meaning_en": "copper",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "铜钱 / 铜像",
+    "collocations": [
+      "铜钱",
+      "铜像",
+      "青铜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "院子里有一口旧铜钟。",
+        "pinyin": "Yuàn zi lǐ yǒu yì kǒu jiù tóng zhōng.",
+        "vi": "Trong sân có một quả chuông đồng cũ.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kim loại đồng. Huy chương đồng cũng dùng chữ này."
+    ],
+    "app_note_vi": "Kim loại đồng. Huy chương đồng cũng dùng chữ này.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "铜 nghĩa là gì?",
+        "answer": "đồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "院子里有一口旧____钟。",
+        "answer": "铜"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1302",
+    "level": "HSK5",
+    "hanzi": "兔子",
+    "pinyin": "tùzi",
+    "display_meaning_vi": "con thỏ",
+    "meaning_en": "rabbit",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小兔子 / 一只兔子",
+    "collocations": [
+      "小兔子",
+      "一只兔子",
+      "兔子洞"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子在院子里养了只兔子。",
+        "pinyin": "Hái zi zài yuàn zi lǐ yǎng le zhǐ tù zi.",
+        "vi": "Đứa trẻ nuôi một con thỏ trong sân.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Động vật. Năm Thỏ cũng dùng chữ này."
+    ],
+    "app_note_vi": "Động vật. Năm Thỏ cũng dùng chữ này.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "兔子 nghĩa là gì?",
+        "answer": "con thỏ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子在院子里养了只____。",
+        "answer": "兔子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1303",
+    "level": "HSK5",
+    "hanzi": "尾巴",
+    "pinyin": "wěiba",
+    "display_meaning_vi": "cái đuôi",
+    "meaning_en": "tail",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摇尾巴 / 夹着尾巴",
+    "collocations": [
+      "摇尾巴",
+      "夹着尾巴",
+      "尾巴尖"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小猫高兴地摇着尾巴。",
+        "pinyin": "Xiǎo māo gāo xìng de yáo zhe wěi ba.",
+        "vi": "Mèo con vui vẻ vẫy đuôi.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "高兴地的 地 đọc nhẹ de, không phải địa dì."
+    ],
+    "app_note_vi": "Đuôi động vật. Cũng ví phần cuối của một việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尾巴 nghĩa là gì?",
+        "answer": "cái đuôi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小猫高兴地摇着____。",
+        "answer": "尾巴"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1304",
+    "level": "HSK5",
+    "hanzi": "雾",
+    "pinyin": "wù",
+    "display_meaning_vi": "sương mù",
+    "meaning_en": "fog",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大雾 / 浓雾",
+    "collocations": [
+      "大雾",
+      "浓雾",
+      "雾气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今天早上雾大得看不清路。",
+        "pinyin": "Jīn tiān zǎo shàng wù dà dé kàn bù qīng lù.",
+        "vi": "Sáng nay sương mù dày, nhìn đường không rõ.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Sương mù. Sương mù ô nhiễm là một cụm riêng."
+    ],
+    "app_note_vi": "Sương mù. Sương mù ô nhiễm là một cụm riêng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "雾 nghĩa là gì?",
+        "answer": "sương mù"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今天早上____大得看不清路。",
+        "answer": "雾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1305",
+    "level": "HSK5",
+    "hanzi": "吸收",
+    "pinyin": "xīshōu",
+    "display_meaning_vi": "hấp thụ",
+    "meaning_en": "to absorb",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吸收水分 / 吸收营养",
+    "collocations": [
+      "吸收水分",
+      "吸收营养",
+      "吸收经验"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "海绵很快就把水吸收了。",
+        "pinyin": "Hǎi mián hěn kuài jiù bǎ shuǐ xī shōu le.",
+        "vi": "Miếng mút hút nước rất nhanh.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng cho chất, kinh nghiệm, hoặc người vào một tổ chức."
+    ],
+    "app_note_vi": "Dùng cho chất, kinh nghiệm, hoặc người vào một tổ chức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吸收 nghĩa là gì?",
+        "answer": "hấp thụ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "海绵很快就把水____了。",
+        "answer": "吸收"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1306",
+    "level": "HSK5",
+    "hanzi": "液体",
+    "pinyin": "yètǐ",
+    "display_meaning_vi": "chất lỏng",
+    "meaning_en": "liquid",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "液体燃料 / 透明液体",
+    "collocations": [
+      "液体燃料",
+      "透明液体",
+      "液体状态"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种液体不能带上飞机。",
+        "pinyin": "Zhè zhǒng yè tǐ bù néng dài shàng fēi jī.",
+        "vi": "Chất lỏng này không được mang lên máy bay.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Trạng thái lỏng, khác chất rắn và chất khí."
+    ],
+    "app_note_vi": "Trạng thái lỏng, khác chất rắn và chất khí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "液体 nghĩa là gì?",
+        "answer": "chất lỏng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种____不能带上飞机。",
+        "answer": "液体"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1307",
+    "level": "HSK5",
+    "hanzi": "影子",
+    "pinyin": "yǐngzi",
+    "display_meaning_vi": "cái bóng",
+    "meaning_en": "shadow",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "影子戏 / 没有影子",
+    "collocations": [
+      "影子戏",
+      "没有影子",
+      "人的影子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "路灯下他的影子拉得很长。",
+        "pinyin": "Lù dēng xià tā de yǐng zi lā dé hěn zhǎng.",
+        "vi": "Dưới đèn đường bóng anh ấy kéo rất dài.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bóng do ánh sáng tạo ra. Cũng ví dấu vết mờ."
+    ],
+    "app_note_vi": "Bóng do ánh sáng tạo ra. Cũng ví dấu vết mờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "影子 nghĩa là gì?",
+        "answer": "cái bóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "路灯下他的____拉得很长。",
+        "answer": "影子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1308",
+    "level": "HSK5",
+    "hanzi": "宇宙",
+    "pinyin": "yǔzhòu",
+    "display_meaning_vi": "vũ trụ",
+    "meaning_en": "the universe",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "宇宙空间 / 探索宇宙",
+    "collocations": [
+      "宇宙空间",
+      "探索宇宙",
+      "宇宙飞船"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "宇宙 là vũ trụ; 世界 thường chỉ thế giới con người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "宇宙里有无数星星。",
+        "pinyin": "Yǔ zhòu lǐ yǒu wú shù xīng xīng.",
+        "vi": "Trong vũ trụ có vô số ngôi sao.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ toàn bộ không gian và các thiên thể, lớn hơn thế giới quanh ta."
+    ],
+    "app_note_vi": "Chỉ toàn bộ không gian và các thiên thể, lớn hơn thế giới quanh ta.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宇宙 nghĩa là gì?",
+        "answer": "vũ trụ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____里有无数星星。",
+        "answer": "宇宙"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 宇宙?",
+        "answer": "宇宙 là vũ trụ; 世界 thường chỉ thế giới con người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1309",
+    "level": "HSK5",
+    "hanzi": "预报",
+    "pinyin": "yùbào",
+    "display_meaning_vi": "dự báo",
+    "meaning_en": "a forecast",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "台风预报 / 预报员",
+    "collocations": [
+      "台风预报",
+      "预报员",
+      "预报准确"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "预报 là bản tin báo trước, thường về thời tiết; 预测 là dự đoán, rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "天气预报说明天有大风。",
+        "pinyin": "Tiān qì yù bào shuō míng tiān yǒu dà fēng.",
+        "vi": "Dự báo thời tiết nói ngày mai có gió to.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hay gặp nhất trong bản tin thời tiết, cũng dùng cho bão, lũ."
+    ],
+    "app_note_vi": "Hay gặp nhất trong bản tin thời tiết, cũng dùng cho bão, lũ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "预报 nghĩa là gì?",
+        "answer": "dự báo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "天气____说明天有大风。",
+        "answer": "预报"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 预报?",
+        "answer": "预报 là bản tin báo trước, thường về thời tiết; 预测 là dự đoán, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1310",
+    "level": "HSK5",
+    "hanzi": "灾害",
+    "pinyin": "zāihài",
+    "display_meaning_vi": "thiên tai",
+    "meaning_en": "a disaster",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自然灾害 / 灾害预警",
+    "collocations": [
+      "自然灾害",
+      "灾害预警",
+      "减轻灾害"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "灾害 thiên về thiên tai; 灾难 còn gồm tai họa do con người gây ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今年的灾害比去年少。",
+        "pinyin": "Jīn nián de zāi hài bǐ qù nián shào.",
+        "vi": "Thiên tai năm nay ít hơn năm ngoái.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ tai họa lớn, thường là thiên tai và thiệt hại kèm theo."
+    ],
+    "app_note_vi": "Chỉ tai họa lớn, thường là thiên tai và thiệt hại kèm theo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "灾害 nghĩa là gì?",
+        "answer": "thiên tai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今年的____比去年少。",
+        "answer": "灾害"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 灾害?",
+        "answer": "灾害 thiên về thiên tai; 灾难 còn gồm tai họa do con người gây ra."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "id": "hsk5_batch2_1221",
+    "level": "HSK5",
+    "hanzi": "痛快",
+    "pinyin": "tòngkuài",
+    "display_meaning_vi": "sảng khoái",
+    "meaning_en": "heartily satisfying",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "玩得痛快 / 说得痛快",
+    "collocations": [
+      "玩得痛快",
+      "说得痛快",
+      "痛快淋漓"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "痛快 là sảng khoái, đã; 快乐 là vui nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这场球踢得真痛快。",
+        "pinyin": "Zhè chǎng qiú tī dé zhēn tòng kuài.",
+        "vi": "Trận bóng này đá thật đã.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vui hết mình, hoặc nói và làm dứt khoát."
+    ],
+    "app_note_vi": "Vui hết mình, hoặc nói và làm dứt khoát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "痛快 nghĩa là gì?",
+        "answer": "sảng khoái"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这场球踢得真____。",
+        "answer": "痛快"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 痛快?",
+        "answer": "痛快 là sảng khoái, đã; 快乐 là vui nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1222",
+    "level": "HSK5",
+    "hanzi": "委屈",
+    "pinyin": "wěiqu",
+    "display_meaning_vi": "tủi thân",
+    "meaning_en": "to feel wronged",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "受委屈 / 满腹委屈",
+    "collocations": [
+      "受委屈",
+      "满腹委屈",
+      "委屈巴巴"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "委屈 là tủi vì bị oan; 难过 là buồn nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子觉得受了委屈就哭了。",
+        "pinyin": "Hái zi jué de shòu le wěi qu jiù kū le.",
+        "vi": "Đứa trẻ thấy mình bị oan liền khóc.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cảm giác bị đối xử không công bằng."
+    ],
+    "app_note_vi": "Cảm giác bị đối xử không công bằng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "委屈 nghĩa là gì?",
+        "answer": "tủi thân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子觉得受了____就哭了。",
+        "answer": "委屈"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 委屈?",
+        "answer": "委屈 là tủi vì bị oan; 难过 là buồn nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1223",
+    "level": "HSK5",
+    "hanzi": "吻",
+    "pinyin": "wěn",
+    "display_meaning_vi": "hôn",
+    "meaning_en": "kiss",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "亲吻 / 接吻",
+    "collocations": [
+      "亲吻",
+      "接吻",
+      "吻别"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子轻轻吻了吻妈妈。",
+        "pinyin": "Hái zi qīng qīng wěn le wěn mā mā.",
+        "vi": "Đứa trẻ khẽ hôn mẹ.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Động từ hoặc danh từ chỉ nụ hôn."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ chỉ nụ hôn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吻 nghĩa là gì?",
+        "answer": "hôn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子轻轻____了吻妈妈。",
+        "answer": "吻"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1224",
+    "level": "HSK5",
+    "hanzi": "无奈",
+    "pinyin": "wúnài",
+    "display_meaning_vi": "đành chịu",
+    "meaning_en": "having no way out",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到无奈 / 无奈地",
+    "collocations": [
+      "感到无奈",
+      "无奈地",
+      "无奈之举"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "无奈 là bất lực vì hoàn cảnh; 失望 là thất vọng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "票都卖完了，他很无奈。",
+        "pinyin": "Piào dōu mài wán le tā hěn wú nài.",
+        "vi": "Vé bán hết cả, anh ấy đành chịu.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không muốn nhưng không còn lựa chọn."
+    ],
+    "app_note_vi": "Không muốn nhưng không còn lựa chọn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "无奈 nghĩa là gì?",
+        "answer": "đành chịu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "票都卖完了，他很____。",
+        "answer": "无奈"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 无奈?",
+        "answer": "无奈 là bất lực vì hoàn cảnh; 失望 là thất vọng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1225",
+    "level": "HSK5",
+    "hanzi": "想念",
+    "pinyin": "xiǎngniàn",
+    "display_meaning_vi": "nhớ nhung",
+    "meaning_en": "to miss someone",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "想念家人 / 想念家乡",
+    "collocations": [
+      "想念家人",
+      "想念家乡",
+      "很想念"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "想念 là nhớ nhung; 想 còn là muốn hoặc nghĩ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "过节的时候更想念父母。",
+        "pinyin": "Guò jié de shí hòu gèng xiǎng niàn fù mǔ.",
+        "vi": "Mỗi dịp lễ lại càng nhớ bố mẹ.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhớ người hoặc nơi xa, không phải suy nghĩ."
+    ],
+    "app_note_vi": "Nhớ người hoặc nơi xa, không phải suy nghĩ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "想念 nghĩa là gì?",
+        "answer": "nhớ nhung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "过节的时候更____父母。",
+        "answer": "想念"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 想念?",
+        "answer": "想念 là nhớ nhung; 想 còn là muốn hoặc nghĩ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1226",
+    "level": "HSK5",
+    "hanzi": "幸亏",
+    "pinyin": "xìngkuī",
+    "display_meaning_vi": "may mà",
+    "meaning_en": "luckily",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "幸亏有你 / 幸亏及时",
+    "collocations": [
+      "幸亏有你",
+      "幸亏及时",
+      "幸亏没去"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "幸亏 là may mà tránh được chuyện xấu; 幸运 là có vận may.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "幸亏带了伞，才没有淋湿。",
+        "pinyin": "Xìng kuī dài le sǎn cái méi yǒu lín shī.",
+        "vi": "May mà mang ô, nên không bị ướt.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhờ một việc may mà tránh được kết quả xấu."
+    ],
+    "app_note_vi": "Nhờ một việc may mà tránh được kết quả xấu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "幸亏 nghĩa là gì?",
+        "answer": "may mà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____带了伞，才没有淋湿。",
+        "answer": "幸亏"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 幸亏?",
+        "answer": "幸亏 là may mà tránh được chuyện xấu; 幸运 là có vận may."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1227",
+    "level": "HSK5",
+    "hanzi": "休闲",
+    "pinyin": "xiūxián",
+    "display_meaning_vi": "thư nhàn",
+    "meaning_en": "leisure",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "休闲时间 / 休闲活动",
+    "collocations": [
+      "休闲时间",
+      "休闲活动",
+      "休闲装"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "休闲 là nghỉ để chơi hoặc thư giãn; 休息 là nghỉ cho lại sức.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末是我难得的休闲时间。",
+        "pinyin": "Zhōu mò shì wǒ nán dé de xiū xián shí jiān.",
+        "vi": "Cuối tuần là lúc thư nhàn hiếm hoi của tôi.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thời gian hoặc hoạt động nhàn, không phải ngủ để lại sức."
+    ],
+    "app_note_vi": "Thời gian hoặc hoạt động nhàn, không phải ngủ để lại sức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "休闲 nghĩa là gì?",
+        "answer": "thư nhàn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末是我难得的____时间。",
+        "answer": "休闲"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 休闲?",
+        "answer": "休闲 là nghỉ để chơi hoặc thư giãn; 休息 là nghỉ cho lại sức."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1228",
+    "level": "HSK5",
+    "hanzi": "业余",
+    "pinyin": "yèyú",
+    "display_meaning_vi": "ngoài giờ; không chuyên",
+    "meaning_en": "spare-time; amateur",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "业余时间 / 业余爱好",
+    "collocations": [
+      "业余时间",
+      "业余爱好",
+      "业余选手"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "摄影是他的业余爱好。",
+        "pinyin": "Shè yǐng shì tā de yè yú ài hào.",
+        "vi": "Nhiếp ảnh là sở thích lúc rảnh của anh ấy.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Việc ngoài nghề chính, hoặc người không chuyên."
+    ],
+    "app_note_vi": "Việc ngoài nghề chính, hoặc người không chuyên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "业余 nghĩa là gì?",
+        "answer": "ngoài giờ; không chuyên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "摄影是他的____爱好。",
+        "answer": "业余"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1229",
+    "level": "HSK5",
+    "hanzi": "拥抱",
+    "pinyin": "yōngbào",
+    "display_meaning_vi": "ôm",
+    "meaning_en": "to hug",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "热烈拥抱 / 拥抱一下",
+    "collocations": [
+      "热烈拥抱",
+      "拥抱一下",
+      "拥抱在一起"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "分别的时候他们紧紧拥抱。",
+        "pinyin": "Fēn bié de shí hòu tā men jǐn jǐn yōng bào.",
+        "vi": "Lúc chia tay họ ôm nhau thật chặt.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ôm để bày tỏ tình cảm."
+    ],
+    "app_note_vi": "Ôm để bày tỏ tình cảm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "拥抱 nghĩa là gì?",
+        "answer": "ôm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "分别的时候他们紧紧____。",
+        "answer": "拥抱"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1230",
+    "level": "HSK5",
+    "hanzi": "勇气",
+    "pinyin": "yǒngqì",
+    "display_meaning_vi": "lòng can đảm",
+    "meaning_en": "courage",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "鼓起勇气 / 勇气可嘉",
+    "collocations": [
+      "鼓起勇气",
+      "勇气可嘉",
+      "失去勇气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "勇气 là lòng dũng cảm khi làm việc khó; 勇敢 tả người hoặc hành động dũng cảm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "面对失败也需要勇气。",
+        "pinyin": "Miàn duì shī bài yě xū yào yǒng qì.",
+        "vi": "Đối diện với thất bại cũng cần can đảm.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thường đi với 鼓起, chỉ sự dũng cảm để làm việc khó."
+    ],
+    "app_note_vi": "Thường đi với 鼓起, chỉ sự dũng cảm để làm việc khó.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "勇气 nghĩa là gì?",
+        "answer": "lòng can đảm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "面对失败也需要____。",
+        "answer": "勇气"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 勇气?",
+        "answer": "勇气 là lòng dũng cảm khi làm việc khó; 勇敢 tả người hoặc hành động dũng cảm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

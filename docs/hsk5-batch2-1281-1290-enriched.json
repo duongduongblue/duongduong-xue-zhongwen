@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_1281",
+    "level": "HSK5",
+    "hanzi": "项链",
+    "pinyin": "xiàngliàn",
+    "display_meaning_vi": "dây chuyền",
+    "meaning_en": "necklace",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一条项链 / 金项链",
+    "collocations": [
+      "一条项链",
+      "金项链",
+      "戴项链"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条项链是生日礼物。",
+        "pinyin": "Zhè tiáo xiàng liàn shì shēng rì lǐ wù.",
+        "vi": "Dây chuyền này là quà sinh nhật.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đồ trang sức đeo cổ."
+    ],
+    "app_note_vi": "Đồ trang sức đeo cổ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "项链 nghĩa là gì?",
+        "answer": "dây chuyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条____是生日礼物。",
+        "answer": "项链"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1282",
+    "level": "HSK5",
+    "hanzi": "信封",
+    "pinyin": "xìnfēng",
+    "display_meaning_vi": "phong bì",
+    "meaning_en": "envelope",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个信封 / 牛皮信封",
+    "collocations": [
+      "一个信封",
+      "牛皮信封",
+      "信封上"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "地址要写在信封正面。",
+        "pinyin": "Dì zhǐ yào xiě zài xìn fēng zhèng miàn.",
+        "vi": "Địa chỉ phải viết ở mặt trước phong bì.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bao đựng thư, khác giấy viết thư."
+    ],
+    "app_note_vi": "Bao đựng thư, khác giấy viết thư.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "信封 nghĩa là gì?",
+        "answer": "phong bì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "地址要写在____正面。",
+        "answer": "信封"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1283",
+    "level": "HSK5",
+    "hanzi": "阳台",
+    "pinyin": "yángtái",
+    "display_meaning_vi": "ban công",
+    "meaning_en": "balcony",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "阳台上 / 阳台门",
+    "collocations": [
+      "阳台上",
+      "阳台门",
+      "封阳台"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "洗好的衣服晾在阳台上。",
+        "pinyin": "Xǐ hǎo de yī fú liàng zài yáng tái shàng.",
+        "vi": "Quần áo đã giặt phơi ở ban công.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phần nhà nhô ra ngoài."
+    ],
+    "app_note_vi": "Phần nhà nhô ra ngoài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "阳台 nghĩa là gì?",
+        "answer": "ban công"
+      },
+      {
+        "type": "cloze",
+        "prompt": "洗好的衣服晾在____上。",
+        "answer": "阳台"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1284",
+    "level": "HSK5",
+    "hanzi": "粘贴",
+    "pinyin": "zhāntiē",
+    "display_meaning_vi": "dán",
+    "meaning_en": "to paste",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "复制粘贴 / 粘贴画",
+    "collocations": [
+      "复制粘贴",
+      "粘贴画",
+      "粘贴文件"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们把剪纸粘贴在窗户上。",
+        "pinyin": "Wǒ men bǎ jiǎn zhǐ zhān tiē zài chuāng hù shàng.",
+        "vi": "Chúng tôi dán tranh cắt giấy lên cửa sổ.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là dán bằng hồ, vừa là dán trên máy tính."
+    ],
+    "app_note_vi": "Vừa là dán bằng hồ, vừa là dán trên máy tính.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "粘贴 nghĩa là gì?",
+        "answer": "dán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们把剪纸____在窗户上。",
+        "answer": "粘贴"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1285",
+    "level": "HSK5",
+    "hanzi": "枕头",
+    "pinyin": "zhěntou",
+    "display_meaning_vi": "gối",
+    "meaning_en": "a pillow",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "软枕头 / 枕头边",
+    "collocations": [
+      "软枕头",
+      "枕头边",
+      "高枕头"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我喜欢软一点的枕头。",
+        "pinyin": "Wǒ xǐ huān ruǎn yì diǎn de zhěn tou.",
+        "vi": "Tôi thích gối hơi mềm.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đồ kê đầu khi ngủ."
+    ],
+    "app_note_vi": "Đồ kê đầu khi ngủ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "枕头 nghĩa là gì?",
+        "answer": "gối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我喜欢软一点的____。",
+        "answer": "枕头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1286",
+    "level": "HSK5",
+    "hanzi": "振动",
+    "pinyin": "zhèndòng",
+    "display_meaning_vi": "rung",
+    "meaning_en": "to vibrate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "轻微振动 / 产生振动",
+    "collocations": [
+      "轻微振动",
+      "产生振动",
+      "振动频率"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "振动 là rung cơ học; 震动 còn chỉ rung chuyển mạnh hoặc chấn động.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "手机突然振动了一下。",
+        "pinyin": "Shǒu jī tū rán zhèn dòng le yí xià.",
+        "vi": "Điện thoại đột nhiên rung một cái.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Sự rung cơ học, thường đều và không quá mạnh."
+    ],
+    "app_note_vi": "Sự rung cơ học, thường đều và không quá mạnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "振动 nghĩa là gì?",
+        "answer": "rung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "手机突然____了一下。",
+        "answer": "振动"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 振动?",
+        "answer": "振动 là rung cơ học; 震动 còn chỉ rung chuyển mạnh hoặc chấn động."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1287",
+    "level": "HSK5",
+    "hanzi": "装饰",
+    "pinyin": "zhuāngshì",
+    "display_meaning_vi": "trang trí",
+    "meaning_en": "to decorate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "装饰品 / 室内装饰",
+    "collocations": [
+      "装饰品",
+      "室内装饰",
+      "装饰画"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "装饰 là trang trí cho đẹp; 装修 là sửa sang, thi công nhà cửa.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们用鲜花装饰房间。",
+        "pinyin": "Tā men yòng xiān huā zhuāng shì fáng jiān.",
+        "vi": "Họ dùng hoa tươi để trang trí phòng.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm cho đẹp thêm bằng đồ trang trí, không phải xây sửa."
+    ],
+    "app_note_vi": "Làm cho đẹp thêm bằng đồ trang trí, không phải xây sửa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "装饰 nghĩa là gì?",
+        "answer": "trang trí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们用鲜花____房间。",
+        "answer": "装饰"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 装饰?",
+        "answer": "装饰 là trang trí cho đẹp; 装修 là sửa sang, thi công nhà cửa."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1288",
+    "level": "HSK5",
+    "hanzi": "烤鸭",
+    "pinyin": "kǎoyā",
+    "display_meaning_vi": "vịt quay",
+    "meaning_en": "roast duck",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "北京烤鸭 / 烤鸭店",
+    "collocations": [
+      "北京烤鸭",
+      "烤鸭店",
+      "一只烤鸭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们中午去吃烤鸭。",
+        "pinyin": "Wǒ men zhōng wǔ qù chī kǎo yā.",
+        "vi": "Trưa nay chúng tôi đi ăn vịt quay.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Món nổi tiếng là 北京烤鸭, ăn kèm bánh và hành."
+    ],
+    "app_note_vi": "Món nổi tiếng là 北京烤鸭, ăn kèm bánh và hành.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "烤鸭 nghĩa là gì?",
+        "answer": "vịt quay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们中午去吃____。",
+        "answer": "烤鸭"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1289",
+    "level": "HSK5",
+    "hanzi": "矿泉水",
+    "pinyin": "kuàngquánshuǐ",
+    "display_meaning_vi": "nước khoáng",
+    "meaning_en": "mineral water",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "喝矿泉水 / 矿泉水瓶",
+    "collocations": [
+      "喝矿泉水",
+      "矿泉水瓶",
+      "桶装矿泉水"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "包里还有一瓶矿泉水。",
+        "pinyin": "Bāo lǐ hái yǒu yì píng kuàng quán shuǐ.",
+        "vi": "Trong túi còn một chai nước khoáng.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nước đóng chai uống hàng ngày. Lượng từ chai là 瓶."
+    ],
+    "app_note_vi": "Nước đóng chai uống hàng ngày. Lượng từ chai là 瓶.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "矿泉水 nghĩa là gì?",
+        "answer": "nước khoáng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "包里还有一瓶____。",
+        "answer": "矿泉水"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1290",
+    "level": "HSK5",
+    "hanzi": "辣椒",
+    "pinyin": "làjiāo",
+    "display_meaning_vi": "ớt",
+    "meaning_en": "chili pepper",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "辣椒酱 / 红辣椒",
+    "collocations": [
+      "辣椒酱",
+      "红辣椒",
+      "青辣椒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "汤里别放太多辣椒。",
+        "pinyin": "Tāng lǐ bié fàng tài duō là jiāo.",
+        "vi": "Đừng cho quá nhiều ớt vào canh.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ quả ớt hoặc vị cay từ ớt. Sợ cay nói 怕辣."
+    ],
+    "app_note_vi": "Chỉ quả ớt hoặc vị cay từ ớt. Sợ cay nói 怕辣.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "辣椒 nghĩa là gì?",
+        "answer": "ớt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "汤里别放太多____。",
+        "answer": "辣椒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

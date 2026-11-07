@@ -110,6 +110,36 @@ import enriched1071To1080 from '../../docs/hsk5-batch2-1071-1080-enriched.json';
 import enriched1081To1090 from '../../docs/hsk5-batch2-1081-1090-enriched.json';
 import enriched1091To1100 from '../../docs/hsk5-batch2-1091-1100-enriched.json';
 
+import enriched1101To1110 from '../../docs/hsk5-batch2-1101-1110-enriched.json';
+import enriched1111To1120 from '../../docs/hsk5-batch2-1111-1120-enriched.json';
+import enriched1121To1130 from '../../docs/hsk5-batch2-1121-1130-enriched.json';
+import enriched1131To1140 from '../../docs/hsk5-batch2-1131-1140-enriched.json';
+import enriched1141To1150 from '../../docs/hsk5-batch2-1141-1150-enriched.json';
+import enriched1151To1160 from '../../docs/hsk5-batch2-1151-1160-enriched.json';
+import enriched1161To1170 from '../../docs/hsk5-batch2-1161-1170-enriched.json';
+import enriched1171To1180 from '../../docs/hsk5-batch2-1171-1180-enriched.json';
+import enriched1181To1190 from '../../docs/hsk5-batch2-1181-1190-enriched.json';
+import enriched1191To1200 from '../../docs/hsk5-batch2-1191-1200-enriched.json';
+import enriched1201To1210 from '../../docs/hsk5-batch2-1201-1210-enriched.json';
+import enriched1211To1220 from '../../docs/hsk5-batch2-1211-1220-enriched.json';
+import enriched1221To1230 from '../../docs/hsk5-batch2-1221-1230-enriched.json';
+import enriched1231To1240 from '../../docs/hsk5-batch2-1231-1240-enriched.json';
+import enriched1241To1250 from '../../docs/hsk5-batch2-1241-1250-enriched.json';
+import enriched1251To1260 from '../../docs/hsk5-batch2-1251-1260-enriched.json';
+import enriched1261To1270 from '../../docs/hsk5-batch2-1261-1270-enriched.json';
+import enriched1271To1280 from '../../docs/hsk5-batch2-1271-1280-enriched.json';
+import enriched1281To1290 from '../../docs/hsk5-batch2-1281-1290-enriched.json';
+import enriched1291To1300 from '../../docs/hsk5-batch2-1291-1300-enriched.json';
+import enriched1301To1310 from '../../docs/hsk5-batch2-1301-1310-enriched.json';
+import enriched1311To1320 from '../../docs/hsk5-batch2-1311-1320-enriched.json';
+import enriched1321To1330 from '../../docs/hsk5-batch2-1321-1330-enriched.json';
+import enriched1331To1340 from '../../docs/hsk5-batch2-1331-1340-enriched.json';
+import enriched1341To1350 from '../../docs/hsk5-batch2-1341-1350-enriched.json';
+import enriched1351To1360 from '../../docs/hsk5-batch2-1351-1360-enriched.json';
+import enriched1361To1370 from '../../docs/hsk5-batch2-1361-1370-enriched.json';
+import enriched1371To1380 from '../../docs/hsk5-batch2-1371-1380-enriched.json';
+import enriched1381To1390 from '../../docs/hsk5-batch2-1381-1390-enriched.json';
+import enriched1391To1396 from '../../docs/hsk5-batch2-1391-1396-enriched.json';
 type EnrichedWord = {
   id: string;
   level: 'HSK5';
@@ -245,6 +275,36 @@ const sourceWords = [
   ...(enriched1071To1080 as EnrichedWord[]),
   ...(enriched1081To1090 as EnrichedWord[]),
   ...(enriched1091To1100 as EnrichedWord[]),
+  ...(enriched1101To1110 as EnrichedWord[]),
+  ...(enriched1111To1120 as EnrichedWord[]),
+  ...(enriched1121To1130 as EnrichedWord[]),
+  ...(enriched1131To1140 as EnrichedWord[]),
+  ...(enriched1141To1150 as EnrichedWord[]),
+  ...(enriched1151To1160 as EnrichedWord[]),
+  ...(enriched1161To1170 as EnrichedWord[]),
+  ...(enriched1171To1180 as EnrichedWord[]),
+  ...(enriched1181To1190 as EnrichedWord[]),
+  ...(enriched1191To1200 as EnrichedWord[]),
+  ...(enriched1201To1210 as EnrichedWord[]),
+  ...(enriched1211To1220 as EnrichedWord[]),
+  ...(enriched1221To1230 as EnrichedWord[]),
+  ...(enriched1231To1240 as EnrichedWord[]),
+  ...(enriched1241To1250 as EnrichedWord[]),
+  ...(enriched1251To1260 as EnrichedWord[]),
+  ...(enriched1261To1270 as EnrichedWord[]),
+  ...(enriched1271To1280 as EnrichedWord[]),
+  ...(enriched1281To1290 as EnrichedWord[]),
+  ...(enriched1291To1300 as EnrichedWord[]),
+  ...(enriched1301To1310 as EnrichedWord[]),
+  ...(enriched1311To1320 as EnrichedWord[]),
+  ...(enriched1321To1330 as EnrichedWord[]),
+  ...(enriched1331To1340 as EnrichedWord[]),
+  ...(enriched1341To1350 as EnrichedWord[]),
+  ...(enriched1351To1360 as EnrichedWord[]),
+  ...(enriched1361To1370 as EnrichedWord[]),
+  ...(enriched1371To1380 as EnrichedWord[]),
+  ...(enriched1381To1390 as EnrichedWord[]),
+  ...(enriched1391To1396 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -1017,6 +1077,216 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '110 · 摄影',
     topic: '摄影与生活 / Nhiếp ảnh và đời sống',
     color: '#6A1B9A',
+  },
+  {
+    id: 'HSK5-F1-L111',
+    moduleId: 'hsk5-module-106',
+    title: '111 · 钢铁',
+    topic: '钢铁与工作 / thép · Công việc',
+    color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L112',
+    moduleId: 'hsk5-module-107',
+    title: '112 · 实习',
+    topic: '实习与工作 / thực tập · Công việc',
+    color: '#0D47A1',
+  },
+  {
+    id: 'HSK5-F1-L113',
+    moduleId: 'hsk5-module-108',
+    title: '113 · 原料',
+    topic: '原料与工作 / nguyên liệu · Công việc',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L114',
+    moduleId: 'hsk5-module-109',
+    title: '114 · 自愿',
+    topic: '自愿与工作 / tự nguyện · Công việc',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L115',
+    moduleId: 'hsk5-module-110',
+    title: '115 · 修改',
+    topic: '修改与学习 / sửa lại · Học tập',
+    color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L116',
+    moduleId: 'hsk5-module-111',
+    title: '116 · 综合',
+    topic: '综合与学习 / tổng hợp · Học tập',
+    color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L117',
+    moduleId: 'hsk5-module-112',
+    title: '117 · 设施',
+    topic: '设施与社会 / cơ sở vật chất · Xã hội',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L118',
+    moduleId: 'hsk5-module-113',
+    title: '118 · 武器',
+    topic: '武器与社会 / vũ khí · Xã hội',
+    color: '#00695C',
+  },
+  {
+    id: 'HSK5-F1-L119',
+    moduleId: 'hsk5-module-114',
+    title: '119 · 照常',
+    topic: '照常与社会 / như thường lệ · Xã hội',
+    color: '#37474F',
+  },
+  {
+    id: 'HSK5-F1-L120',
+    moduleId: 'hsk5-module-115',
+    title: '120 · 热心',
+    topic: '热心与人物 / nhiệt tình · Con người',
+    color: '#E65100',
+  },
+  {
+    id: 'HSK5-F1-L121',
+    moduleId: 'hsk5-module-116',
+    title: '121 · 虚心',
+    topic: '虚心与人物 / cầu thị · Con người',
+    color: '#6A1B9A',
+  },
+  {
+    id: 'HSK5-F1-L122',
+    moduleId: 'hsk5-module-117',
+    title: '122 · 平静',
+    topic: '平静与心情 / điềm tĩnh · Tâm trạng',
+    color: '#1A237E',
+  },
+  {
+    id: 'HSK5-F1-L123',
+    moduleId: 'hsk5-module-118',
+    title: '123 · 痛快',
+    topic: '痛快与心情 / sảng khoái · Tâm trạng',
+    color: '#C62828',
+  },
+  {
+    id: 'HSK5-F1-L124',
+    moduleId: 'hsk5-module-119',
+    title: '124 · 愿望',
+    topic: '愿望与心情 / nguyện vọng · Tâm trạng',
+    color: '#546E7A',
+  },
+  {
+    id: 'HSK5-F1-L125',
+    moduleId: 'hsk5-module-120',
+    title: '125 · 逃避',
+    topic: '逃避与思考 / trốn tránh · Suy nghĩ',
+    color: '#EF6C00',
+  },
+  {
+    id: 'HSK5-F1-L126',
+    moduleId: 'hsk5-module-121',
+    title: '126 · 真理',
+    topic: '真理与思考 / chân lý · Suy nghĩ',
+    color: '#4A148C',
+  },
+  {
+    id: 'HSK5-F1-L127',
+    moduleId: 'hsk5-module-122',
+    title: '127 · 形容',
+    topic: '形容与言谈 / miêu tả · Lời nói',
+    color: '#0277BD',
+  },
+  {
+    id: 'HSK5-F1-L128',
+    moduleId: 'hsk5-module-123',
+    title: '128 · 铃',
+    topic: '铃与居家 / chuông · Trong nhà',
+    color: '#33691E',
+  },
+  {
+    id: 'HSK5-F1-L129',
+    moduleId: 'hsk5-module-124',
+    title: '129 · 项链',
+    topic: '项链与居家 / dây chuyền · Trong nhà',
+    color: '#880E4F',
+  },
+  {
+    id: 'HSK5-F1-L130',
+    moduleId: 'hsk5-module-125',
+    title: '130 · 勺子',
+    topic: '勺子与饮食 / cái thìa · Ăn uống',
+    color: '#3E2723',
+  },
+  {
+    id: 'HSK5-F1-L131',
+    moduleId: 'hsk5-module-126',
+    title: '131 · 铜',
+    topic: '铜与自然 / đồng · Thiên nhiên',
+    color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L132',
+    moduleId: 'hsk5-module-127',
+    title: '132 · 阵',
+    topic: '阵与自然 / trận; cơn · Thiên nhiên',
+    color: '#0D47A1',
+  },
+  {
+    id: 'HSK5-F1-L133',
+    moduleId: 'hsk5-module-128',
+    title: '133 · 消化',
+    topic: '消化与身体 / tiêu hóa · Cơ thể',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L134',
+    moduleId: 'hsk5-module-129',
+    title: '134 · 缩短',
+    topic: '缩短与动作 / rút ngắn · Động tác',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L135',
+    moduleId: 'hsk5-module-130',
+    title: '135 · 近代',
+    topic: '近代与文化 / cận đại · Văn hóa',
+    color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L136',
+    moduleId: 'hsk5-module-131',
+    title: '136 · 戏剧',
+    topic: '戏剧与文化 / kịch · Văn hóa',
+    color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L137',
+    moduleId: 'hsk5-module-132',
+    title: '137 · 魅力',
+    topic: '魅力与形容 / sức hút · Miêu tả',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L138',
+    moduleId: 'hsk5-module-133',
+    title: '138 · 透明',
+    topic: '透明与形容 / trong suốt · Miêu tả',
+    color: '#00695C',
+  },
+  {
+    id: 'HSK5-F1-L139',
+    moduleId: 'hsk5-module-134',
+    title: '139 · 严肃',
+    topic: '严肃与形容 / nghiêm túc · Miêu tả',
+    color: '#37474F',
+  },
+  {
+    id: 'HSK5-F1-L140',
+    moduleId: 'hsk5-module-135',
+    title: '140 · 银',
+    topic: '银与财物 / bạc · Tiền bạc',
+    color: '#E65100',
   },
 ];
 

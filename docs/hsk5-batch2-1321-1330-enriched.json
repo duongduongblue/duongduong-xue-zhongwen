@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_1321",
+    "level": "HSK5",
+    "hanzi": "消化",
+    "pinyin": "xiāohuà",
+    "display_meaning_vi": "tiêu hóa",
+    "meaning_en": "to digest",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "消化不良 / 帮助消化",
+    "collocations": [
+      "消化不良",
+      "帮助消化",
+      "消化系统"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "饭后散步有助于消化。",
+        "pinyin": "Fàn hòu sàn bù yǒu zhù yú xiāo huà.",
+        "vi": "Đi bộ sau ăn giúp tiêu hóa.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cơ thể xử lý thức ăn. Cũng ví việc tiếp nhận thông tin."
+    ],
+    "app_note_vi": "Cơ thể xử lý thức ăn. Cũng ví việc tiếp nhận thông tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "消化 nghĩa là gì?",
+        "answer": "tiêu hóa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "饭后散步有助于____。",
+        "answer": "消化"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1322",
+    "level": "HSK5",
+    "hanzi": "歇",
+    "pinyin": "xiē",
+    "display_meaning_vi": "nghỉ một lát",
+    "meaning_en": "to take a break",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "歇一会儿 / 歇歇脚",
+    "collocations": [
+      "歇一会儿",
+      "歇歇脚",
+      "歇口气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "歇 là nghỉ ngắn, khẩu ngữ; 休息 dùng được cả khi viết.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "走累了，咱们歇一会儿。",
+        "pinyin": "Zǒu lèi le zán men xiē yí huì er.",
+        "vi": "Đi mệt rồi, mình nghỉ một lát.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khẩu ngữ, nghỉ ngắn."
+    ],
+    "app_note_vi": "Khẩu ngữ, nghỉ ngắn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "歇 nghĩa là gì?",
+        "answer": "nghỉ một lát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "走累了，咱们____一会儿。",
+        "answer": "歇"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 歇?",
+        "answer": "歇 là nghỉ ngắn, khẩu ngữ; 休息 dùng được cả khi viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1323",
+    "level": "HSK5",
+    "hanzi": "痒",
+    "pinyin": "yǎng",
+    "display_meaning_vi": "ngứa",
+    "meaning_en": "itchy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很痒 / 痒痒",
+    "collocations": [
+      "很痒",
+      "痒痒",
+      "挠痒痒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "手臂被蚊子叮得很痒。",
+        "pinyin": "Shǒu bì bèi wén zi dīng dé hěn yǎng.",
+        "vi": "Cánh tay bị muỗi đốt rất ngứa.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cảm giác ngứa trên da."
+    ],
+    "app_note_vi": "Cảm giác ngứa trên da.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "痒 nghĩa là gì?",
+        "answer": "ngứa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "手臂被蚊子叮得很____。",
+        "answer": "痒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1324",
+    "level": "HSK5",
+    "hanzi": "睁",
+    "pinyin": "zhēng",
+    "display_meaning_vi": "mở mắt",
+    "meaning_en": "to open the eyes",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "睁大眼睛 / 眼睁睁",
+    "collocations": [
+      "睁大眼睛",
+      "眼睁睁",
+      "睁一眼闭一眼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子困得睁不开眼。",
+        "pinyin": "Hái zi kùn dé zhēng bù kāi yǎn.",
+        "vi": "Bé buồn ngủ đến không mở nổi mắt.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ dùng cho mắt, không dùng cho cửa hay miệng."
+    ],
+    "app_note_vi": "Chỉ dùng cho mắt, không dùng cho cửa hay miệng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "睁 nghĩa là gì?",
+        "answer": "mở mắt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子困得____不开眼。",
+        "answer": "睁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1325",
+    "level": "HSK5",
+    "hanzi": "姿势",
+    "pinyin": "zīshì",
+    "display_meaning_vi": "tư thế",
+    "meaning_en": "posture",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "姿势正确 / 摆姿势",
+    "collocations": [
+      "姿势正确",
+      "摆姿势",
+      "站立姿势"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "睡觉的姿势会影响腰。",
+        "pinyin": "Shuì jiào de zī shì huì yǐng xiǎng yāo.",
+        "vi": "Tư thế ngủ có thể ảnh hưởng đến lưng.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cách đặt thân mình khi ngồi, đứng hoặc ngủ."
+    ],
+    "app_note_vi": "Cách đặt thân mình khi ngồi, đứng hoặc ngủ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "姿势 nghĩa là gì?",
+        "answer": "tư thế"
+      },
+      {
+        "type": "cloze",
+        "prompt": "睡觉的____会影响腰。",
+        "answer": "姿势"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1326",
+    "level": "HSK5",
+    "hanzi": "急忙",
+    "pinyin": "jímáng",
+    "display_meaning_vi": "vội",
+    "meaning_en": "hastily",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "急忙跑 / 急忙解释",
+    "collocations": [
+      "急忙跑",
+      "急忙解释",
+      "急忙赶去"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "急忙 tả hành động vội; 赶紧 là lời thúc làm ngay.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雨一来，行人急忙躲进店里。",
+        "pinyin": "Yǔ yì lái xíng rén jí máng duǒ jìn diàn lǐ.",
+        "vi": "Mưa vừa đến, người đi đường vội trú vào quán.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vội vì việc đột ngột, thấy ở hành động."
+    ],
+    "app_note_vi": "Vội vì việc đột ngột, thấy ở hành động.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "急忙 nghĩa là gì?",
+        "answer": "vội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雨一来，行人____躲进店里。",
+        "answer": "急忙"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 急忙?",
+        "answer": "急忙 tả hành động vội; 赶紧 là lời thúc làm ngay."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1327",
+    "level": "HSK5",
+    "hanzi": "冒险",
+    "pinyin": "màoxiǎn",
+    "display_meaning_vi": "mạo hiểm",
+    "meaning_en": "taking a risky chance",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "冒险精神 / 冒险家",
+    "collocations": [
+      "冒险精神",
+      "冒险家",
+      "不要冒险"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夜间独自走山路太冒险。",
+        "pinyin": "Yè jiān dú zì zǒu shān lù tài mào xiǎn.",
+        "vi": "Đêm đi đường núi một mình thì quá mạo hiểm.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm việc có nguy cơ. Khuyên ngăn thường nói 不要冒险."
+    ],
+    "app_note_vi": "Làm việc có nguy cơ. Khuyên ngăn thường nói 不要冒险.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "冒险 nghĩa là gì?",
+        "answer": "mạo hiểm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "夜间独自走山路太____。",
+        "answer": "冒险"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1328",
+    "level": "HSK5",
+    "hanzi": "排球",
+    "pinyin": "páiqiú",
+    "display_meaning_vi": "bóng chuyền",
+    "meaning_en": "volleyball",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "排球比赛 / 沙滩排球",
+    "collocations": [
+      "排球比赛",
+      "沙滩排球",
+      "排球场"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下午我们去打排球。",
+        "pinyin": "Xià wǔ wǒ men qù dǎ pái qiú.",
+        "vi": "Chiều chúng tôi đi đánh bóng chuyền.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chơi nói 打排球."
+    ],
+    "app_note_vi": "Chơi nói 打排球.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "排球 nghĩa là gì?",
+        "answer": "bóng chuyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下午我们去打____。",
+        "answer": "排球"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1329",
+    "level": "HSK5",
+    "hanzi": "汽油",
+    "pinyin": "qìyóu",
+    "display_meaning_vi": "xăng",
+    "meaning_en": "gasoline",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "汽油价格 / 汽油味",
+    "collocations": [
+      "汽油价格",
+      "汽油味",
+      "无铅汽油"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "汽油 là xăng đã tinh chế; 石油 là dầu mỏ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这辆车该去加汽油了。",
+        "pinyin": "Zhè liàng chē gāi qù jiā qì yóu le.",
+        "vi": "Xe này đến lúc đổ xăng rồi.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Xăng cho ô tô, xe máy. Đổ xăng nói 加汽油."
+    ],
+    "app_note_vi": "Xăng cho ô tô, xe máy. Đổ xăng nói 加汽油.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "汽油 nghĩa là gì?",
+        "answer": "xăng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这辆车该去加____了。",
+        "answer": "汽油"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 汽油?",
+        "answer": "汽油 là xăng đã tinh chế; 石油 là dầu mỏ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1330",
+    "level": "HSK5",
+    "hanzi": "射击",
+    "pinyin": "shèjī",
+    "display_meaning_vi": "bắn súng",
+    "meaning_en": "shooting at a target",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "射击比赛 / 射击训练",
+    "collocations": [
+      "射击比赛",
+      "射击训练",
+      "射击运动员"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "射击 là bắn mục tiêu; 摄影 là chụp ảnh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他每周都去练习射击。",
+        "pinyin": "Tā měi zhōu dōu qù liàn xí shè jī.",
+        "vi": "Mỗi tuần anh ấy đều đi tập bắn.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Môn thể thao hoặc tập bắn mục tiêu. Không phải từ chỉ chụp ảnh."
+    ],
+    "app_note_vi": "Môn thể thao hoặc tập bắn mục tiêu. Không phải từ chỉ chụp ảnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "射击 nghĩa là gì?",
+        "answer": "bắn súng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他每周都去练习____。",
+        "answer": "射击"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 射击?",
+        "answer": "射击 là bắn mục tiêu; 摄影 là chụp ảnh."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
