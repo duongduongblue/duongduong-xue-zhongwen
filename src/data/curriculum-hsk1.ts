@@ -98,6 +98,20 @@ export const modules: Module[] = [
   { id: 'hsk5-module-83', levelId: 'HSK5', title: '招待与规矩', subtitle: 'Hosting & Manners', order: 83 },
   { id: 'hsk5-module-84', levelId: 'HSK5', title: '妇女与日常', subtitle: 'Women & Daily Life', order: 84 },
   { id: 'hsk5-module-85', levelId: 'HSK5', title: '录音与联系', subtitle: 'Recording & Contact', order: 85 },
+  { id: 'hsk5-module-86', levelId: 'HSK5', title: '承受与努力', subtitle: 'Endurance & Effort', order: 86 },
+  { id: 'hsk5-module-87', levelId: 'HSK5', title: '功能与社会', subtitle: 'Function & Society', order: 87 },
+  { id: 'hsk5-module-88', levelId: 'HSK5', title: '化学与学习', subtitle: 'Chemistry & Study', order: 88 },
+  { id: 'hsk5-module-89', levelId: 'HSK5', title: '交际与礼貌', subtitle: 'Contact & Courtesy', order: 89 },
+  { id: 'hsk5-module-90', levelId: 'HSK5', title: '嫁娶与年纪', subtitle: 'Marriage & Age', order: 90 },
+  { id: 'hsk5-module-91', levelId: 'HSK5', title: '能干与态度', subtitle: 'Capability & Attitude', order: 91 },
+  { id: 'hsk5-module-92', levelId: 'HSK5', title: '客厅与用品', subtitle: 'Living Room & Things', order: 92 },
+  { id: 'hsk5-module-93', levelId: 'HSK5', title: '宠物与自然', subtitle: 'Pets & Nature', order: 93 },
+  { id: 'hsk5-module-94', levelId: 'HSK5', title: '海关与出行', subtitle: 'Customs & Travel', order: 94 },
+  { id: 'hsk5-module-95', levelId: 'HSK5', title: '贸易与农业', subtitle: 'Trade & Farming', order: 95 },
+  { id: 'hsk5-module-96', levelId: 'HSK5', title: '内科与穿着', subtitle: 'Health & Clothes', order: 96 },
+  { id: 'hsk5-module-97', levelId: 'HSK5', title: '名片与文书', subtitle: 'Cards & Documents', order: 97 },
+  { id: 'hsk5-module-98', levelId: 'HSK5', title: '悄悄与请求', subtitle: 'Quietly & Requests', order: 98 },
+  { id: 'hsk5-module-99', levelId: 'HSK5', title: '平常与规律', subtitle: 'Ordinary Life & Patterns', order: 99 },
 ];
 
 export const hsk1LessonDefs = [

@@ -89,6 +89,20 @@ import enriched861To870 from '../../docs/hsk5-batch2-861-870-enriched.json';
 import enriched871To880 from '../../docs/hsk5-batch2-871-880-enriched.json';
 import enriched881To890 from '../../docs/hsk5-batch2-881-890-enriched.json';
 import enriched891To900 from '../../docs/hsk5-batch2-891-900-enriched.json';
+import enriched901To910 from '../../docs/hsk5-batch2-901-910-enriched.json';
+import enriched911To920 from '../../docs/hsk5-batch2-911-920-enriched.json';
+import enriched921To930 from '../../docs/hsk5-batch2-921-930-enriched.json';
+import enriched931To940 from '../../docs/hsk5-batch2-931-940-enriched.json';
+import enriched941To950 from '../../docs/hsk5-batch2-941-950-enriched.json';
+import enriched951To960 from '../../docs/hsk5-batch2-951-960-enriched.json';
+import enriched961To970 from '../../docs/hsk5-batch2-961-970-enriched.json';
+import enriched971To980 from '../../docs/hsk5-batch2-971-980-enriched.json';
+import enriched981To990 from '../../docs/hsk5-batch2-981-990-enriched.json';
+import enriched991To1000 from '../../docs/hsk5-batch2-991-1000-enriched.json';
+import enriched1001To1010 from '../../docs/hsk5-batch2-1001-1010-enriched.json';
+import enriched1011To1020 from '../../docs/hsk5-batch2-1011-1020-enriched.json';
+import enriched1021To1030 from '../../docs/hsk5-batch2-1021-1030-enriched.json';
+import enriched1031To1040 from '../../docs/hsk5-batch2-1031-1040-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -205,6 +219,20 @@ const sourceWords = [
   ...(enriched871To880 as EnrichedWord[]),
   ...(enriched881To890 as EnrichedWord[]),
   ...(enriched891To900 as EnrichedWord[]),
+  ...(enriched901To910 as EnrichedWord[]),
+  ...(enriched911To920 as EnrichedWord[]),
+  ...(enriched921To930 as EnrichedWord[]),
+  ...(enriched931To940 as EnrichedWord[]),
+  ...(enriched941To950 as EnrichedWord[]),
+  ...(enriched951To960 as EnrichedWord[]),
+  ...(enriched961To970 as EnrichedWord[]),
+  ...(enriched971To980 as EnrichedWord[]),
+  ...(enriched981To990 as EnrichedWord[]),
+  ...(enriched991To1000 as EnrichedWord[]),
+  ...(enriched1001To1010 as EnrichedWord[]),
+  ...(enriched1011To1020 as EnrichedWord[]),
+  ...(enriched1021To1030 as EnrichedWord[]),
+  ...(enriched1031To1040 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -837,6 +865,104 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '90 · 录音',
     topic: '录音与联系 / Ghi âm và liên lạc',
     color: '#37474F',
+  },
+  {
+    id: 'HSK5-F1-L91',
+    moduleId: 'hsk5-module-86',
+    title: '91 · 承受',
+    topic: '承受与努力 / Chịu đựng và nỗ lực',
+    color: '#455A64',
+  },
+  {
+    id: 'HSK5-F1-L92',
+    moduleId: 'hsk5-module-87',
+    title: '92 · 功能',
+    topic: '功能与社会 / Chức năng và xã hội',
+    color: '#0D47A1',
+  },
+  {
+    id: 'HSK5-F1-L93',
+    moduleId: 'hsk5-module-88',
+    title: '93 · 化学',
+    topic: '化学与学习 / Hóa học và việc học',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L94',
+    moduleId: 'hsk5-module-89',
+    title: '94 · 打交道',
+    topic: '交际与礼貌 / Giao tiếp và phép lịch sự',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK5-F1-L95',
+    moduleId: 'hsk5-module-90',
+    title: '95 · 嫁',
+    topic: '嫁娶与年纪 / Hôn nhân và tuổi tác',
+    color: '#AD1457',
+  },
+  {
+    id: 'HSK5-F1-L96',
+    moduleId: 'hsk5-module-91',
+    title: '96 · 能干',
+    topic: '能干与态度 / Tháo vát và thái độ',
+    color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L97',
+    moduleId: 'hsk5-module-92',
+    title: '97 · 客厅',
+    topic: '客厅与用品 / Phòng khách và đồ dùng',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L98',
+    moduleId: 'hsk5-module-93',
+    title: '98 · 宠物',
+    topic: '宠物与自然 / Thú cưng và thiên nhiên',
+    color: '#00695C',
+  },
+  {
+    id: 'HSK5-F1-L99',
+    moduleId: 'hsk5-module-94',
+    title: '99 · 海关',
+    topic: '海关与出行 / Hải quan và đi lại',
+    color: '#37474F',
+  },
+  {
+    id: 'HSK5-F1-L100',
+    moduleId: 'hsk5-module-95',
+    title: '100 · 贸易',
+    topic: '贸易与农业 / Thương mại và nông nghiệp',
+    color: '#E65100',
+  },
+  {
+    id: 'HSK5-F1-L101',
+    moduleId: 'hsk5-module-96',
+    title: '101 · 内科',
+    topic: '内科与穿着 / Sức khỏe và quần áo',
+    color: '#6A1B9A',
+  },
+  {
+    id: 'HSK5-F1-L102',
+    moduleId: 'hsk5-module-97',
+    title: '102 · 名片',
+    topic: '名片与文书 / Danh thiếp và giấy tờ',
+    color: '#1A237E',
+  },
+  {
+    id: 'HSK5-F1-L103',
+    moduleId: 'hsk5-module-98',
+    title: '103 · 悄悄',
+    topic: '悄悄与请求 / Lén lút và lời thỉnh cầu',
+    color: '#C62828',
+  },
+  {
+    id: 'HSK5-F1-L104',
+    moduleId: 'hsk5-module-99',
+    title: '104 · 平常',
+    topic: '平常与规律 / Bình thường và quy luật',
+    color: '#546E7A',
   },
 ];
 

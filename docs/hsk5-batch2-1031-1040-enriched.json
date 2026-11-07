@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_1031",
+    "level": "HSK5",
+    "hanzi": "平常",
+    "pinyin": "píngcháng",
+    "display_meaning_vi": "bình thường",
+    "meaning_en": "ordinary; usually",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很平常 / 平常人",
+    "collocations": [
+      "很平常",
+      "平常人",
+      "和平常一样"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他平常七点起床。",
+        "pinyin": "Tā píngcháng qī diǎn qǐchuáng.",
+        "vi": "Anh ấy thường dậy lúc bảy giờ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "常 đọc cháng, là thường. Chữ này là 常, không phải 长. 长 mới đa âm: dài đọc cháng, lớn lên đọc zhǎng."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. Ngày thường, không đặc biệt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "平常 nghĩa là gì?",
+        "answer": "bình thường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____七点起床。",
+        "answer": "平常"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1032",
+    "level": "HSK5",
+    "hanzi": "临时",
+    "pinyin": "línshí",
+    "display_meaning_vi": "tạm thời",
+    "meaning_en": "temporary",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "临时决定 / 临时工",
+    "collocations": [
+      "临时决定",
+      "临时工",
+      "临时通知"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是临时决定。",
+        "pinyin": "Zhè shì línshí juédìng.",
+        "vi": "Đây là quyết định tạm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "临时 là chưa thành kế hoạch lâu dài. Cố định nói 固定."
+    ],
+    "app_note_vi": "Tính từ. 临时工 là người làm tạm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "临时 nghĩa là gì?",
+        "answer": "tạm thời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是____决定。",
+        "answer": "临时"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1033",
+    "level": "HSK5",
+    "hanzi": "平衡",
+    "pinyin": "pínghéng",
+    "display_meaning_vi": "cân bằng",
+    "meaning_en": "balance",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保持平衡 / 失去平衡",
+    "collocations": [
+      "保持平衡",
+      "失去平衡",
+      "心理平衡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "骑车要保持平衡。",
+        "pinyin": "Qí chē yào bǎochí pínghéng.",
+        "vi": "Đi xe phải giữ thăng bằng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "平衡 là hai bên ngang nhau hoặc không ngã. 平 đọc píng."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ. 失去平衡 là mất thăng bằng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "平衡 nghĩa là gì?",
+        "answer": "cân bằng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "骑车要保持____。",
+        "answer": "平衡"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1034",
+    "level": "HSK5",
+    "hanzi": "平均",
+    "pinyin": "píngjūn",
+    "display_meaning_vi": "trung bình",
+    "meaning_en": "average; equally",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "平均分 / 平均分配",
+    "collocations": [
+      "平均分",
+      "平均分配",
+      "平均数"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们平均分配这些苹果。",
+        "pinyin": "Wǒmen píngjūn fēnpèi zhèxiē píngguǒ.",
+        "vi": "Chúng tôi chia đều những quả táo này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "分 trong 分配 đọc fēn. Quá đáng đọc fèn, như 过分. 平均 là mỗi phần như nhau."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 平均数 là số trung bình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "平均 nghĩa là gì?",
+        "answer": "trung bình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们____分配这些苹果。",
+        "answer": "平均"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1035",
+    "level": "HSK5",
+    "hanzi": "偶然",
+    "pinyin": "ǒurán",
+    "display_meaning_vi": "tình cờ",
+    "meaning_en": "by chance",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "偶然发现 / 很偶然",
+    "collocations": [
+      "偶然发现",
+      "很偶然",
+      "偶然遇见"
+    ],
+    "near_synonyms": [
+      {
+        "word": "碰见",
+        "difference_vi": "偶然 tả việc không tính trước; 碰见 là gặp người không hẹn."
+      }
+    ],
+    "app_synonym_note_vi": "偶然 = tình cờ; 碰见 = gặp tình cờ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是一次偶然的发现。",
+        "pinyin": "Zhè shì yí cì ǒurán de fāxiàn.",
+        "vi": "Đây là một phát hiện tình cờ.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一次 đọc yí cì. 发 trong 发现 đọc fā. 偶然 không phải việc lặp lại."
+    ],
+    "app_note_vi": "Tính từ. Xảy ra không định trước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "偶然 nghĩa là gì?",
+        "answer": "tình cờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是一次____的发现。",
+        "answer": "偶然"
+      },
+      {
+        "type": "synonym",
+        "prompt": "偶然 khác 碰见 ở điểm nào?",
+        "answer": "偶然 tả việc không tính trước; 碰见 là gặp người không hẹn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1036",
+    "level": "HSK5",
+    "hanzi": "其余",
+    "pinyin": "qíyú",
+    "display_meaning_vi": "phần còn lại",
+    "meaning_en": "the rest",
+    "part_of_speech": "pronoun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "其余的人 / 其余部分",
+    "collocations": [
+      "其余的人",
+      "其余部分",
+      "其余的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "其余的人明天再来。",
+        "pinyin": "Qíyú de rén míngtiān zài lái.",
+        "vi": "Những người còn lại ngày mai hãy đến.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "其余 là những cái chưa được nhắc. Tất cả nói 全部."
+    ],
+    "app_note_vi": "Đại từ. Đứng trước danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "其余 nghĩa là gì?",
+        "answer": "phần còn lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____的人明天再来。",
+        "answer": "其余"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1037",
+    "level": "HSK5",
+    "hanzi": "奇迹",
+    "pinyin": "qíjì",
+    "display_meaning_vi": "kỳ tích",
+    "meaning_en": "miracle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "创造奇迹 / 奇迹出现",
+    "collocations": [
+      "创造奇迹",
+      "奇迹出现",
+      "一个奇迹"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "医生创造了奇迹。",
+        "pinyin": "Yīshēng chuàngzào le qíjì.",
+        "vi": "Bác sĩ đã tạo nên kỳ tích.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "奇迹 là kết quả hiếm, tốt, khó tin. Nói cho gọn, không phóng đại bệnh."
+    ],
+    "app_note_vi": "Danh từ. 一个奇迹 đọc yí gè qíjì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "奇迹 nghĩa là gì?",
+        "answer": "kỳ tích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "医生创造了____。",
+        "answer": "奇迹"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1038",
+    "level": "HSK5",
+    "hanzi": "企图",
+    "pinyin": "qǐtú",
+    "display_meaning_vi": "toan tính",
+    "meaning_en": "to attempt",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "企图逃跑 / 不良企图",
+    "collocations": [
+      "企图逃跑",
+      "不良企图",
+      "企图隐瞒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他企图隐瞒错误。",
+        "pinyin": "Tā qǐtú yǐnmán cuòwù.",
+        "vi": "Anh ấy toan tính giấu lỗi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "企图 thường có ý không hay hoặc chưa thành. Muốn điều tốt nói 希望."
+    ],
+    "app_note_vi": "Động từ. 不良企图 là ý đồ xấu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "企图 nghĩa là gì?",
+        "answer": "toan tính"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____隐瞒错误。",
+        "answer": "企图"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1039",
+    "level": "HSK5",
+    "hanzi": "前途",
+    "pinyin": "qiántú",
+    "display_meaning_vi": "tương lai",
+    "meaning_en": "future; prospects",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "前途光明 / 有前途",
+    "collocations": [
+      "前途光明",
+      "有前途",
+      "个人前途"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这门专业很有前途。",
+        "pinyin": "Zhè mén zhuānyè hěn yǒu qiántú.",
+        "vi": "Ngành này rất có tương lai.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "前途 là con đường phía trước của người hoặc ngành. Hôm sau nói 明天."
+    ],
+    "app_note_vi": "Danh từ. 前途光明 là triển vọng tốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "前途 nghĩa là gì?",
+        "answer": "tương lai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这门专业很有____。",
+        "answer": "前途"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1040",
+    "level": "HSK5",
+    "hanzi": "规律",
+    "pinyin": "guīlǜ",
+    "display_meaning_vi": "quy luật",
+    "meaning_en": "regular pattern; law",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有规律 / 自然规律",
+    "collocations": [
+      "有规律",
+      "自然规律",
+      "找到规律"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "做事要有规律。",
+        "pinyin": "Zuòshì yào yǒu guīlǜ.",
+        "vi": "Làm việc phải có quy luật.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "律 đọc lǜ, dấu thanh 4 nằm trên ü, không có e theo sau."
+    ],
+    "app_note_vi": "Danh từ. Mối liên hệ lặp lại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "规律 nghĩa là gì?",
+        "answer": "quy luật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "做事要有____。",
+        "answer": "规律"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

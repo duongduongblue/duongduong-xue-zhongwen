@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_901",
+    "level": "HSK5",
+    "hanzi": "承受",
+    "pinyin": "chéngshòu",
+    "display_meaning_vi": "chịu đựng",
+    "meaning_en": "to bear",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "承受压力 / 难以承受",
+    "collocations": [
+      "承受压力",
+      "难以承受",
+      "承受不住"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他承受了很大的压力。",
+        "pinyin": "Tā chéngshòu le hěn dà de yālì.",
+        "vi": "Anh ấy đã chịu áp lực rất lớn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "承受 là gánh một sức nặng hoặc nỗi buồn, không phải cầm một vật."
+    ],
+    "app_note_vi": "Động từ. 难以承受 là khó mà chịu nổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "承受 nghĩa là gì?",
+        "answer": "chịu đựng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____了很大的压力。",
+        "answer": "承受"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_902",
+    "level": "HSK5",
+    "hanzi": "多亏",
+    "pinyin": "duōkuī",
+    "display_meaning_vi": "may nhờ",
+    "meaning_en": "thanks to",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "多亏了你 / 多亏大家",
+    "collocations": [
+      "多亏了你",
+      "多亏大家",
+      "多亏有你"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "多亏了你，我们才赶上车。",
+        "pinyin": "Duōkuī le nǐ, wǒmen cái gǎnshàng chē.",
+        "vi": "May nhờ bạn, chúng tôi mới kịp xe.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "多亏 đứng đầu câu, nói điều tốt đã xảy ra nhờ ai đó."
+    ],
+    "app_note_vi": "Phó từ. Hay đi với 了 và 才.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "多亏 nghĩa là gì?",
+        "answer": "may nhờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____了你，我们才赶上车。",
+        "answer": "多亏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_903",
+    "level": "HSK5",
+    "hanzi": "多余",
+    "pinyin": "duōyú",
+    "display_meaning_vi": "thừa",
+    "meaning_en": "surplus; unnecessary",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "多余的话 / 没有多余",
+    "collocations": [
+      "多余的话",
+      "没有多余",
+      "多余的时间"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些话是多余的。",
+        "pinyin": "Zhèxiē huà shì duōyú de.",
+        "vi": "Những lời này là thừa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "多余 là không cần. Thiếu nói 不够 hoặc 缺乏."
+    ],
+    "app_note_vi": "Tính từ. Nhiều hơn mức cần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "多余 nghĩa là gì?",
+        "answer": "thừa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些话是____的。",
+        "answer": "多余"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_904",
+    "level": "HSK5",
+    "hanzi": "怀念",
+    "pinyin": "huáiniàn",
+    "display_meaning_vi": "nhớ thương",
+    "meaning_en": "to miss",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "怀念故乡 / 深深怀念",
+    "collocations": [
+      "怀念故乡",
+      "深深怀念",
+      "怀念过去"
+    ],
+    "near_synonyms": [
+      {
+        "word": "想念",
+        "difference_vi": "怀念 trang trọng hơn, thường nhớ người hoặc nơi đã xa; 想念 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "怀念 = nhớ thương, trang trọng; 想念 = nhớ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他很怀念故乡。",
+        "pinyin": "Tā hěn huáiniàn gùxiāng.",
+        "vi": "Anh ấy rất nhớ quê.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "怀念 hay nhớ điều đã qua, không phải nhớ một việc sắp làm."
+    ],
+    "app_note_vi": "Động từ. 怀念过去 là nhớ thời đã qua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "怀念 nghĩa là gì?",
+        "answer": "nhớ thương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他很____故乡。",
+        "answer": "怀念"
+      },
+      {
+        "type": "synonym",
+        "prompt": "怀念 khác 想念 ở điểm nào?",
+        "answer": "怀念 trang trọng hơn, thường nhớ người hoặc nơi đã xa; 想念 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_905",
+    "level": "HSK5",
+    "hanzi": "慌张",
+    "pinyin": "huāngzhāng",
+    "display_meaning_vi": "cuống",
+    "meaning_en": "flustered",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不要慌张 / 神色慌张",
+    "collocations": [
+      "不要慌张",
+      "神色慌张",
+      "慌张地走"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别慌张，慢慢说。",
+        "pinyin": "Bié huāngzhāng, mànmàn shuō.",
+        "vi": "Đừng cuống, nói từ từ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "慌张 là mất bình tĩnh. Vội nhưng vẫn rõ việc nói 急忙."
+    ],
+    "app_note_vi": "Tính từ. 神色慌张 là mặt mũi cuống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "慌张 nghĩa là gì?",
+        "answer": "cuống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别____，慢慢说。",
+        "answer": "慌张"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_906",
+    "level": "HSK5",
+    "hanzi": "寂寞",
+    "pinyin": "jìmò",
+    "display_meaning_vi": "cô đơn",
+    "meaning_en": "lonely",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到寂寞 / 很寂寞",
+    "collocations": [
+      "感到寂寞",
+      "很寂寞",
+      "一个人寂寞"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一个人住，她有点寂寞。",
+        "pinyin": "Yí gè rén zhù, tā yǒudiǎn jìmò.",
+        "vi": "Ở một mình, cô ấy hơi cô đơn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè vì 个 là thanh 4. 寂寞 là cảm giác vắng người."
+    ],
+    "app_note_vi": "Tính từ. Khác 安静, vốn chỉ là yên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "寂寞 nghĩa là gì?",
+        "answer": "cô đơn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一个人住，她有点____。",
+        "answer": "寂寞"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_907",
+    "level": "HSK5",
+    "hanzi": "坚决",
+    "pinyin": "jiānjué",
+    "display_meaning_vi": "kiên quyết",
+    "meaning_en": "resolute",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "坚决反对 / 态度坚决",
+    "collocations": [
+      "坚决反对",
+      "态度坚决",
+      "坚决完成"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他坚决不同意。",
+        "pinyin": "Tā jiānjué bù tóngyì.",
+        "vi": "Anh ấy kiên quyết không đồng ý.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不同意的 不 đứng trước thanh 4? 同 tóng là thanh 2, nên 不 vẫn đọc bù."
+    ],
+    "app_note_vi": "Tính từ. Ý đã quyết, không đổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "坚决 nghĩa là gì?",
+        "answer": "kiên quyết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____不同意。",
+        "answer": "坚决"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_908",
+    "level": "HSK5",
+    "hanzi": "朴素",
+    "pinyin": "pǔsù",
+    "display_meaning_vi": "giản dị",
+    "meaning_en": "plain; simple",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生活朴素 / 穿着朴素",
+    "collocations": [
+      "生活朴素",
+      "穿着朴素",
+      "很朴素"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她的衣服很朴素。",
+        "pinyin": "Tā de yīfu hěn pǔsù.",
+        "vi": "Quần áo của cô ấy rất giản dị.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "朴 đọc pǔ, là mộc, giản dị. Họ Phác đọc Piáo."
+    ],
+    "app_note_vi": "Tính từ. Không cầu kỳ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "朴素 nghĩa là gì?",
+        "answer": "giản dị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她的衣服很____。",
+        "answer": "朴素"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_909",
+    "level": "HSK5",
+    "hanzi": "克服",
+    "pinyin": "kèfú",
+    "display_meaning_vi": "khắc phục",
+    "meaning_en": "to overcome",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "克服困难 / 努力克服",
+    "collocations": [
+      "克服困难",
+      "努力克服",
+      "克服缺点"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要克服这个困难。",
+        "pinyin": "Wǒmen yào kèfú zhège kùnnan.",
+        "vi": "Chúng ta phải khắc phục khó khăn này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "困难 đọc kùnnan, âm sau nhẹ. 克服 là vượt qua trở ngại."
+    ],
+    "app_note_vi": "Động từ. Hay đi với 困难 và 缺点.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "克服 nghĩa là gì?",
+        "answer": "khắc phục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要____这个困难。",
+        "answer": "克服"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_910",
+    "level": "HSK5",
+    "hanzi": "刻苦",
+    "pinyin": "kèkǔ",
+    "display_meaning_vi": "chăm chỉ",
+    "meaning_en": "assiduous",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "刻苦学习 / 很刻苦",
+    "collocations": [
+      "刻苦学习",
+      "很刻苦",
+      "刻苦训练"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他学习很刻苦。",
+        "pinyin": "Tā xuéxí hěn kèkǔ.",
+        "vi": "Anh ấy học rất chăm.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "刻苦 là chịu khó lâu dài. Vội một lúc nói 急忙."
+    ],
+    "app_note_vi": "Tính từ. Hay khen việc học và luyện tập.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "刻苦 nghĩa là gì?",
+        "answer": "chăm chỉ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他学习很____。",
+        "answer": "刻苦"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_931",
+    "level": "HSK5",
+    "hanzi": "打交道",
+    "pinyin": "dǎjiāodào",
+    "display_meaning_vi": "tiếp xúc",
+    "meaning_en": "to deal with",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "跟人打交道 / 打交道多",
+    "collocations": [
+      "跟人打交道",
+      "打交道多",
+      "经常打交道"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "工作中要跟人打交道。",
+        "pinyin": "Gōngzuò zhōng yào gēn rén dǎjiāodào.",
+        "vi": "Trong công việc phải tiếp xúc với người.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "打交道 là qua lại để làm việc, không chỉ chào một câu."
+    ],
+    "app_note_vi": "Cụm động từ. Hay đi với 跟.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打交道 nghĩa là gì?",
+        "answer": "tiếp xúc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "工作中要跟人____。",
+        "answer": "打交道"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_932",
+    "level": "HSK5",
+    "hanzi": "交际",
+    "pinyin": "jiāojì",
+    "display_meaning_vi": "giao tiếp",
+    "meaning_en": "social contact",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "交际能力 / 善于交际",
+    "collocations": [
+      "交际能力",
+      "善于交际",
+      "社交交际"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他交际能力很强。",
+        "pinyin": "Tā jiāojì nénglì hěn qiáng.",
+        "vi": "Khả năng giao tiếp của anh ấy rất mạnh.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "强 đọc qiáng, là mạnh. Miễn cưỡng đọc qiǎng. 交际 là gặp gỡ xã giao."
+    ],
+    "app_note_vi": "Danh từ. 善于交际 là khéo giao tiếp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "交际 nghĩa là gì?",
+        "answer": "giao tiếp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____能力很强。",
+        "answer": "交际"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_933",
+    "level": "HSK5",
+    "hanzi": "伙伴",
+    "pinyin": "huǒbàn",
+    "display_meaning_vi": "bạn đồng hành",
+    "meaning_en": "partner; pal",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "合作伙伴 / 好伙伴",
+    "collocations": [
+      "合作伙伴",
+      "好伙伴",
+      "生意伙伴"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他是我的好伙伴。",
+        "pinyin": "Tā shì wǒ de hǎo huǒbàn.",
+        "vi": "Anh ấy là bạn tốt của tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好 đọc hǎo. 伙伴 là người cùng làm hoặc cùng chơi."
+    ],
+    "app_note_vi": "Danh từ. 合作伙伴 là đối tác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "伙伴 nghĩa là gì?",
+        "answer": "bạn đồng hành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他是我的好____。",
+        "answer": "伙伴"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_934",
+    "level": "HSK5",
+    "hanzi": "嘉宾",
+    "pinyin": "jiābīn",
+    "display_meaning_vi": "khách quý",
+    "meaning_en": "honored guest",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "特邀嘉宾 / 嘉宾席",
+    "collocations": [
+      "特邀嘉宾",
+      "嘉宾席",
+      "欢迎嘉宾"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今晚的嘉宾是一位作家。",
+        "pinyin": "Jīnwǎn de jiābīn shì yí wèi zuòjiā.",
+        "vi": "Khách quý tối nay là một nhà văn.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一位 đọc yí wèi vì 位 là thanh 4. 嘉宾 trang trọng hơn 客人."
+    ],
+    "app_note_vi": "Danh từ. Khách được mời trong chương trình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "嘉宾 nghĩa là gì?",
+        "answer": "khách quý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今晚的____是一位作家。",
+        "answer": "嘉宾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_935",
+    "level": "HSK5",
+    "hanzi": "老百姓",
+    "pinyin": "lǎobǎixìng",
+    "display_meaning_vi": "dân thường",
+    "meaning_en": "ordinary people",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "老百姓的生活 / 普通老百姓",
+    "collocations": [
+      "老百姓的生活",
+      "普通老百姓",
+      "为老百姓"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "政策要为老百姓着想。",
+        "pinyin": "Zhèngcè yào wèi lǎobǎixìng zhuóxiǎng.",
+        "vi": "Chính sách phải nghĩ cho người dân.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "为 đọc wèi, là vì. Làm đọc wéi. 老百姓 là cách nói dân thường."
+    ],
+    "app_note_vi": "Danh từ. Không phải một chức vụ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "老百姓 nghĩa là gì?",
+        "answer": "dân thường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "政策要为____着想。",
+        "answer": "老百姓"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_936",
+    "level": "HSK5",
+    "hanzi": "劳驾",
+    "pinyin": "láojià",
+    "display_meaning_vi": "làm ơn",
+    "meaning_en": "excuse me",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "劳驾让一下 / 劳驾您",
+    "collocations": [
+      "劳驾让一下",
+      "劳驾您",
+      "劳驾开门"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "劳驾，请问车站怎么走？",
+        "pinyin": "Láojià, qǐngwèn chēzhàn zěnme zǒu?",
+        "vi": "Làm ơn, xin hỏi ga đi lối nào?",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "劳驾 là lời lịch sự khi nhờ hoặc hỏi đường. Bạn thân thường nói 请."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. Đứng đầu câu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "劳驾 nghĩa là gì?",
+        "answer": "làm ơn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____，请问车站怎么走？",
+        "answer": "劳驾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_937",
+    "level": "HSK5",
+    "hanzi": "借口",
+    "pinyin": "jièkǒu",
+    "display_meaning_vi": "cớ",
+    "meaning_en": "excuse",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "找借口 / 借口太多",
+    "collocations": [
+      "找借口",
+      "借口太多",
+      "没有借口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别找借口，快开始。",
+        "pinyin": "Bié zhǎo jièkǒu, kuài kāishǐ.",
+        "vi": "Đừng tìm cớ, bắt đầu đi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "借口 là lý do để trốn việc. Lý do thật nói 原因."
+    ],
+    "app_note_vi": "Danh từ. 找借口 là kiếm cớ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "借口 nghĩa là gì?",
+        "answer": "cớ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别找____，快开始。",
+        "answer": "借口"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_938",
+    "level": "HSK5",
+    "hanzi": "劝",
+    "pinyin": "quàn",
+    "display_meaning_vi": "khuyên",
+    "meaning_en": "to advise",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "劝他 / 好言相劝",
+    "collocations": [
+      "劝他",
+      "好言相劝",
+      "劝了半天"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我劝他早点休息。",
+        "pinyin": "Wǒ quàn tā zǎodiǎn xiūxi.",
+        "vi": "Tôi khuyên anh ấy nghỉ sớm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "早点 đọc zǎodiǎn. 休息 đọc xiūxi, âm sau nhẹ. 劝 là bảo người khác nên làm điều tốt hơn."
+    ],
+    "app_note_vi": "Động từ. 劝了半天 là khuyên mãi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "劝 nghĩa là gì?",
+        "answer": "khuyên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____他早点休息。",
+        "answer": "劝"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_939",
+    "level": "HSK5",
+    "hanzi": "夸",
+    "pinyin": "kuā",
+    "display_meaning_vi": "khen",
+    "meaning_en": "to praise",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "夸孩子 / 夸了两句",
+    "collocations": [
+      "夸孩子",
+      "夸了两句",
+      "别夸"
+    ],
+    "near_synonyms": [
+      {
+        "word": "称赞",
+        "difference_vi": "夸 thông dụng trong lời nói; 称赞 trang trọng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "夸 = khen, thông dụng; 称赞 = khen, trang trọng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师夸她进步快。",
+        "pinyin": "Lǎoshī kuā tā jìnbù kuài.",
+        "vi": "Thầy khen cô ấy tiến bộ nhanh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "夸 là khen miệng. Chê nói 批评."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "夸 nghĩa là gì?",
+        "answer": "khen"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____她进步快。",
+        "answer": "夸"
+      },
+      {
+        "type": "synonym",
+        "prompt": "夸 khác 称赞 ở điểm nào?",
+        "answer": "夸 thông dụng trong lời nói; 称赞 trang trọng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_940",
+    "level": "HSK5",
+    "hanzi": "敬爱",
+    "pinyin": "jìngài",
+    "display_meaning_vi": "kính yêu",
+    "meaning_en": "respected and loved",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "敬爱的老师 / 受人敬爱",
+    "collocations": [
+      "敬爱的老师",
+      "受人敬爱",
+      "敬爱父母"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "敬爱的老师，您好。",
+        "pinyin": "Jìngài de lǎoshī, nín hǎo.",
+        "vi": "Thưa thầy kính mến, xin chào.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好 đọc hǎo. 敬爱 trang trọng, thường viết trong thư hoặc lời chào."
+    ],
+    "app_note_vi": "Động từ. Hay đứng trước 老师.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "敬爱 nghĩa là gì?",
+        "answer": "kính yêu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____的老师，您好。",
+        "answer": "敬爱"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

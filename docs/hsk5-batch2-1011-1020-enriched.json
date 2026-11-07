@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_1011",
+    "level": "HSK5",
+    "hanzi": "名片",
+    "pinyin": "míngpiàn",
+    "display_meaning_vi": "danh thiếp",
+    "meaning_en": "business card",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一张名片 / 交换名片",
+    "collocations": [
+      "一张名片",
+      "交换名片",
+      "留下名片"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请留下你的名片。",
+        "pinyin": "Qǐng liú xià nǐ de míngpiàn.",
+        "vi": "Xin để lại danh thiếp của bạn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "片 đọc piàn. 相片 đọc piān. 一张 đọc yì zhāng vì 张 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. Thẻ ghi tên và cách liên lạc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "名片 nghĩa là gì?",
+        "answer": "danh thiếp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请留下你的____。",
+        "answer": "名片"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1012",
+    "level": "HSK5",
+    "hanzi": "磁带",
+    "pinyin": "cídài",
+    "display_meaning_vi": "băng cassette",
+    "meaning_en": "cassette tape",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一盘磁带 / 听磁带",
+    "collocations": [
+      "一盘磁带",
+      "听磁带",
+      "磁带录音"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我还留着一盘磁带。",
+        "pinyin": "Wǒ hái liú zhe yì pán cídài.",
+        "vi": "Tôi vẫn giữ một cuốn băng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "还 đọc hái. 一盘 đọc yì pán vì 盘 là thanh 2. 着 đọc nhẹ. 磁带 là băng ghi tiếng đời trước."
+    ],
+    "app_note_vi": "Danh từ. Đồ ghi âm bằng từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "磁带 nghĩa là gì?",
+        "answer": "băng cassette"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我还留着一盘____。",
+        "answer": "磁带"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1013",
+    "level": "HSK5",
+    "hanzi": "谜语",
+    "pinyin": "míyǔ",
+    "display_meaning_vi": "câu đố",
+    "meaning_en": "riddle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "猜谜语 / 一个谜语",
+    "collocations": [
+      "猜谜语",
+      "一个谜语",
+      "出谜语"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小朋友在猜谜语。",
+        "pinyin": "Xiǎopéngyǒu zài cāi míyǔ.",
+        "vi": "Các bạn nhỏ đang đoán câu đố.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè. 谜语 là câu nói vòng để người khác đoán."
+    ],
+    "app_note_vi": "Danh từ. 猜谜语 là đố vui.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "谜语 nghĩa là gì?",
+        "answer": "câu đố"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小朋友在猜____。",
+        "answer": "谜语"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1014",
+    "level": "HSK5",
+    "hanzi": "目录",
+    "pinyin": "mùlù",
+    "display_meaning_vi": "mục lục",
+    "meaning_en": "catalog; table of contents",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "书的目录 / 查看目录",
+    "collocations": [
+      "书的目录",
+      "查看目录",
+      "商品目录"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "先看目录再读书。",
+        "pinyin": "Xiān kàn mùlù zài dú shū.",
+        "vi": "Xem mục lục rồi hãy đọc sách.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. 目录 là danh sách chương hoặc hàng."
+    ],
+    "app_note_vi": "Danh từ. Giúp tìm nhanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "目录 nghĩa là gì?",
+        "answer": "mục lục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "先看____再读书。",
+        "answer": "目录"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1015",
+    "level": "HSK5",
+    "hanzi": "秘书",
+    "pinyin": "mìshū",
+    "display_meaning_vi": "thư ký",
+    "meaning_en": "secretary",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当秘书 / 私人秘书",
+    "collocations": [
+      "当秘书",
+      "私人秘书",
+      "秘书工作"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在公司当秘书。",
+        "pinyin": "Tā zài gōngsī dāng mìshū.",
+        "vi": "Cô ấy làm thư ký ở công ty.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "当 đọc dāng, là làm nghề. Mắc lừa đọc dàng."
+    ],
+    "app_note_vi": "Danh từ. Người sắp xếp việc cho cấp trên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "秘书 nghĩa là gì?",
+        "answer": "thư ký"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在公司当____。",
+        "answer": "秘书"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1016",
+    "level": "HSK5",
+    "hanzi": "面积",
+    "pinyin": "miànjī",
+    "display_meaning_vi": "diện tích",
+    "meaning_en": "area",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "面积大 / 占地面积",
+    "collocations": [
+      "面积大",
+      "占地面积",
+      "建筑面积"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个房间面积不大。",
+        "pinyin": "Zhège fángjiān miànjī bú dà.",
+        "vi": "Diện tích phòng này không lớn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不大 đọc bú dà vì 大 là thanh 4. 面积 là mặt rộng bao nhiêu."
+    ],
+    "app_note_vi": "Danh từ. Thường tính bằng mét vuông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "面积 nghĩa là gì?",
+        "answer": "diện tích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个房间____不大。",
+        "answer": "面积"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1017",
+    "level": "HSK5",
+    "hanzi": "名牌",
+    "pinyin": "míngpái",
+    "display_meaning_vi": "hàng hiệu",
+    "meaning_en": "famous brand",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "名牌包 / 名牌产品",
+    "collocations": [
+      "名牌包",
+      "名牌产品",
+      "穿名牌"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他不追求名牌。",
+        "pinyin": "Tā bù zhuīqiú míngpái.",
+        "vi": "Anh ấy không chạy theo hàng hiệu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "追 là thanh 1, nên 不 vẫn đọc bù. 名牌 là nhãn nổi tiếng, thường đắt."
+    ],
+    "app_note_vi": "Danh từ. 名牌产品 là sản phẩm có thương hiệu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "名牌 nghĩa là gì?",
+        "answer": "hàng hiệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他不追求____。",
+        "answer": "名牌"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1018",
+    "level": "HSK5",
+    "hanzi": "陌生",
+    "pinyin": "mòshēng",
+    "display_meaning_vi": "lạ",
+    "meaning_en": "unfamiliar",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "陌生人 / 感到陌生",
+    "collocations": [
+      "陌生人",
+      "感到陌生",
+      "很陌生"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里的路我很陌生。",
+        "pinyin": "Zhèlǐ de lù wǒ hěn mòshēng.",
+        "vi": "Đường ở đây tôi rất lạ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "陌生 là chưa quen. Đã biết nói 熟悉."
+    ],
+    "app_note_vi": "Tính từ. Nói người, nơi hoặc việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "陌生 nghĩa là gì?",
+        "answer": "lạ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里的路我很____。",
+        "answer": "陌生"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1019",
+    "level": "HSK5",
+    "hanzi": "描写",
+    "pinyin": "miáoxiě",
+    "display_meaning_vi": "miêu tả",
+    "meaning_en": "to describe",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "描写风景 / 详细描写",
+    "collocations": [
+      "描写风景",
+      "详细描写",
+      "描写人物"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "文章描写了海边的风景。",
+        "pinyin": "Wénzhāng miáoxiě le hǎibiān de fēngjǐng.",
+        "vi": "Bài văn miêu tả cảnh bờ biển.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "描写 là viết hoặc kể cho người đọc thấy. Tóm tắt nói 概括."
+    ],
+    "app_note_vi": "Động từ. 描写人物 là tả nhân vật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "描写 nghĩa là gì?",
+        "answer": "miêu tả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "文章____了海边的风景。",
+        "answer": "描写"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1020",
+    "level": "HSK5",
+    "hanzi": "批准",
+    "pinyin": "pīzhǔn",
+    "display_meaning_vi": "phê duyệt",
+    "meaning_en": "to approve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "批准申请 / 得到批准",
+    "collocations": [
+      "批准申请",
+      "得到批准",
+      "正式批准"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校批准了他的申请。",
+        "pinyin": "Xuéxiào pīzhǔn le tā de shēnqǐng.",
+        "vi": "Trường đã duyệt đơn của anh ấy.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "批 đọc pī, là phê. Khoác áo viết 披, cũng đọc pī, là chữ khác. Một lô hàng cũng nói 批, cùng chữ với phê."
+    ],
+    "app_note_vi": "Động từ trang trọng. Cơ quan hoặc cấp trên đồng ý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "批准 nghĩa là gì?",
+        "answer": "phê duyệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校____了他的申请。",
+        "answer": "批准"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

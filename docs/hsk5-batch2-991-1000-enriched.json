@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_991",
+    "level": "HSK5",
+    "hanzi": "贸易",
+    "pinyin": "màoyì",
+    "display_meaning_vi": "thương mại",
+    "meaning_en": "trade",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "国际贸易 / 贸易公司",
+    "collocations": [
+      "国际贸易",
+      "贸易公司",
+      "贸易额"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两国贸易很频繁。",
+        "pinyin": "Liǎng guó màoyì hěn pínfán.",
+        "vi": "Thương mại hai nước rất nhộn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "贸易 là mua bán giữa vùng hoặc giữa nước. Mua một món nói 买."
+    ],
+    "app_note_vi": "Danh từ. 贸易公司 là công ty thương mại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "贸易 nghĩa là gì?",
+        "answer": "thương mại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两国____很频繁。",
+        "answer": "贸易"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_992",
+    "level": "HSK5",
+    "hanzi": "股票",
+    "pinyin": "gǔpiào",
+    "display_meaning_vi": "cổ phiếu",
+    "meaning_en": "stock; share",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "买股票 / 股票市场",
+    "collocations": [
+      "买股票",
+      "股票市场",
+      "股票价格"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在研究股票。",
+        "pinyin": "Tā zài yánjiū gǔpiào.",
+        "vi": "Anh ấy đang tìm hiểu cổ phiếu.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "股票 là phần sở hữu một công ty. Giá lên xuống, có rủi ro."
+    ],
+    "app_note_vi": "Danh từ. 股票市场 là thị trường chứng khoán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "股票 nghĩa là gì?",
+        "answer": "cổ phiếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他在研究____。",
+        "answer": "股票"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_993",
+    "level": "HSK5",
+    "hanzi": "利息",
+    "pinyin": "lìxī",
+    "display_meaning_vi": "tiền lãi",
+    "meaning_en": "interest",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "付利息 / 利息高",
+    "collocations": [
+      "付利息",
+      "利息高",
+      "银行利息"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这笔贷款要付利息。",
+        "pinyin": "Zhè bǐ dàikuǎn yào fù lìxī.",
+        "vi": "Khoản vay này phải trả lãi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "银行的 行 đọc háng. 利息 là tiền trả thêm khi vay hoặc gửi."
+    ],
+    "app_note_vi": "Danh từ. 利息高 là lãi suất cao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "利息 nghĩa là gì?",
+        "answer": "tiền lãi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这笔贷款要付____。",
+        "answer": "利息"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_994",
+    "level": "HSK5",
+    "hanzi": "赔偿",
+    "pinyin": "péicháng",
+    "display_meaning_vi": "bồi thường",
+    "meaning_en": "to compensate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "赔偿损失 / 要求赔偿",
+    "collocations": [
+      "赔偿损失",
+      "要求赔偿",
+      "经济赔偿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司赔偿了损失。",
+        "pinyin": "Gōngsī péicháng le sǔnshī.",
+        "vi": "Công ty đã bồi thường thiệt hại.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "偿 đọc cháng. Chữ này là 偿, không phải 长 cũng không phải 常."
+    ],
+    "app_note_vi": "Động từ. Trả lại giá trị đã làm hỏng hoặc làm mất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "赔偿 nghĩa là gì?",
+        "answer": "bồi thường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司____了损失。",
+        "answer": "赔偿"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_995",
+    "level": "HSK5",
+    "hanzi": "破产",
+    "pinyin": "pòchǎn",
+    "display_meaning_vi": "phá sản",
+    "meaning_en": "to go bankrupt",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "公司破产 / 破产了",
+    "collocations": [
+      "公司破产",
+      "破产了",
+      "宣布破产"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "那家公司破产了。",
+        "pinyin": "Nà jiā gōngsī pòchǎn le.",
+        "vi": "Công ty đó đã phá sản.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "破产 là không trả nổi nợ và phải dừng. Mệt lả không nói 破产."
+    ],
+    "app_note_vi": "Động từ. 宣布破产 là tuyên bố phá sản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "破产 nghĩa là gì?",
+        "answer": "phá sản"
+      },
+      {
+        "type": "cloze",
+        "prompt": "那家公司____了。",
+        "answer": "破产"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_996",
+    "level": "HSK5",
+    "hanzi": "能源",
+    "pinyin": "néngyuán",
+    "display_meaning_vi": "năng lượng",
+    "meaning_en": "energy source",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "节约能源 / 新能源",
+    "collocations": [
+      "节约能源",
+      "新能源",
+      "能源不足"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要节约能源。",
+        "pinyin": "Wǒmen yào jiéyuē néngyuán.",
+        "vi": "Chúng ta phải tiết kiệm năng lượng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "能源 là nguồn như điện, dầu, than. Sức một người nói 精力."
+    ],
+    "app_note_vi": "Danh từ. 新能源 là năng lượng mới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "能源 nghĩa là gì?",
+        "answer": "năng lượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要节约____。",
+        "answer": "能源"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_997",
+    "level": "HSK5",
+    "hanzi": "农业",
+    "pinyin": "nóngyè",
+    "display_meaning_vi": "nông nghiệp",
+    "meaning_en": "agriculture",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "发展农业 / 农业生产",
+    "collocations": [
+      "发展农业",
+      "农业生产",
+      "现代农业"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个地区农业很发达。",
+        "pinyin": "Zhège dìqū nóngyè hěn fādá.",
+        "vi": "Nông nghiệp vùng này rất phát triển.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. 农业 là trồng trọt và chăn nuôi."
+    ],
+    "app_note_vi": "Danh từ. Đối với công nghiệp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "农业 nghĩa là gì?",
+        "answer": "nông nghiệp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个地区____很发达。",
+        "answer": "农业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_998",
+    "level": "HSK5",
+    "hanzi": "农民",
+    "pinyin": "nóngmín",
+    "display_meaning_vi": "nông dân",
+    "meaning_en": "farmer",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "农民收入 / 一位农民",
+    "collocations": [
+      "农民收入",
+      "一位农民",
+      "青年农民"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "农民在田里劳动。",
+        "pinyin": "Nóngmín zài tián lǐ láodòng.",
+        "vi": "Nông dân làm việc trên ruộng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一位 đọc yí wèi. 农民 là người làm nông."
+    ],
+    "app_note_vi": "Danh từ. 农民收入 là thu nhập của nông dân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "农民 nghĩa là gì?",
+        "answer": "nông dân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____在田里劳动。",
+        "answer": "农民"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_999",
+    "level": "HSK5",
+    "hanzi": "人口",
+    "pinyin": "rénkǒu",
+    "display_meaning_vi": "dân số",
+    "meaning_en": "population",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "人口众多 / 人口增长",
+    "collocations": [
+      "人口众多",
+      "人口增长",
+      "城市人口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个城市人口很多。",
+        "pinyin": "Zhège chéngshì rénkǒu hěn duō.",
+        "vi": "Dân số thành phố này rất đông.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "人口 là số người của một vùng, không phải một người."
+    ],
+    "app_note_vi": "Danh từ. 人口增长 là dân số tăng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人口 nghĩa là gì?",
+        "answer": "dân số"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个城市____很多。",
+        "answer": "人口"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1000",
+    "level": "HSK5",
+    "hanzi": "吨",
+    "pinyin": "dūn",
+    "display_meaning_vi": "tấn",
+    "meaning_en": "ton",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一吨 / 十吨",
+    "collocations": [
+      "一吨",
+      "十吨",
+      "多少吨"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这批货有十吨。",
+        "pinyin": "Zhè pī huò yǒu shí dūn.",
+        "vi": "Lô hàng này nặng mười tấn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一吨 đọc yí dūn vì 吨 là thanh 4. 批 đọc pī, là một lô. Phê duyệt là 批准, cũng đọc pī, chữ dùng khác."
+    ],
+    "app_note_vi": "Danh từ đo khối lượng. Một tấn bằng một nghìn kilôgam.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吨 nghĩa là gì?",
+        "answer": "tấn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这批货有十____。",
+        "answer": "吨"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

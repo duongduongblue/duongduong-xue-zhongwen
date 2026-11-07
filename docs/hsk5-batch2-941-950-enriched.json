@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_941",
+    "level": "HSK5",
+    "hanzi": "嫁",
+    "pinyin": "jià",
+    "display_meaning_vi": "lấy chồng",
+    "meaning_en": "to marry (of a woman)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "嫁人 / 嫁到",
+    "collocations": [
+      "嫁人",
+      "嫁到",
+      "出嫁"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她明年嫁人。",
+        "pinyin": "Tā míngnián jià rén.",
+        "vi": "Năm sau cô ấy lấy chồng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "嫁 là người nữ lấy chồng. Người nam cưới vợ nói 娶. Chữ này không phải 假."
+    ],
+    "app_note_vi": "Động từ. 出嫁 là đi lấy chồng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "嫁 nghĩa là gì?",
+        "answer": "lấy chồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她明年____人。",
+        "answer": "嫁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_942",
+    "level": "HSK5",
+    "hanzi": "娶",
+    "pinyin": "qǔ",
+    "display_meaning_vi": "cưới vợ",
+    "meaning_en": "to marry (of a man)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "娶妻 / 娶了",
+    "collocations": [
+      "娶妻",
+      "娶了",
+      "娶媳妇"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他去年娶了妻子。",
+        "pinyin": "Tā qùnián qǔ le qīzi.",
+        "vi": "Năm ngoái anh ấy đã cưới vợ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "妻子 đọc qīzi, âm sau nhẹ. 娶 chỉ dùng cho người nam."
+    ],
+    "app_note_vi": "Động từ. 娶妻 là cưới vợ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "娶 nghĩa là gì?",
+        "answer": "cưới vợ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他去年____了妻子。",
+        "answer": "娶"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_943",
+    "level": "HSK5",
+    "hanzi": "离婚",
+    "pinyin": "líhūn",
+    "display_meaning_vi": "ly hôn",
+    "meaning_en": "to divorce",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "离婚了 / 协议离婚",
+    "collocations": [
+      "离婚了",
+      "协议离婚",
+      "办理离婚"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们去年离婚了。",
+        "pinyin": "Tāmen qùnián líhūn le.",
+        "vi": "Năm ngoái họ đã ly hôn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "离婚 là kết thúc hôn nhân. Kết hôn nói 结婚."
+    ],
+    "app_note_vi": "Động từ. Nói ngắn, không kể chi tiết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "离婚 nghĩa là gì?",
+        "answer": "ly hôn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们去年____了。",
+        "answer": "离婚"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_944",
+    "level": "HSK5",
+    "hanzi": "戒指",
+    "pinyin": "jièzhi",
+    "display_meaning_vi": "nhẫn",
+    "meaning_en": "ring",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一枚戒指 / 金戒指",
+    "collocations": [
+      "一枚戒指",
+      "金戒指",
+      "戴戒指"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她戴着一枚戒指。",
+        "pinyin": "Tā dài zhe yì méi jièzhi.",
+        "vi": "Cô ấy đeo một chiếc nhẫn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "指 đọc nhẹ zhi: jièzhi. 着 đọc nhẹ zhe. 一枚 đọc yì méi vì 枚 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. 戴戒指 là đeo nhẫn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "戒指 nghĩa là gì?",
+        "answer": "nhẫn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她戴着一枚____。",
+        "answer": "戒指"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_945",
+    "level": "HSK5",
+    "hanzi": "年纪",
+    "pinyin": "niánjì",
+    "display_meaning_vi": "tuổi",
+    "meaning_en": "age",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "年纪大 / 上了年纪",
+    "collocations": [
+      "年纪大",
+      "上了年纪",
+      "一把年纪"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爷爷年纪大了。",
+        "pinyin": "Yéye niánjì dà le.",
+        "vi": "Ông đã nhiều tuổi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "年纪 hay nói tuổi người lớn. Hỏi trẻ thường nói 几岁."
+    ],
+    "app_note_vi": "Danh từ. 上了年纪 là đã có tuổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "年纪 nghĩa là gì?",
+        "answer": "tuổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爷爷____大了。",
+        "answer": "年纪"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_946",
+    "level": "HSK5",
+    "hanzi": "青春",
+    "pinyin": "qīngchūn",
+    "display_meaning_vi": "tuổi trẻ",
+    "meaning_en": "youth",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "青春时代 / 宝贵青春",
+    "collocations": [
+      "青春时代",
+      "宝贵青春",
+      "青春活力"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "青春时代过得很快。",
+        "pinyin": "Qīngchūn shídài guò de hěn kuài.",
+        "vi": "Thời trẻ trôi rất nhanh.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 đọc nhẹ de. 青春 là giai đoạn trẻ, không phải một người cụ thể."
+    ],
+    "app_note_vi": "Danh từ. 青春时代 là những năm còn trẻ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "青春 nghĩa là gì?",
+        "answer": "tuổi trẻ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____时代过得很快。",
+        "answer": "青春"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_947",
+    "level": "HSK5",
+    "hanzi": "决心",
+    "pinyin": "juéxīn",
+    "display_meaning_vi": "quyết tâm",
+    "meaning_en": "determination",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "下决心 / 决心很大",
+    "collocations": [
+      "下决心",
+      "决心很大",
+      "有决心"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他下决心学好中文。",
+        "pinyin": "Tā xià juéxīn xuéhǎo Zhōngwén.",
+        "vi": "Anh ấy quyết tâm học tốt tiếng Trung.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "决心 là ý đã quyết. Chữ 决 không phải 觉. Ngủ mới dùng 觉, đọc jiào."
+    ],
+    "app_note_vi": "Danh từ. 下决心 là đặt quyết tâm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "决心 nghĩa là gì?",
+        "answer": "quyết tâm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他下____学好中文。",
+        "answer": "决心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_948",
+    "level": "HSK5",
+    "hanzi": "开幕式",
+    "pinyin": "kāimùshì",
+    "display_meaning_vi": "lễ khai mạc",
+    "meaning_en": "opening ceremony",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "举行开幕式 / 开幕式上",
+    "collocations": [
+      "举行开幕式",
+      "开幕式上",
+      "出席开幕式"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "开幕式晚上七点开始。",
+        "pinyin": "Kāimùshì wǎnshang qī diǎn kāishǐ.",
+        "vi": "Lễ khai mạc bắt đầu lúc bảy giờ tối.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "晚上 đọc wǎnshang. 开幕式 là lễ bắt đầu một sự kiện."
+    ],
+    "app_note_vi": "Danh từ. Lễ kết thúc nói 闭幕式.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "开幕式 nghĩa là gì?",
+        "answer": "lễ khai mạc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____晚上七点开始。",
+        "answer": "开幕式"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_949",
+    "level": "HSK5",
+    "hanzi": "军事",
+    "pinyin": "jūnshì",
+    "display_meaning_vi": "quân sự",
+    "meaning_en": "military affairs",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "军事基地 / 军事新闻",
+    "collocations": [
+      "军事基地",
+      "军事新闻",
+      "军事训练"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在看军事新闻。",
+        "pinyin": "Tā zài kàn jūnshì xīnwén.",
+        "vi": "Anh ấy đang xem tin quân sự.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. 新闻 đọc xīnwén. 军事 là việc của quân đội."
+    ],
+    "app_note_vi": "Danh từ. Không phải một trận đánh cụ thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "军事 nghĩa là gì?",
+        "answer": "quân sự"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他在看____新闻。",
+        "answer": "军事"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_950",
+    "level": "HSK5",
+    "hanzi": "捐",
+    "pinyin": "juān",
+    "display_meaning_vi": "quyên góp",
+    "meaning_en": "to donate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "捐钱 / 捐衣服",
+    "collocations": [
+      "捐钱",
+      "捐衣服",
+      "捐给学校"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "大家捐了一些衣服。",
+        "pinyin": "Dàjiā juān le yìxiē yīfu.",
+        "vi": "Mọi người đã quyên một ít quần áo.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一些 đọc yìxiē. 捐 là cho đi để giúp, không phải bán."
+    ],
+    "app_note_vi": "Động từ. 捐钱 là quyên tiền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "捐 nghĩa là gì?",
+        "answer": "quyên góp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "大家____了一些衣服。",
+        "answer": "捐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

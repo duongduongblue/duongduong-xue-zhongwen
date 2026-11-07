@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_981",
+    "level": "HSK5",
+    "hanzi": "海关",
+    "pinyin": "hǎiguān",
+    "display_meaning_vi": "hải quan",
+    "meaning_en": "customs",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "过海关 / 海关检查",
+    "collocations": [
+      "过海关",
+      "海关检查",
+      "海关人员"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "出国要过海关。",
+        "pinyin": "Chūguó yào guò hǎiguān.",
+        "vi": "Ra nước ngoài phải qua hải quan.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "海关 là cửa kiểm tra hàng và người khi xuất nhập cảnh."
+    ],
+    "app_note_vi": "Danh từ. 过海关 là làm thủ tục hải quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "海关 nghĩa là gì?",
+        "answer": "hải quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "出国要过____。",
+        "answer": "海关"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_982",
+    "level": "HSK5",
+    "hanzi": "郊区",
+    "pinyin": "jiāoqū",
+    "display_meaning_vi": "ngoại ô",
+    "meaning_en": "suburbs",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "住在郊区 / 郊区的房子",
+    "collocations": [
+      "住在郊区",
+      "郊区的房子",
+      "城市郊区"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们住在郊区。",
+        "pinyin": "Tāmen zhù zài jiāoqū.",
+        "vi": "Họ ở ngoại ô.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "郊区 là vùng sát thành phố, không phải nông thôn xa."
+    ],
+    "app_note_vi": "Danh từ. Yên hơn trung tâm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "郊区 nghĩa là gì?",
+        "answer": "ngoại ô"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们住在____。",
+        "answer": "郊区"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_983",
+    "level": "HSK5",
+    "hanzi": "迷路",
+    "pinyin": "mílù",
+    "display_meaning_vi": "lạc đường",
+    "meaning_en": "to get lost",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "迷路了 / 别迷路",
+    "collocations": [
+      "迷路了",
+      "别迷路",
+      "在山里迷路"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们在山里迷路了。",
+        "pinyin": "Wǒmen zài shān lǐ mílù le.",
+        "vi": "Chúng tôi lạc trong núi.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "迷路 là không biết đường về. Quên một từ không nói 迷路."
+    ],
+    "app_note_vi": "Động từ. 别迷路 là đừng đi lạc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "迷路 nghĩa là gì?",
+        "answer": "lạc đường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们在山里____了。",
+        "answer": "迷路"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_984",
+    "level": "HSK5",
+    "hanzi": "漏",
+    "pinyin": "lòu",
+    "display_meaning_vi": "rò",
+    "meaning_en": "to leak",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "漏水 / 屋顶漏",
+    "collocations": [
+      "漏水",
+      "屋顶漏",
+      "漏了一滴"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "屋顶漏水了。",
+        "pinyin": "Wūdǐng lòu shuǐ le.",
+        "vi": "Mái nhà bị dột.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "漏 là chữ nước rò hoặc sót. Lộ ra ngoài viết 露, là chữ khác. 露 còn đọc lù trong 暴露."
+    ],
+    "app_note_vi": "Động từ. 漏水 là chảy nước chỗ không mong muốn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "漏 nghĩa là gì?",
+        "answer": "rò"
+      },
+      {
+        "type": "cloze",
+        "prompt": "屋顶____水了。",
+        "answer": "漏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_985",
+    "level": "HSK5",
+    "hanzi": "摩托车",
+    "pinyin": "mótuōchē",
+    "display_meaning_vi": "xe máy",
+    "meaning_en": "motorcycle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "骑摩托车 / 一辆摩托车",
+    "collocations": [
+      "骑摩托车",
+      "一辆摩托车",
+      "摩托车头盔"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他骑摩托车上班。",
+        "pinyin": "Tā qí mótuōchē shàngbān.",
+        "vi": "Anh ấy đi xe máy đi làm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一辆 đọc yí liàng vì 辆 là thanh 4. 摩托车 có hai bánh và động cơ."
+    ],
+    "app_note_vi": "Danh từ. 骑摩托车 là chạy xe máy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摩托车 nghĩa là gì?",
+        "answer": "xe máy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他骑____上班。",
+        "answer": "摩托车"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_986",
+    "level": "HSK5",
+    "hanzi": "碰见",
+    "pinyin": "pèngjiàn",
+    "display_meaning_vi": "gặp tình cờ",
+    "meaning_en": "to run into",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "碰见朋友 / 偶然碰见",
+    "collocations": [
+      "碰见朋友",
+      "偶然碰见",
+      "在路上碰见"
+    ],
+    "near_synonyms": [
+      {
+        "word": "遇见",
+        "difference_vi": "碰见 nhấn mạnh không hẹn; 遇见 có thể là gặp nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "碰见 = gặp tình cờ; 遇见 = gặp.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我在路上碰见了他。",
+        "pinyin": "Wǒ zài lùshang pèngjiàn le tā.",
+        "vi": "Tôi gặp anh ấy trên đường.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "路上 đọc lùshang, âm sau nhẹ. 碰见 là không hẹn trước."
+    ],
+    "app_note_vi": "Động từ. Gặp bất ngờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "碰见 nghĩa là gì?",
+        "answer": "gặp tình cờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我在路上____了他。",
+        "answer": "碰见"
+      },
+      {
+        "type": "synonym",
+        "prompt": "碰见 khác 遇见 ở điểm nào?",
+        "answer": "碰见 nhấn mạnh không hẹn; 遇见 có thể là gặp nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_987",
+    "level": "HSK5",
+    "hanzi": "飘",
+    "pinyin": "piāo",
+    "display_meaning_vi": "bay",
+    "meaning_en": "to flutter",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "飘来 / 雪花飘",
+    "collocations": [
+      "飘来",
+      "雪花飘",
+      "旗子飘"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雪花从天上飘下来。",
+        "pinyin": "Xuěhuā cóng tiānshang piāo xiàlai.",
+        "vi": "Bông tuyết bay từ trời xuống.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "飘 là chữ gió, vật nhẹ bay. Nổi trên nước viết 漂, chữ khác. 漂还 đọc piǎo khi nghĩa là tẩy, và piào khi nghĩa là đẹp. 天上 đọc tiānshang. 下来 đọc xiàlai."
+    ],
+    "app_note_vi": "Động từ. Bay chậm trong không khí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "飘 nghĩa là gì?",
+        "answer": "bay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雪花从天上____下来。",
+        "answer": "飘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_988",
+    "level": "HSK5",
+    "hanzi": "频道",
+    "pinyin": "píndào",
+    "display_meaning_vi": "kênh",
+    "meaning_en": "channel",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "换频道 / 电视频道",
+    "collocations": [
+      "换频道",
+      "电视频道",
+      "这个频道"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请换一个频道。",
+        "pinyin": "Qǐng huàn yí gè píndào.",
+        "vi": "Xin đổi một kênh.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè. 频道 là kênh truyền hình hoặc radio."
+    ],
+    "app_note_vi": "Danh từ. 换频道 là chuyển kênh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "频道 nghĩa là gì?",
+        "answer": "kênh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请换一个____。",
+        "answer": "频道"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_989",
+    "level": "HSK5",
+    "hanzi": "名胜",
+    "pinyin": "míngshèng",
+    "display_meaning_vi": "thắng cảnh",
+    "meaning_en": "famous scenic spot",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "名胜古迹 / 一处名胜",
+    "collocations": [
+      "名胜古迹",
+      "一处名胜",
+      "参观名胜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里是一处名胜。",
+        "pinyin": "Zhèlǐ shì yí chù míngshèng.",
+        "vi": "Đây là một thắng cảnh.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一处 đọc yí chù vì 处 nơi chốn đọc chù, thanh 4. Đối xử đọc chǔ, như 相处."
+    ],
+    "app_note_vi": "Danh từ. Nơi nổi tiếng đáng xem.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "名胜 nghĩa là gì?",
+        "answer": "thắng cảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里是一处____。",
+        "answer": "名胜"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_990",
+    "level": "HSK5",
+    "hanzi": "明信片",
+    "pinyin": "míngxìnpiàn",
+    "display_meaning_vi": "bưu thiếp",
+    "meaning_en": "postcard",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一张明信片 / 寄明信片",
+    "collocations": [
+      "一张明信片",
+      "寄明信片",
+      "风景明信片"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我寄了一张明信片。",
+        "pinyin": "Wǒ jì le yì zhāng míngxìnpiàn.",
+        "vi": "Tôi đã gửi một bưu thiếp.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "片 đọc piàn. 相片 đọc piān. 一张 đọc yì zhāng vì 张 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. Thiệp có hình, gửi qua bưu điện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "明信片 nghĩa là gì?",
+        "answer": "bưu thiếp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我寄了一张____。",
+        "answer": "明信片"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
