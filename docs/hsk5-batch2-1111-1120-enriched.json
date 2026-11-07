@@ -1,0 +1,567 @@
+[
+  {
+    "id": "hsk5_batch2_1111",
+    "level": "HSK5",
+    "hanzi": "实习",
+    "pinyin": "shíxí",
+    "topic_id": "work",
+    "display_meaning_vi": "thực tập",
+    "meaning_en": "internship",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "实习生 / 实习期",
+    "collocations": [
+      "实习生",
+      "实习期",
+      "毕业实习"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "实习 là đi thực tập; 实践 là thực hành, thực tiễn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在医院实习了半年。",
+        "pinyin": "Tā zài yī yuàn shí xí le bàn nián.",
+        "vi": "Cô ấy thực tập ở bệnh viện nửa năm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm việc có thời hạn để học nghề."
+    ],
+    "app_note_vi": "Làm việc có thời hạn để học nghề.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "实习 nghĩa là gì?",
+        "answer": "thực tập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在医院____了半年。",
+        "answer": "实习"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 实习?",
+        "answer": "实习 là đi thực tập; 实践 là thực hành, thực tiễn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1112",
+    "level": "HSK5",
+    "hanzi": "熟练",
+    "pinyin": "shúliàn",
+    "topic_id": "work",
+    "display_meaning_vi": "thành thạo",
+    "meaning_en": "skilled through practice",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "熟练掌握 / 操作熟练",
+    "collocations": [
+      "熟练掌握",
+      "操作熟练",
+      "熟练工"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "熟练 là tay nghề nhuần; 熟悉 là quen thuộc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她熟练地操作这台机器。",
+        "pinyin": "Tā shú liàn de cāo zuò zhè tái jī qì.",
+        "vi": "Cô ấy vận hành máy này rất thành thạo.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "熟练地的 地 đọc nhẹ de, không phải địa dì."
+    ],
+    "app_note_vi": "Làm nhuần nhuyễn nhờ đã luyện nhiều.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "熟练 nghĩa là gì?",
+        "answer": "thành thạo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____地操作这台机器。",
+        "answer": "熟练"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 熟练?",
+        "answer": "熟练 là tay nghề nhuần; 熟悉 là quen thuộc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1113",
+    "level": "HSK5",
+    "hanzi": "推广",
+    "pinyin": "tuīguǎng",
+    "topic_id": "work",
+    "display_meaning_vi": "nhân rộng",
+    "meaning_en": "to spread widely",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大力推广 / 推广经验",
+    "collocations": [
+      "大力推广",
+      "推广经验",
+      "推广活动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "推广 là đưa ra diện rộng; 推荐 là giới thiệu cho người cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种新方法还要继续推广。",
+        "pinyin": "Zhè zhǒng xīn fāng fǎ hái yào jì xù tuī guǎng.",
+        "vi": "Cách làm mới này còn cần nhân rộng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đưa một cách làm hoặc sản phẩm ra nhiều nơi."
+    ],
+    "app_note_vi": "Đưa một cách làm hoặc sản phẩm ra nhiều nơi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "推广 nghĩa là gì?",
+        "answer": "nhân rộng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种新方法还要继续____。",
+        "answer": "推广"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 推广?",
+        "answer": "推广 là đưa ra diện rộng; 推荐 là giới thiệu cho người cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1114",
+    "level": "HSK5",
+    "hanzi": "退休",
+    "pinyin": "tuìxiū",
+    "topic_id": "work",
+    "display_meaning_vi": "nghỉ hưu",
+    "meaning_en": "to retire from work",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "退休金 / 退休生活",
+    "collocations": [
+      "退休金",
+      "退休生活",
+      "提前退休"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "奶奶退休以后开始学画。",
+        "pinyin": "Nǎi nǎi tuì xiū yǐ hòu kāi shǐ xué huà.",
+        "vi": "Sau khi nghỉ hưu bà bắt đầu học vẽ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghỉ việc vì đến tuổi, không phải nghỉ phép."
+    ],
+    "app_note_vi": "Nghỉ việc vì đến tuổi, không phải nghỉ phép.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "退休 nghĩa là gì?",
+        "answer": "nghỉ hưu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "奶奶____以后开始学画。",
+        "answer": "退休"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1115",
+    "level": "HSK5",
+    "hanzi": "完善",
+    "pinyin": "wánshàn",
+    "topic_id": "work",
+    "display_meaning_vi": "hoàn thiện",
+    "meaning_en": "to make more complete",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "完善制度 / 不断完善",
+    "collocations": [
+      "完善制度",
+      "不断完善",
+      "完善服务"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "完善 là làm cho tốt và đủ hơn; 完整 là trạng thái không thiếu phần.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司正在完善售后服务。",
+        "pinyin": "Gōng sī zhèng zài wán shàn shòu hòu fú wù.",
+        "vi": "Công ty đang hoàn thiện dịch vụ sau bán.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm cho đủ và tốt hơn, thường là động từ."
+    ],
+    "app_note_vi": "Làm cho đủ và tốt hơn, thường là động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "完善 nghĩa là gì?",
+        "answer": "hoàn thiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司正在____售后服务。",
+        "answer": "完善"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 完善?",
+        "answer": "完善 là làm cho tốt và đủ hơn; 完整 là trạng thái không thiếu phần."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1116",
+    "level": "HSK5",
+    "hanzi": "委托",
+    "pinyin": "wěituō",
+    "topic_id": "work",
+    "display_meaning_vi": "ủy thác",
+    "meaning_en": "to entrust",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "委托书 / 委托人",
+    "collocations": [
+      "委托书",
+      "委托人",
+      "委托代办"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "委托 trang trọng; 拜托 là nhờ, thân mật hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我委托同事替我开会。",
+        "pinyin": "Wǒ wěi tuō tóng shì tì wǒ kāi huì.",
+        "vi": "Tôi nhờ đồng nghiệp họp thay.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Giao chính thức cho người khác làm thay."
+    ],
+    "app_note_vi": "Giao chính thức cho người khác làm thay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "委托 nghĩa là gì?",
+        "answer": "ủy thác"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____同事替我开会。",
+        "answer": "委托"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 委托?",
+        "answer": "委托 trang trọng; 拜托 là nhờ, thân mật hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1117",
+    "level": "HSK5",
+    "hanzi": "细节",
+    "pinyin": "xìjié",
+    "topic_id": "work",
+    "display_meaning_vi": "chi tiết",
+    "meaning_en": "detail",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "注意细节 / 忽略细节",
+    "collocations": [
+      "注意细节",
+      "忽略细节",
+      "细节问题"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "签合同前要把细节看清。",
+        "pinyin": "Qiān hé tong qián yào bǎ xì jié kàn qīng.",
+        "vi": "Trước khi ký hợp đồng phải xem rõ chi tiết.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phần nhỏ nhưng có thể đổi kết quả."
+    ],
+    "app_note_vi": "Phần nhỏ nhưng có thể đổi kết quả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "细节 nghĩa là gì?",
+        "answer": "chi tiết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "签合同前要把____看清。",
+        "answer": "细节"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1118",
+    "level": "HSK5",
+    "hanzi": "业务",
+    "pinyin": "yèwù",
+    "topic_id": "work",
+    "display_meaning_vi": "nghiệp vụ",
+    "meaning_en": "professional work",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "业务能力 / 业务范围",
+    "collocations": [
+      "业务能力",
+      "业务范围",
+      "主营业务"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "业务不熟可以慢慢学。",
+        "pinyin": "Yè wù bù shú kě yǐ màn màn xué.",
+        "vi": "Nghiệp vụ chưa thạo thì có thể học dần.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phần việc chuyên môn của một nghề hoặc công ty."
+    ],
+    "app_note_vi": "Phần việc chuyên môn của một nghề hoặc công ty.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "业务 nghĩa là gì?",
+        "answer": "nghiệp vụ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____不熟可以慢慢学。",
+        "answer": "业务"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1119",
+    "level": "HSK5",
+    "hanzi": "营业",
+    "pinyin": "yíngyè",
+    "topic_id": "work",
+    "display_meaning_vi": "mở cửa kinh doanh",
+    "meaning_en": "to be open for business",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "营业时间 / 照常营业",
+    "collocations": [
+      "营业时间",
+      "照常营业",
+      "停止营业"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家餐厅营业到晚上十点。",
+        "pinyin": "Zhè jiā cān tīng yíng yè dào wǎn shàng shí diǎn.",
+        "vi": "Nhà hàng này mở cửa đến mười giờ tối.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cửa hàng hoặc công ty đang hoạt động."
+    ],
+    "app_note_vi": "Cửa hàng hoặc công ty đang hoạt động.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "营业 nghĩa là gì?",
+        "answer": "mở cửa kinh doanh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家餐厅____到晚上十点。",
+        "answer": "营业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1120",
+    "level": "HSK5",
+    "hanzi": "硬件",
+    "pinyin": "yìngjiàn",
+    "topic_id": "work",
+    "display_meaning_vi": "phần cứng",
+    "meaning_en": "hardware",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电脑硬件 / 硬件设备",
+    "collocations": [
+      "电脑硬件",
+      "硬件设备",
+      "硬件升级"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这台电脑的硬件还不错。",
+        "pinyin": "Zhè tái diàn nǎo de yìng jiàn hái bú cuò.",
+        "vi": "Phần cứng máy tính này còn khá tốt.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Linh kiện máy, đối lập với phần mềm."
+    ],
+    "app_note_vi": "Linh kiện máy, đối lập với phần mềm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "硬件 nghĩa là gì?",
+        "answer": "phần cứng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这台电脑的____还不错。",
+        "answer": "硬件"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

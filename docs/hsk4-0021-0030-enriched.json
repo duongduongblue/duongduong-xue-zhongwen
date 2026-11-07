@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0021",
+    "level": "HSK4",
+    "hanzi": "爱情",
+    "pinyin": "àiqíng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tình yêu",
+    "meaning_en": "romantic love",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "爱情故事 / 真正的爱情",
+    "collocations": [
+      "爱情故事",
+      "真正的爱情",
+      "爱情电影"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "爱情 là tình yêu đôi lứa. 友谊 là tình bạn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们的爱情很坚定。",
+        "pinyin": "Tā men de ài qíng hěn jiān dìng.",
+        "vi": "Tình yêu của họ rất vững.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "爱情 là tình yêu đôi lứa. 友谊 là tình bạn."
+    ],
+    "app_note_vi": "爱情 là tình yêu đôi lứa. 友谊 là tình bạn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "爱情 nghĩa là gì?",
+        "answer": "tình yêu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们的____很坚定。",
+        "answer": "爱情"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0022",
+    "level": "HSK4",
+    "hanzi": "抱歉",
+    "pinyin": "bàoqiàn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "xin lỗi; lấy làm tiếc",
+    "meaning_en": "sorry",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到抱歉 / 非常抱歉",
+    "collocations": [
+      "感到抱歉",
+      "非常抱歉",
+      "抱歉地说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "抱歉 thường nói khi làm phiền hoặc đến muộn. Nhận lỗi chính thức dùng 道歉.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "抱歉，我迟到了。",
+        "pinyin": "Bào qiàn wǒ chí dào le.",
+        "vi": "Xin lỗi, tôi đến muộn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "抱歉 thường nói khi làm phiền hoặc đến muộn. Nhận lỗi chính thức dùng 道歉."
+    ],
+    "app_note_vi": "抱歉 thường nói khi làm phiền hoặc đến muộn. Nhận lỗi chính thức dùng 道歉.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抱歉 nghĩa là gì?",
+        "answer": "xin lỗi; lấy làm tiếc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____，我迟到了。",
+        "answer": "抱歉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0023",
+    "level": "HSK4",
+    "hanzi": "道歉",
+    "pinyin": "dàoqiàn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "xin lỗi; nhận lỗi",
+    "meaning_en": "to apologize",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "向她道歉 / 正式道歉",
+    "collocations": [
+      "向她道歉",
+      "正式道歉",
+      "道歉信"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "道歉 là nhận lỗi. 抱歉 nhẹ hơn, hay dùng lúc làm phiền.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你应该向她道歉。",
+        "pinyin": "Nǐ yīng gāi xiàng tā dào qiàn.",
+        "vi": "Bạn nên xin lỗi cô ấy.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "道歉 là nhận lỗi. 抱歉 nhẹ hơn, hay dùng lúc làm phiền."
+    ],
+    "app_note_vi": "道歉 là nhận lỗi. 抱歉 nhẹ hơn, hay dùng lúc làm phiền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "道歉 nghĩa là gì?",
+        "answer": "xin lỗi; nhận lỗi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你应该向她____。",
+        "answer": "道歉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0024",
+    "level": "HSK4",
+    "hanzi": "感动",
+    "pinyin": "gǎndòng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cảm động",
+    "meaning_en": "to be moved",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很感动 / 让人感动",
+    "collocations": [
+      "很感动",
+      "让人感动",
+      "深受感动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "感 đọc gǎn. 动 đọc dòng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个故事让我很感动。",
+        "pinyin": "Zhè ge gù shì ràng wǒ hěn gǎn dòng.",
+        "vi": "Câu chuyện này làm tôi rất cảm động.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "感 đọc gǎn. 动 đọc dòng."
+    ],
+    "app_note_vi": "感 đọc gǎn. 动 đọc dòng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "感动 nghĩa là gì?",
+        "answer": "cảm động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个故事让我很____。",
+        "answer": "感动"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0025",
+    "level": "HSK4",
+    "hanzi": "感谢",
+    "pinyin": "gǎnxiè",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cảm ơn",
+    "meaning_en": "to thank",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感谢你 / 表示感谢",
+    "collocations": [
+      "感谢你",
+      "表示感谢",
+      "感谢信"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "感谢 trang trọng hơn 谢谢.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "感谢你的帮助。",
+        "pinyin": "Gǎn xiè nǐ de bāng zhù.",
+        "vi": "Cảm ơn sự giúp đỡ của bạn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "感谢 trang trọng hơn 谢谢."
+    ],
+    "app_note_vi": "感谢 trang trọng hơn 谢谢.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "感谢 nghĩa là gì?",
+        "answer": "cảm ơn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____你的帮助。",
+        "answer": "感谢"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0026",
+    "level": "HSK4",
+    "hanzi": "鼓励",
+    "pinyin": "gǔlì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "khích lệ; động viên",
+    "meaning_en": "to encourage",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "鼓励孩子 / 受到鼓励",
+    "collocations": [
+      "鼓励孩子",
+      "受到鼓励",
+      "不断鼓励"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "鼓励 là cổ vũ. 表扬 là khen thành tích.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "父母常常鼓励我。",
+        "pinyin": "Fù mǔ cháng cháng gǔ lì wǒ.",
+        "vi": "Bố mẹ thường động viên tôi.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "鼓励 là cổ vũ. 表扬 là khen thành tích."
+    ],
+    "app_note_vi": "鼓励 là cổ vũ. 表扬 là khen thành tích.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鼓励 nghĩa là gì?",
+        "answer": "khích lệ; động viên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "父母常常____我。",
+        "answer": "鼓励"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0027",
+    "level": "HSK4",
+    "hanzi": "信任",
+    "pinyin": "xìnrèn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tin tưởng",
+    "meaning_en": "to trust",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "互相信任 / 信任朋友",
+    "collocations": [
+      "互相信任",
+      "信任朋友",
+      "得到信任"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "任 đọc rèn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "朋友之间需要信任。",
+        "pinyin": "Péng yǒu zhī jiān xū yào xìn rèn.",
+        "vi": "Bạn bè cần tin tưởng nhau.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "任 đọc rèn."
+    ],
+    "app_note_vi": "任 đọc rèn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "信任 nghĩa là gì?",
+        "answer": "tin tưởng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "朋友之间需要____。",
+        "answer": "信任"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0028",
+    "level": "HSK4",
+    "hanzi": "信心",
+    "pinyin": "xìnxīn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "niềm tin; sự tự tin",
+    "meaning_en": "confidence",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有信心 / 充满信心",
+    "collocations": [
+      "有信心",
+      "充满信心",
+      "失去信心"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "信心 là lòng tin vào việc mình làm. 信任 là tin một người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他对考试很有信心。",
+        "pinyin": "Tā duì kǎo shì hěn yǒu xìn xīn.",
+        "vi": "Anh ấy rất tự tin về kỳ thi.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "信心 là lòng tin vào việc mình làm. 信任 là tin một người."
+    ],
+    "app_note_vi": "信心 là lòng tin vào việc mình làm. 信任 là tin một người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "信心 nghĩa là gì?",
+        "answer": "niềm tin; sự tự tin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他对考试很有____。",
+        "answer": "信心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0029",
+    "level": "HSK4",
+    "hanzi": "幸福",
+    "pinyin": "xìngfú",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hạnh phúc",
+    "meaning_en": "happy; happiness",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "幸福生活 / 感到幸福",
+    "collocations": [
+      "幸福生活",
+      "感到幸福",
+      "幸福的家"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一 trước 家 đọc yì.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一家人在一起就是幸福。",
+        "pinyin": "Yì jiā rén zài yì qǐ jiù shì xìng fú.",
+        "vi": "Cả nhà ở bên nhau chính là hạnh phúc.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 家 đọc yì."
+    ],
+    "app_note_vi": "一 trước 家 đọc yì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "幸福 nghĩa là gì?",
+        "answer": "hạnh phúc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一家人在一起就是____。",
+        "answer": "幸福"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0030",
+    "level": "HSK4",
+    "hanzi": "愉快",
+    "pinyin": "yúkuài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "vui vẻ",
+    "meaning_en": "cheerful",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "周末愉快 / 心情愉快",
+    "collocations": [
+      "周末愉快",
+      "心情愉快",
+      "愉快地"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "地 sau tính từ 愉快 đọc nhẹ de.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "祝你周末愉快。",
+        "pinyin": "Zhù nǐ zhōu mò yú kuài.",
+        "vi": "Chúc bạn cuối tuần vui vẻ.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地 sau tính từ 愉快 đọc nhẹ de."
+    ],
+    "app_note_vi": "地 sau tính từ 愉快 đọc nhẹ de.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "愉快 nghĩa là gì?",
+        "answer": "vui vẻ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "祝你周末____。",
+        "answer": "愉快"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

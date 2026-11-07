@@ -1,0 +1,641 @@
+[
+  {
+    "id": "hsk5_batch2_201",
+    "level": "HSK5",
+    "hanzi": "是否",
+    "pinyin": "shìfǒu",
+    "topic_id": "language",
+    "display_meaning_vi": "có hay không",
+    "meaning_en": "whether or not",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "writing",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "是否 + 动词",
+    "collocations": [
+      "是否同意",
+      "是否可行",
+      "是否属实"
+    ],
+    "near_synonyms": [
+      {
+        "word": "是不是",
+        "difference_vi": "是否 trang trọng, dùng trong câu hỏi gián tiếp; 是不是 dùng khi nói chuyện."
+      }
+    ],
+    "app_synonym_note_vi": "是否 = có hay không, trang trọng; 是不是 = cách nói thường.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请告诉我你是否能来。",
+        "pinyin": "Qǐng gàosu wǒ nǐ shìfǒu néng lái.",
+        "vi": "Hãy cho tôi biết bạn có đến được không.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "是否 đã gồm “có hay không”, không thêm 吗 vào cuối câu."
+    ],
+    "app_note_vi": "Đứng trước động từ. Câu vẫn là câu trần thuật hoặc yêu cầu, không cần 吗.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "是否 nghĩa là gì?",
+        "answer": "có hay không"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请告诉我你____能来。",
+        "answer": "是否"
+      },
+      {
+        "type": "synonym",
+        "prompt": "是否 khác 是不是 ở điểm nào?",
+        "answer": "是否 trang trọng, dùng trong câu hỏi gián tiếp; 是不是 dùng khi nói chuyện."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_202",
+    "level": "HSK5",
+    "hanzi": "以及",
+    "pinyin": "yǐjí",
+    "topic_id": "language",
+    "display_meaning_vi": "cũng như",
+    "meaning_en": "as well as",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "writing"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "A、B以及C",
+    "collocations": [
+      "老师以及家长",
+      "以及其他",
+      "以及更多"
+    ],
+    "near_synonyms": [
+      {
+        "word": "和",
+        "difference_vi": "以及 nối phần cuối của một liệt kê, trang trọng; 和 thân mật hơn và thường nối hai vế ngang nhau."
+      }
+    ],
+    "app_synonym_note_vi": "以及 = cũng như, trang trọng; 和 = và, thân mật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师以及家长都已经到了。",
+        "pinyin": "Lǎoshī yǐjí jiāzhǎng dōu yǐjīng dào le.",
+        "vi": "Giáo viên cũng như phụ huynh đều đã tới.",
+        "context": "writing"
+      }
+    ],
+    "common_mistakes_vi": [
+      "以及 không nối hai câu hoàn chỉnh. Nó nối các cụm từ."
+    ],
+    "app_note_vi": "Đặt trước mục cuối. Không dùng thay 和 trong câu nói rất ngắn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "以及 nghĩa là gì?",
+        "answer": "cũng như"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____家长都已经到了。",
+        "answer": "以及"
+      },
+      {
+        "type": "synonym",
+        "prompt": "以及 khác 和 ở điểm nào?",
+        "answer": "以及 nối phần cuối của một liệt kê, trang trọng; 和 thân mật hơn và thường nối hai vế ngang nhau."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_203",
+    "level": "HSK5",
+    "hanzi": "曾经",
+    "pinyin": "céngjīng",
+    "topic_id": "daily",
+    "display_meaning_vi": "đã từng",
+    "meaning_en": "once; previously",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "time",
+      "writing"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "曾经 + 动词 + 过",
+    "collocations": [
+      "曾经去过",
+      "曾经说过",
+      "曾经有过"
+    ],
+    "near_synonyms": [
+      {
+        "word": "已经",
+        "difference_vi": "曾经 là đã từng, nay thường không còn; 已经 là đã rồi, nói việc vừa hoàn thành hoặc đã xong."
+      }
+    ],
+    "app_synonym_note_vi": "曾经 = đã từng; 已经 = đã rồi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我曾经在这家公司实习。",
+        "pinyin": "Wǒ céngjīng zài zhè jiā gōngsī shíxí.",
+        "vi": "Tôi đã từng thực tập ở công ty này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "曾 trong 曾经 đọc céng, không đọc Zēng. Zēng là họ 曾."
+    ],
+    "app_note_vi": "Nói kinh nghiệm trong quá khứ. Họ 曾 mới đọc Zēng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "曾经 nghĩa là gì?",
+        "answer": "đã từng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____在这家公司实习。",
+        "answer": "曾经"
+      },
+      {
+        "type": "synonym",
+        "prompt": "曾经 khác 已经 ở điểm nào?",
+        "answer": "曾经 là đã từng, nay thường không còn; 已经 là đã rồi, nói việc vừa hoàn thành hoặc đã xong."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_204",
+    "level": "HSK5",
+    "hanzi": "比如",
+    "pinyin": "bǐrú",
+    "topic_id": "language",
+    "display_meaning_vi": "ví dụ như",
+    "meaning_en": "for example",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "比如 + 例子",
+    "collocations": [
+      "比如说",
+      "比如你",
+      "比如跑步"
+    ],
+    "near_synonyms": [
+      {
+        "word": "例如",
+        "difference_vi": "比如 đưa một ví dụ ngay trong câu; 例如 trang trọng hơn, hay mở một liệt kê."
+      }
+    ],
+    "app_synonym_note_vi": "比如 = ví dụ như, trong câu; 例如 = ví dụ, trang trọng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末我常运动，比如跑步。",
+        "pinyin": "Zhōumò wǒ cháng yùndòng, bǐrú pǎobù.",
+        "vi": "Cuối tuần tôi hay vận động, ví dụ như chạy bộ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "比如 đứng trước ví dụ, không đứng cuối câu một mình."
+    ],
+    "app_note_vi": "Đưa ngay một trường hợp cụ thể sau ý chung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "比如 nghĩa là gì?",
+        "answer": "ví dụ như"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末我常运动，____跑步。",
+        "answer": "比如"
+      },
+      {
+        "type": "synonym",
+        "prompt": "比如 khác 例如 ở điểm nào?",
+        "answer": "比如 đưa một ví dụ ngay trong câu; 例如 trang trọng hơn, hay mở một liệt kê."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_205",
+    "level": "HSK5",
+    "hanzi": "承认",
+    "pinyin": "chéngrèn",
+    "topic_id": "society",
+    "display_meaning_vi": "thừa nhận",
+    "meaning_en": "to admit; to recognize",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "承认 + 错误 / 事实",
+    "collocations": [
+      "承认错误",
+      "公开承认",
+      "得到承认"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他终于承认自己迟到了。",
+        "pinyin": "Tā zhōngyú chéngrèn zìjǐ chídào le.",
+        "vi": "Cuối cùng anh ấy thừa nhận mình đã đến muộn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "承认 còn có nghĩa công nhận một tư cách, như 承认学历, không chỉ là nhận lỗi."
+    ],
+    "app_note_vi": "Vừa là nhận điều chưa muốn nói, vừa là công nhận một địa vị hoặc văn bằng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "承认 nghĩa là gì?",
+        "answer": "thừa nhận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他终于____自己迟到了。",
+        "answer": "承认"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_206",
+    "level": "HSK5",
+    "hanzi": "接着",
+    "pinyin": "jiēzhe",
+    "topic_id": "daily",
+    "display_meaning_vi": "tiếp đó",
+    "meaning_en": "then; to go on",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "接着 + 动词",
+    "collocations": [
+      "接着说",
+      "接着做",
+      "紧接着"
+    ],
+    "near_synonyms": [
+      {
+        "word": "然后",
+        "difference_vi": "接着 nhấn mạnh nối ngay việc vừa xảy ra; 然后 chỉ là sau đó, khoảng cách có thể dài hơn."
+      }
+    ],
+    "app_synonym_note_vi": "接着 = nối ngay tiếp; 然后 = sau đó.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他喝了口水，接着讲下去。",
+        "pinyin": "Tā hē le kǒu shuǐ, jiēzhe jiǎng xiàqù.",
+        "vi": "Anh ấy uống một ngụm nước rồi nói tiếp.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 trong 接着 đọc nhẹ zhe. Đừng đọc thành jiē zháo."
+    ],
+    "app_note_vi": "Nối hành động liền sau. Cũng có nghĩa đưa tay đỡ lấy, nhưng bài này học nghĩa “tiếp đó”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "接着 nghĩa là gì?",
+        "answer": "tiếp đó"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他喝了口水，____讲下去。",
+        "answer": "接着"
+      },
+      {
+        "type": "synonym",
+        "prompt": "接着 khác 然后 ở điểm nào?",
+        "answer": "接着 nhấn mạnh nối ngay việc vừa xảy ra; 然后 chỉ là sau đó, khoảng cách có thể dài hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_207",
+    "level": "HSK5",
+    "hanzi": "的确",
+    "pinyin": "díquè",
+    "topic_id": "daily",
+    "display_meaning_vi": "quả thật",
+    "meaning_en": "indeed; really",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "的确如此 / 的确 + 形容词",
+    "collocations": [
+      "的确如此",
+      "的确很好",
+      "的确不容易"
+    ],
+    "near_synonyms": [
+      {
+        "word": "真的",
+        "difference_vi": "的确 mạnh hơn và trang trọng hơn 真的, hay dùng khi đồng ý với điều vừa nghe."
+      }
+    ],
+    "app_synonym_note_vi": "的确 = quả thật; 真的 = thật sự, thân mật hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这份工作的确不容易。",
+        "pinyin": "Zhè fèn gōngzuò díquè bù róngyì.",
+        "vi": "Công việc này quả thật không dễ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "的 trong 的确 đọc dí, không đọc de. Cả từ là díquè."
+    ],
+    "app_note_vi": "Dùng để xác nhận. Chữ 的 ở đây không phải trợ từ de.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "的确 nghĩa là gì?",
+        "answer": "quả thật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这份工作____不容易。",
+        "answer": "的确"
+      },
+      {
+        "type": "synonym",
+        "prompt": "的确 khác 真的 ở điểm nào?",
+        "answer": "的确 mạnh hơn và trang trọng hơn 真的, hay dùng khi đồng ý với điều vừa nghe."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_208",
+    "level": "HSK5",
+    "hanzi": "要是",
+    "pinyin": "yàoshi",
+    "topic_id": "daily",
+    "display_meaning_vi": "nếu",
+    "meaning_en": "if",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "informal",
+    "grammar_pattern": "要是…就…",
+    "collocations": [
+      "要是可以",
+      "要是你",
+      "要是不"
+    ],
+    "near_synonyms": [
+      {
+        "word": "如果",
+        "difference_vi": "要是 là “nếu” trong lời nói; 如果 dùng được cả khi viết."
+      }
+    ],
+    "app_synonym_note_vi": "要是 = nếu, khẩu ngữ; 如果 = nếu, viết được.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "要是下雨，比赛就改期。",
+        "pinyin": "Yàoshi xià yǔ, bǐsài jiù gǎiqī.",
+        "vi": "Nếu mưa thì trận đấu sẽ đổi ngày.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "要是 hay đi với 就 ở vế sau. Âm sau đọc nhẹ: yàoshi."
+    ],
+    "app_note_vi": "Câu điều kiện thân mật. shi trong 要是 đọc nhẹ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "要是 nghĩa là gì?",
+        "answer": "nếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____下雨，比赛就改期。",
+        "answer": "要是"
+      },
+      {
+        "type": "synonym",
+        "prompt": "要是 khác 如果 ở điểm nào?",
+        "answer": "要是 là “nếu” trong lời nói; 如果 dùng được cả khi viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_209",
+    "level": "HSK5",
+    "hanzi": "便",
+    "pinyin": "biàn",
+    "topic_id": "language",
+    "display_meaning_vi": "liền; thì",
+    "meaning_en": "then; as soon as",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "writing",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "一…便… / 便是",
+    "collocations": [
+      "说完便走",
+      "便是",
+      "便利"
+    ],
+    "near_synonyms": [
+      {
+        "word": "就",
+        "difference_vi": "便 gần nghĩa với 就, nhưng viết và hơi trang trọng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "便 = liền, thì, gần với 就.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他一到家便给妈妈打电话。",
+        "pinyin": "Tā yí dào jiā biàn gěi māma dǎ diànhuà.",
+        "vi": "Vừa về đến nhà anh ấy liền gọi cho mẹ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "便 trong bài này đọc biàn. 便宜 đọc piányi, là từ khác, nghĩa là rẻ."
+    ],
+    "app_note_vi": "Mẫu 一…便… là “vừa… thì liền…”. Đừng đọc thành pián.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "便 nghĩa là gì?",
+        "answer": "liền; thì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他一到家____给妈妈打电话。",
+        "answer": "便"
+      },
+      {
+        "type": "synonym",
+        "prompt": "便 khác 就 ở điểm nào?",
+        "answer": "便 gần nghĩa với 就, nhưng viết và hơi trang trọng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_210",
+    "level": "HSK5",
+    "hanzi": "则",
+    "pinyin": "zé",
+    "topic_id": "language",
+    "display_meaning_vi": "thì",
+    "meaning_en": "then; but",
+    "part_of_speech": "conjunction",
+    "difficulty": 3,
+    "topic_tags": [
+      "writing",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "不…则… / 一则…再则…",
+    "collocations": [
+      "一则",
+      "再则",
+      "否则"
+    ],
+    "near_synonyms": [
+      {
+        "word": "就",
+        "difference_vi": "则 là “thì” trong văn viết; khẩu ngữ thường nói 就."
+      }
+    ],
+    "app_synonym_note_vi": "则 = thì, trong văn viết; 就 = thì, lời nói.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不努力则难有进步。",
+        "pinyin": "Bù nǔlì zé nán yǒu jìnbù.",
+        "vi": "Không cố gắng thì khó tiến bộ.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "则 không thay 就 trong câu nói hàng ngày. 一则新闻 là một lượng từ khác, chỉ một mẩu tin."
+    ],
+    "app_note_vi": "Liên từ văn viết, nối điều kiện với kết quả. 否则 là “nếu không thì”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "则 nghĩa là gì?",
+        "answer": "thì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不努力____难有进步。",
+        "answer": "则"
+      },
+      {
+        "type": "synonym",
+        "prompt": "则 khác 就 ở điểm nào?",
+        "answer": "则 là “thì” trong văn viết; khẩu ngữ thường nói 就."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

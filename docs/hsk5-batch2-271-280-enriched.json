@@ -1,0 +1,580 @@
+[
+  {
+    "id": "hsk5_batch2_271",
+    "level": "HSK5",
+    "hanzi": "来自",
+    "pinyin": "láizì",
+    "topic_id": "travel",
+    "display_meaning_vi": "đến từ",
+    "meaning_en": "to come from",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "来自 + 地方",
+    "collocations": [
+      "来自各地",
+      "来自中国",
+      "来自于"
+    ],
+    "near_synonyms": [
+      {
+        "word": "从",
+        "difference_vi": "来自 nói nguồn gốc và đứng trước địa danh; 从 là giới từ “từ”, cần thêm động từ."
+      }
+    ],
+    "app_synonym_note_vi": "来自 = đến từ, nói nguồn gốc; 从 = từ, cần động từ đi kèm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些水果来自海南。",
+        "pinyin": "Zhèxiē shuǐguǒ láizì Hǎinán.",
+        "vi": "Hoa quả này đến từ Hải Nam.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "来自后面直接加地方，不说 来自从海南."
+    ],
+    "app_note_vi": "Nói nguồn gốc nơi chốn hoặc tổ chức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "来自 nghĩa là gì?",
+        "answer": "đến từ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些水果____海南。",
+        "answer": "来自"
+      },
+      {
+        "type": "synonym",
+        "prompt": "来自 khác 从 ở điểm nào?",
+        "answer": "来自 nói nguồn gốc và đứng trước địa danh; 从 là giới từ “từ”, cần thêm động từ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_272",
+    "level": "HSK5",
+    "hanzi": "位置",
+    "pinyin": "wèizhi",
+    "topic_id": "travel",
+    "display_meaning_vi": "vị trí",
+    "meaning_en": "position; location",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "place",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "标出位置 / 地理位置",
+    "collocations": [
+      "地理位置",
+      "空位置",
+      "位置靠前"
+    ],
+    "near_synonyms": [
+      {
+        "word": "地方",
+        "difference_vi": "位置 là một chỗ xác định trên bản đồ hoặc trong thứ tự; 地方 rộng hơn, chỉ một khu."
+      }
+    ],
+    "app_synonym_note_vi": "位置 = vị trí xác định; 地方 = một khu, một chỗ nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请在地图上标出位置。",
+        "pinyin": "Qǐng zài dìtú shàng biāo chū wèizhi.",
+        "vi": "Xin đánh dấu vị trí trên bản đồ.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Âm sau của 位置 đọc nhẹ: wèizhi."
+    ],
+    "app_note_vi": "Chỗ trong không gian, cũng chỉ vị trí trong công việc hoặc thứ hạng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "位置 nghĩa là gì?",
+        "answer": "vị trí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请在地图上标出____。",
+        "answer": "位置"
+      },
+      {
+        "type": "synonym",
+        "prompt": "位置 khác 地方 ở điểm nào?",
+        "answer": "位置 là một chỗ xác định trên bản đồ hoặc trong thứ tự; 地方 rộng hơn, chỉ một khu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_273",
+    "level": "HSK5",
+    "hanzi": "抢",
+    "pinyin": "qiǎng",
+    "topic_id": "daily",
+    "display_meaning_vi": "giành",
+    "meaning_en": "to grab; to rush to get",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "抢 + 座位 / 抢着说",
+    "collocations": [
+      "抢着说",
+      "抢购",
+      "抢座位"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上车时不要抢座位。",
+        "pinyin": "Shàng chē shí búyào qiǎng zuòwèi.",
+        "vi": "Lúc lên xe đừng giành chỗ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "抢 đọc qiǎng. Đây là giành trước người khác. 抢劫 là tội cướp, một từ khác, không dùng cho chỗ ngồi."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. 不要 đọc búyào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抢 nghĩa là gì?",
+        "answer": "giành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上车时不要____座位。",
+        "answer": "抢"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_274",
+    "level": "HSK5",
+    "hanzi": "出口",
+    "pinyin": "chūkǒu",
+    "topic_id": "travel",
+    "display_meaning_vi": "lối ra; xuất khẩu",
+    "meaning_en": "exit; to export",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "place",
+      "economy"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "安全出口 / 出口产品",
+    "collocations": [
+      "安全出口",
+      "出口处",
+      "出口产品"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请从右边的出口离开。",
+        "pinyin": "Qǐng cóng yòubian de chūkǒu líkāi.",
+        "vi": "Xin ra bằng lối bên phải.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Trong tòa nhà, 出口 là lối ra. Trong thương mại, 出口产品 là hàng xuất khẩu."
+    ],
+    "app_note_vi": "Danh từ. Lối vào là 入口.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出口 nghĩa là gì?",
+        "answer": "lối ra; xuất khẩu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请从右边的____离开。",
+        "answer": "出口"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_275",
+    "level": "HSK5",
+    "hanzi": "移动",
+    "pinyin": "yídòng",
+    "topic_id": "travel",
+    "display_meaning_vi": "di chuyển",
+    "meaning_en": "to move",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "place",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "把 + 东西 + 移动",
+    "collocations": [
+      "移动支付",
+      "移动电话",
+      "缓慢移动"
+    ],
+    "near_synonyms": [
+      {
+        "word": "搬家",
+        "difference_vi": "移动 là dịch một vật hoặc một tín hiệu; 搬家 là chuyển cả nhà đi nơi khác."
+      }
+    ],
+    "app_synonym_note_vi": "移动 = dịch chuyển; 搬家 = chuyển nhà.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把桌子往旁边移动一下。",
+        "pinyin": "Qǐng bǎ zhuōzi wǎng pángbiān yídòng yíxià.",
+        "vi": "Xin dịch cái bàn sang bên một chút.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一下 trong 移动一下 đọc yíxià."
+    ],
+    "app_note_vi": "Động từ. 移动电话 là điện thoại di động, 移动支付 là thanh toán trên điện thoại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "移动 nghĩa là gì?",
+        "answer": "di chuyển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把桌子往旁边____一下。",
+        "answer": "移动"
+      },
+      {
+        "type": "synonym",
+        "prompt": "移动 khác 搬家 ở điểm nào?",
+        "answer": "移动 là dịch một vật hoặc một tín hiệu; 搬家 là chuyển cả nhà đi nơi khác."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_276",
+    "level": "HSK5",
+    "hanzi": "朝",
+    "pinyin": "cháo",
+    "topic_id": "travel",
+    "display_meaning_vi": "hướng về",
+    "meaning_en": "towards; facing",
+    "part_of_speech": "preposition",
+    "difficulty": 3,
+    "topic_tags": [
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "朝 + 方向",
+    "collocations": [
+      "朝南",
+      "朝着",
+      "朝向"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "教室的窗户朝南。",
+        "pinyin": "Jiàoshì de chuānghu cháo nán.",
+        "vi": "Cửa sổ phòng học hướng nam.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghĩa hướng về đọc cháo. Buổi sáng trong 朝阳 đọc zhāo. Họ 朝 đọc Cháo."
+    ],
+    "app_note_vi": "Giới từ chỉ hướng. 朝着 cũng đọc cháo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "朝 nghĩa là gì?",
+        "answer": "hướng về"
+      },
+      {
+        "type": "cloze",
+        "prompt": "教室的窗户____南。",
+        "answer": "朝"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_277",
+    "level": "HSK5",
+    "hanzi": "升",
+    "pinyin": "shēng",
+    "topic_id": "travel",
+    "display_meaning_vi": "tăng; bay lên",
+    "meaning_en": "to rise; to promote",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "place",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "升起 / 升职 / 升级",
+    "collocations": [
+      "升起",
+      "升职",
+      "升级"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "气球慢慢升到空中。",
+        "pinyin": "Qìqiú mànmàn shēng dào kōngzhōng.",
+        "vi": "Khinh khí cầu từ từ bay lên không.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "升 còn là đơn vị lít: 一升牛奶. Đừng nhầm với nghĩa bay lên trong cùng một câu."
+    ],
+    "app_note_vi": "Nghĩa chính ở đây là lên cao hoặc được nâng lên. 升职 là thăng chức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "升 nghĩa là gì?",
+        "answer": "tăng; bay lên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "气球慢慢____到空中。",
+        "answer": "升"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_278",
+    "level": "HSK5",
+    "hanzi": "信号",
+    "pinyin": "xìnhào",
+    "topic_id": "tech",
+    "display_meaning_vi": "tín hiệu",
+    "meaning_en": "signal",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "手机信号 / 发出信号",
+    "collocations": [
+      "手机信号",
+      "信号灯",
+      "发出信号"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "电梯里手机信号不太好。",
+        "pinyin": "Diàntī lǐ shǒujī xìnhào bú tài hǎo.",
+        "vi": "Trong thang máy tín hiệu điện thoại không tốt lắm.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不太好里的 不 đọc bú, vì 太 là thanh 4."
+    ],
+    "app_note_vi": "Tín hiệu máy, hoặc đèn hiệu. 信号灯 là đèn giao thông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "信号 nghĩa là gì?",
+        "answer": "tín hiệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "电梯里手机____不太好。",
+        "answer": "信号"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_279",
+    "level": "HSK5",
+    "hanzi": "冲",
+    "pinyin": "chōng",
+    "topic_id": "daily",
+    "display_meaning_vi": "lao ra; pha",
+    "meaning_en": "to rush; to pour",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "冲出去 / 冲咖啡",
+    "collocations": [
+      "冲出去",
+      "冲咖啡",
+      "冲个澡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他冲出去拦住了出租车。",
+        "pinyin": "Tā chōng chūqù lánzhù le chūzūchē.",
+        "vi": "Anh ấy lao ra chặn taxi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "冲 đọc chōng khi là lao ra, pha nước hoặc tắm vòi. Một số cụm 冲着 đọc chòng, nghĩa là nhằm vào."
+    ],
+    "app_note_vi": "Ba cụm hay gặp: 冲出去 lao ra, 冲咖啡 pha cà phê, 冲个澡 tắm vòi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "冲 nghĩa là gì?",
+        "answer": "lao ra; pha"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____出去拦住了出租车。",
+        "answer": "冲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_280",
+    "level": "HSK5",
+    "hanzi": "提",
+    "pinyin": "tí",
+    "topic_id": "daily",
+    "display_meaning_vi": "xách; nêu ra",
+    "meaning_en": "to carry; to mention",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "提着 / 提出 / 提问",
+    "collocations": [
+      "提着",
+      "提出",
+      "提问"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她一只手提着菜篮子。",
+        "pinyin": "Tā yì zhī shǒu tí zhe càilánzi.",
+        "vi": "Một tay cô ấy xách rổ rau.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "提 trong bài này đọc tí. Cách đọc dī chỉ gặp ở vài từ như 提防, không dùng khi xách hoặc nêu ý.",
+      "着 đọc nhẹ. 一只 đọc yì zhī vì 只 là thanh 1."
+    ],
+    "app_note_vi": "Hai nghĩa cần nhớ: xách để đồ buông xuống, và nêu ra như 提出、提问.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "提 nghĩa là gì?",
+        "answer": "xách; nêu ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她一只手____着菜篮子。",
+        "answer": "提"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

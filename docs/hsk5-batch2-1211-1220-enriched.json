@@ -1,0 +1,582 @@
+[
+  {
+    "id": "hsk5_batch2_1211",
+    "level": "HSK5",
+    "hanzi": "平静",
+    "pinyin": "píngjìng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "điềm tĩnh",
+    "meaning_en": "calm, not stirred up",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "心情平静 / 平静下来",
+    "collocations": [
+      "心情平静",
+      "平静下来",
+      "恢复平静"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "平静 là bên trong yên; 安静 là xung quanh không ồn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听到消息后他很平静。",
+        "pinyin": "Tīng dào xiāo xī hòu tā hěn píng jìng.",
+        "vi": "Nghe tin xong anh ấy vẫn rất điềm tĩnh.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tâm trạng hoặc mặt nước yên. Im tiếng là 安静."
+    ],
+    "app_note_vi": "Tâm trạng hoặc mặt nước yên. Im tiếng là 安静.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "平静 nghĩa là gì?",
+        "answer": "điềm tĩnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听到消息后他很____。",
+        "answer": "平静"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 平静?",
+        "answer": "平静 là bên trong yên; 安静 là xung quanh không ồn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1212",
+    "level": "HSK5",
+    "hanzi": "气氛",
+    "pinyin": "qìfēn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "không khí",
+    "meaning_en": "the mood of a place or event",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "紧张气氛 / 活跃气氛",
+    "collocations": [
+      "紧张气氛",
+      "活跃气氛",
+      "气氛融洽"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "气氛 là không khí của một chỗ; 情绪 là tâm trạng của một người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚会的气氛很热烈。",
+        "pinyin": "Wǎn huì de qì fēn hěn rè liè.",
+        "vi": "Không khí buổi liên hoan rất sôi nổi.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cảm giác chung của một buổi, một căn phòng."
+    ],
+    "app_note_vi": "Cảm giác chung của một buổi, một căn phòng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "气氛 nghĩa là gì?",
+        "answer": "không khí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚会的____很热烈。",
+        "answer": "气氛"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 气氛?",
+        "answer": "气氛 là không khí của một chỗ; 情绪 là tâm trạng của một người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1213",
+    "level": "HSK5",
+    "hanzi": "热爱",
+    "pinyin": "rèài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "yêu say",
+    "meaning_en": "a deep love for an activity or place",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "热爱生活 / 热爱工作",
+    "collocations": [
+      "热爱生活",
+      "热爱工作",
+      "热爱祖国"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "热爱 là yêu sâu một lĩnh vực; 热心 là sốt sắng giúp người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他从小就热爱音乐。",
+        "pinyin": "Tā cóng xiǎo jiù rè ài yīn yuè.",
+        "vi": "Từ nhỏ anh ấy đã yêu âm nhạc.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Yêu mạnh một việc, một nghề, một nơi, không chỉ là thích thoáng qua."
+    ],
+    "app_note_vi": "Yêu mạnh một việc, một nghề, một nơi, không chỉ là thích thoáng qua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "热爱 nghĩa là gì?",
+        "answer": "yêu say"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他从小就____音乐。",
+        "answer": "热爱"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 热爱?",
+        "answer": "热爱 là yêu sâu một lĩnh vực; 热心 là sốt sắng giúp người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1214",
+    "level": "HSK5",
+    "hanzi": "热烈",
+    "pinyin": "rèliè",
+    "topic_id": "emotion",
+    "display_meaning_vi": "sôi nổi, nồng nhiệt",
+    "meaning_en": "full of warmth and energy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "热烈鼓掌 / 热烈讨论",
+    "collocations": [
+      "热烈鼓掌",
+      "热烈讨论",
+      "气氛热烈"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "热烈 tả không khí sôi nổi; 热心 tả người hay giúp việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "大家热烈欢迎新同学。",
+        "pinyin": "Dà jiā rè liè huān yíng xīn tóng xué.",
+        "vi": "Mọi người nồng nhiệt chào đón bạn mới.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tả không khí, tiếng vỗ tay, cuộc thảo luận, không tả tính một người hay giúp."
+    ],
+    "app_note_vi": "Tả không khí, tiếng vỗ tay, cuộc thảo luận, không tả tính một người hay giúp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "热烈 nghĩa là gì?",
+        "answer": "sôi nổi, nồng nhiệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "大家____欢迎新同学。",
+        "answer": "热烈"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 热烈?",
+        "answer": "热烈 tả không khí sôi nổi; 热心 tả người hay giúp việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1215",
+    "level": "HSK5",
+    "hanzi": "忍不住",
+    "pinyin": "rěnbúzhù",
+    "topic_id": "emotion",
+    "display_meaning_vi": "không nhịn được",
+    "meaning_en": "unable to hold back",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "忍不住哭 / 忍不住说",
+    "collocations": [
+      "忍不住哭",
+      "忍不住说",
+      "实在忍不住"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她忍不住笑了出来。",
+        "pinyin": "Tā rěn bú zhù xiào le chū lái.",
+        "vi": "Cô ấy không nhịn được nên bật cười.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不 trước 住 thanh 4 đọc bú: rěnbúzhù."
+    ],
+    "app_note_vi": "Đứng trước một hành động mình không kìm được: cười, khóc, nói.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "忍不住 nghĩa là gì?",
+        "answer": "không nhịn được"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____笑了出来。",
+        "answer": "忍不住"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1216",
+    "level": "HSK5",
+    "hanzi": "荣幸",
+    "pinyin": "róngxìng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "vinh hạnh",
+    "meaning_en": "feeling it is a privilege",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到荣幸 / 非常荣幸",
+    "collocations": [
+      "感到荣幸",
+      "非常荣幸",
+      "深感荣幸"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "荣幸 là thấy vinh dự; 荣誉 là danh dự được trao.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "能见到您我很荣幸。",
+        "pinyin": "Néng jiàn dào nín wǒ hěn róng xìng.",
+        "vi": "Được gặp ngài, tôi rất vinh hạnh.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cảm xúc của mình khi được việc đáng trân trọng. Hay nói lịch sự."
+    ],
+    "app_note_vi": "Cảm xúc của mình khi được việc đáng trân trọng. Hay nói lịch sự.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "荣幸 nghĩa là gì?",
+        "answer": "vinh hạnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "能见到您我很____。",
+        "answer": "荣幸"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 荣幸?",
+        "answer": "荣幸 là thấy vinh dự; 荣誉 là danh dự được trao."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1217",
+    "level": "HSK5",
+    "hanzi": "舒适",
+    "pinyin": "shūshì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "dễ chịu",
+    "meaning_en": "comfortable",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "舒适度 / 舒适环境",
+    "collocations": [
+      "舒适度",
+      "舒适环境",
+      "安逸舒适"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "舒适 hơi trang trọng; 舒服 khẩu ngữ hơn, gần nghĩa.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家酒店住着很舒适。",
+        "pinyin": "Zhè jiā jiǔ diàn zhù zhe hěn shū shì.",
+        "vi": "Khách sạn này ở rất dễ chịu.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhấn mạnh cảm giác thoải mái về chỗ ở hoặc cơ thể."
+    ],
+    "app_note_vi": "Nhấn mạnh cảm giác thoải mái về chỗ ở hoặc cơ thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "舒适 nghĩa là gì?",
+        "answer": "dễ chịu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家酒店住着很____。",
+        "answer": "舒适"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 舒适?",
+        "answer": "舒适 hơi trang trọng; 舒服 khẩu ngữ hơn, gần nghĩa."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1218",
+    "level": "HSK5",
+    "hanzi": "特意",
+    "pinyin": "tèyì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cố ý vì một việc",
+    "meaning_en": "specially for a purpose",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "特意赶来 / 特意准备",
+    "collocations": [
+      "特意赶来",
+      "特意准备",
+      "特意提醒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "特意 thường tích cực, vì người khác; 故意 hay là cố tình không hay.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我特意早起给你做了早餐。",
+        "pinyin": "Wǒ tè yì zǎo qǐ gěi nǐ zuò le zǎo cān.",
+        "vi": "Tôi cố ý dậy sớm làm bữa sáng cho bạn.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm riêng vì một mục đích, thường là tốt."
+    ],
+    "app_note_vi": "Làm riêng vì một mục đích, thường là tốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "特意 nghĩa là gì?",
+        "answer": "cố ý vì một việc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____早起给你做了早餐。",
+        "answer": "特意"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 特意?",
+        "answer": "特意 thường tích cực, vì người khác; 故意 hay là cố tình không hay."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1219",
+    "level": "HSK5",
+    "hanzi": "疼爱",
+    "pinyin": "téngài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "thương chiều",
+    "meaning_en": "to love dearly",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "疼爱孩子 / 疼爱有加",
+    "collocations": [
+      "疼爱孩子",
+      "疼爱有加",
+      "格外疼爱"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "疼爱 là thương chiều; 爱 là yêu, rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "父母都很疼爱这个孩子。",
+        "pinyin": "Fù mǔ dōu hěn tén gài zhè ge hái zi.",
+        "vi": "Bố mẹ đều rất thương đứa trẻ này.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thường là người trên yêu trẻ, kèm chiều chuộng."
+    ],
+    "app_note_vi": "Thường là người trên yêu trẻ, kèm chiều chuộng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "疼爱 nghĩa là gì?",
+        "answer": "thương chiều"
+      },
+      {
+        "type": "cloze",
+        "prompt": "父母都很____这个孩子。",
+        "answer": "疼爱"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 疼爱?",
+        "answer": "疼爱 là thương chiều; 爱 là yêu, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1220",
+    "level": "HSK5",
+    "hanzi": "体贴",
+    "pinyin": "tǐtiē",
+    "topic_id": "emotion",
+    "display_meaning_vi": "chu đáo",
+    "meaning_en": "considerate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "体贴入微 / 体贴照顾",
+    "collocations": [
+      "体贴入微",
+      "体贴照顾",
+      "很体贴"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "室友生病时她很体贴。",
+        "pinyin": "Shì yǒu shēng bìng shí tā hěn tǐ tiē.",
+        "vi": "Khi bạn cùng phòng ốm, cô ấy rất chu đáo.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Quan tâm tới nhu cầu và cảm xúc của người khác."
+    ],
+    "app_note_vi": "Quan tâm tới nhu cầu và cảm xúc của người khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "体贴 nghĩa là gì?",
+        "answer": "chu đáo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "室友生病时她很____。",
+        "answer": "体贴"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

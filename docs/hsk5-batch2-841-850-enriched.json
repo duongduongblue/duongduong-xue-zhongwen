@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_841",
+    "level": "HSK5",
+    "hanzi": "密切",
+    "pinyin": "mìqiè",
+    "topic_id": "language",
+    "display_meaning_vi": "mật thiết",
+    "meaning_en": "close; intimate",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "关系密切 / 密切合作",
+    "collocations": [
+      "关系密切",
+      "密切合作",
+      "很密切"
+    ],
+    "near_synonyms": [
+      {
+        "word": "紧密",
+        "difference_vi": "密切 hay nói quan hệ và hợp tác; 紧密 hay nói khoảng cách hoặc liên kết."
+      }
+    ],
+    "app_synonym_note_vi": "密切 = mật thiết; 紧密 = khít, chặt.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两国关系很密切。",
+        "pinyin": "Liǎng guó guānxì hěn mìqiè.",
+        "vi": "Quan hệ hai nước rất mật thiết.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "切 trong 密切 đọc qiè, là sát. Cắt đọc qiē, như 切黄瓜."
+    ],
+    "app_note_vi": "Tính từ trang trọng. Hay đi với quan hệ và hợp tác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "密切 nghĩa là gì?",
+        "answer": "mật thiết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两国关系很____。",
+        "answer": "密切"
+      },
+      {
+        "type": "synonym",
+        "prompt": "密切 khác 紧密 ở điểm nào?",
+        "answer": "密切 hay nói quan hệ và hợp tác; 紧密 hay nói khoảng cách hoặc liên kết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_842",
+    "level": "HSK5",
+    "hanzi": "迫切",
+    "pinyin": "pòqiè",
+    "topic_id": "language",
+    "display_meaning_vi": "cấp bách",
+    "meaning_en": "urgent",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "迫切需要 / 很迫切",
+    "collocations": [
+      "迫切需要",
+      "迫切的任务",
+      "很迫切"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是一项迫切的任务。",
+        "pinyin": "Zhè shì yí xiàng pòqiè de rènwu.",
+        "vi": "Đây là một việc cấp bách.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "切 đọc qiè. 一项 đọc yí xiàng vì 项 là thanh 4. 任务 đọc rènwu, âm sau nhẹ."
+    ],
+    "app_note_vi": "Tính từ. Cần giải quyết ngay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "迫切 nghĩa là gì?",
+        "answer": "cấp bách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是一项____的任务。",
+        "answer": "迫切"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_843",
+    "level": "HSK5",
+    "hanzi": "亲切",
+    "pinyin": "qīnqiè",
+    "topic_id": "people",
+    "display_meaning_vi": "ân cần",
+    "meaning_en": "kind; cordial",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "亲切的态度 / 感到亲切",
+    "collocations": [
+      "亲切的态度",
+      "感到亲切",
+      "很亲切"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师的态度很亲切。",
+        "pinyin": "Lǎoshī de tàidu hěn qīnqiè.",
+        "vi": "Thái độ của thầy rất ân cần.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "切 đọc qiè. 亲 đọc qīn. Họ hàng bên thông gia, như 亲家, đọc qìng."
+    ],
+    "app_note_vi": "Tính từ. Ấm và gần gũi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "亲切 nghĩa là gì?",
+        "answer": "ân cần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师的态度很____。",
+        "answer": "亲切"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_844",
+    "level": "HSK5",
+    "hanzi": "难怪",
+    "pinyin": "nánguài",
+    "topic_id": "language",
+    "display_meaning_vi": "thảo nào",
+    "meaning_en": "no wonder",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "难怪呢 / 难怪他",
+    "collocations": [
+      "难怪呢",
+      "也难怪",
+      "难怪他"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "原来生病了，难怪没来。",
+        "pinyin": "Yuánlái shēngbìng le, nánguài méi lái.",
+        "vi": "Hóa ra ốm, thảo nào không đến.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "难 đọc nán, là khó. Tai nạn, hoạn nạn đọc nàn, như 灾难."
+    ],
+    "app_note_vi": "Phó từ. Dùng sau khi đã biết nguyên nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "难怪 nghĩa là gì?",
+        "answer": "thảo nào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "原来生病了，____没来。",
+        "answer": "难怪"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_845",
+    "level": "HSK5",
+    "hanzi": "难看",
+    "pinyin": "nánkàn",
+    "topic_id": "abstract",
+    "display_meaning_vi": "khó coi",
+    "meaning_en": "ugly; embarrassing",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "很难看 / 颜色难看",
+    "collocations": [
+      "很难看",
+      "颜色难看",
+      "长得难看"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件衣服颜色很难看。",
+        "pinyin": "Zhè jiàn yīfu yánsè hěn nánkàn.",
+        "vi": "Màu áo này khó coi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "难 đọc nán. 看 đọc kàn. Trông nom đọc kān, như 看门. 色 đọc sè."
+    ],
+    "app_note_vi": "Tính từ. Xấu mắt, hoặc tình huống ngượng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "难看 nghĩa là gì?",
+        "answer": "khó coi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件衣服颜色很____。",
+        "answer": "难看"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_846",
+    "level": "HSK5",
+    "hanzi": "片面",
+    "pinyin": "piànmiàn",
+    "topic_id": "language",
+    "display_meaning_vi": "phiến diện",
+    "meaning_en": "one-sided",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "片面的看法 / 很片面",
+    "collocations": [
+      "片面的看法",
+      "很片面",
+      "不要片面"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别只看片面的消息。",
+        "pinyin": "Bié zhǐ kàn piànmiàn de xiāoxi.",
+        "vi": "Đừng chỉ xem tin một phía.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "片 đọc piàn. Ảnh kiểu 相片 đọc piān. 只 ở đây đọc zhǐ, là chỉ. Lượng từ con vật đọc zhī. 消息 đọc xiāoxi, âm sau nhẹ."
+    ],
+    "app_note_vi": "Tính từ. Chỉ thấy một mặt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "片面 nghĩa là gì?",
+        "answer": "phiến diện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别只看____的消息。",
+        "answer": "片面"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_847",
+    "level": "HSK5",
+    "hanzi": "后果",
+    "pinyin": "hòuguǒ",
+    "topic_id": "language",
+    "display_meaning_vi": "hậu quả",
+    "meaning_en": "consequence",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "严重后果 / 后果严重",
+    "collocations": [
+      "严重后果",
+      "后果严重",
+      "可能的后果"
+    ],
+    "near_synonyms": [
+      {
+        "word": "结果",
+        "difference_vi": "后果 thường là kết cục xấu; 结果 trung tính."
+      }
+    ],
+    "app_synonym_note_vi": "后果 = hậu quả xấu; 结果 = kết quả.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "要想到可能的后果。",
+        "pinyin": "Yào xiǎngdào kěnéng de hòuguǒ.",
+        "vi": "Phải nghĩ tới hậu quả có thể xảy ra.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "后果 nghiêng về điều không hay sau một việc."
+    ],
+    "app_note_vi": "Danh từ. Hay đi với 严重.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "后果 nghĩa là gì?",
+        "answer": "hậu quả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "要想到可能的____。",
+        "answer": "后果"
+      },
+      {
+        "type": "synonym",
+        "prompt": "后果 khác 结果 ở điểm nào?",
+        "answer": "后果 thường là kết cục xấu; 结果 trung tính."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_848",
+    "level": "HSK5",
+    "hanzi": "忽视",
+    "pinyin": "hūshì",
+    "topic_id": "language",
+    "display_meaning_vi": "xem nhẹ",
+    "meaning_en": "to ignore; to neglect",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "不能忽视 / 忽视问题",
+    "collocations": [
+      "不能忽视",
+      "忽视问题",
+      "被忽视"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不能忽视小问题。",
+        "pinyin": "Bù néng hūshì xiǎo wèntí.",
+        "vi": "Không thể xem nhẹ việc nhỏ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "能 là thanh 2, nên 不 vẫn đọc bù. 忽视 là không để ý đến mức bỏ qua."
+    ],
+    "app_note_vi": "Động từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "忽视 nghĩa là gì?",
+        "answer": "xem nhẹ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不能____小问题。",
+        "answer": "忽视"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_849",
+    "level": "HSK5",
+    "hanzi": "可靠",
+    "pinyin": "kěkào",
+    "topic_id": "language",
+    "display_meaning_vi": "đáng tin",
+    "meaning_en": "reliable",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很可靠 / 可靠的消息",
+    "collocations": [
+      "很可靠",
+      "可靠的消息",
+      "真实可靠"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个消息很可靠。",
+        "pinyin": "Zhège xiāoxi hěn kěkào.",
+        "vi": "Tin này đáng tin.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "消息 đọc xiāoxi. 可靠 là có thể dựa vào."
+    ],
+    "app_note_vi": "Tính từ. Nói về tin, người hoặc máy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "可靠 nghĩa là gì?",
+        "answer": "đáng tin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个消息很____。",
+        "answer": "可靠"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_850",
+    "level": "HSK5",
+    "hanzi": "客观",
+    "pinyin": "kèguān",
+    "topic_id": "language",
+    "display_meaning_vi": "khách quan",
+    "meaning_en": "objective",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "客观地看 / 客观条件",
+    "collocations": [
+      "客观地看",
+      "客观条件",
+      "很客观"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请客观地看这件事。",
+        "pinyin": "Qǐng kèguān de kàn zhè jiàn shì.",
+        "vi": "Xin xem việc này cho khách quan.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地 đọc nhẹ de. 看 đọc kàn. Khách quan là nhìn theo sự việc, không theo ý riêng."
+    ],
+    "app_note_vi": "Tính từ. Đối với chủ quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "客观 nghĩa là gì?",
+        "answer": "khách quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____地看这件事。",
+        "answer": "客观"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

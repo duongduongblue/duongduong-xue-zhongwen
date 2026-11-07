@@ -1,0 +1,633 @@
+[
+  {
+    "id": "hsk5_batch2_231",
+    "level": "HSK5",
+    "hanzi": "控制",
+    "pinyin": "kòngzhì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "kiểm soát",
+    "meaning_en": "to control",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "控制 + 情绪 / 局面",
+    "collocations": [
+      "控制情绪",
+      "控制局面",
+      "失去控制"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他努力控制自己的情绪。",
+        "pinyin": "Tā nǔlì kòngzhì zìjǐ de qíngxù.",
+        "vi": "Anh ấy cố kiểm soát tâm trạng của mình.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "控制不住 là không kìm được. Không nói 控制不了情绪 theo cùng sắc thái khi muốn nói vừa kịp kìm."
+    ],
+    "app_note_vi": "Dùng cho cảm xúc, tình hình và máy móc. 失去控制 là mất kiểm soát.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "控制 nghĩa là gì?",
+        "answer": "kiểm soát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他努力____自己的情绪。",
+        "answer": "控制"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_232",
+    "level": "HSK5",
+    "hanzi": "失去",
+    "pinyin": "shīqù",
+    "topic_id": "emotion",
+    "display_meaning_vi": "mất đi",
+    "meaning_en": "to lose",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "失去 + 信心 / 机会 / 联系",
+    "collocations": [
+      "失去信心",
+      "失去联系",
+      "失去机会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "丢失",
+        "difference_vi": "失去 là mất cái từng có, kể cả cơ hội hoặc tình cảm; 丢失 thường là làm thất lạc đồ vật."
+      }
+    ],
+    "app_synonym_note_vi": "失去 = mất cái đã có; 丢失 = thất lạc đồ.",
+    "antonyms": [
+      "得到"
+    ],
+    "example_sentences": [
+      {
+        "zh": "不要失去这次机会。",
+        "pinyin": "Búyào shīqù zhè cì jīhuì.",
+        "vi": "Đừng để mất cơ hội lần này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mất một cái bút thường nói 丢了 hoặc 找不到, không cần 失去."
+    ],
+    "app_note_vi": "Nhấn mạnh thứ từng có nay không còn. 不要 đọc búyào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "失去 nghĩa là gì?",
+        "answer": "mất đi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不要____这次机会。",
+        "answer": "失去"
+      },
+      {
+        "type": "synonym",
+        "prompt": "失去 khác 丢失 ở điểm nào?",
+        "answer": "失去 là mất cái từng có, kể cả cơ hội hoặc tình cảm; 丢失 thường là làm thất lạc đồ vật."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_233",
+    "level": "HSK5",
+    "hanzi": "享受",
+    "pinyin": "xiǎngshòu",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hưởng thụ",
+    "meaning_en": "to enjoy",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "享受 + 生活 / 过程",
+    "collocations": [
+      "享受生活",
+      "享受过程",
+      "享受待遇"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "退休后他开始享受生活。",
+        "pinyin": "Tuìxiū hòu tā kāishǐ xiǎngshòu shēnghuó.",
+        "vi": "Sau khi nghỉ hưu anh ấy bắt đầu hưởng cuộc sống.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "享受 là hưởng điều tốt. Một việc vất vả không nói 享受 trừ khi cố ý mỉa."
+    ],
+    "app_note_vi": "Động từ. Có thể là hưởng vật chất hoặc hưởng một khoảng thời gian.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "享受 nghĩa là gì?",
+        "answer": "hưởng thụ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "退休后他开始____生活。",
+        "answer": "享受"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_234",
+    "level": "HSK5",
+    "hanzi": "感受",
+    "pinyin": "gǎnshòu",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cảm nhận",
+    "meaning_en": "feeling; to feel",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感受很深 / 个人感受",
+    "collocations": [
+      "个人感受",
+      "真实感受",
+      "深有感受"
+    ],
+    "near_synonyms": [
+      {
+        "word": "感想",
+        "difference_vi": "感受 là điều mình cảm thấy; 感想 là suy nghĩ rút ra sau một việc."
+      }
+    ],
+    "app_synonym_note_vi": "感受 = cảm nhận; 感想 = suy nghĩ sau một việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我对这次旅行感受很深。",
+        "pinyin": "Wǒ duì zhè cì lǚxíng gǎnshòu hěn shēn.",
+        "vi": "Chuyến đi này để lại cho tôi cảm nhận rất sâu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "感受很深 là ấn tượng sâu. Không nói 很感受."
+    ],
+    "app_note_vi": "Vừa là danh từ vừa là động từ. 对…感受很深 là mẫu hay gặp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "感受 nghĩa là gì?",
+        "answer": "cảm nhận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我对这次旅行____很深。",
+        "answer": "感受"
+      },
+      {
+        "type": "synonym",
+        "prompt": "感受 khác 感想 ở điểm nào?",
+        "answer": "感受 là điều mình cảm thấy; 感想 là suy nghĩ rút ra sau một việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_235",
+    "level": "HSK5",
+    "hanzi": "期待",
+    "pinyin": "qīdài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "mong đợi",
+    "meaning_en": "to look forward to",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "期待 + 事情 / 充满期待",
+    "collocations": [
+      "充满期待",
+      "期待已久",
+      "值得期待"
+    ],
+    "near_synonyms": [
+      {
+        "word": "盼望",
+        "difference_vi": "期待 trung tính, hay nói một sự việc sẽ tới; 盼望 tình cảm mong nhớ rõ hơn."
+      }
+    ],
+    "app_synonym_note_vi": "期待 = mong một việc sẽ tới; 盼望 = mong ngóng, tình cảm hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子们期待着假期。",
+        "pinyin": "Háizimen qīdài zhe jiàqī.",
+        "vi": "Bọn trẻ đang mong kỳ nghỉ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 trong 期待着 đọc nhẹ zhe."
+    ],
+    "app_note_vi": "Sắc thái tích cực. 值得期待 là đáng để chờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "期待 nghĩa là gì?",
+        "answer": "mong đợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子们____着假期。",
+        "answer": "期待"
+      },
+      {
+        "type": "synonym",
+        "prompt": "期待 khác 盼望 ở điểm nào?",
+        "answer": "期待 trung tính, hay nói một sự việc sẽ tới; 盼望 tình cảm mong nhớ rõ hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_236",
+    "level": "HSK5",
+    "hanzi": "痛苦",
+    "pinyin": "tòngkǔ",
+    "topic_id": "emotion",
+    "display_meaning_vi": "đau khổ",
+    "meaning_en": "suffering; painful",
+    "part_of_speech": "adjective/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到痛苦 / 痛苦的回忆",
+    "collocations": [
+      "感到痛苦",
+      "痛苦不堪",
+      "痛苦的回忆"
+    ],
+    "near_synonyms": [
+      {
+        "word": "疼",
+        "difference_vi": "痛苦 là đau khổ, tinh thần hoặc kéo dài; 疼 thường là đau trên cơ thể, ngắn và cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "痛苦 = đau khổ; 疼 = đau ở thân thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "分手以后她痛苦了很久。",
+        "pinyin": "Fēnshǒu yǐhòu tā tòngkǔ le hěn jiǔ.",
+        "vi": "Sau chia tay cô ấy đau khổ rất lâu.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đau một vết thương nói 疼 hoặc 痛. 痛苦 dành cho nỗi khổ nặng hơn."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 痛苦不堪 là khổ đến mức không chịu nổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "痛苦 nghĩa là gì?",
+        "answer": "đau khổ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "分手以后她____了很久。",
+        "answer": "痛苦"
+      },
+      {
+        "type": "synonym",
+        "prompt": "痛苦 khác 疼 ở điểm nào?",
+        "answer": "痛苦 là đau khổ, tinh thần hoặc kéo dài; 疼 thường là đau trên cơ thể, ngắn và cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_237",
+    "level": "HSK5",
+    "hanzi": "力量",
+    "pinyin": "lìliang",
+    "topic_id": "emotion",
+    "display_meaning_vi": "sức mạnh",
+    "meaning_en": "strength; force",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "精神力量 / 有力量",
+    "collocations": [
+      "集中力量",
+      "精神力量",
+      "力量很大"
+    ],
+    "near_synonyms": [
+      {
+        "word": "力气",
+        "difference_vi": "力量 có thể là sức của một người, một tập thể hoặc một lực trừu tượng; 力气 thiên về sức cơ bắp."
+      }
+    ],
+    "app_synonym_note_vi": "力量 = sức mạnh, cụ thể hoặc trừu tượng; 力气 = sức cơ bắp.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "大家团结起来就有力量。",
+        "pinyin": "Dàjiā tuánjié qǐlái jiù yǒu lìliang.",
+        "vi": "Mọi người đoàn kết lại thì có sức mạnh.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Âm sau của 力量 đọc nhẹ: lìliang, không đọc lìliàng."
+    ],
+    "app_note_vi": "Danh từ. 精神力量 là sức mạnh tinh thần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "力量 nghĩa là gì?",
+        "answer": "sức mạnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "大家团结起来就有____。",
+        "answer": "力量"
+      },
+      {
+        "type": "synonym",
+        "prompt": "力量 khác 力气 ở điểm nào?",
+        "answer": "力量 có thể là sức của một người, một tập thể hoặc một lực trừu tượng; 力气 thiên về sức cơ bắp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_238",
+    "level": "HSK5",
+    "hanzi": "状态",
+    "pinyin": "zhuàngtài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "trạng thái",
+    "meaning_en": "state; condition",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "精神状态 / 状态很好",
+    "collocations": [
+      "精神状态",
+      "状态不好",
+      "最佳状态"
+    ],
+    "near_synonyms": [
+      {
+        "word": "情况",
+        "difference_vi": "状态 hay nói tình trạng của người hoặc máy; 情况 là tình hình của một sự việc."
+      }
+    ],
+    "app_synonym_note_vi": "状态 = trạng thái của người hoặc máy; 情况 = tình hình sự việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "运动员今天状态很好。",
+        "pinyin": "Yùndòngyuán jīntiān zhuàngtài hěn hǎo.",
+        "vi": "Hôm nay vận động viên có trạng thái rất tốt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "状态不好 là người hoặc máy không ở phong độ, không phải “câu chuyện không tốt”."
+    ],
+    "app_note_vi": "Danh từ. 最佳状态 là trạng thái tốt nhất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "状态 nghĩa là gì?",
+        "answer": "trạng thái"
+      },
+      {
+        "type": "cloze",
+        "prompt": "运动员今天____很好。",
+        "answer": "状态"
+      },
+      {
+        "type": "synonym",
+        "prompt": "状态 khác 情况 ở điểm nào?",
+        "answer": "状态 hay nói tình trạng của người hoặc máy; 情况 là tình hình của một sự việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_239",
+    "level": "HSK5",
+    "hanzi": "开心",
+    "pinyin": "kāixīn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "vui",
+    "meaning_en": "happy; glad",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "informal",
+    "grammar_pattern": "很开心 / 开开心心",
+    "collocations": [
+      "很开心",
+      "开开心心",
+      "玩得开心"
+    ],
+    "near_synonyms": [
+      {
+        "word": "高兴",
+        "difference_vi": "开心 khẩu ngữ hơn, nhấn tâm trạng vui; 高兴 cũng là vui, dùng rộng cả khi viết."
+      }
+    ],
+    "app_synonym_note_vi": "开心 = vui, khẩu ngữ; 高兴 = vui, rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "收到礼物她很开心。",
+        "pinyin": "Shōudào lǐwù tā hěn kāixīn.",
+        "vi": "Nhận được quà, cô ấy rất vui.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拿别人开心 là trêu người khác, không phải “làm người ấy vui”."
+    ],
+    "app_note_vi": "Tính từ tâm trạng. 开开心心 là dạng láy, nghĩa rất vui.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "开心 nghĩa là gì?",
+        "answer": "vui"
+      },
+      {
+        "type": "cloze",
+        "prompt": "收到礼物她很____。",
+        "answer": "开心"
+      },
+      {
+        "type": "synonym",
+        "prompt": "开心 khác 高兴 ở điểm nào?",
+        "answer": "开心 khẩu ngữ hơn, nhấn tâm trạng vui; 高兴 cũng là vui, dùng rộng cả khi viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_240",
+    "level": "HSK5",
+    "hanzi": "亲爱",
+    "pinyin": "qīn'ài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "thân yêu",
+    "meaning_en": "dear; beloved",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "亲爱的 + 人",
+    "collocations": [
+      "亲爱的朋友",
+      "亲爱的妈妈",
+      "我亲爱的"
+    ],
+    "near_synonyms": [
+      {
+        "word": "敬爱",
+        "difference_vi": "亲爱 là lời gọi thân thương; 敬爱 là kính yêu người mình tôn trọng."
+      }
+    ],
+    "app_synonym_note_vi": "亲爱 = thân yêu, để gọi; 敬爱 = kính yêu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "亲爱的朋友们，大家好。",
+        "pinyin": "Qīn'ài de péngyoumen, dàjiā hǎo.",
+        "vi": "Các bạn thân mến, xin chào.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "亲爱 đứng trước người được gọi. Không nói 我很亲爱 để tả tâm trạng vui."
+    ],
+    "app_note_vi": "Hay gặp ở đầu thư hoặc lời chào. Giữa qīn và ài có dấu nháy: qīn'ài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "亲爱 nghĩa là gì?",
+        "answer": "thân yêu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____的朋友们，大家好。",
+        "answer": "亲爱"
+      },
+      {
+        "type": "synonym",
+        "prompt": "亲爱 khác 敬爱 ở điểm nào?",
+        "answer": "亲爱 là lời gọi thân thương; 敬爱 là kính yêu người mình tôn trọng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

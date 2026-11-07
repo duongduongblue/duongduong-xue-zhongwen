@@ -1,0 +1,577 @@
+[
+  {
+    "id": "hsk5_batch2_1181",
+    "level": "HSK5",
+    "hanzi": "照常",
+    "pinyin": "zhàocháng",
+    "topic_id": "society",
+    "display_meaning_vi": "như thường lệ",
+    "meaning_en": "as usual",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "照常营业 / 照常上班",
+    "collocations": [
+      "照常营业",
+      "照常上班",
+      "一切照常"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "照常 là vẫn làm như mọi khi; 正常 là bình thường, không có trục trặc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "节日商店照常开门。",
+        "pinyin": "Jié rì shāng diàn zhào cháng kāi mén.",
+        "vi": "Ngày lễ cửa hàng vẫn mở cửa như thường.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Việc vẫn diễn ra đúng như mọi khi, dù có chuyện đặc biệt."
+    ],
+    "app_note_vi": "Việc vẫn diễn ra đúng như mọi khi, dù có chuyện đặc biệt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "照常 nghĩa là gì?",
+        "answer": "như thường lệ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "节日商店____开门。",
+        "answer": "照常"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 照常?",
+        "answer": "照常 là vẫn làm như mọi khi; 正常 là bình thường, không có trục trặc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1182",
+    "level": "HSK5",
+    "hanzi": "秩序",
+    "pinyin": "zhìxù",
+    "topic_id": "society",
+    "display_meaning_vi": "trật tự",
+    "meaning_en": "order",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "维持秩序 / 公共秩序",
+    "collocations": [
+      "维持秩序",
+      "公共秩序",
+      "秩序井然"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "秩序 là trật tự nơi công cộng; 顺序 là thứ tự trước sau.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "会场里的秩序很好。",
+        "pinyin": "Huì chǎng lǐ de zhì xù hěn hǎo.",
+        "vi": "Trật tự trong hội trường rất tốt.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Sự ngăn nắp, đúng phép nơi đông người."
+    ],
+    "app_note_vi": "Sự ngăn nắp, đúng phép nơi đông người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "秩序 nghĩa là gì?",
+        "answer": "trật tự"
+      },
+      {
+        "type": "cloze",
+        "prompt": "会场里的____很好。",
+        "answer": "秩序"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 秩序?",
+        "answer": "秩序 là trật tự nơi công cộng; 顺序 là thứ tự trước sau."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1183",
+    "level": "HSK5",
+    "hanzi": "主席",
+    "pinyin": "zhǔxí",
+    "topic_id": "society",
+    "display_meaning_vi": "chủ tịch",
+    "meaning_en": "the chair",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大会主席 / 主席台",
+    "collocations": [
+      "大会主席",
+      "主席台",
+      "主席团"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "主席宣布会议开始。",
+        "pinyin": "Zhǔ xí xuān bù huì yì kāi shǐ.",
+        "vi": "Chủ tịch tuyên bố cuộc họp bắt đầu.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người đứng đầu một cuộc họp hoặc một tổ chức."
+    ],
+    "app_note_vi": "Người đứng đầu một cuộc họp hoặc một tổ chức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "主席 nghĩa là gì?",
+        "answer": "chủ tịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____宣布会议开始。",
+        "answer": "主席"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1184",
+    "level": "HSK5",
+    "hanzi": "总理",
+    "pinyin": "zǒnglǐ",
+    "topic_id": "society",
+    "display_meaning_vi": "thủ tướng",
+    "meaning_en": "premier",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "政府总理 / 国务院总理",
+    "collocations": [
+      "政府总理",
+      "国务院总理",
+      "总理职务"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "总理 là thủ tướng; 总统 là nguyên thủ quốc gia ở nhiều nước.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "总理今天视察了学校。",
+        "pinyin": "Zǒng lǐ jīn tiān shì chá le xué xiào.",
+        "vi": "Thủ tướng hôm nay đã đến kiểm tra một ngôi trường.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người đứng đầu chính phủ."
+    ],
+    "app_note_vi": "Người đứng đầu chính phủ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "总理 nghĩa là gì?",
+        "answer": "thủ tướng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____今天视察了学校。",
+        "answer": "总理"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 总理?",
+        "answer": "总理 là thủ tướng; 总统 là nguyên thủ quốc gia ở nhiều nước."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1185",
+    "level": "HSK5",
+    "hanzi": "阻止",
+    "pinyin": "zǔzhǐ",
+    "topic_id": "society",
+    "display_meaning_vi": "ngăn lại",
+    "meaning_en": "to stop someone",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "极力阻止 / 无法阻止",
+    "collocations": [
+      "极力阻止",
+      "无法阻止",
+      "加以阻止"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "阻止 là ngăn không cho tiếp diễn; 防止 là phòng để việc xấu khỏi xảy ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "没有人能阻止他离开。",
+        "pinyin": "Méi yǒu rén néng zǔ zhǐ tā lí kāi.",
+        "vi": "Không ai ngăn được anh ấy ra đi.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm cho một việc hoặc một người không tiếp tục."
+    ],
+    "app_note_vi": "Làm cho một việc hoặc một người không tiếp tục.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "阻止 nghĩa là gì?",
+        "answer": "ngăn lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "没有人能____他离开。",
+        "answer": "阻止"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 阻止?",
+        "answer": "阻止 là ngăn không cho tiếp diễn; 防止 là phòng để việc xấu khỏi xảy ra."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1186",
+    "level": "HSK5",
+    "hanzi": "祖国",
+    "pinyin": "zǔguó",
+    "topic_id": "society",
+    "display_meaning_vi": "tổ quốc",
+    "meaning_en": "one's homeland",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "建设祖国 / 祖国各地",
+    "collocations": [
+      "建设祖国",
+      "祖国各地",
+      "报效祖国"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "祖国 mang tình cảm gắn bó với đất nước; 国家 là quốc gia theo nghĩa hành chính.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他很热爱自己的祖国。",
+        "pinyin": "Tā hěn rè ài zì jǐ de zǔ guó.",
+        "vi": "Anh ấy rất yêu tổ quốc mình.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đất nước của dân tộc mình, mang tình cảm gắn bó."
+    ],
+    "app_note_vi": "Đất nước của dân tộc mình, mang tình cảm gắn bó.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "祖国 nghĩa là gì?",
+        "answer": "tổ quốc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他很热爱自己的____。",
+        "answer": "祖国"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 祖国?",
+        "answer": "祖国 mang tình cảm gắn bó với đất nước; 国家 là quốc gia theo nghĩa hành chính."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1187",
+    "level": "HSK5",
+    "hanzi": "罪犯",
+    "pinyin": "zuìfàn",
+    "topic_id": "society",
+    "display_meaning_vi": "người phạm tội",
+    "meaning_en": "an offender",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "抓获罪犯 / 罪犯改造",
+    "collocations": [
+      "抓获罪犯",
+      "罪犯改造",
+      "在逃罪犯"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "罪犯 là người đã phạm tội; 嫌疑人 mới là người bị nghi, chưa kết luận.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "警方正在寻找那名罪犯。",
+        "pinyin": "Jǐng fāng zhèng zài xún zhǎo nà míng zuì fàn.",
+        "vi": "Cảnh sát đang tìm người phạm tội ấy.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người đã phạm tội theo pháp luật. Không dùng như lời chửi."
+    ],
+    "app_note_vi": "Người đã phạm tội theo pháp luật. Không dùng như lời chửi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "罪犯 nghĩa là gì?",
+        "answer": "người phạm tội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "警方正在寻找那名____。",
+        "answer": "罪犯"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 罪犯?",
+        "answer": "罪犯 là người đã phạm tội; 嫌疑人 mới là người bị nghi, chưa kết luận."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1188",
+    "level": "HSK5",
+    "hanzi": "遵守",
+    "pinyin": "zūnshǒu",
+    "topic_id": "society",
+    "display_meaning_vi": "tuân thủ",
+    "meaning_en": "to abide by",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "遵守规则 / 遵守法律",
+    "collocations": [
+      "遵守规则",
+      "遵守法律",
+      "遵守纪律"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "遵守 là theo quy tắc; 服从 là nghe theo lệnh của người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "司机必须遵守交通规则。",
+        "pinyin": "Sī jī bì xū zūn shǒu jiāo tōng guī zé.",
+        "vi": "Tài xế phải tuân thủ luật giao thông.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm đúng luật, nội quy hoặc lời hứa."
+    ],
+    "app_note_vi": "Làm đúng luật, nội quy hoặc lời hứa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "遵守 nghĩa là gì?",
+        "answer": "tuân thủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "司机必须____交通规则。",
+        "answer": "遵守"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 遵守?",
+        "answer": "遵守 là theo quy tắc; 服从 là nghe theo lệnh của người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1189",
+    "level": "HSK5",
+    "hanzi": "牵",
+    "pinyin": "qiān",
+    "topic_id": "people",
+    "display_meaning_vi": "dắt",
+    "meaning_en": "to lead by the hand or a rope",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "牵手 / 牵挂",
+    "collocations": [
+      "牵手",
+      "牵挂",
+      "牵线"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈牵着孩子过马路。",
+        "pinyin": "Mā mā qiān zhe hái zi guò mǎ lù.",
+        "vi": "Mẹ dắt trẻ qua đường.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dắt tay, dắt súc vật. 牵挂 là nhớ và lo cho ai."
+    ],
+    "app_note_vi": "Dắt tay, dắt súc vật. 牵挂 là nhớ và lo cho ai.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "牵 nghĩa là gì?",
+        "answer": "dắt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈____着孩子过马路。",
+        "answer": "牵"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1190",
+    "level": "HSK5",
+    "hanzi": "去世",
+    "pinyin": "qùshì",
+    "topic_id": "people",
+    "display_meaning_vi": "qua đời",
+    "meaning_en": "to pass away",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不幸去世 / 去世多年",
+    "collocations": [
+      "不幸去世",
+      "去世多年",
+      "去世以后"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "祖父是去年去世的。",
+        "pinyin": "Zǔ fù shì qù nián qù shì de.",
+        "vi": "Ông nội đã qua đời năm ngoái.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cách nói kính trọng khi một người mất. Không dùng cho người còn sống."
+    ],
+    "app_note_vi": "Cách nói kính trọng khi một người mất. Không dùng cho người còn sống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "去世 nghĩa là gì?",
+        "answer": "qua đời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "祖父是去年____的。",
+        "answer": "去世"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

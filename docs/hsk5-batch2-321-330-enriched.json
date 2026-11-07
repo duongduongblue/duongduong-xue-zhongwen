@@ -1,0 +1,576 @@
+[
+  {
+    "id": "hsk5_batch2_321",
+    "level": "HSK5",
+    "hanzi": "充满",
+    "pinyin": "chōngmǎn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tràn đầy",
+    "meaning_en": "full of",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "充满 + 信心 / 笑声",
+    "collocations": [
+      "充满信心",
+      "充满希望",
+      "充满笑声"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "教室里充满了笑声。",
+        "pinyin": "Jiàoshì lǐ chōngmǎn le xiàoshēng.",
+        "vi": "Trong lớp tràn tiếng cười.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "充满 sau nó là thứ làm đầy, không nói 充满得很."
+    ],
+    "app_note_vi": "Động từ. Dùng cho không gian hoặc lòng người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "充满 nghĩa là gì?",
+        "answer": "tràn đầy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "教室里____了笑声。",
+        "answer": "充满"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_322",
+    "level": "HSK5",
+    "hanzi": "满足",
+    "pinyin": "mǎnzú",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hài lòng; đáp ứng đủ",
+    "meaning_en": "satisfied; to satisfy",
+    "part_of_speech": "verb/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到满足 / 满足需求",
+    "collocations": [
+      "满足需求",
+      "满足条件",
+      "感到满足"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他对现在的生活很满足。",
+        "pinyin": "Tā duì xiànzài de shēnghuó hěn mǎnzú.",
+        "vi": "Anh ấy hài lòng với cuộc sống hiện tại.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "很满足 là thấy đủ, hài lòng. 满足条件 là đáp ứng một điều kiện, không phải cảm xúc."
+    ],
+    "app_note_vi": "Hai hướng: cảm giác hài lòng, và làm cho một yêu cầu được đủ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "满足 nghĩa là gì?",
+        "answer": "hài lòng; đáp ứng đủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他对现在的生活很____。",
+        "answer": "满足"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_323",
+    "level": "HSK5",
+    "hanzi": "等待",
+    "pinyin": "děngdài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "chờ đợi",
+    "meaning_en": "to wait for",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "等待 + 消息 / 机会",
+    "collocations": [
+      "等待消息",
+      "耐心等待",
+      "等待机会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "等",
+        "difference_vi": "等待 trang trọng hơn; 等 ngắn và dùng trong lời nói hàng ngày."
+      }
+    ],
+    "app_synonym_note_vi": "等待 = chờ, trang trọng hơn; 等 = chờ, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们正在等待考试结果。",
+        "pinyin": "Wǒmen zhèngzài děngdài kǎoshì jiéguǒ.",
+        "vi": "Chúng tôi đang chờ kết quả thi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "等待 đi với tin, người hoặc cơ hội. Chờ một lát nói 等一下 là đủ."
+    ],
+    "app_note_vi": "Động từ. 耐心等待 là kiên nhẫn chờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "等待 nghĩa là gì?",
+        "answer": "chờ đợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们正在____考试结果。",
+        "answer": "等待"
+      },
+      {
+        "type": "synonym",
+        "prompt": "等待 khác 等 ở điểm nào?",
+        "answer": "等待 trang trọng hơn; 等 ngắn và dùng trong lời nói hàng ngày."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_324",
+    "level": "HSK5",
+    "hanzi": "情绪",
+    "pinyin": "qíngxù",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tâm trạng",
+    "meaning_en": "mood; emotion",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "情绪低落 / 带情绪",
+    "collocations": [
+      "情绪低落",
+      "情绪稳定",
+      "带情绪"
+    ],
+    "near_synonyms": [
+      {
+        "word": "心情",
+        "difference_vi": "情绪 là trạng thái cảm xúc, có thể kéo dài và lên xuống; 心情 là tâm trạng của một lúc."
+      }
+    ],
+    "app_synonym_note_vi": "情绪 = cảm xúc, tâm trạng; 心情 = tâm trạng một lúc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别把不好的情绪带回家。",
+        "pinyin": "Bié bǎ bù hǎo de qíngxù dài huí jiā.",
+        "vi": "Đừng mang tâm trạng không tốt về nhà.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "带情绪 là còn đang bực, để cảm xúc chi phối. Không phải “mang theo một món đồ”."
+    ],
+    "app_note_vi": "Danh từ. 情绪稳定 là cảm xúc ổn định.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "情绪 nghĩa là gì?",
+        "answer": "tâm trạng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别把不好的____带回家。",
+        "answer": "情绪"
+      },
+      {
+        "type": "synonym",
+        "prompt": "情绪 khác 心情 ở điểm nào?",
+        "answer": "情绪 là trạng thái cảm xúc, có thể kéo dài và lên xuống; 心情 là tâm trạng của một lúc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_325",
+    "level": "HSK5",
+    "hanzi": "幸运",
+    "pinyin": "xìngyùn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "may mắn",
+    "meaning_en": "lucky; fortunate",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很幸运 / 幸运儿",
+    "collocations": [
+      "很幸运",
+      "幸运儿",
+      "幸运数字"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "能得到大家帮助，我很幸运。",
+        "pinyin": "Néng dédào dàjiā bāngzhù, wǒ hěn xìngyùn.",
+        "vi": "Được mọi người giúp, tôi rất may.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "幸运 là có vận may. Cố gắng đạt được không gọi là 幸运."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 幸运儿 là người gặp may.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "幸运 nghĩa là gì?",
+        "answer": "may mắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "能得到大家帮助，我很____。",
+        "answer": "幸运"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_326",
+    "level": "HSK5",
+    "hanzi": "吓",
+    "pinyin": "xià",
+    "topic_id": "emotion",
+    "display_meaning_vi": "làm giật mình; dọa",
+    "meaning_en": "to frighten; to startle",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吓一跳 / 吓到",
+    "collocations": [
+      "吓一跳",
+      "吓到",
+      "别吓人"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "突然一声，吓了我一跳。",
+        "pinyin": "Tūrán yì shēng, xià le wǒ yí tiào.",
+        "vi": "Một tiếng bất ngờ làm tôi giật mình.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "吓一跳 đọc xià. 恐吓 đọc hè, là dọa nạt để uy hiếp, không phải giật mình."
+    ],
+    "app_note_vi": "Động từ. 别吓人 là đừng làm người khác sợ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吓 nghĩa là gì?",
+        "answer": "làm giật mình; dọa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "突然一声，____了我一跳。",
+        "answer": "吓"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_327",
+    "level": "HSK5",
+    "hanzi": "傻",
+    "pinyin": "shǎ",
+    "topic_id": "emotion",
+    "display_meaning_vi": "ngốc; khờ",
+    "meaning_en": "foolish; silly",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "informal",
+    "grammar_pattern": "真傻 / 傻瓜",
+    "collocations": [
+      "傻瓜",
+      "傻笑",
+      "装傻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我把钥匙锁屋里了，真傻。",
+        "pinyin": "Wǒ bǎ yàoshi suǒ wū lǐ le, zhēn shǎ.",
+        "vi": "Tôi khóa chìa khóa trong nhà, ngốc thật.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "傻 dùng để nói đùa về mình hoặc một việc dại. Đừng dùng để nhục mạ người khác."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. 装傻 là giả vờ ngốc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "傻 nghĩa là gì?",
+        "answer": "ngốc; khờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我把钥匙锁屋里了，真____。",
+        "answer": "傻"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_328",
+    "level": "HSK5",
+    "hanzi": "恨",
+    "pinyin": "hèn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hận; ghét sâu",
+    "meaning_en": "to hate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "恨不得 / 并不恨",
+    "collocations": [
+      "怨恨",
+      "仇恨",
+      "恨不得"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他并不恨那个对手。",
+        "pinyin": "Tā bìng bù hèn nàge duìshǒu.",
+        "vi": "Anh ấy không hề hận đối thủ đó.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "恨不得 là ước rất mạnh, như “chỉ muốn”, không phải “không ghét được”."
+    ],
+    "app_note_vi": "Động từ. Mức ghét sâu hơn 不喜欢.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "恨 nghĩa là gì?",
+        "answer": "hận; ghét sâu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他并不____那个对手。",
+        "answer": "恨"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_329",
+    "level": "HSK5",
+    "hanzi": "疯狂",
+    "pinyin": "fēngkuáng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cuồng nhiệt; điên cuồng",
+    "meaning_en": "crazy; frenzied",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "疯狂地 + 动词",
+    "collocations": [
+      "近乎疯狂",
+      "疯狂购物",
+      "疯狂地加油"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "球迷疯狂地为球队加油。",
+        "pinyin": "Qiúmí fēngkuáng de wèi qiúduì jiāyóu.",
+        "vi": "Cổ động viên cuồng nhiệt cổ vũ cho đội.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "疯狂地 phải có 地 khi đứng trước động từ."
+    ],
+    "app_note_vi": "Tính từ chỉ mức độ rất mạnh. Có khi là khen sự nhiệt tình, có khi là quá mức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "疯狂 nghĩa là gì?",
+        "answer": "cuồng nhiệt; điên cuồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "球迷____地为球队加油。",
+        "answer": "疯狂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_330",
+    "level": "HSK5",
+    "hanzi": "感激",
+    "pinyin": "gǎnjī",
+    "topic_id": "emotion",
+    "display_meaning_vi": "biết ơn",
+    "meaning_en": "deeply grateful",
+    "part_of_speech": "verb/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "十分感激 / 感激不尽",
+    "collocations": [
+      "感激不尽",
+      "心怀感激",
+      "非常感激"
+    ],
+    "near_synonyms": [
+      {
+        "word": "感谢",
+        "difference_vi": "感激 là lòng biết ơn sâu; 感谢 là nói lời cảm ơn."
+      }
+    ],
+    "app_synonym_note_vi": "感激 = biết ơn trong lòng; 感谢 = nói lời cảm ơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "对你的帮助，我十分感激。",
+        "pinyin": "Duì nǐ de bāngzhù, wǒ shífēn gǎnjī.",
+        "vi": "Tôi rất biết ơn sự giúp đỡ của bạn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "感激不尽 là ơn không hết, dùng khi cảm ơn trang trọng. Đừng dùng cho một việc rất nhỏ."
+    ],
+    "app_note_vi": "Sâu hơn một lời cảm ơn xã giao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "感激 nghĩa là gì?",
+        "answer": "biết ơn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "对你的帮助，我十分____。",
+        "answer": "感激"
+      },
+      {
+        "type": "synonym",
+        "prompt": "感激 khác 感谢 ở điểm nào?",
+        "answer": "感激 là lòng biết ơn sâu; 感谢 là nói lời cảm ơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

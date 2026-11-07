@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1311",
+    "level": "HSK5",
+    "hanzi": "阵",
+    "pinyin": "zhèn",
+    "topic_id": "nature",
+    "display_meaning_vi": "trận; cơn",
+    "meaning_en": "a short spell",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一阵风 / 一阵雨",
+    "collocations": [
+      "一阵风",
+      "一阵雨",
+      "一阵掌声"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "外面下了一阵暴雨。",
+        "pinyin": "Wài miàn xià le yí zhèn bào yǔ.",
+        "vi": "Bên ngoài đổ một trận mưa lớn.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lượng từ cho hiện tượng kéo dài một lúc, như mưa, gió hoặc tiếng vỗ tay."
+    ],
+    "app_note_vi": "Lượng từ cho hiện tượng kéo dài một lúc, như mưa, gió hoặc tiếng vỗ tay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "阵 nghĩa là gì?",
+        "answer": "trận; cơn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "外面下了一____暴雨。",
+        "answer": "阵"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1312",
+    "level": "HSK5",
+    "hanzi": "竹子",
+    "pinyin": "zhúzi",
+    "topic_id": "nature",
+    "display_meaning_vi": "cây tre",
+    "meaning_en": "bamboo",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一根竹子 / 竹子制品",
+    "collocations": [
+      "一根竹子",
+      "竹子制品",
+      "种竹子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "院子里种了几棵竹子。",
+        "pinyin": "Yuàn zi lǐ zhǒng le jǐ kē zhú zi.",
+        "vi": "Trong sân trồng vài cây tre.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cây tre, khác với măng là 竹笋."
+    ],
+    "app_note_vi": "Cây tre, khác với măng là 竹笋.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "竹子 nghĩa là gì?",
+        "answer": "cây tre"
+      },
+      {
+        "type": "cloze",
+        "prompt": "院子里种了几棵____。",
+        "answer": "竹子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1313",
+    "level": "HSK5",
+    "hanzi": "缓解",
+    "pinyin": "huǎnjiě",
+    "topic_id": "health",
+    "display_meaning_vi": "làm dịu, giảm bớt",
+    "meaning_en": "to ease",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "缓解压力 / 缓解矛盾",
+    "collocations": [
+      "缓解压力",
+      "缓解矛盾",
+      "有所缓解"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "医生说这样能缓解疼痛。",
+        "pinyin": "Yī shēng shuō zhè yàng néng huǎn jiě téng tòng.",
+        "vi": "Bác sĩ nói cách này có thể giảm đau.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "解 đọc jiě. Họ Giải hoặc đưa tù đọc xiè. Áp giải đọc jiè."
+    ],
+    "app_note_vi": "Làm bớt căng hoặc bớt đau, chưa chắc hết hẳn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "缓解 nghĩa là gì?",
+        "answer": "làm dịu, giảm bớt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "医生说这样能____疼痛。",
+        "answer": "缓解"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1314",
+    "level": "HSK5",
+    "hanzi": "健身房",
+    "pinyin": "jiànshēnfáng",
+    "topic_id": "health",
+    "display_meaning_vi": "phòng tập",
+    "meaning_en": "a gym",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去健身房 / 健身房会员",
+    "collocations": [
+      "去健身房",
+      "健身房会员",
+      "健身房教练"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我每周去三次健身房。",
+        "pinyin": "Wǒ měi zhōu qù sān cì jiàn shēn fáng.",
+        "vi": "Mỗi tuần tôi đến phòng tập ba lần.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nơi tập thể hình, có máy và người hướng dẫn."
+    ],
+    "app_note_vi": "Nơi tập thể hình, có máy và người hướng dẫn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "健身房 nghĩa là gì?",
+        "answer": "phòng tập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我每周去三次____。",
+        "answer": "健身房"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1315",
+    "level": "HSK5",
+    "hanzi": "粒",
+    "pinyin": "lì",
+    "topic_id": "health",
+    "display_meaning_vi": "lượng từ hạt nhỏ",
+    "meaning_en": "a count word for tiny grains",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一粒米 / 米粒",
+    "collocations": [
+      "一粒米",
+      "米粒",
+      "粒子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "粒 đếm hạt rất nhỏ; 颗 đếm vật tròn rõ hơn như kẹo, sao, táo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他每天吃一粒维生素。",
+        "pinyin": "Tā měi tiān chī yí lì wéi shēng sù.",
+        "vi": "Mỗi ngày anh ấy uống một viên vitamin.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đếm gạo, thuốc, cát. Vật tròn lớn hơn thường dùng 颗."
+    ],
+    "app_note_vi": "Đếm gạo, thuốc, cát. Vật tròn lớn hơn thường dùng 颗.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "粒 nghĩa là gì?",
+        "answer": "lượng từ hạt nhỏ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他每天吃一____维生素。",
+        "answer": "粒"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 粒?",
+        "answer": "粒 đếm hạt rất nhỏ; 颗 đếm vật tròn rõ hơn như kẹo, sao, táo."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1316",
+    "level": "HSK5",
+    "hanzi": "嗓子",
+    "pinyin": "sǎngzi",
+    "topic_id": "health",
+    "display_meaning_vi": "họng, giọng",
+    "meaning_en": "the throat, or one's voice",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "嗓子疼 / 嗓子哑",
+    "collocations": [
+      "嗓子疼",
+      "嗓子哑",
+      "喊破嗓子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "嗓子 là họng hoặc giọng trong lời nói; 喉咙 trang trọng và gần y học hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他感冒了，嗓子不舒服。",
+        "pinyin": "Tā gǎn mào le sǎng zi bù shū fú.",
+        "vi": "Anh ấy bị cảm, họng không dễ chịu.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cách nói miệng. Đau họng là 嗓子疼, khàn là 嗓子哑."
+    ],
+    "app_note_vi": "Cách nói miệng. Đau họng là 嗓子疼, khàn là 嗓子哑.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "嗓子 nghĩa là gì?",
+        "answer": "họng, giọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他感冒了，____不舒服。",
+        "answer": "嗓子"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 嗓子?",
+        "answer": "嗓子 là họng hoặc giọng trong lời nói; 喉咙 trang trọng và gần y học hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1317",
+    "level": "HSK5",
+    "hanzi": "舌头",
+    "pinyin": "shétou",
+    "topic_id": "health",
+    "display_meaning_vi": "lưỡi",
+    "meaning_en": "the tongue",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "伸舌头 / 舌头疼",
+    "collocations": [
+      "伸舌头",
+      "舌头疼",
+      "大舌头"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "说话时别咬到舌头。",
+        "pinyin": "Shuō huà shí bié yǎo dào shé tou.",
+        "vi": "Khi nói đừng cắn phải lưỡi.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bộ phận trong miệng. 大舌头 là cách nói người nói ngọng."
+    ],
+    "app_note_vi": "Bộ phận trong miệng. 大舌头 là cách nói người nói ngọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "舌头 nghĩa là gì?",
+        "answer": "lưỡi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "说话时别咬到____。",
+        "answer": "舌头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1318",
+    "level": "HSK5",
+    "hanzi": "寿命",
+    "pinyin": "shòumìng",
+    "topic_id": "health",
+    "display_meaning_vi": "tuổi thọ",
+    "meaning_en": "lifespan",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "平均寿命 / 使用寿命",
+    "collocations": [
+      "平均寿命",
+      "使用寿命",
+      "延长寿命"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "好习惯有助于延长寿命。",
+        "pinyin": "Hǎo xí guàn yǒu zhù yú yán cháng shòu mìng.",
+        "vi": "Thói quen tốt giúp kéo dài tuổi thọ.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng cho người, cũng dùng cho thời gian dùng của máy móc."
+    ],
+    "app_note_vi": "Dùng cho người, cũng dùng cho thời gian dùng của máy móc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "寿命 nghĩa là gì?",
+        "answer": "tuổi thọ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "好习惯有助于延长____。",
+        "answer": "寿命"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1319",
+    "level": "HSK5",
+    "hanzi": "危害",
+    "pinyin": "wēihài",
+    "topic_id": "health",
+    "display_meaning_vi": "gây hại",
+    "meaning_en": "harm",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "危害健康 / 危害性",
+    "collocations": [
+      "危害健康",
+      "危害性",
+      "造成危害"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "危害 là tác hại; 危险 là nguy hiểm, chưa chắc đã gây hại.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "长期熬夜会危害健康。",
+        "pinyin": "Cháng qī áo yè huì wēi hài jiàn kāng.",
+        "vi": "Thức khuya lâu ngày sẽ hại sức khỏe.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tác hại thực sự, không chỉ là nguy cơ."
+    ],
+    "app_note_vi": "Tác hại thực sự, không chỉ là nguy cơ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "危害 nghĩa là gì?",
+        "answer": "gây hại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "长期熬夜会____健康。",
+        "answer": "危害"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 危害?",
+        "answer": "危害 là tác hại; 危险 là nguy hiểm, chưa chắc đã gây hại."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1320",
+    "level": "HSK5",
+    "hanzi": "瞎",
+    "pinyin": "xiā",
+    "topic_id": "health",
+    "display_meaning_vi": "không nhìn thấy; bừa",
+    "meaning_en": "unable to see; recklessly",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "瞎说 / 瞎猜",
+    "collocations": [
+      "瞎说",
+      "瞎猜",
+      "瞎忙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不懂就别瞎说，先去问。",
+        "pinyin": "Bù dǒng jiù bié xiā shuō xiān qù wèn.",
+        "vi": "Chưa hiểu thì đừng nói bừa, hãy đi hỏi.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghĩa gốc là mắt không nhìn thấy; nói về người hãy chọn lời tôn trọng. Khẩu ngữ còn chỉ làm hoặc nói bừa."
+    ],
+    "app_note_vi": "Nghĩa gốc là mắt không nhìn thấy; nói về người hãy chọn lời tôn trọng. Khẩu ngữ còn chỉ làm hoặc nói bừa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "瞎 nghĩa là gì?",
+        "answer": "không nhìn thấy; bừa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不懂就别____说，先去问。",
+        "answer": "瞎"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

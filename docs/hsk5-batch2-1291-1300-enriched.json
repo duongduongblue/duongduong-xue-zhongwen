@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_1291",
+    "level": "HSK5",
+    "hanzi": "勺子",
+    "pinyin": "sháozi",
+    "topic_id": "daily",
+    "display_meaning_vi": "cái thìa",
+    "meaning_en": "a spoon",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把勺子 / 木勺子",
+    "collocations": [
+      "一把勺子",
+      "木勺子",
+      "大勺子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请用勺子喝这碗汤。",
+        "pinyin": "Qǐng yòng sháo zi hē zhè wǎn tāng.",
+        "vi": "Xin dùng thìa để uống bát canh này.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đồ xúc, uống canh. Lượng từ là 把."
+    ],
+    "app_note_vi": "Đồ xúc, uống canh. Lượng từ là 把.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "勺子 nghĩa là gì?",
+        "answer": "cái thìa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请用____喝这碗汤。",
+        "answer": "勺子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1292",
+    "level": "HSK5",
+    "hanzi": "小吃",
+    "pinyin": "xiǎochī",
+    "topic_id": "daily",
+    "display_meaning_vi": "món ăn vặt",
+    "meaning_en": "snack",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "地方小吃 / 小吃街",
+    "collocations": [
+      "地方小吃",
+      "小吃街",
+      "风味小吃"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条老街的小吃很有名。",
+        "pinyin": "Zhè tiáo lǎo jiē de xiǎo chī hěn yǒu míng.",
+        "vi": "Đồ ăn vặt phố cổ này rất nổi tiếng.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Món nhỏ, thường bán ven đường, không phải bữa chính."
+    ],
+    "app_note_vi": "Món nhỏ, thường bán ven đường, không phải bữa chính.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "小吃 nghĩa là gì?",
+        "answer": "món ăn vặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条老街的____很有名。",
+        "answer": "小吃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1293",
+    "level": "HSK5",
+    "hanzi": "小麦",
+    "pinyin": "xiǎomài",
+    "topic_id": "daily",
+    "display_meaning_vi": "lúa mì",
+    "meaning_en": "wheat",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小麦面粉 / 种小麦",
+    "collocations": [
+      "小麦面粉",
+      "种小麦",
+      "冬小麦"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "北方人的主食多来自小麦。",
+        "pinyin": "Běi fāng rén de zhǔ shí duō lái zì xiǎo mài.",
+        "vi": "Lương thực chính của người miền Bắc phần nhiều từ lúa mì.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cây lương thực. Bột của nó là bột mì."
+    ],
+    "app_note_vi": "Cây lương thực. Bột của nó là bột mì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "小麦 nghĩa là gì?",
+        "answer": "lúa mì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "北方人的主食多来自____。",
+        "answer": "小麦"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1294",
+    "level": "HSK5",
+    "hanzi": "宴会",
+    "pinyin": "yànhuì",
+    "topic_id": "daily",
+    "display_meaning_vi": "yến tiệc",
+    "meaning_en": "banquet",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "举行宴会 / 宴会厅",
+    "collocations": [
+      "举行宴会",
+      "宴会厅",
+      "盛大宴会"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "宴会 là tiệc lớn; 聚会 là buổi gặp mặt.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "婚礼宴会定在本周六。",
+        "pinyin": "Hūn lǐ yàn huì dìng zài běn zhōu liù.",
+        "vi": "Tiệc cưới định vào thứ Bảy tuần này.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bữa tiệc trang trọng, khác bữa ăn thường."
+    ],
+    "app_note_vi": "Bữa tiệc trang trọng, khác bữa ăn thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宴会 nghĩa là gì?",
+        "answer": "yến tiệc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "婚礼____定在本周六。",
+        "answer": "宴会"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 宴会?",
+        "answer": "宴会 là tiệc lớn; 聚会 là buổi gặp mặt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1295",
+    "level": "HSK5",
+    "hanzi": "匹",
+    "pinyin": "pǐ",
+    "topic_id": "nature",
+    "display_meaning_vi": "con (ngựa)",
+    "meaning_en": "the count word for a horse",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一匹马 / 马匹",
+    "collocations": [
+      "一匹马",
+      "马匹",
+      "单枪匹马"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "草原上有一匹白马。",
+        "pinyin": "Cǎo yuán shàng yǒu yì pǐ bái mǎ.",
+        "vi": "Trên thảo nguyên có một con ngựa trắng.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đếm ngựa, lừa, hoặc một tấm vải. Không đếm người."
+    ],
+    "app_note_vi": "Đếm ngựa, lừa, hoặc một tấm vải. Không đếm người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "匹 nghĩa là gì?",
+        "answer": "con (ngựa)"
+      },
+      {
+        "type": "cloze",
+        "prompt": "草原上有一____白马。",
+        "answer": "匹"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1296",
+    "level": "HSK5",
+    "hanzi": "燃烧",
+    "pinyin": "ránshāo",
+    "topic_id": "nature",
+    "display_meaning_vi": "cháy",
+    "meaning_en": "to burn",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "燃烧起来 / 充分燃烧",
+    "collocations": [
+      "燃烧起来",
+      "充分燃烧",
+      "燃烧着"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "燃烧 tả sự cháy; 着火 nhấn việc bốc lửa, thường là sự cố.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "木头在炉子里燃烧。",
+        "pinyin": "Mù tou zài lú zi lǐ rán shāo.",
+        "vi": "Củi đang cháy trong lò.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Quá trình cháy. Bốc cháy thành tai nạn hay nói 着火."
+    ],
+    "app_note_vi": "Quá trình cháy. Bốc cháy thành tai nạn hay nói 着火.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "燃烧 nghĩa là gì?",
+        "answer": "cháy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "木头在炉子里____。",
+        "answer": "燃烧"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 燃烧?",
+        "answer": "燃烧 tả sự cháy; 着火 nhấn việc bốc lửa, thường là sự cố."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1297",
+    "level": "HSK5",
+    "hanzi": "融化",
+    "pinyin": "rónghuà",
+    "topic_id": "nature",
+    "display_meaning_vi": "tan",
+    "meaning_en": "to melt into liquid",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "融化成水 / 雪融化了",
+    "collocations": [
+      "融化成水",
+      "雪融化了",
+      "完全融化"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "春天冰雪慢慢融化。",
+        "pinyin": "Chūn tiān bīng xuě màn màn róng huà.",
+        "vi": "Mùa xuân băng tuyết tan dần.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Băng, tuyết, đường, sôcôla chảy ra. Chữ 溶化 cũng gặp, nghĩa gần."
+    ],
+    "app_note_vi": "Băng, tuyết, đường, sôcôla chảy ra. Chữ 溶化 cũng gặp, nghĩa gần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "融化 nghĩa là gì?",
+        "answer": "tan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "春天冰雪慢慢____。",
+        "answer": "融化"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1298",
+    "level": "HSK5",
+    "hanzi": "蛇",
+    "pinyin": "shé",
+    "topic_id": "nature",
+    "display_meaning_vi": "rắn",
+    "meaning_en": "a snake",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "毒蛇 / 蛇皮",
+    "collocations": [
+      "毒蛇",
+      "蛇皮",
+      "画蛇添足"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "草丛里有一条小蛇。",
+        "pinyin": "Cǎo cóng lǐ yǒu yì tiáo xiǎo shé.",
+        "vi": "Trong bụi cỏ có một con rắn nhỏ.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lượng từ là 条. 画蛇添足 là thêm thừa, làm hỏng việc."
+    ],
+    "app_note_vi": "Lượng từ là 条. 画蛇添足 là thêm thừa, làm hỏng việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "蛇 nghĩa là gì?",
+        "answer": "rắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "草丛里有一条小____。",
+        "answer": "蛇"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1299",
+    "level": "HSK5",
+    "hanzi": "石头",
+    "pinyin": "shítou",
+    "topic_id": "nature",
+    "display_meaning_vi": "hòn đá",
+    "meaning_en": "stone",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一块石头 / 石头缝",
+    "collocations": [
+      "一块石头",
+      "石头缝",
+      "石头路"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小孩把石头扔进河里。",
+        "pinyin": "Xiǎo hái bǎ shí tou rēng jìn hé lǐ.",
+        "vi": "Đứa trẻ ném hòn đá xuống sông.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ đá tảng hoặc hòn đá thường, không phải đá quý."
+    ],
+    "app_note_vi": "Chỉ đá tảng hoặc hòn đá thường, không phải đá quý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "石头 nghĩa là gì?",
+        "answer": "hòn đá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小孩把____扔进河里。",
+        "answer": "石头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1300",
+    "level": "HSK5",
+    "hanzi": "田野",
+    "pinyin": "tiányě",
+    "topic_id": "nature",
+    "display_meaning_vi": "cánh đồng",
+    "meaning_en": "open fields",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "田野上 / 广阔田野",
+    "collocations": [
+      "田野上",
+      "广阔田野",
+      "田野调查"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "春天的田野一片绿色。",
+        "pinyin": "Chūn tiān de tián yě yí piàn lǜ sè.",
+        "vi": "Mùa xuân cánh đồng một màu xanh.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vùng ruộng đồng rộng. Cũng gặp trong khảo sát thực địa."
+    ],
+    "app_note_vi": "Vùng ruộng đồng rộng. Cũng gặp trong khảo sát thực địa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "田野 nghĩa là gì?",
+        "answer": "cánh đồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "春天的____一片绿色。",
+        "answer": "田野"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

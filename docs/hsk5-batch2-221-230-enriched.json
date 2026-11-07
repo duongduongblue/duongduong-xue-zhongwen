@@ -1,0 +1,622 @@
+[
+  {
+    "id": "hsk5_batch2_221",
+    "level": "HSK5",
+    "hanzi": "理论",
+    "pinyin": "lǐlùn",
+    "topic_id": "study",
+    "display_meaning_vi": "lý thuyết",
+    "meaning_en": "theory",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "理论联系实际 / 理论基础",
+    "collocations": [
+      "理论知识",
+      "理论基础",
+      "理论联系实际"
+    ],
+    "near_synonyms": [
+      {
+        "word": "实践",
+        "difference_vi": "理论 là hệ thống giải thích; 实践 là đem ra làm thật."
+      }
+    ],
+    "app_synonym_note_vi": "理论 = lý thuyết; 实践 = thực hành.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "理论要和实际结合。",
+        "pinyin": "Lǐlùn yào hé shíjì jiéhé.",
+        "vi": "Lý thuyết phải gắn với thực tế.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "理论 là danh từ. Không nói 理论一个问题 để thay cho “bàn luận”."
+    ],
+    "app_note_vi": "Đối trọng thường gặp là 实践 hoặc 实际.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "理论 nghĩa là gì?",
+        "answer": "lý thuyết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____要和实际结合。",
+        "answer": "理论"
+      },
+      {
+        "type": "synonym",
+        "prompt": "理论 khác 实践 ở điểm nào?",
+        "answer": "理论 là hệ thống giải thích; 实践 là đem ra làm thật."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_222",
+    "level": "HSK5",
+    "hanzi": "数据",
+    "pinyin": "shùjù",
+    "topic_id": "study",
+    "display_meaning_vi": "dữ liệu",
+    "meaning_en": "data",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "数据 + 分析 / 统计数据",
+    "collocations": [
+      "数据分析",
+      "统计数据",
+      "数据库"
+    ],
+    "near_synonyms": [
+      {
+        "word": "数字",
+        "difference_vi": "数据 là một bộ số liệu; 数字 là từng con số."
+      }
+    ],
+    "app_synonym_note_vi": "数据 = bộ dữ liệu; 数字 = con số.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些数据还要再核对。",
+        "pinyin": "Zhèxiē shùjù hái yào zài héduì.",
+        "vi": "Những dữ liệu này còn phải kiểm lại.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "数据 đọc shùjù, thanh 4 ở cả hai âm. Đừng đọc thành shǔjù."
+    ],
+    "app_note_vi": "Danh từ, thường là số nhiều về nghĩa. Một chữ số đơn thì nói 数字.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "数据 nghĩa là gì?",
+        "answer": "dữ liệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些____还要再核对。",
+        "answer": "数据"
+      },
+      {
+        "type": "synonym",
+        "prompt": "数据 khác 数字 ở điểm nào?",
+        "answer": "数据 là một bộ số liệu; 数字 là từng con số."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_223",
+    "level": "HSK5",
+    "hanzi": "观察",
+    "pinyin": "guānchá",
+    "topic_id": "study",
+    "display_meaning_vi": "quan sát",
+    "meaning_en": "to observe",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "仔细观察 / 观察能力",
+    "collocations": [
+      "仔细观察",
+      "观察能力",
+      "观察记录"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子们在观察蚂蚁搬家。",
+        "pinyin": "Háizimen zài guānchá mǎyǐ bānjiā.",
+        "vi": "Bọn trẻ đang quan sát kiến chuyển nhà.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "观察 là xem để hiểu, không phải liếc qua. Liếc qua là 看一眼 hoặc 浏览."
+    ],
+    "app_note_vi": "Động từ. Hay đi với năng lực quan sát và ghi chép.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "观察 nghĩa là gì?",
+        "answer": "quan sát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子们在____蚂蚁搬家。",
+        "answer": "观察"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_224",
+    "level": "HSK5",
+    "hanzi": "错误",
+    "pinyin": "cuòwù",
+    "topic_id": "study",
+    "display_meaning_vi": "sai; lỗi",
+    "meaning_en": "mistake; wrong",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "犯错误 / 改正错误",
+    "collocations": [
+      "犯错误",
+      "改正错误",
+      "错误答案"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [
+      "正确"
+    ],
+    "example_sentences": [
+      {
+        "zh": "发现错误要马上改正。",
+        "pinyin": "Fāxiàn cuòwù yào mǎshàng gǎizhèng.",
+        "vi": "Phát hiện lỗi thì phải sửa ngay.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "犯错误 là mắc lỗi. Không nói 做错误."
+    ],
+    "app_note_vi": "Vừa là danh từ “lỗi”, vừa là tính từ “sai”: 这个答案是错误的.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "错误 nghĩa là gì?",
+        "answer": "sai; lỗi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "发现____要马上改正。",
+        "answer": "错误"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_225",
+    "level": "HSK5",
+    "hanzi": "记录",
+    "pinyin": "jìlù",
+    "topic_id": "study",
+    "display_meaning_vi": "ghi chép",
+    "meaning_en": "to record; a record",
+    "part_of_speech": "verb/noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "记录下来 / 会议记录",
+    "collocations": [
+      "记录下来",
+      "会议记录",
+      "做记录"
+    ],
+    "near_synonyms": [
+      {
+        "word": "纪录",
+        "difference_vi": "记录 là ghi cho khỏi quên; 纪录 là kỷ lục, thành tích cao nhất. Hai từ cùng âm jìlù."
+      }
+    ],
+    "app_synonym_note_vi": "记录 = ghi chép; 纪录 = kỷ lục. Cùng âm, khác chữ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "日记里记录着当天的事。",
+        "pinyin": "Rìjì lǐ jìlù zhe dāngtiān de shì.",
+        "vi": "Nhật ký ghi lại chuyện trong ngày.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kỷ lục thể thao viết 纪录, không viết 记录. Nghe thì giống nhau."
+    ],
+    "app_note_vi": "着 trong 记录着 đọc nhẹ. 当天 là “ngày hôm đó”, 当 đọc dāng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "记录 nghĩa là gì?",
+        "answer": "ghi chép"
+      },
+      {
+        "type": "cloze",
+        "prompt": "日记里____着当天的事。",
+        "answer": "记录"
+      },
+      {
+        "type": "synonym",
+        "prompt": "记录 khác 纪录 ở điểm nào?",
+        "answer": "记录 là ghi cho khỏi quên; 纪录 là kỷ lục, thành tích cao nhất. Hai từ cùng âm jìlù."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_226",
+    "level": "HSK5",
+    "hanzi": "集中",
+    "pinyin": "jízhōng",
+    "topic_id": "study",
+    "display_meaning_vi": "tập trung",
+    "meaning_en": "to concentrate; to centralize",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "把 + 注意力 + 集中到",
+    "collocations": [
+      "集中精力",
+      "集中注意力",
+      "集中管理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把注意力集中到黑板上。",
+        "pinyin": "Qǐng bǎ zhùyìlì jízhōng dào hēibǎn shàng.",
+        "vi": "Hãy tập trung sự chú ý lên bảng.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "集中 là dồn vào một chỗ. “Tập trung một khóa học” theo nghĩa một đợt học ngắn thường nói 集训 hoặc 短期班, không phải lúc nào cũng là 集中."
+    ],
+    "app_note_vi": "Mẫu hay gặp: 把注意力集中到…",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "集中 nghĩa là gì?",
+        "answer": "tập trung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把注意力____到黑板上。",
+        "answer": "集中"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_227",
+    "level": "HSK5",
+    "hanzi": "不断",
+    "pinyin": "bùduàn",
+    "topic_id": "study",
+    "display_meaning_vi": "không ngừng",
+    "meaning_en": "continuously; unceasingly",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不断 + 动词",
+    "collocations": [
+      "不断完善",
+      "不断努力",
+      "不断变化"
+    ],
+    "near_synonyms": [
+      {
+        "word": "一直",
+        "difference_vi": "不断 nhấn mạnh lặp lại hoặc tiếp diễn từng bước; 一直 là suốt một khoảng, không nhất thiết có nhiều lần."
+      }
+    ],
+    "app_synonym_note_vi": "不断 = không ngừng, lặp lại; 一直 = suốt một mạch.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她不断练习，发音清楚多了。",
+        "pinyin": "Tā bùduàn liànxí, fāyīn qīngchu duō le.",
+        "vi": "Cô ấy luyện không ngừng nên phát âm rõ hơn nhiều.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不断 đứng trước động từ, không đứng cuối câu một mình."
+    ],
+    "app_note_vi": "Phó từ. Hay gặp khi nói tiến bộ, thay đổi và nỗ lực.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不断 nghĩa là gì?",
+        "answer": "không ngừng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____练习，发音清楚多了。",
+        "answer": "不断"
+      },
+      {
+        "type": "synonym",
+        "prompt": "不断 khác 一直 ở điểm nào?",
+        "answer": "不断 nhấn mạnh lặp lại hoặc tiếp diễn từng bước; 一直 là suốt một khoảng, không nhất thiết có nhiều lần."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_228",
+    "level": "HSK5",
+    "hanzi": "以来",
+    "pinyin": "yǐlái",
+    "topic_id": "daily",
+    "display_meaning_vi": "từ đó đến nay",
+    "meaning_en": "since",
+    "part_of_speech": "particle",
+    "difficulty": 3,
+    "topic_tags": [
+      "time",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "时间 + 以来",
+    "collocations": [
+      "长期以来",
+      "自古以来",
+      "有史以来"
+    ],
+    "near_synonyms": [
+      {
+        "word": "以后",
+        "difference_vi": "以来 là từ mốc đó đến nay; 以后 là sau mốc đó, có thể nói về tương lai."
+      }
+    ],
+    "app_synonym_note_vi": "以来 = từ đó đến nay; 以后 = sau đó.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "来到北京以来，他适应得很快。",
+        "pinyin": "Láidào Běijīng yǐlái, tā shìyìng de hěn kuài.",
+        "vi": "Từ khi đến Bắc Kinh, anh ấy thích nghi rất nhanh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "以来 đứng sau mốc thời gian, không mở đầu câu một mình. Không nói 以来他来了北京."
+    ],
+    "app_note_vi": "得 trong 适应得很快 là trợ từ bổ ngữ, đọc nhẹ de.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "以来 nghĩa là gì?",
+        "answer": "từ đó đến nay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "来到北京____，他适应得很快。",
+        "answer": "以来"
+      },
+      {
+        "type": "synonym",
+        "prompt": "以来 khác 以后 ở điểm nào?",
+        "answer": "以来 là từ mốc đó đến nay; 以后 là sau mốc đó, có thể nói về tương lai."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_229",
+    "level": "HSK5",
+    "hanzi": "实践",
+    "pinyin": "shíjiàn",
+    "topic_id": "study",
+    "display_meaning_vi": "thực hành; thực tiễn",
+    "meaning_en": "practice; to put into practice",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "付诸实践 / 社会实践",
+    "collocations": [
+      "社会实践",
+      "实践经验",
+      "付诸实践"
+    ],
+    "near_synonyms": [
+      {
+        "word": "实习",
+        "difference_vi": "实践 là làm thật để kiểm nghiệm điều đã học; 实习 là một kỳ thực tập có tổ chức."
+      }
+    ],
+    "app_synonym_note_vi": "实践 = thực hành nói chung; 实习 = kỳ thực tập.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学到的知识要去实践。",
+        "pinyin": "Xué dào de zhīshi yào qù shíjiàn.",
+        "vi": "Kiến thức đã học cần đem ra thực hành.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "实践 không phải thí nghiệm trong phòng lab. Thí nghiệm là 实验."
+    ],
+    "app_note_vi": "Đối trọng của 理论. 付诸实践 là đem ra làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "实践 nghĩa là gì?",
+        "answer": "thực hành; thực tiễn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学到的知识要去____。",
+        "answer": "实践"
+      },
+      {
+        "type": "synonym",
+        "prompt": "实践 khác 实习 ở điểm nào?",
+        "answer": "实践 là làm thật để kiểm nghiệm điều đã học; 实习 là một kỳ thực tập có tổ chức."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_230",
+    "level": "HSK5",
+    "hanzi": "实验",
+    "pinyin": "shíyàn",
+    "topic_id": "study",
+    "display_meaning_vi": "thí nghiệm",
+    "meaning_en": "experiment",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "做实验 / 实验结果",
+    "collocations": [
+      "做实验",
+      "实验室",
+      "实验结果"
+    ],
+    "near_synonyms": [
+      {
+        "word": "试验",
+        "difference_vi": "实验 là thí nghiệm để tìm hiểu quy luật, thường trong khoa học; 试验 là thử xem một cách làm hoặc một sản phẩm có ổn không."
+      }
+    ],
+    "app_synonym_note_vi": "实验 = thí nghiệm khoa học; 试验 = thử nghiệm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "实验结果和预想不同。",
+        "pinyin": "Shíyàn jiéguǒ hé yùxiǎng bù tóng.",
+        "vi": "Kết quả thí nghiệm khác với dự đoán.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "做实验 là làm thí nghiệm. Phòng thí nghiệm là 实验室."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. Đừng đổi với 实践: 实践 là thực hành ngoài đời.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "实验 nghĩa là gì?",
+        "answer": "thí nghiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____结果和预想不同。",
+        "answer": "实验"
+      },
+      {
+        "type": "synonym",
+        "prompt": "实验 khác 试验 ở điểm nào?",
+        "answer": "实验 là thí nghiệm để tìm hiểu quy luật, thường trong khoa học; 试验 là thử xem một cách làm hoặc một sản phẩm có ổn không."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

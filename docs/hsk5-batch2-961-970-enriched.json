@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_961",
+    "level": "HSK5",
+    "hanzi": "客厅",
+    "pinyin": "kètīng",
+    "topic_id": "daily",
+    "display_meaning_vi": "phòng khách",
+    "meaning_en": "living room",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "在客厅 / 客厅里",
+    "collocations": [
+      "在客厅",
+      "客厅里",
+      "客厅沙发"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "客人在客厅等。",
+        "pinyin": "Kèren zài kètīng děng.",
+        "vi": "Khách đợi ở phòng khách.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "客人 đọc kèren, âm sau nhẹ. 客厅 là phòng tiếp khách, không phải phòng ngủ."
+    ],
+    "app_note_vi": "Danh từ. 客厅沙发 là ghế phòng khách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "客厅 nghĩa là gì?",
+        "answer": "phòng khách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "客人在____等。",
+        "answer": "客厅"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_962",
+    "level": "HSK5",
+    "hanzi": "壶",
+    "pinyin": "hú",
+    "topic_id": "daily",
+    "display_meaning_vi": "ấm",
+    "meaning_en": "pot; kettle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "茶壶 / 一壶水",
+    "collocations": [
+      "茶壶",
+      "一壶水",
+      "酒壶"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "茶壶里还有水。",
+        "pinyin": "Cháhú lǐ hái yǒu shuǐ.",
+        "vi": "Trong ấm trà vẫn còn nước.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "还 đọc hái, là vẫn. 一壶 đọc yì hú vì 壶 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Đồ đựng nước có vòi hoặc quai.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "壶 nghĩa là gì?",
+        "answer": "ấm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "茶____里还有水。",
+        "answer": "壶"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_963",
+    "level": "HSK5",
+    "hanzi": "火柴",
+    "pinyin": "huǒchái",
+    "topic_id": "daily",
+    "display_meaning_vi": "diêm",
+    "meaning_en": "match",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一盒火柴 / 划火柴",
+    "collocations": [
+      "一盒火柴",
+      "划火柴",
+      "火柴盒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "盒子里有一盒火柴。",
+        "pinyin": "Hézi lǐ yǒu yì hé huǒchái.",
+        "vi": "Trong hộp có một bao diêm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一盒 đọc yì hé vì 盒 là thanh 2. 划火柴的 划 đọc huá, là quẹt. Kế hoạch đọc huà."
+    ],
+    "app_note_vi": "Danh từ. Que để lấy lửa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "火柴 nghĩa là gì?",
+        "answer": "diêm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "盒子里有一盒____。",
+        "answer": "火柴"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_964",
+    "level": "HSK5",
+    "hanzi": "蜡烛",
+    "pinyin": "làzhú",
+    "topic_id": "daily",
+    "display_meaning_vi": "nến",
+    "meaning_en": "candle",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一根蜡烛 / 点蜡烛",
+    "collocations": [
+      "一根蜡烛",
+      "点蜡烛",
+      "吹蜡烛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "停电时我们点蜡烛。",
+        "pinyin": "Tíngdiàn shí wǒmen diǎn làzhú.",
+        "vi": "Mất điện, chúng tôi thắp nến.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一根 đọc yì gēn vì 根 là thanh 1. 蜡烛 là cây nến."
+    ],
+    "app_note_vi": "Danh từ. 吹蜡烛 là thổi nến.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "蜡烛 nghĩa là gì?",
+        "answer": "nến"
+      },
+      {
+        "type": "cloze",
+        "prompt": "停电时我们点____。",
+        "answer": "蜡烛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_965",
+    "level": "HSK5",
+    "hanzi": "胶水",
+    "pinyin": "jiāoshuǐ",
+    "topic_id": "daily",
+    "display_meaning_vi": "hồ dán",
+    "meaning_en": "glue",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一瓶胶水 / 用胶水",
+    "collocations": [
+      "一瓶胶水",
+      "用胶水",
+      "胶水干了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "用胶水把照片贴上。",
+        "pinyin": "Yòng jiāoshuǐ bǎ zhàopiàn tiē shàng.",
+        "vi": "Dùng hồ dán ảnh lên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "照片的 片 đọc piàn. 胶水干了 là hồ khô. 干 ở đó đọc gān."
+    ],
+    "app_note_vi": "Danh từ. Chất để dán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胶水 nghĩa là gì?",
+        "answer": "hồ dán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "用____把照片贴上。",
+        "answer": "胶水"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_966",
+    "level": "HSK5",
+    "hanzi": "酱油",
+    "pinyin": "jiàngyóu",
+    "topic_id": "daily",
+    "display_meaning_vi": "nước tương",
+    "meaning_en": "soy sauce",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一瓶酱油 / 加点酱油",
+    "collocations": [
+      "一瓶酱油",
+      "加点酱油",
+      "酱油味"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "汤里加点酱油。",
+        "pinyin": "Tāng lǐ jiā diǎn jiàngyóu.",
+        "vi": "Canh cho thêm chút nước tương.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一瓶 đọc yì píng vì 瓶 là thanh 2. 酱油 là gia vị mặn."
+    ],
+    "app_note_vi": "Danh từ. Nước chấm màu nâu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "酱油 nghĩa là gì?",
+        "answer": "nước tương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "汤里加点____。",
+        "answer": "酱油"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_967",
+    "level": "HSK5",
+    "hanzi": "零食",
+    "pinyin": "língshí",
+    "topic_id": "daily",
+    "display_meaning_vi": "đồ ăn vặt",
+    "meaning_en": "snack",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吃零食 / 一包零食",
+    "collocations": [
+      "吃零食",
+      "一包零食",
+      "买零食"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子爱吃零食。",
+        "pinyin": "Háizi ài chī língshí.",
+        "vi": "Trẻ thích ăn vặt.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一包 đọc yì bāo vì 包 là thanh 1. 零食 là đồ ăn giữa giờ, không phải bữa chính."
+    ],
+    "app_note_vi": "Danh từ. 买零食 là mua đồ ăn vặt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "零食 nghĩa là gì?",
+        "answer": "đồ ăn vặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子爱吃____。",
+        "answer": "零食"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_968",
+    "level": "HSK5",
+    "hanzi": "盆",
+    "pinyin": "pén",
+    "topic_id": "daily",
+    "display_meaning_vi": "chậu",
+    "meaning_en": "basin; pot",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "花盆 / 一盆水",
+    "collocations": [
+      "花盆",
+      "一盆水",
+      "洗脸盆"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "花盆里开了几朵花。",
+        "pinyin": "Huāpén lǐ kāi le jǐ duǒ huā.",
+        "vi": "Trong chậu nở mấy bông hoa.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一盆 đọc yì pén vì 盆 là thanh 2. 盆 là đồ miệng rộng, nông hoặc sâu vừa."
+    ],
+    "app_note_vi": "Danh từ. 洗脸盆 là chậu rửa mặt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "盆 nghĩa là gì?",
+        "answer": "chậu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "花____里开了几朵花。",
+        "answer": "盆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_969",
+    "level": "HSK5",
+    "hanzi": "木头",
+    "pinyin": "mùtou",
+    "topic_id": "daily",
+    "display_meaning_vi": "gỗ",
+    "meaning_en": "wood; log",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一块木头 / 木头桌子",
+    "collocations": [
+      "一块木头",
+      "木头桌子",
+      "木头房子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "桌子是木头做的。",
+        "pinyin": "Zhuōzi shì mùtou zuò de.",
+        "vi": "Bàn làm bằng gỗ.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "头 đọc nhẹ tou: mùtou. 一块 đọc yí kuài vì 块 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Vật liệu gỗ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "木头 nghĩa là gì?",
+        "answer": "gỗ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "桌子是____做的。",
+        "answer": "木头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_970",
+    "level": "HSK5",
+    "hanzi": "桔子",
+    "pinyin": "júzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "quýt",
+    "meaning_en": "tangerine",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个桔子 / 桔子汁",
+    "collocations": [
+      "一个桔子",
+      "桔子汁",
+      "剥桔子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我吃了一个桔子。",
+        "pinyin": "Wǒ chī le yí gè júzi.",
+        "vi": "Tôi ăn một quả quýt.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi. 一个 đọc yí gè. 桔子 là quả có múi, vỏ dễ bóc."
+    ],
+    "app_note_vi": "Danh từ. 桔子汁 là nước quýt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "桔子 nghĩa là gì?",
+        "answer": "quýt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我吃了一个____。",
+        "answer": "桔子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,565 @@
+[
+  {
+    "id": "hsk5_batch2_501",
+    "level": "HSK5",
+    "hanzi": "表情",
+    "pinyin": "biǎoqíng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "biểu cảm",
+    "meaning_en": "facial expression",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "面部表情 / 表情丰富",
+    "collocations": [
+      "面部表情",
+      "表情丰富",
+      "看表情"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听成绩时，她的表情很紧张。",
+        "pinyin": "Tīng chéngjì shí, tā de biǎoqíng hěn jǐnzhāng.",
+        "vi": "Lúc nghe điểm, nét mặt cô ấy rất căng.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "表情 là trên mặt. Tâm trạng bên trong là 情绪."
+    ],
+    "app_note_vi": "Danh từ. 看表情 là nhìn nét mặt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "表情 nghĩa là gì?",
+        "answer": "biểu cảm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听成绩时，她的____很紧张。",
+        "answer": "表情"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_502",
+    "level": "HSK5",
+    "hanzi": "遗憾",
+    "pinyin": "yíhàn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tiếc nuối",
+    "meaning_en": "regret; pity",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到遗憾 / 很遗憾",
+    "collocations": [
+      "感到遗憾",
+      "很遗憾",
+      "遗憾的是"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "没能见到他，我很遗憾。",
+        "pinyin": "Méi néng jiàndào tā, wǒ hěn yíhàn.",
+        "vi": "Không gặp được anh ấy, tôi rất tiếc.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "很遗憾 là tiếc một việc đã không xảy ra. Hối hận về lỗi của mình thường là 后悔."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ. 遗憾的是 là đáng tiếc là.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "遗憾 nghĩa là gì?",
+        "answer": "tiếc nuối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "没能见到他，我很____。",
+        "answer": "遗憾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_503",
+    "level": "HSK5",
+    "hanzi": "刺激",
+    "pinyin": "cìjī",
+    "topic_id": "emotion",
+    "display_meaning_vi": "kích thích",
+    "meaning_en": "to stimulate; exciting",
+    "part_of_speech": "verb/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很刺激 / 刺激经济",
+    "collocations": [
+      "很刺激",
+      "刺激经济",
+      "受到刺激"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这部电影的结尾很刺激。",
+        "pinyin": "Zhè bù diànyǐng de jiéwěi hěn cìjī.",
+        "vi": "Đoạn cuối phim này rất kích thích.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "很刺激 là hồi hộp, mạnh. 刺激经济 là kích thích kinh tế, nghĩa khác."
+    ],
+    "app_note_vi": "Vừa là tính từ vừa là động từ. Nhìn câu để tách hai nghĩa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "刺激 nghĩa là gì?",
+        "answer": "kích thích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这部电影的结尾很____。",
+        "answer": "刺激"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_504",
+    "level": "HSK5",
+    "hanzi": "可怕",
+    "pinyin": "kěpà",
+    "topic_id": "emotion",
+    "display_meaning_vi": "đáng sợ",
+    "meaning_en": "frightening",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很可怕 / 没什么可怕",
+    "collocations": [
+      "很可怕",
+      "可怕的梦",
+      "没什么可怕"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夜里的声音有点可怕。",
+        "pinyin": "Yè lǐ de shēngyīn yǒudiǎn kěpà.",
+        "vi": "Tiếng ban đêm hơi đáng sợ.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "可怕 là đáng sợ. 怕 là sợ. Không đảo thành 怕可."
+    ],
+    "app_note_vi": "Tính từ. 没什么可怕 là không có gì phải sợ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "可怕 nghĩa là gì?",
+        "answer": "đáng sợ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "夜里的声音有点____。",
+        "answer": "可怕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_505",
+    "level": "HSK5",
+    "hanzi": "微笑",
+    "pinyin": "wēixiào",
+    "topic_id": "emotion",
+    "display_meaning_vi": "mỉm cười",
+    "meaning_en": "to smile; a smile",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "微笑着 / 面带微笑",
+    "collocations": [
+      "微笑服务",
+      "面带微笑",
+      "微笑着"
+    ],
+    "near_synonyms": [
+      {
+        "word": "笑",
+        "difference_vi": "微笑 là cười nhẹ, không thành tiếng; 笑 là cười nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "微笑 = mỉm cười; 笑 = cười.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "服务员微笑着迎了上来。",
+        "pinyin": "Fúwùyuán wēixiào zhe yíng le shànglái.",
+        "vi": "Nhân viên mỉm cười đón lại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc nhẹ. 微笑着 là đang mỉm cười."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "微笑 nghĩa là gì?",
+        "answer": "mỉm cười"
+      },
+      {
+        "type": "cloze",
+        "prompt": "服务员____着迎了上来。",
+        "answer": "微笑"
+      },
+      {
+        "type": "synonym",
+        "prompt": "微笑 khác 笑 ở điểm nào?",
+        "answer": "微笑 là cười nhẹ, không thành tiếng; 笑 là cười nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_506",
+    "level": "HSK5",
+    "hanzi": "强烈",
+    "pinyin": "qiángliè",
+    "topic_id": "emotion",
+    "display_meaning_vi": "mạnh mẽ",
+    "meaning_en": "strong; intense",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "强烈要求 / 强烈反对",
+    "collocations": [
+      "强烈要求",
+      "强烈反对",
+      "强烈反应"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他有强烈的学习愿望。",
+        "pinyin": "Tā yǒu qiángliè de xuéxí yuànwàng.",
+        "vi": "Anh ấy có nguyện vọng học rất mạnh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "强烈 tả mức độ mạnh của yêu cầu, phản ứng hoặc mong muốn."
+    ],
+    "app_note_vi": "Tính từ. Không dùng cho sức cơ bắp; sức cơ bắp nói 力气.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "强烈 nghĩa là gì?",
+        "answer": "mạnh mẽ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他有____的学习愿望。",
+        "answer": "强烈"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_507",
+    "level": "HSK5",
+    "hanzi": "恋爱",
+    "pinyin": "liàn'ài",
+    "topic_id": "emotion",
+    "display_meaning_vi": "yêu đương",
+    "meaning_en": "romantic love",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "谈恋爱 / 恋爱关系",
+    "collocations": [
+      "谈恋爱",
+      "恋爱关系",
+      "自由恋爱"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们恋爱三年才结婚。",
+        "pinyin": "Tāmen liàn'ài sān nián cái jiéhūn.",
+        "vi": "Họ yêu nhau ba năm rồi mới kết hôn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "恋爱 viết liàn'ài, có dấu nháy giữa n và à. 谈恋爱 là yêu đương."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Không phải tình bạn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "恋爱 nghĩa là gì?",
+        "answer": "yêu đương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们____三年才结婚。",
+        "answer": "恋爱"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_508",
+    "level": "HSK5",
+    "hanzi": "敌人",
+    "pinyin": "dírén",
+    "topic_id": "emotion",
+    "display_meaning_vi": "kẻ thù",
+    "meaning_en": "enemy",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当成敌人 / 没有敌人",
+    "collocations": [
+      "当成敌人",
+      "没有敌人",
+      "看作敌人"
+    ],
+    "near_synonyms": [
+      {
+        "word": "对手",
+        "difference_vi": "敌人 là kẻ thù; 对手 là đối thủ thi đấu hoặc cạnh tranh."
+      }
+    ],
+    "app_synonym_note_vi": "敌人 = kẻ thù; 对手 = đối thủ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他从不把同学当成敌人。",
+        "pinyin": "Tā cóngbù bǎ tóngxué dàngchéng dírén.",
+        "vi": "Anh ấy không bao giờ coi bạn học là kẻ thù.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "敌人 nặng hơn 对手. Bạn cùng lớp không nên gọi là 敌人."
+    ],
+    "app_note_vi": "Danh từ. 从不 là không bao giờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "敌人 nghĩa là gì?",
+        "answer": "kẻ thù"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他从不把同学当成____。",
+        "answer": "敌人"
+      },
+      {
+        "type": "synonym",
+        "prompt": "敌人 khác 对手 ở điểm nào?",
+        "answer": "敌人 là kẻ thù; 对手 là đối thủ thi đấu hoặc cạnh tranh."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_509",
+    "level": "HSK5",
+    "hanzi": "宝贝",
+    "pinyin": "bǎobèi",
+    "topic_id": "emotion",
+    "display_meaning_vi": "báu vật; cưng",
+    "meaning_en": "treasure; darling",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "小宝贝 / 当成宝贝",
+    "collocations": [
+      "小宝贝",
+      "宝贝儿子",
+      "当成宝贝"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "奶奶把旧照片当成宝贝。",
+        "pinyin": "Nǎinai bǎ jiù zhàopiàn dàngchéng bǎobèi.",
+        "vi": "Bà coi những bức ảnh cũ như báu vật.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "宝贝 vừa là đồ quý, vừa là lời gọi cưng. Đừng dùng đùa với người lạ."
+    ],
+    "app_note_vi": "Danh từ. 当成宝贝 là coi như của quý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宝贝 nghĩa là gì?",
+        "answer": "báu vật; cưng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "奶奶把旧照片当成____。",
+        "answer": "宝贝"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_510",
+    "level": "HSK5",
+    "hanzi": "哈",
+    "pinyin": "hā",
+    "topic_id": "emotion",
+    "display_meaning_vi": "ha",
+    "meaning_en": "ha (laughter)",
+    "part_of_speech": "interjection",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "哈哈大笑",
+    "collocations": [
+      "哈哈大笑",
+      "哈了一声",
+      "哈哈镜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他一讲完，屋里响起哈哈的笑声。",
+        "pinyin": "Tā yì jiǎng wán, wū lǐ xiǎngqǐ hāhā de xiàoshēng.",
+        "vi": "Anh ấy vừa nói xong, trong phòng vang tiếng cười ha ha.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tiếng cười đọc hā. 哈巴狗 có thể đọc hǎ. 一讲完的 一 đọc yì vì 讲 là thanh 3."
+    ],
+    "app_note_vi": "Thán từ. 哈哈大笑 là cười ha hả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "哈 nghĩa là gì?",
+        "answer": "ha"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他一讲完，屋里响起____哈的笑声。",
+        "answer": "哈"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "hsk5_batch2_251",
+    "level": "HSK5",
+    "hanzi": "作为",
+    "pinyin": "zuòwéi",
+    "topic_id": "people",
+    "display_meaning_vi": "với tư cách",
+    "meaning_en": "as; in the role of",
+    "part_of_speech": "preposition",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "作为 + 身份",
+    "collocations": [
+      "作为一种",
+      "作为代表",
+      "有所作为"
+    ],
+    "near_synonyms": [
+      {
+        "word": "当作",
+        "difference_vi": "作为 nêu vai trò của người đang nói; 当作 là coi một thứ thành thứ khác."
+      }
+    ],
+    "app_synonym_note_vi": "作为 = với tư cách; 当作 = coi như.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "作为家长，我支持这个决定。",
+        "pinyin": "Zuòwéi jiāzhǎng, wǒ zhīchí zhège juédìng.",
+        "vi": "Với tư cách phụ huynh, tôi ủng hộ quyết định này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "有所作为 là có thành tựu, không phải “làm với tư cách”."
+    ],
+    "app_note_vi": "Đặt đầu câu để nêu vai. 为 đọc wéi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "作为 nghĩa là gì?",
+        "answer": "với tư cách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____家长，我支持这个决定。",
+        "answer": "作为"
+      },
+      {
+        "type": "synonym",
+        "prompt": "作为 khác 当作 ở điểm nào?",
+        "answer": "作为 nêu vai trò của người đang nói; 当作 là coi một thứ thành thứ khác."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_252",
+    "level": "HSK5",
+    "hanzi": "表现",
+    "pinyin": "biǎoxiàn",
+    "topic_id": "people",
+    "display_meaning_vi": "thể hiện; biểu hiện",
+    "meaning_en": "to perform; behavior shown",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表现得 + 形容词",
+    "collocations": [
+      "表现很好",
+      "表现出",
+      "工作表现"
+    ],
+    "near_synonyms": [
+      {
+        "word": "表达",
+        "difference_vi": "表现 là cách người khác nhìn thấy mình ứng xử hoặc làm; 表达 là nói ra ý của mình."
+      }
+    ],
+    "app_synonym_note_vi": "表现 = thể hiện ra ngoài; 表达 = diễn đạt bằng lời.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在比赛中表现得很冷静。",
+        "pinyin": "Tā zài bǐsài zhōng biǎoxiàn de hěn lěngjìng.",
+        "vi": "Trong trận đấu anh ấy thể hiện rất bình tĩnh.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "表现得很冷静 dùng 得 để nối bổ ngữ. Không bỏ 得."
+    ],
+    "app_note_vi": "Vừa là động từ “thể hiện”, vừa là danh từ “thành tích, cách ứng xử”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "表现 nghĩa là gì?",
+        "answer": "thể hiện; biểu hiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他在比赛中____得很冷静。",
+        "answer": "表现"
+      },
+      {
+        "type": "synonym",
+        "prompt": "表现 khác 表达 ở điểm nào?",
+        "answer": "表现 là cách người khác nhìn thấy mình ứng xử hoặc làm; 表达 là nói ra ý của mình."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_253",
+    "level": "HSK5",
+    "hanzi": "个人",
+    "pinyin": "gèrén",
+    "topic_id": "people",
+    "display_meaning_vi": "cá nhân",
+    "meaning_en": "individual; personal",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "个人 + 意见 / 信息",
+    "collocations": [
+      "个人意见",
+      "个人信息",
+      "个人简历"
+    ],
+    "near_synonyms": [
+      {
+        "word": "自己",
+        "difference_vi": "个人 nhấn mạnh một người đối lập với nhóm; 自己 là chính mình trong câu."
+      }
+    ],
+    "app_synonym_note_vi": "个人 = cá nhân, đối lập nhóm; 自己 = chính mình.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这只是我的个人看法。",
+        "pinyin": "Zhè zhǐshì wǒ de gèrén kànfǎ.",
+        "vi": "Đây chỉ là cách nhìn của riêng tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "个人信息 là dữ liệu cá nhân. Không dùng 个人 để thay 自己 trong “tự mình làm”."
+    ],
+    "app_note_vi": "Danh từ hoặc định ngữ. Hay đi với ý kiến, thông tin, lý lịch.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "个人 nghĩa là gì?",
+        "answer": "cá nhân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这只是我的____看法。",
+        "answer": "个人"
+      },
+      {
+        "type": "synonym",
+        "prompt": "个人 khác 自己 ở điểm nào?",
+        "answer": "个人 nhấn mạnh một người đối lập với nhóm; 自己 là chính mình trong câu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_254",
+    "level": "HSK5",
+    "hanzi": "家庭",
+    "pinyin": "jiātíng",
+    "topic_id": "people",
+    "display_meaning_vi": "gia đình",
+    "meaning_en": "family; household",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "家庭 + 成员 / 教育",
+    "collocations": [
+      "家庭成员",
+      "家庭教育",
+      "家庭收入"
+    ],
+    "near_synonyms": [
+      {
+        "word": "家",
+        "difference_vi": "家庭 là cả nhà như một đơn vị xã hội; 家 có thể chỉ ngôi nhà hoặc nhà mình."
+      }
+    ],
+    "app_synonym_note_vi": "家庭 = gia đình như một đơn vị; 家 = nhà, nhà mình.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "家庭教育对孩子很重要。",
+        "pinyin": "Jiātíng jiàoyù duì háizi hěn zhòngyào.",
+        "vi": "Giáo dục trong gia đình rất quan trọng với trẻ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "家庭 không đếm bằng ngôi nhà. Một hộ thì nói 一个家庭."
+    ],
+    "app_note_vi": "Gồm quan hệ và đời sống của cả nhà, không chỉ căn nhà.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "家庭 nghĩa là gì?",
+        "answer": "gia đình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____教育对孩子很重要。",
+        "answer": "家庭"
+      },
+      {
+        "type": "synonym",
+        "prompt": "家庭 khác 家 ở điểm nào?",
+        "answer": "家庭 là cả nhà như một đơn vị xã hội; 家 có thể chỉ ngôi nhà hoặc nhà mình."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_255",
+    "level": "HSK5",
+    "hanzi": "专家",
+    "pinyin": "zhuānjiā",
+    "topic_id": "people",
+    "display_meaning_vi": "chuyên gia",
+    "meaning_en": "expert",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "专家 + 意见 / 建议",
+    "collocations": [
+      "专家意见",
+      "专家学者",
+      "权威专家"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "专家给出了具体建议。",
+        "pinyin": "Zhuānjiā gěi chū le jùtǐ jiànyì.",
+        "vi": "Chuyên gia đã đưa ra góp ý cụ thể.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "专家 là người được công nhận trong một lĩnh vực, không phải mọi người giỏi một việc nhỏ."
+    ],
+    "app_note_vi": "Danh từ. 专家意见 là ý kiến chuyên gia.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "专家 nghĩa là gì?",
+        "answer": "chuyên gia"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____给出了具体建议。",
+        "answer": "专家"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_256",
+    "level": "HSK5",
+    "hanzi": "兄弟",
+    "pinyin": "xiōngdì",
+    "topic_id": "people",
+    "display_meaning_vi": "anh em",
+    "meaning_en": "brothers",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "兄弟俩 / 兄弟姐妹",
+    "collocations": [
+      "兄弟俩",
+      "亲兄弟",
+      "兄弟姐妹"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们兄弟俩感情一直很好。",
+        "pinyin": "Tāmen xiōngdì liǎ gǎnqíng yìzhí hěn hǎo.",
+        "vi": "Hai anh em họ luôn rất thân.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "兄弟姐妹 gồm cả chị em. 兄弟 thường là anh em trai, cũng dùng để gọi bạn thân nam."
+    ],
+    "app_note_vi": "俩 đọc liǎ, đã có nghĩa “hai”, không thêm 两个.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "兄弟 nghĩa là gì?",
+        "answer": "anh em"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们____俩感情一直很好。",
+        "answer": "兄弟"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_257",
+    "level": "HSK5",
+    "hanzi": "姑娘",
+    "pinyin": "gūniang",
+    "topic_id": "people",
+    "display_meaning_vi": "cô gái",
+    "meaning_en": "girl; young woman",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "年轻姑娘 / 小姑娘",
+    "collocations": [
+      "小姑娘",
+      "年轻姑娘",
+      "姑娘家"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "门口站着一位年轻姑娘。",
+        "pinyin": "Ménkǒu zhàn zhe yí wèi niánqīng gūniang.",
+        "vi": "Trước cửa đứng một cô gái trẻ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Âm sau đọc nhẹ: gūniang. Gọi người lạ bằng 姑娘 có thể hơi suồng sã."
+    ],
+    "app_note_vi": "Chỉ phụ nữ trẻ. Lượng từ là 位 hoặc 个.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "姑娘 nghĩa là gì?",
+        "answer": "cô gái"
+      },
+      {
+        "type": "cloze",
+        "prompt": "门口站着一位年轻____。",
+        "answer": "姑娘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_258",
+    "level": "HSK5",
+    "hanzi": "对手",
+    "pinyin": "duìshǒu",
+    "topic_id": "people",
+    "display_meaning_vi": "đối thủ",
+    "meaning_en": "opponent; rival",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "比赛的对手 / 竞争对手",
+    "collocations": [
+      "竞争对手",
+      "强劲对手",
+      "对手实力"
+    ],
+    "near_synonyms": [
+      {
+        "word": "敌人",
+        "difference_vi": "对手 là người thi hoặc cạnh tranh với mình; 敌人 là kẻ thù."
+      }
+    ],
+    "app_synonym_note_vi": "对手 = đối thủ; 敌人 = kẻ thù.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这场比赛的对手很强。",
+        "pinyin": "Zhè chǎng bǐsài de duìshǒu hěn qiáng.",
+        "vi": "Đối thủ trận này rất mạnh.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "对手 chưa phải người mình ghét. Đó là người ở phía bên kia của cuộc thi."
+    ],
+    "app_note_vi": "Danh từ. 竞争对手 là đối thủ cạnh tranh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "对手 nghĩa là gì?",
+        "answer": "đối thủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这场比赛的____很强。",
+        "answer": "对手"
+      },
+      {
+        "type": "synonym",
+        "prompt": "对手 khác 敌人 ở điểm nào?",
+        "answer": "对手 là người thi hoặc cạnh tranh với mình; 敌人 là kẻ thù."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_259",
+    "level": "HSK5",
+    "hanzi": "英雄",
+    "pinyin": "yīngxióng",
+    "topic_id": "people",
+    "display_meaning_vi": "anh hùng",
+    "meaning_en": "hero",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当作英雄 / 民族英雄",
+    "collocations": [
+      "民族英雄",
+      "英雄人物",
+      "英雄气概"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子们都把消防员当作英雄。",
+        "pinyin": "Háizimen dōu bǎ xiāofángyuán dàngzuò yīngxióng.",
+        "vi": "Bọn trẻ đều coi lính cứu hỏa là anh hùng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "英雄 là lời kính trọng. Không dùng đùa cho một việc nhỏ trong văn viết."
+    ],
+    "app_note_vi": "Người được kính vì việc làm dũng cảm hoặc có ích lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "英雄 nghĩa là gì?",
+        "answer": "anh hùng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子们都把消防员当作____。",
+        "answer": "英雄"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_260",
+    "level": "HSK5",
+    "hanzi": "人才",
+    "pinyin": "réncái",
+    "topic_id": "people",
+    "display_meaning_vi": "nhân tài",
+    "meaning_en": "a talented person",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "招聘人才 / 优秀人才",
+    "collocations": [
+      "优秀人才",
+      "人才市场",
+      "人才流失"
+    ],
+    "near_synonyms": [
+      {
+        "word": "人员",
+        "difference_vi": "人才 khen năng lực; 人员 chỉ người thuộc một bộ phận hoặc một nhiệm vụ."
+      }
+    ],
+    "app_synonym_note_vi": "人才 = người có năng lực; 人员 = nhân sự của một việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司正在招聘人才。",
+        "pinyin": "Gōngsī zhèngzài zhāopìn réncái.",
+        "vi": "Công ty đang tuyển người có năng lực.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đừng gọi mọi nhân viên là 人才. Người đang làm trong một phòng là 人员."
+    ],
+    "app_note_vi": "Danh từ. 人才流失 là chảy máu chất xám.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人才 nghĩa là gì?",
+        "answer": "nhân tài"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司正在招聘____。",
+        "answer": "人才"
+      },
+      {
+        "type": "synonym",
+        "prompt": "人才 khác 人员 ở điểm nào?",
+        "answer": "人才 khen năng lực; 人员 chỉ người thuộc một bộ phận hoặc một nhiệm vụ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

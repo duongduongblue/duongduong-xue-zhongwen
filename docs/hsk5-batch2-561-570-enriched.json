@@ -1,0 +1,575 @@
+[
+  {
+    "id": "hsk5_batch2_561",
+    "level": "HSK5",
+    "hanzi": "体验",
+    "pinyin": "tǐyàn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "trải nghiệm",
+    "meaning_en": "to experience",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "亲身体验 / 体验生活",
+    "collocations": [
+      "亲身体验",
+      "体验生活",
+      "用户体验"
+    ],
+    "near_synonyms": [
+      {
+        "word": "经验",
+        "difference_vi": "体验 là tự làm để cảm nhận; 经验 là kinh nghiệm đã có sau khi làm."
+      }
+    ],
+    "app_synonym_note_vi": "体验 = trải nghiệm; 经验 = kinh nghiệm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "游客可以亲手体验制茶。",
+        "pinyin": "Yóukè kěyǐ qīnshǒu tǐyàn zhì chá.",
+        "vi": "Du khách có thể tự tay trải nghiệm làm trà.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "体验强调 đang làm để biết. Đã thành thạo rồi thì nói 经验."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 用户体验 là trải nghiệm người dùng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "体验 nghĩa là gì?",
+        "answer": "trải nghiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "游客可以亲手____制茶。",
+        "answer": "体验"
+      },
+      {
+        "type": "synonym",
+        "prompt": "体验 khác 经验 ở điểm nào?",
+        "answer": "体验 là tự làm để cảm nhận; 经验 là kinh nghiệm đã có sau khi làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_562",
+    "level": "HSK5",
+    "hanzi": "坚强",
+    "pinyin": "jiānqiáng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "kiên cường",
+    "meaning_en": "strong; steadfast",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "坚强的意志 / 性格坚强",
+    "collocations": [
+      "坚强的意志",
+      "坚强地生活",
+      "性格坚强"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "遇到困难，他依然很坚强。",
+        "pinyin": "Yùdào kùnnan, tā yīrán hěn jiānqiáng.",
+        "vi": "Gặp khó khăn, anh ấy vẫn rất kiên cường.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "坚强地 phải có 地 khi đứng trước động từ."
+    ],
+    "app_note_vi": "Tính từ. Hay khen ý chí, không phải khen cơ bắp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "坚强 nghĩa là gì?",
+        "answer": "kiên cường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "遇到困难，他依然很____。",
+        "answer": "坚强"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_563",
+    "level": "HSK5",
+    "hanzi": "自信",
+    "pinyin": "zìxìn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tự tin",
+    "meaning_en": "self-confident",
+    "part_of_speech": "adjective/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有自信 / 自信心",
+    "collocations": [
+      "自信心",
+      "充满自信",
+      "自信满满"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她说话时很有自信。",
+        "pinyin": "Tā shuōhuà shí hěn yǒu zìxìn.",
+        "vi": "Khi nói, cô ấy rất tự tin.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "有自信 là tin vào mình. 自信满满 là rất chắc."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 自信心 là lòng tự tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自信 nghĩa là gì?",
+        "answer": "tự tin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她说话时很有____。",
+        "answer": "自信"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_564",
+    "level": "HSK5",
+    "hanzi": "温暖",
+    "pinyin": "wēnnuǎn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "ấm áp",
+    "meaning_en": "warm",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到温暖 / 温暖的阳光",
+    "collocations": [
+      "感到温暖",
+      "温暖的阳光",
+      "温暖如春"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "收到家信，她感到很温暖。",
+        "pinyin": "Shōudào jiāxìn, tā gǎndào hěn wēnnuǎn.",
+        "vi": "Nhận thư nhà, cô ấy thấy rất ấm lòng.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "温暖 vừa là trời ấm, vừa là lòng được an ủi."
+    ],
+    "app_note_vi": "Tính từ. 温暖如春 là ấm như mùa xuân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "温暖 nghĩa là gì?",
+        "answer": "ấm áp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "收到家信，她感到很____。",
+        "answer": "温暖"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_565",
+    "level": "HSK5",
+    "hanzi": "祝福",
+    "pinyin": "zhùfú",
+    "topic_id": "emotion",
+    "display_meaning_vi": "chúc phúc",
+    "meaning_en": "blessing; to bless",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "新年祝福 / 衷心祝福",
+    "collocations": [
+      "新年祝福",
+      "衷心祝福",
+      "祝福语"
+    ],
+    "near_synonyms": [
+      {
+        "word": "祝贺",
+        "difference_vi": "祝福 là lời chúc tốt lành, thường cho sức khỏe và tương lai; 祝贺 là chúc một thành công cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "祝福 = chúc điều tốt; 祝贺 = chúc mừng một việc đã đạt.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新年到了，祝福你健康。",
+        "pinyin": "Xīnnián dào le, zhùfú nǐ jiànkāng.",
+        "vi": "Năm mới đến, chúc bạn khỏe.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "祝福 hay dùng trong ngày lễ. Chúc thi đỗ nói 祝贺."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 祝福语 là lời chúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "祝福 nghĩa là gì?",
+        "answer": "chúc phúc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新年到了，____你健康。",
+        "answer": "祝福"
+      },
+      {
+        "type": "synonym",
+        "prompt": "祝福 khác 祝贺 ở điểm nào?",
+        "answer": "祝福 là lời chúc tốt lành, thường cho sức khỏe và tương lai; 祝贺 là chúc một thành công cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_566",
+    "level": "HSK5",
+    "hanzi": "唉",
+    "pinyin": "āi",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hà; than",
+    "meaning_en": "sigh; alas",
+    "part_of_speech": "interjection",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "唉声叹气",
+    "collocations": [
+      "唉声叹气",
+      "唉了一声",
+      "唉呀"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "唉，钥匙又找不到了。",
+        "pinyin": "Āi, yàoshi yòu zhǎo bu dào le.",
+        "vi": "Hà, lại không thấy chìa khóa đâu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tiếng thở dài đầu câu đọc āi. Cách đọc ài ít gặp hơn. 哎呀 mới là tiếng kêu ngạc nhiên thông dụng."
+    ],
+    "app_note_vi": "Thán từ. 唉声叹气 là than ngắn thở dài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "唉 nghĩa là gì?",
+        "answer": "hà; than"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____，钥匙又找不到了。",
+        "answer": "唉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_567",
+    "level": "HSK5",
+    "hanzi": "安慰",
+    "pinyin": "ānwèi",
+    "topic_id": "emotion",
+    "display_meaning_vi": "an ủi",
+    "meaning_en": "to comfort",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "安慰别人 / 自我安慰",
+    "collocations": [
+      "安慰别人",
+      "一句安慰",
+      "自我安慰"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "朋友失败了，我去安慰他。",
+        "pinyin": "Péngyou shībài le, wǒ qù ānwèi tā.",
+        "vi": "Bạn thất bại, tôi đến an ủi anh ấy.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "安慰 vừa là động từ vừa là lời an ủi. 自我安慰 là tự an ủi mình."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "安慰 nghĩa là gì?",
+        "answer": "an ủi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "朋友失败了，我去____他。",
+        "answer": "安慰"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_568",
+    "level": "HSK5",
+    "hanzi": "不安",
+    "pinyin": "bù'ān",
+    "topic_id": "emotion",
+    "display_meaning_vi": "bồn chồn",
+    "meaning_en": "uneasy",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到不安 / 坐立不安",
+    "collocations": [
+      "感到不安",
+      "坐立不安",
+      "内心不安"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "等成绩的时候我很不安。",
+        "pinyin": "Děng chéngjì de shíhou wǒ hěn bù'ān.",
+        "vi": "Lúc chờ điểm tôi rất bồn chồn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不安 viết bù'ān, có dấu nháy. 坐立不安 là ngồi đứng không yên."
+    ],
+    "app_note_vi": "Tính từ. Không phải “không an toàn”; không an toàn là 不安全.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不安 nghĩa là gì?",
+        "answer": "bồn chồn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "等成绩的时候我很____。",
+        "answer": "不安"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_569",
+    "level": "HSK5",
+    "hanzi": "沉默",
+    "pinyin": "chénmò",
+    "topic_id": "emotion",
+    "display_meaning_vi": "im lặng",
+    "meaning_en": "silent",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保持沉默 / 沉默不语",
+    "collocations": [
+      "保持沉默",
+      "沉默不语",
+      "一阵沉默"
+    ],
+    "near_synonyms": [
+      {
+        "word": "安静",
+        "difference_vi": "沉默 là người không nói, thường vì không muốn nói; 安静 là yên, không ồn."
+      }
+    ],
+    "app_synonym_note_vi": "沉默 = im lặng không nói; 安静 = yên tĩnh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "问到这个问题，他沉默了。",
+        "pinyin": "Wèndào zhège wèntí, tā chénmò le.",
+        "vi": "Hỏi đến chuyện này, anh ấy im lặng.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一阵沉默 là một lúc không ai nói."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 保持沉默 là giữ im lặng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "沉默 nghĩa là gì?",
+        "answer": "im lặng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "问到这个问题，他____了。",
+        "answer": "沉默"
+      },
+      {
+        "type": "synonym",
+        "prompt": "沉默 khác 安静 ở điểm nào?",
+        "answer": "沉默 là người không nói, thường vì không muốn nói; 安静 là yên, không ồn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_570",
+    "level": "HSK5",
+    "hanzi": "倒霉",
+    "pinyin": "dǎoméi",
+    "topic_id": "emotion",
+    "display_meaning_vi": "xui",
+    "meaning_en": "unlucky",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "真倒霉 / 倒霉的一天",
+    "collocations": [
+      "真倒霉",
+      "倒霉的一天",
+      "自认倒霉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "刚出门就下雨，真倒霉。",
+        "pinyin": "Gāng chūmén jiù xià yǔ, zhēn dǎoméi.",
+        "vi": "Vừa ra cửa đã mưa, xui thật.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "倒 trong 倒霉 đọc dǎo, không đọc dào. dào là rót, như 倒水."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. 自认倒霉 là chấp nhận mình xui.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "倒霉 nghĩa là gì?",
+        "answer": "xui"
+      },
+      {
+        "type": "cloze",
+        "prompt": "刚出门就下雨，真____。",
+        "answer": "倒霉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

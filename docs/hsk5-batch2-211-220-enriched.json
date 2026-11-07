@@ -1,0 +1,612 @@
+[
+  {
+    "id": "hsk5_batch2_211",
+    "level": "HSK5",
+    "hanzi": "政府",
+    "pinyin": "zhèngfǔ",
+    "topic_id": "society",
+    "display_meaning_vi": "chính phủ",
+    "meaning_en": "government",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "news"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "政府 + 公布 / 部门",
+    "collocations": [
+      "政府部门",
+      "当地政府",
+      "政府工作"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "政府公布了新政策。",
+        "pinyin": "Zhèngfǔ gōngbù le xīn zhèngcè.",
+        "vi": "Chính phủ đã công bố chính sách mới.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "政府 là cơ quan điều hành, không phải mọi cơ quan nhà nước. Quốc hội hay nghị viện không gọi là 政府."
+    ],
+    "app_note_vi": "Danh từ. Có thể là chính phủ trung ương hoặc chính quyền địa phương.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "政府 nghĩa là gì?",
+        "answer": "chính phủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____公布了新政策。",
+        "answer": "政府"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_212",
+    "level": "HSK5",
+    "hanzi": "行为",
+    "pinyin": "xíngwéi",
+    "topic_id": "society",
+    "display_meaning_vi": "hành vi",
+    "meaning_en": "behavior; conduct",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "行为 + 习惯 / 规范",
+    "collocations": [
+      "行为习惯",
+      "文明行为",
+      "行为规范"
+    ],
+    "near_synonyms": [
+      {
+        "word": "行动",
+        "difference_vi": "行为 là cách cư xử, thường kèm đánh giá đúng sai; 行动 nhấn mạnh việc bắt đầu làm."
+      }
+    ],
+    "app_synonym_note_vi": "行为 = cách cư xử; 行动 = hành động, bắt tay làm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种行为让旁边的人不舒服。",
+        "pinyin": "Zhè zhǒng xíngwéi ràng pángbiān de rén bù shūfu.",
+        "vi": "Hành vi này khiến người bên cạnh khó chịu.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "行为 là danh từ. Không nói 行为一个动作 như một động từ."
+    ],
+    "app_note_vi": "Hay đi với chuẩn mực: 文明行为, 行为规范.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "行为 nghĩa là gì?",
+        "answer": "hành vi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种____让旁边的人不舒服。",
+        "answer": "行为"
+      },
+      {
+        "type": "synonym",
+        "prompt": "行为 khác 行动 ở điểm nào?",
+        "answer": "行为 là cách cư xử, thường kèm đánh giá đúng sai; 行动 nhấn mạnh việc bắt đầu làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_213",
+    "level": "HSK5",
+    "hanzi": "造成",
+    "pinyin": "zàochéng",
+    "topic_id": "society",
+    "display_meaning_vi": "gây ra",
+    "meaning_en": "to cause; to bring about",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "news"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "造成 + 损失 / 影响 / 误会",
+    "collocations": [
+      "造成损失",
+      "造成影响",
+      "造成误会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "形成",
+        "difference_vi": "造成 thường dẫn tới kết quả không hay; 形成 là hình thành, trung tính."
+      }
+    ],
+    "app_synonym_note_vi": "造成 = gây ra, thường là kết quả xấu; 形成 = hình thành.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "噪音造成了邻里矛盾。",
+        "pinyin": "Zàoyīn zàochéng le línlǐ máodùn.",
+        "vi": "Tiếng ồn đã gây mâu thuẫn giữa hàng xóm.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "造成 đi với hậu quả. Một thói quen tốt không nói 造成, hãy nói 形成 hoặc 养成."
+    ],
+    "app_note_vi": "Động từ. Tân ngữ thường là tổn thất, ảnh hưởng, hiểu lầm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "造成 nghĩa là gì?",
+        "answer": "gây ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "噪音____了邻里矛盾。",
+        "answer": "造成"
+      },
+      {
+        "type": "synonym",
+        "prompt": "造成 khác 形成 ở điểm nào?",
+        "answer": "造成 thường dẫn tới kết quả không hay; 形成 là hình thành, trung tính."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_214",
+    "level": "HSK5",
+    "hanzi": "参与",
+    "pinyin": "cānyù",
+    "topic_id": "society",
+    "display_meaning_vi": "tham gia",
+    "meaning_en": "to participate in",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "参与 + 活动 / 讨论",
+    "collocations": [
+      "参与活动",
+      "积极参与",
+      "参与讨论"
+    ],
+    "near_synonyms": [
+      {
+        "word": "参加",
+        "difference_vi": "参与 nhấn mạnh có góp phần, trang trọng hơn; 参加 là tham gia thông dụng, kể cả chỉ có mặt."
+      }
+    ],
+    "app_synonym_note_vi": "参与 = tham gia và góp phần; 参加 = tham gia, thông dụng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "欢迎大家参与这次讨论。",
+        "pinyin": "Huānyíng dàjiā cānyù zhè cì tǎolùn.",
+        "vi": "Mời mọi người tham gia cuộc thảo luận này.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "参与 đọc cānyù. Đừng đọc thành cānyǔ."
+    ],
+    "app_note_vi": "Trang trọng hơn 参加. Hay gặp trong thông báo và tin tức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "参与 nghĩa là gì?",
+        "answer": "tham gia"
+      },
+      {
+        "type": "cloze",
+        "prompt": "欢迎大家____这次讨论。",
+        "answer": "参与"
+      },
+      {
+        "type": "synonym",
+        "prompt": "参与 khác 参加 ở điểm nào?",
+        "answer": "参与 nhấn mạnh có góp phần, trang trọng hơn; 参加 là tham gia thông dụng, kể cả chỉ có mặt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_215",
+    "level": "HSK5",
+    "hanzi": "属于",
+    "pinyin": "shǔyú",
+    "topic_id": "society",
+    "display_meaning_vi": "thuộc về",
+    "meaning_en": "to belong to",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "A + 属于 + B",
+    "collocations": [
+      "属于自己",
+      "属于大家",
+      "归属于"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些资料的版权属于原作者。",
+        "pinyin": "Zhèxiē zīliào de bǎnquán shǔyú yuán zuòzhě.",
+        "vi": "Bản quyền các tài liệu này thuộc về tác giả gốc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thuộc về ai thì người hoặc tổ chức đó đứng sau 属于, không đảo ngược."
+    ],
+    "app_note_vi": "Mẫu cố định: A 属于 B. B là chủ sở hữu hoặc phạm vi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "属于 nghĩa là gì?",
+        "answer": "thuộc về"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些资料的版权____原作者。",
+        "answer": "属于"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_216",
+    "level": "HSK5",
+    "hanzi": "人类",
+    "pinyin": "rénlèi",
+    "topic_id": "society",
+    "display_meaning_vi": "loài người",
+    "meaning_en": "humankind",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "人类 + 社会 / 文明",
+    "collocations": [
+      "人类社会",
+      "人类文明",
+      "造福人类"
+    ],
+    "near_synonyms": [
+      {
+        "word": "人员",
+        "difference_vi": "人类 là cả loài người; 人员 là nhân sự của một việc cụ thể."
+      }
+    ],
+    "app_synonym_note_vi": "人类 = loài người; 人员 = nhân viên của một việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "保护环境就是保护人类。",
+        "pinyin": "Bǎohù huánjìng jiù shì bǎohù rénlèi.",
+        "vi": "Bảo vệ môi trường chính là bảo vệ loài người.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "人类 không đếm bằng 个. Không nói 一个人类 để chỉ một người."
+    ],
+    "app_note_vi": "Danh từ tập hợp. Một người thì nói 一个人, không nói 一个人类.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人类 nghĩa là gì?",
+        "answer": "loài người"
+      },
+      {
+        "type": "cloze",
+        "prompt": "保护环境就是保护____。",
+        "answer": "人类"
+      },
+      {
+        "type": "synonym",
+        "prompt": "人类 khác 人员 ở điểm nào?",
+        "answer": "人类 là cả loài người; 人员 là nhân sự của một việc cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_217",
+    "level": "HSK5",
+    "hanzi": "地区",
+    "pinyin": "dìqū",
+    "topic_id": "society",
+    "display_meaning_vi": "khu vực",
+    "meaning_en": "region; area",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "这个地区 / 地区差异",
+    "collocations": [
+      "这个地区",
+      "地区差异",
+      "发达地区"
+    ],
+    "near_synonyms": [
+      {
+        "word": "地方",
+        "difference_vi": "地区 là một vùng rộng; 地方 có thể là một chỗ nhỏ hoặc “địa phương” nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "地区 = một vùng; 地方 = một chỗ, hoặc địa phương.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个地区冬天很冷。",
+        "pinyin": "Zhège dìqū dōngtiān hěn lěng.",
+        "vi": "Khu vực này mùa đông rất lạnh.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地区 rộng hơn một con phố. Một cửa hàng không gọi là 地区."
+    ],
+    "app_note_vi": "Danh từ chỉ vùng địa lý, không nhất thiết là một đơn vị hành chính.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地区 nghĩa là gì?",
+        "answer": "khu vực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____冬天很冷。",
+        "answer": "地区"
+      },
+      {
+        "type": "synonym",
+        "prompt": "地区 khác 地方 ở điểm nào?",
+        "answer": "地区 là một vùng rộng; 地方 có thể là một chỗ nhỏ hoặc “địa phương” nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_218",
+    "level": "HSK5",
+    "hanzi": "建立",
+    "pinyin": "jiànlì",
+    "topic_id": "society",
+    "display_meaning_vi": "thiết lập",
+    "meaning_en": "to establish; to set up",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "建立 + 关系 / 制度 / 联系",
+    "collocations": [
+      "建立关系",
+      "建立联系",
+      "建立信心"
+    ],
+    "near_synonyms": [
+      {
+        "word": "建设",
+        "difference_vi": "建立 là dựng cái chưa có, thường là quan hệ, chế độ hoặc tổ chức; 建设 là xây dựng công trình hoặc một sự nghiệp."
+      }
+    ],
+    "app_synonym_note_vi": "建立 = thiết lập cái chưa có; 建设 = xây dựng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校建立了新的奖学金。",
+        "pinyin": "Xuéxiào jiànlì le xīn de jiǎngxuéjīn.",
+        "vi": "Trường đã lập một học bổng mới.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Một tòa nhà nên nói 建设 hoặc 盖, không nói 建立一座楼 theo cách thông thường."
+    ],
+    "app_note_vi": "Hay đi với quan hệ, liên hệ, chế độ và niềm tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "建立 nghĩa là gì?",
+        "answer": "thiết lập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校____了新的奖学金。",
+        "answer": "建立"
+      },
+      {
+        "type": "synonym",
+        "prompt": "建立 khác 建设 ở điểm nào?",
+        "answer": "建立 là dựng cái chưa có, thường là quan hệ, chế độ hoặc tổ chức; 建设 là xây dựng công trình hoặc một sự nghiệp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_219",
+    "level": "HSK5",
+    "hanzi": "政治",
+    "pinyin": "zhèngzhì",
+    "topic_id": "society",
+    "display_meaning_vi": "chính trị",
+    "meaning_en": "politics",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "news"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "政治 + 观点 / 关心政治",
+    "collocations": [
+      "政治观点",
+      "政治课",
+      "关心政治"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他大学学的是政治。",
+        "pinyin": "Tā dàxué xué de shì zhèngzhì.",
+        "vi": "Anh ấy học chính trị ở đại học.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "政治 là danh từ. “Một việc mang tính chính trị” nói 政治性的, không biến 政治 thành tính từ trần."
+    ],
+    "app_note_vi": "Chỉ lĩnh vực quyền lực và cách điều hành xã hội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "政治 nghĩa là gì?",
+        "answer": "chính trị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他大学学的是____。",
+        "answer": "政治"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_220",
+    "level": "HSK5",
+    "hanzi": "中心",
+    "pinyin": "zhōngxīn",
+    "topic_id": "travel",
+    "display_meaning_vi": "trung tâm",
+    "meaning_en": "center; core",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "place",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "市中心 / 中心思想",
+    "collocations": [
+      "购物中心",
+      "研究中心",
+      "中心思想"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们约在市中心见面。",
+        "pinyin": "Wǒmen yuē zài shìzhōngxīn jiànmiàn.",
+        "vi": "Chúng ta hẹn gặp ở trung tâm thành phố.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "中心思想 là ý chính của một bài, không phải một địa điểm."
+    ],
+    "app_note_vi": "Vừa là điểm giữa của một nơi, vừa là cơ quan nòng cốt hoặc ý chính.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "中心 nghĩa là gì?",
+        "answer": "trung tâm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们约在市____见面。",
+        "answer": "中心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

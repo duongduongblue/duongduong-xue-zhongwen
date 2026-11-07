@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_1051",
+    "level": "HSK5",
+    "hanzi": "日常",
+    "pinyin": "rìcháng",
+    "topic_id": "daily",
+    "display_meaning_vi": "hàng ngày",
+    "meaning_en": "daily; everyday",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "日常生活 / 日常工作",
+    "collocations": [
+      "日常生活",
+      "日常工作",
+      "日常开支"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他日常六点起床。",
+        "pinyin": "Tā rìcháng liù diǎn qǐchuáng.",
+        "vi": "Anh ấy thường dậy lúc sáu giờ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "常 đọc cháng, là thường. Chữ này là 常, không phải 长. 长 mới đa âm: dài đọc cháng, lớn lên đọc zhǎng."
+    ],
+    "app_note_vi": "Tính từ. Việc lặp lại mỗi ngày.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "日常 nghĩa là gì?",
+        "answer": "hàng ngày"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____六点起床。",
+        "answer": "日常"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1052",
+    "level": "HSK5",
+    "hanzi": "日程",
+    "pinyin": "rìchéng",
+    "topic_id": "work",
+    "display_meaning_vi": "lịch trình",
+    "meaning_en": "schedule",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "日程安排 / 日程表",
+    "collocations": [
+      "日程安排",
+      "日程表",
+      "一天的日程"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请看今天的日程。",
+        "pinyin": "Qǐng kàn jīntiān de rìchéng.",
+        "vi": "Xin xem lịch trình hôm nay.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. 日程 là các việc xếp theo giờ trong ngày."
+    ],
+    "app_note_vi": "Danh từ. 日程表 là bảng lịch.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "日程 nghĩa là gì?",
+        "answer": "lịch trình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请看今天的____。",
+        "answer": "日程"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1053",
+    "level": "HSK5",
+    "hanzi": "日历",
+    "pinyin": "rìlì",
+    "topic_id": "daily",
+    "display_meaning_vi": "tờ lịch",
+    "meaning_en": "calendar",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一本日历 / 看日历",
+    "collocations": [
+      "一本日历",
+      "挂日历",
+      "看日历"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "墙上挂着一本日历。",
+        "pinyin": "Qiáng shàng guà zhe yì běn rìlì.",
+        "vi": "Trên tường treo một cuốn lịch.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一本 đọc yì běn vì 本 là thanh 3. 着 đọc nhẹ zhe."
+    ],
+    "app_note_vi": "Danh từ. Lịch ghi ngày tháng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "日历 nghĩa là gì?",
+        "answer": "tờ lịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "墙上挂着一本____。",
+        "answer": "日历"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1054",
+    "level": "HSK5",
+    "hanzi": "日期",
+    "pinyin": "rìqī",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngày tháng",
+    "meaning_en": "date",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "填写日期 / 出发日期",
+    "collocations": [
+      "填写日期",
+      "出发日期",
+      "日期不对"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请填写出发日期。",
+        "pinyin": "Qǐng tiánxiě chūfā rìqī.",
+        "vi": "Xin điền ngày khởi hành.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "日期 là một ngày cụ thể. Lịch trình cả ngày nói 日程."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp trên vé và đơn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "日期 nghĩa là gì?",
+        "answer": "ngày tháng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请填写出发____。",
+        "answer": "日期"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1055",
+    "level": "HSK5",
+    "hanzi": "日用品",
+    "pinyin": "rìyòngpǐn",
+    "topic_id": "daily",
+    "display_meaning_vi": "đồ dùng hàng ngày",
+    "meaning_en": "daily necessities",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "买日用品 / 日用品店",
+    "collocations": [
+      "买日用品",
+      "日用品店",
+      "生活日用品"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "超市里日用品很多。",
+        "pinyin": "Chāoshì lǐ rìyòngpǐn hěn duō.",
+        "vi": "Trong siêu thị có nhiều đồ dùng hàng ngày.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "日用品 là xà phòng, giấy, đồ nhà, không phải máy lớn."
+    ],
+    "app_note_vi": "Danh từ. Đồ dùng thường ngày.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "日用品 nghĩa là gì?",
+        "answer": "đồ dùng hàng ngày"
+      },
+      {
+        "type": "cloze",
+        "prompt": "超市里____很多。",
+        "answer": "日用品"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1056",
+    "level": "HSK5",
+    "hanzi": "礼拜天",
+    "pinyin": "lǐbàitiān",
+    "topic_id": "daily",
+    "display_meaning_vi": "Chủ nhật",
+    "meaning_en": "Sunday",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "礼拜天休息 / 这个礼拜天",
+    "collocations": [
+      "礼拜天休息",
+      "这个礼拜天",
+      "上礼拜天"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "礼拜天我们不上班。",
+        "pinyin": "Lǐbàitiān wǒmen bú shàngbān.",
+        "vi": "Chủ nhật chúng tôi không đi làm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不上班 đọc bú shàngbān vì 上 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Ngày cuối tuần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "礼拜天 nghĩa là gì?",
+        "answer": "Chủ nhật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____我们不上班。",
+        "answer": "礼拜天"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1057",
+    "level": "HSK5",
+    "hanzi": "如今",
+    "pinyin": "rújīn",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngày nay",
+    "meaning_en": "nowadays",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "如今的生活 / 事到如今",
+    "collocations": [
+      "如今的生活",
+      "事到如今",
+      "如今不同"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "如今出门很方便。",
+        "pinyin": "Rújīn chūmén hěn fāngbiàn.",
+        "vi": "Ngày nay ra ngoài rất tiện.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "便 trong 方便 đọc biàn. Rẻ đọc pián, như 便宜."
+    ],
+    "app_note_vi": "Danh từ chỉ thời hiện tại. Hay đứng đầu câu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "如今 nghĩa là gì?",
+        "answer": "ngày nay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____出门很方便。",
+        "answer": "如今"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1058",
+    "level": "HSK5",
+    "hanzi": "始终",
+    "pinyin": "shǐzhōng",
+    "topic_id": "language",
+    "display_meaning_vi": "suốt",
+    "meaning_en": "from beginning to end; always",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "始终坚持 / 始终如一",
+    "collocations": [
+      "始终坚持",
+      "始终如一",
+      "始终不"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他始终坚持锻炼。",
+        "pinyin": "Tā shǐzhōng jiānchí duànliàn.",
+        "vi": "Anh ấy luôn kiên trì tập.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "始终 là từ đầu đến cuối không đổi."
+    ],
+    "app_note_vi": "Phó từ. Đứng trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "始终 nghĩa là gì?",
+        "answer": "suốt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____坚持锻炼。",
+        "answer": "始终"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1059",
+    "level": "HSK5",
+    "hanzi": "事先",
+    "pinyin": "shìxiān",
+    "topic_id": "work",
+    "display_meaning_vi": "trước",
+    "meaning_en": "in advance",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "事先准备 / 事先通知",
+    "collocations": [
+      "事先准备",
+      "事先通知",
+      "事先说好"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请事先准备材料。",
+        "pinyin": "Qǐng shìxiān zhǔnbèi cáiliào.",
+        "vi": "Xin chuẩn bị tài liệu từ trước.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "事先 là trước khi việc xảy ra. Sau khi xong nói 事后."
+    ],
+    "app_note_vi": "Phó từ. Đứng trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "事先 nghĩa là gì?",
+        "answer": "trước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____准备材料。",
+        "answer": "事先"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1060",
+    "level": "HSK5",
+    "hanzi": "时期",
+    "pinyin": "shíqī",
+    "topic_id": "daily",
+    "display_meaning_vi": "thời kỳ",
+    "meaning_en": "period",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "特殊时期 / 那个时期",
+    "collocations": [
+      "特殊时期",
+      "那个时期",
+      "战争时期"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "那个时期他在上学。",
+        "pinyin": "Nàge shíqī tā zài shàngxué.",
+        "vi": "Thời kỳ ấy anh ấy đang đi học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "个 trong 那个 đọc nhẹ ge. 时期 dài hơn một ngày."
+    ],
+    "app_note_vi": "Danh từ. Một giai đoạn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "时期 nghĩa là gì?",
+        "answer": "thời kỳ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "那个____他在上学。",
+        "answer": "时期"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

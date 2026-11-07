@@ -15,6 +15,7 @@ export type VocabWord = {
   appNoteVi?: string;
   appSynonymNoteVi?: string;
   collocationTop?: string[];
+  topicId?: string;
 };
 
 export type Level = {
@@ -49,6 +50,9 @@ export type QuizQuestion = {
   supportingText: string;
   correctAnswer: string;
   options: string[];
+  speakHanzi?: string;
+  speakExample?: string;
+  hanziVisible?: boolean;
 };
 
 export type TabKey = 'home' | 'learn' | 'flashcards' | 'quiz' | 'progress';

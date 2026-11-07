@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_1021",
+    "level": "HSK5",
+    "hanzi": "悄悄",
+    "pinyin": "qiāoqiāo",
+    "topic_id": "daily",
+    "display_meaning_vi": "lén",
+    "meaning_en": "quietly; secretly",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "悄悄地走 / 悄悄地说",
+    "collocations": [
+      "悄悄地走",
+      "悄悄地说",
+      "悄悄离开"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他悄悄地走进房间。",
+        "pinyin": "Tā qiāoqiāo de zǒu jìn fángjiān.",
+        "vi": "Anh ấy lén đi vào phòng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "悄悄 đọc qiāoqiāo, cả hai âm thanh 1. 悄然 đọc qiǎo. 地 đọc nhẹ de."
+    ],
+    "app_note_vi": "Phó từ. Làm mà không muốn người khác chú ý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "悄悄 nghĩa là gì?",
+        "answer": "lén"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____地走进房间。",
+        "answer": "悄悄"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1022",
+    "level": "HSK5",
+    "hanzi": "侵略",
+    "pinyin": "qīnlüè",
+    "topic_id": "society",
+    "display_meaning_vi": "xâm lược",
+    "meaning_en": "to invade; aggression",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "反对侵略 / 侵略战争",
+    "collocations": [
+      "反对侵略",
+      "侵略战争",
+      "抵抗侵略"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们反对侵略。",
+        "pinyin": "Wǒmen fǎnduì qīnlüè.",
+        "vi": "Chúng tôi phản đối xâm lược.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "略 đọc lüè: ü đứng trước, dấu thanh 4 nằm trên e. Không đặt dấu thanh lên ü rồi thêm e."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Đưa quân vào nước khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "侵略 nghĩa là gì?",
+        "answer": "xâm lược"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们反对____。",
+        "answer": "侵略"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1023",
+    "level": "HSK5",
+    "hanzi": "轻视",
+    "pinyin": "qīngshì",
+    "topic_id": "people",
+    "display_meaning_vi": "coi nhẹ",
+    "meaning_en": "to look down on",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "轻视别人 / 不可轻视",
+    "collocations": [
+      "轻视别人",
+      "不可轻视",
+      "不要轻视"
+    ],
+    "near_synonyms": [
+      {
+        "word": "看不起",
+        "difference_vi": "轻视 trang trọng hơn; 看不起 khẩu ngữ."
+      }
+    ],
+    "app_synonym_note_vi": "轻视 = coi nhẹ; 看不起 = coi thường.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不要轻视普通的工作。",
+        "pinyin": "Bú yào qīngshì pǔtōng de gōngzuò.",
+        "vi": "Đừng coi nhẹ công việc bình thường.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不要 đọc bú yào vì 要 là thanh 4. 轻视 là cho rằng không quan trọng."
+    ],
+    "app_note_vi": "Động từ. 不可轻视 là không thể coi thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "轻视 nghĩa là gì?",
+        "answer": "coi nhẹ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不要____普通的工作。",
+        "answer": "轻视"
+      },
+      {
+        "type": "synonym",
+        "prompt": "轻视 khác 看不起 ở điểm nào?",
+        "answer": "轻视 trang trọng hơn; 看不起 khẩu ngữ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1024",
+    "level": "HSK5",
+    "hanzi": "清淡",
+    "pinyin": "qīngdàn",
+    "topic_id": "daily",
+    "display_meaning_vi": "thanh đạm",
+    "meaning_en": "light (food); mild",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "口味清淡 / 清淡的菜",
+    "collocations": [
+      "口味清淡",
+      "清淡的菜",
+      "饮食清淡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我喜欢清淡的菜。",
+        "pinyin": "Wǒ xǐhuan qīngdàn de cài.",
+        "vi": "Tôi thích món thanh đạm.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喜欢 đọc xǐhuan. 淡 đọc dàn, là nhạt. 清淡 là ít dầu, ít mặn."
+    ],
+    "app_note_vi": "Tính từ. Nói món ăn hoặc màu nhạt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "清淡 nghĩa là gì?",
+        "answer": "thanh đạm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我喜欢____的菜。",
+        "answer": "清淡"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1025",
+    "level": "HSK5",
+    "hanzi": "请求",
+    "pinyin": "qǐngqiú",
+    "topic_id": "work",
+    "display_meaning_vi": "thỉnh cầu",
+    "meaning_en": "to request",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "请求帮助 / 提出请求",
+    "collocations": [
+      "请求帮助",
+      "提出请求",
+      "请求批准"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他请求公司帮助。",
+        "pinyin": "Tā qǐngqiú gōngsī bāngzhù.",
+        "vi": "Anh ấy thỉnh cầu công ty giúp.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "请求 trang trọng hơn 让. Dùng khi xin một việc quan trọng."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 提出请求 là đưa ra lời thỉnh cầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "请求 nghĩa là gì?",
+        "answer": "thỉnh cầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____公司帮助。",
+        "answer": "请求"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1026",
+    "level": "HSK5",
+    "hanzi": "缺乏",
+    "pinyin": "quēfá",
+    "topic_id": "language",
+    "display_meaning_vi": "thiếu",
+    "meaning_en": "to lack",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "缺乏经验 / 缺乏资金",
+    "collocations": [
+      "缺乏经验",
+      "缺乏资金",
+      "严重缺乏"
+    ],
+    "near_synonyms": [
+      {
+        "word": "缺少",
+        "difference_vi": "缺乏 trang trọng hơn, hay nói điều quan trọng bị thiếu; 缺少 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "缺乏 = thiếu, trang trọng; 缺少 = thiếu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个队缺乏经验。",
+        "pinyin": "Zhège duì quēfá jīngyàn.",
+        "vi": "Đội này thiếu kinh nghiệm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "缺乏 là không có đủ cái cần. Thừa nói 多余."
+    ],
+    "app_note_vi": "Động từ. Hay đi với 经验, 资金, 人才.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "缺乏 nghĩa là gì?",
+        "answer": "thiếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个队____经验。",
+        "answer": "缺乏"
+      },
+      {
+        "type": "synonym",
+        "prompt": "缺乏 khác 缺少 ở điểm nào?",
+        "answer": "缺乏 trang trọng hơn, hay nói điều quan trọng bị thiếu; 缺少 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1027",
+    "level": "HSK5",
+    "hanzi": "嚷",
+    "pinyin": "rǎng",
+    "topic_id": "daily",
+    "display_meaning_vi": "la",
+    "meaning_en": "to shout",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大声嚷 / 别嚷",
+    "collocations": [
+      "大声嚷",
+      "别嚷",
+      "嚷了起来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别嚷，孩子睡了。",
+        "pinyin": "Bié rǎng, háizi shuì le.",
+        "vi": "Đừng la, trẻ đã ngủ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "嚷 là la to. Nói bình thường là 说. 嚷嚷重叠 thì đọc rāngrang."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. Hơi nặng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "嚷 nghĩa là gì?",
+        "answer": "la"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别____，孩子睡了。",
+        "answer": "嚷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1028",
+    "level": "HSK5",
+    "hanzi": "拦",
+    "pinyin": "lán",
+    "topic_id": "daily",
+    "display_meaning_vi": "chặn",
+    "meaning_en": "to block",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "拦住 / 别拦",
+    "collocations": [
+      "拦住",
+      "别拦",
+      "拦下"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他拦住了那辆车。",
+        "pinyin": "Tā lán zhù le nà liàng chē.",
+        "vi": "Anh ấy đã chặn chiếc xe đó.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拦住 là chặn lại không cho đi tiếp."
+    ],
+    "app_note_vi": "Động từ. 别拦 là bảo đừng cản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "拦 nghĩa là gì?",
+        "answer": "chặn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____住了那辆车。",
+        "answer": "拦"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1029",
+    "level": "HSK5",
+    "hanzi": "砍",
+    "pinyin": "kǎn",
+    "topic_id": "daily",
+    "display_meaning_vi": "chặt",
+    "meaning_en": "to chop",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "砍树 / 砍柴",
+    "collocations": [
+      "砍树",
+      "砍柴",
+      "砍下来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不许砍这棵树。",
+        "pinyin": "Bù xǔ kǎn zhè kē shù.",
+        "vi": "Không được chặt cây này.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "许 là thanh 3, nên 不 vẫn đọc bù. 砍 là chặt bằng dao hoặc rìu."
+    ],
+    "app_note_vi": "Động từ. 砍柴 là chặt củi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "砍 nghĩa là gì?",
+        "answer": "chặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不许____这棵树。",
+        "answer": "砍"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1030",
+    "level": "HSK5",
+    "hanzi": "披",
+    "pinyin": "pī",
+    "topic_id": "daily",
+    "display_meaning_vi": "khoác",
+    "meaning_en": "to drape over",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "披上 / 披着",
+    "collocations": [
+      "披上",
+      "披着",
+      "披衣服"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她披着一件外套。",
+        "pinyin": "Tā pī zhe yí jiàn wàitào.",
+        "vi": "Cô ấy khoác một cái áo.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "披 đọc pī. Phê duyệt viết 批准, cũng đọc pī, là chữ khác. 一件 đọc yí jiàn. 着 đọc nhẹ zhe."
+    ],
+    "app_note_vi": "Động từ. Vắt áo lên vai, chưa xỏ tay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "披 nghĩa là gì?",
+        "answer": "khoác"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____着一件外套。",
+        "answer": "披"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "hsk5_batch2_1101",
+    "level": "HSK5",
+    "hanzi": "钢铁",
+    "pinyin": "gāngtiě",
+    "topic_id": "work",
+    "display_meaning_vi": "thép",
+    "meaning_en": "steel",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "钢铁厂 / 钢铁意志",
+    "collocations": [
+      "钢铁厂",
+      "钢铁意志",
+      "钢铁公司"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座城市以钢铁工业闻名。",
+        "pinyin": "Zhè zuò chéng shì yǐ gāng tiě gōng yè wén míng.",
+        "vi": "Thành phố này nổi tiếng về công nghiệp thép.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là thép, vừa ví ý chí rất cứng."
+    ],
+    "app_note_vi": "Vừa là thép, vừa ví ý chí rất cứng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "钢铁 nghĩa là gì?",
+        "answer": "thép"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座城市以____工业闻名。",
+        "answer": "钢铁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1102",
+    "level": "HSK5",
+    "hanzi": "机器",
+    "pinyin": "jīqì",
+    "topic_id": "work",
+    "display_meaning_vi": "máy",
+    "meaning_en": "a machine",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "机器设备 / 一台机器",
+    "collocations": [
+      "机器设备",
+      "一台机器",
+      "机器运转"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这台机器的声音太大。",
+        "pinyin": "Zhè tái jī qì de shēng yīn tài dà.",
+        "vi": "Cái máy này tiếng quá to.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thiết bị làm việc thay sức người."
+    ],
+    "app_note_vi": "Thiết bị làm việc thay sức người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "机器 nghĩa là gì?",
+        "answer": "máy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这台____的声音太大。",
+        "answer": "机器"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1103",
+    "level": "HSK5",
+    "hanzi": "艰巨",
+    "pinyin": "jiānjù",
+    "topic_id": "work",
+    "display_meaning_vi": "gian nan, nặng",
+    "meaning_en": "arduous",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "艰巨任务 / 艰巨的工作",
+    "collocations": [
+      "艰巨任务",
+      "艰巨的工作",
+      "任务艰巨"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "艰巨 nhấn nhiệm vụ nặng; 艰苦 nhấn điều kiện khổ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "重建家乡是一项艰巨的任务。",
+        "pinyin": "Chóng jiàn jiā xiāng shì yí xiàng jiān jù de rèn wù.",
+        "vi": "Dựng lại quê hương là một nhiệm vụ rất nặng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khó và trách nhiệm lớn."
+    ],
+    "app_note_vi": "Khó và trách nhiệm lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "艰巨 nghĩa là gì?",
+        "answer": "gian nan, nặng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "重建家乡是一项____的任务。",
+        "answer": "艰巨"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 艰巨?",
+        "answer": "艰巨 nhấn nhiệm vụ nặng; 艰苦 nhấn điều kiện khổ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1104",
+    "level": "HSK5",
+    "hanzi": "毛病",
+    "pinyin": "máobìng",
+    "topic_id": "work",
+    "display_meaning_vi": "trục trặc, tật",
+    "meaning_en": "a glitch, or a nagging habit",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小毛病 / 老毛病",
+    "collocations": [
+      "小毛病",
+      "老毛病",
+      "挑毛病"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "毛病 là hỏng nhỏ hoặc thói quen xấu; 错误 là một lỗi sai cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这台电脑又出毛病了。",
+        "pinyin": "Zhè tái diàn nǎo yòu chū máo bìng le.",
+        "vi": "Cái máy tính này lại trục trặc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Máy hỏng nhẹ, hoặc tật của người. Bệnh nặng không dùng từ này."
+    ],
+    "app_note_vi": "Máy hỏng nhẹ, hoặc tật của người. Bệnh nặng không dùng từ này.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "毛病 nghĩa là gì?",
+        "answer": "trục trặc, tật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这台电脑又出____了。",
+        "answer": "毛病"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 毛病?",
+        "answer": "毛病 là hỏng nhỏ hoặc thói quen xấu; 错误 là một lỗi sai cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1105",
+    "level": "HSK5",
+    "hanzi": "面临",
+    "pinyin": "miànlín",
+    "topic_id": "work",
+    "display_meaning_vi": "đứng trước",
+    "meaning_en": "to have a situation in front of you",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "面临挑战 / 面临困难",
+    "collocations": [
+      "面临挑战",
+      "面临困难",
+      "面临选择"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "面临 là bị đặt trước tình thế; 面对 nhấn cách mình đối diện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司面临很大的压力。",
+        "pinyin": "Gōng sī miàn lín hěn dà de yā lì.",
+        "vi": "Công ty đang đứng trước áp lực rất lớn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thường là tình thế khó, chọn lựa, thử thách đang tới."
+    ],
+    "app_note_vi": "Thường là tình thế khó, chọn lựa, thử thách đang tới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "面临 nghĩa là gì?",
+        "answer": "đứng trước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司____很大的压力。",
+        "answer": "面临"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 面临?",
+        "answer": "面临 là bị đặt trước tình thế; 面对 nhấn cách mình đối diện."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1106",
+    "level": "HSK5",
+    "hanzi": "批",
+    "pinyin": "pī",
+    "topic_id": "work",
+    "display_meaning_vi": "một lô; phê",
+    "meaning_en": "a batch, or a written remark",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一批 / 批改",
+    "collocations": [
+      "一批",
+      "批改",
+      "批示"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "批 làm lượng từ là một lô; góp ý gay là 批评.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这批水果今天到货。",
+        "pinyin": "Zhè pī shuǐ guǒ jīn tiān dào huò.",
+        "vi": "Lô hoa quả này hôm nay về.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一批 là một đợt hàng. 批改 là chấm và sửa bài."
+    ],
+    "app_note_vi": "一批 là một đợt hàng. 批改 là chấm và sửa bài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "批 nghĩa là gì?",
+        "answer": "một lô; phê"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这____水果今天到货。",
+        "answer": "批"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 批?",
+        "answer": "批 làm lượng từ là một lô; góp ý gay là 批评."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1107",
+    "level": "HSK5",
+    "hanzi": "签字",
+    "pinyin": "qiānzì",
+    "topic_id": "work",
+    "display_meaning_vi": "ký tên",
+    "meaning_en": "to put one's signature",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "签字笔 / 亲自签字",
+    "collocations": [
+      "签字笔",
+      "亲自签字",
+      "签字生效"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "签字 hay dùng trên hợp đồng; 签名 cũng là ký tên, thường trên sổ hoặc ảnh.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "合同末尾需要签字。",
+        "pinyin": "Hé tong mò wěi xū yào qiān zì.",
+        "vi": "Cuối hợp đồng cần ký tên.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ký cho giấy tờ có hiệu lực. Bút ký là 签字笔."
+    ],
+    "app_note_vi": "Ký cho giấy tờ có hiệu lực. Bút ký là 签字笔.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "签字 nghĩa là gì?",
+        "answer": "ký tên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "合同末尾需要____。",
+        "answer": "签字"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 签字?",
+        "answer": "签字 hay dùng trên hợp đồng; 签名 cũng là ký tên, thường trên sổ hoặc ảnh."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1108",
+    "level": "HSK5",
+    "hanzi": "人事",
+    "pinyin": "rénshì",
+    "topic_id": "work",
+    "display_meaning_vi": "nhân sự",
+    "meaning_en": "personnel matters at work",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "人事部门 / 人事变动",
+    "collocations": [
+      "人事部门",
+      "人事变动",
+      "人事经理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "人事 là việc nhân sự; 人生 là đời người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在公司负责人事。",
+        "pinyin": "Tā zài gōng sī fù zé rén shì.",
+        "vi": "Cô ấy phụ trách nhân sự ở công ty.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Việc tuyển, điều chuyển, hồ sơ người trong cơ quan."
+    ],
+    "app_note_vi": "Việc tuyển, điều chuyển, hồ sơ người trong cơ quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人事 nghĩa là gì?",
+        "answer": "nhân sự"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在公司负责____。",
+        "answer": "人事"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 人事?",
+        "answer": "人事 là việc nhân sự; 人生 là đời người."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1109",
+    "level": "HSK5",
+    "hanzi": "善于",
+    "pinyin": "shànyú",
+    "topic_id": "work",
+    "display_meaning_vi": "giỏi về",
+    "meaning_en": "skilled at doing something",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "善于学习 / 善于思考",
+    "collocations": [
+      "善于学习",
+      "善于思考",
+      "善于表达"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "善于 hay đi với động từ; 擅长 cũng là giỏi, đi được cả với danh từ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她很善于和人沟通。",
+        "pinyin": "Tā hěn shàn yú hé rén gōu tōng.",
+        "vi": "Cô ấy rất giỏi giao tiếp với người khác.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đứng trước động từ: 善于沟通, 善于观察."
+    ],
+    "app_note_vi": "Đứng trước động từ: 善于沟通, 善于观察.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "善于 nghĩa là gì?",
+        "answer": "giỏi về"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她很____和人沟通。",
+        "answer": "善于"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 善于?",
+        "answer": "善于 hay đi với động từ; 擅长 cũng là giỏi, đi được cả với danh từ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1110",
+    "level": "HSK5",
+    "hanzi": "失业",
+    "pinyin": "shīyè",
+    "topic_id": "work",
+    "display_meaning_vi": "thất nghiệp",
+    "meaning_en": "to be out of a job",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "失业率 / 失业人员",
+    "collocations": [
+      "失业率",
+      "失业人员",
+      "面临失业"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "失业后他去学了门技术。",
+        "pinyin": "Shī yè hòu tā qù xué le mén jì shù.",
+        "vi": "Sau khi thất nghiệp anh ấy đi học một nghề.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ mất việc làm, không phải thất bại chung."
+    ],
+    "app_note_vi": "Chỉ mất việc làm, không phải thất bại chung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "失业 nghĩa là gì?",
+        "answer": "thất nghiệp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____后他去学了门技术。",
+        "answer": "失业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

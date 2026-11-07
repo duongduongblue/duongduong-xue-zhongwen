@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_1331",
+    "level": "HSK5",
+    "hanzi": "缩短",
+    "pinyin": "suōduǎn",
+    "topic_id": "daily",
+    "display_meaning_vi": "rút ngắn",
+    "meaning_en": "to shorten",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "缩短时间 / 缩短距离",
+    "collocations": [
+      "缩短时间",
+      "缩短距离",
+      "缩短工期"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "缩短 là rút ngắn; 缩小 là thu nhỏ kích thước hoặc phạm vi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新路缩短了上班时间。",
+        "pinyin": "Xīn lù suō duǎn le shàng bān shí jiān.",
+        "vi": "Đường mới rút ngắn thời gian đi làm.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm ngắn thời gian, quãng đường hoặc độ dài."
+    ],
+    "app_note_vi": "Làm ngắn thời gian, quãng đường hoặc độ dài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "缩短 nghĩa là gì?",
+        "answer": "rút ngắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新路____了上班时间。",
+        "answer": "缩短"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 缩短?",
+        "answer": "缩短 là rút ngắn; 缩小 là thu nhỏ kích thước hoặc phạm vi."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1332",
+    "level": "HSK5",
+    "hanzi": "弯",
+    "pinyin": "wān",
+    "topic_id": "daily",
+    "display_meaning_vi": "cong; rẽ",
+    "meaning_en": "curved; to turn",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "弯腰 / 转弯",
+    "collocations": [
+      "弯腰",
+      "转弯",
+      "弯路"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "山路有个急弯，要小心。",
+        "pinyin": "Shān lù yǒu gè jí wān yào xiǎo xīn.",
+        "vi": "Đường núi có khúc cua gấp, phải cẩn thận.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là cong, vừa là cúi người hoặc rẽ."
+    ],
+    "app_note_vi": "Vừa là cong, vừa là cúi người hoặc rẽ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "弯 nghĩa là gì?",
+        "answer": "cong; rẽ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "山路有个急____，要小心。",
+        "answer": "弯"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1333",
+    "level": "HSK5",
+    "hanzi": "往返",
+    "pinyin": "wǎngfǎn",
+    "topic_id": "daily",
+    "display_meaning_vi": "khứ hồi",
+    "meaning_en": "round trip",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "往返票 / 往返路程",
+    "collocations": [
+      "往返票",
+      "往返路程",
+      "往返于"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我订了周末的往返机票。",
+        "pinyin": "Wǒ dìng le zhōu mò de wǎng fǎn jī piào.",
+        "vi": "Tôi đặt vé máy bay khứ hồi cuối tuần.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Gồm cả lượt đi và lượt về."
+    ],
+    "app_note_vi": "Gồm cả lượt đi và lượt về.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "往返 nghĩa là gì?",
+        "answer": "khứ hồi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我订了周末的____机票。",
+        "answer": "往返"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1334",
+    "level": "HSK5",
+    "hanzi": "拥挤",
+    "pinyin": "yōngjǐ",
+    "topic_id": "daily",
+    "display_meaning_vi": "đông nghịt",
+    "meaning_en": "crowded",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "十分拥挤 / 交通拥挤",
+    "collocations": [
+      "十分拥挤",
+      "交通拥挤",
+      "拥挤不堪"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "拥挤 là chen chúc; 热闹 là náo nhiệt, vui.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早高峰的地铁非常拥挤。",
+        "pinyin": "Zǎo gāo fēng de dì tiě fēi cháng yōng jǐ.",
+        "vi": "Tàu điện giờ cao điểm sáng rất đông.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người hoặc xe chen chúc, thiếu chỗ."
+    ],
+    "app_note_vi": "Người hoặc xe chen chúc, thiếu chỗ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "拥挤 nghĩa là gì?",
+        "answer": "đông nghịt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早高峰的地铁非常____。",
+        "answer": "拥挤"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 拥挤?",
+        "answer": "拥挤 là chen chúc; 热闹 là náo nhiệt, vui."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1335",
+    "level": "HSK5",
+    "hanzi": "游览",
+    "pinyin": "yóulǎn",
+    "topic_id": "daily",
+    "display_meaning_vi": "đi ngắm cảnh",
+    "meaning_en": "to go sightseeing",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "游览景点 / 游览名胜",
+    "collocations": [
+      "游览景点",
+      "游览名胜",
+      "供人游览"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "游览 là đi xem cảnh; 旅游 là cả chuyến du lịch, rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "游客可以乘船游览。",
+        "pinyin": "Yóu kè kě yǐ chéng chuán yóu lǎn.",
+        "vi": "Du khách có thể đi thuyền để ngắm cảnh.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhấn mạnh xem thắng cảnh, trang trọng hơn 玩."
+    ],
+    "app_note_vi": "Nhấn mạnh xem thắng cảnh, trang trọng hơn 玩.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "游览 nghĩa là gì?",
+        "answer": "đi ngắm cảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "游客可以乘船____。",
+        "answer": "游览"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 游览?",
+        "answer": "游览 là đi xem cảnh; 旅游 là cả chuyến du lịch, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1336",
+    "level": "HSK5",
+    "hanzi": "预订",
+    "pinyin": "yùdìng",
+    "topic_id": "daily",
+    "display_meaning_vi": "đặt trước",
+    "meaning_en": "to book",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "预订酒店 / 在线预订",
+    "collocations": [
+      "预订酒店",
+      "在线预订",
+      "提前预订"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "预订 là đặt giữ chỗ; 预定 còn có nghĩa định trước một kế hoạch.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我预订了两张火车票。",
+        "pinyin": "Wǒ yù dìng le liǎng zhāng huǒ chē piào.",
+        "vi": "Tôi đã đặt hai vé tàu hỏa.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng khi giữ chỗ, vé hoặc phòng từ trước."
+    ],
+    "app_note_vi": "Dùng khi giữ chỗ, vé hoặc phòng từ trước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "预订 nghĩa là gì?",
+        "answer": "đặt trước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____了两张火车票。",
+        "answer": "预订"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 预订?",
+        "answer": "预订 là đặt giữ chỗ; 预定 còn có nghĩa định trước một kế hoạch."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1337",
+    "level": "HSK5",
+    "hanzi": "运输",
+    "pinyin": "yùnshū",
+    "topic_id": "daily",
+    "display_meaning_vi": "vận chuyển",
+    "meaning_en": "to transport",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "move"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "货物运输 / 运输成本",
+    "collocations": [
+      "货物运输",
+      "运输成本",
+      "运输工具"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些水果连夜运输进城。",
+        "pinyin": "Zhè xiē shuǐ guǒ lián yè yùn shū jìn chéng.",
+        "vi": "Số hoa quả này được chở vào thành phố ngay trong đêm.",
+        "context": "move"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ việc chở hàng hoặc người đi xa, mang tính ngành nghề."
+    ],
+    "app_note_vi": "Chỉ việc chở hàng hoặc người đi xa, mang tính ngành nghề.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "运输 nghĩa là gì?",
+        "answer": "vận chuyển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些水果连夜____进城。",
+        "answer": "运输"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1338",
+    "level": "HSK5",
+    "hanzi": "公元",
+    "pinyin": "gōngyuán",
+    "topic_id": "society",
+    "display_meaning_vi": "Công nguyên",
+    "meaning_en": "the Common Era",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "公元前 / 公元后",
+    "collocations": [
+      "公元前",
+      "公元后",
+      "公元初"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座庙建于公元八世纪。",
+        "pinyin": "Zhè zuò miào jiàn yú gōng yuán bā shì jì.",
+        "vi": "Ngôi chùa này dựng vào thế kỷ thứ tám Công nguyên.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mốc năm dương lịch. 公元前 là trước Công nguyên."
+    ],
+    "app_note_vi": "Mốc năm dương lịch. 公元前 là trước Công nguyên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "公元 nghĩa là gì?",
+        "answer": "Công nguyên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座庙建于____八世纪。",
+        "answer": "公元"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1339",
+    "level": "HSK5",
+    "hanzi": "纪录",
+    "pinyin": "jìlù",
+    "topic_id": "society",
+    "display_meaning_vi": "kỷ lục",
+    "meaning_en": "a record achievement",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "世界纪录 / 打破纪录",
+    "collocations": [
+      "世界纪录",
+      "打破纪录",
+      "纪录保持者"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她打破了校运动会纪录。",
+        "pinyin": "Tā dǎ pò le xiào yùn dòng huì jì lù.",
+        "vi": "Cô ấy phá kỷ lục hội thao của trường.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thành tích cao nhất được ghi nhận, nhất là thể thao."
+    ],
+    "app_note_vi": "Thành tích cao nhất được ghi nhận, nhất là thể thao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "纪录 nghĩa là gì?",
+        "answer": "kỷ lục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她打破了校运动会____。",
+        "answer": "纪录"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1340",
+    "level": "HSK5",
+    "hanzi": "解说员",
+    "pinyin": "jiěshuōyuán",
+    "topic_id": "society",
+    "display_meaning_vi": "bình luận viên",
+    "meaning_en": "a commentator",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "体育解说员 / 解说员席",
+    "collocations": [
+      "体育解说员",
+      "解说员席",
+      "一名解说员"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "解说员把比赛讲得很清楚。",
+        "pinyin": "Jiě shuō yuán bǎ bǐ sài jiǎng dé hěn qīng chǔ.",
+        "vi": "Bình luận viên thuật trận đấu rất rõ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "解 đọc jiě. 说 đọc shuō. Thuyết khách 说客 đọc shuì."
+    ],
+    "app_note_vi": "Người giải thích trực tiếp, thường là thể thao hoặc triển lãm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "解说员 nghĩa là gì?",
+        "answer": "bình luận viên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____把比赛讲得很清楚。",
+        "answer": "解说员"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

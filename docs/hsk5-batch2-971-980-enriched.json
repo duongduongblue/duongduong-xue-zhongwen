@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_971",
+    "level": "HSK5",
+    "hanzi": "宠物",
+    "pinyin": "chǒngwù",
+    "topic_id": "nature",
+    "display_meaning_vi": "thú cưng",
+    "meaning_en": "pet",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "养宠物 / 宠物店",
+    "collocations": [
+      "养宠物",
+      "宠物店",
+      "宠物医院"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "家里养着一只宠物。",
+        "pinyin": "Jiā lǐ yǎng zhe yì zhī chǒngwù.",
+        "vi": "Nhà nuôi một con vật cưng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc nhẹ zhe. 只量 từ đọc zhī. 一只 đọc yì zhī."
+    ],
+    "app_note_vi": "Danh từ. Vật nuôi để bầu bạn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宠物 nghĩa là gì?",
+        "answer": "thú cưng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "家里养着一只____。",
+        "answer": "宠物"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_972",
+    "level": "HSK5",
+    "hanzi": "翅膀",
+    "pinyin": "chìbǎng",
+    "topic_id": "nature",
+    "display_meaning_vi": "đôi cánh",
+    "meaning_en": "wing",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一双翅膀 / 翅膀长",
+    "collocations": [
+      "一双翅膀",
+      "翅膀长",
+      "展开翅膀"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小鸟张开了翅膀。",
+        "pinyin": "Xiǎo niǎo zhāng kāi le chìbǎng.",
+        "vi": "Chim nhỏ xòe cánh.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一双 đọc yì shuāng vì 双 là thanh 1. 翅膀 là cánh chim hoặc côn trùng."
+    ],
+    "app_note_vi": "Danh từ. 展开翅膀 là dang cánh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "翅膀 nghĩa là gì?",
+        "answer": "đôi cánh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小鸟张开了____。",
+        "answer": "翅膀"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_973",
+    "level": "HSK5",
+    "hanzi": "大象",
+    "pinyin": "dàxiàng",
+    "topic_id": "nature",
+    "display_meaning_vi": "voi",
+    "meaning_en": "elephant",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一头大象 / 大象鼻子",
+    "collocations": [
+      "一头大象",
+      "大象鼻子",
+      "非洲大象"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "动物园里有一头大象。",
+        "pinyin": "Dòngwùyuán lǐ yǒu yì tóu dàxiàng.",
+        "vi": "Trong vườn thú có một con voi.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一头 đọc yì tóu vì 头 là thanh 2. Lượng từ voi là 头."
+    ],
+    "app_note_vi": "Danh từ. 大象鼻子 là vòi voi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "大象 nghĩa là gì?",
+        "answer": "voi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "动物园里有一头____。",
+        "answer": "大象"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_974",
+    "level": "HSK5",
+    "hanzi": "狼",
+    "pinyin": "láng",
+    "topic_id": "nature",
+    "display_meaning_vi": "sói",
+    "meaning_en": "wolf",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一只狼 / 狼群",
+    "collocations": [
+      "一只狼",
+      "狼群",
+      "大灰狼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "山上有狼。",
+        "pinyin": "Shān shàng yǒu láng.",
+        "vi": "Trên núi có sói.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一只 đọc yì zhī. 狼 là thú hoang, không phải chó."
+    ],
+    "app_note_vi": "Danh từ. 狼群 là đàn sói.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "狼 nghĩa là gì?",
+        "answer": "sói"
+      },
+      {
+        "type": "cloze",
+        "prompt": "山上有____。",
+        "answer": "狼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_975",
+    "level": "HSK5",
+    "hanzi": "蜜蜂",
+    "pinyin": "mìfēng",
+    "topic_id": "nature",
+    "display_meaning_vi": "ong mật",
+    "meaning_en": "bee",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一只蜜蜂 / 蜜蜂采蜜",
+    "collocations": [
+      "一只蜜蜂",
+      "蜜蜂采蜜",
+      "养蜜蜂"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "花上有一只蜜蜂。",
+        "pinyin": "Huā shàng yǒu yì zhī mìfēng.",
+        "vi": "Trên hoa có một con ong.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一只 đọc yì zhī. 蜜蜂 làm mật, khác ong vò vẽ."
+    ],
+    "app_note_vi": "Danh từ. 蜜蜂采蜜 là ong lấy mật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "蜜蜂 nghĩa là gì?",
+        "answer": "ong mật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "花上有一只____。",
+        "answer": "蜜蜂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_976",
+    "level": "HSK5",
+    "hanzi": "陆地",
+    "pinyin": "lùdì",
+    "topic_id": "nature",
+    "display_meaning_vi": "đất liền",
+    "meaning_en": "land",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "陆地上 / 陆地面积",
+    "collocations": [
+      "陆地上",
+      "陆地面积",
+      "从陆地"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "船靠陆地了。",
+        "pinyin": "Chuán kào lùdì le.",
+        "vi": "Tàu đã cập đất liền.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "陆地 đối với biển. Đảo cũng là đất, nhưng từ này chỉ phần đất lớn."
+    ],
+    "app_note_vi": "Danh từ. 陆地上 là trên đất liền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "陆地 nghĩa là gì?",
+        "answer": "đất liền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "船靠____了。",
+        "answer": "陆地"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_977",
+    "level": "HSK5",
+    "hanzi": "滑冰",
+    "pinyin": "huábīng",
+    "topic_id": "daily",
+    "display_meaning_vi": "trượt băng",
+    "meaning_en": "to skate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去滑冰 / 滑冰场",
+    "collocations": [
+      "去滑冰",
+      "滑冰场",
+      "喜欢滑冰"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "冬天我们去滑冰。",
+        "pinyin": "Dōngtiān wǒmen qù huábīng.",
+        "vi": "Mùa đông chúng tôi đi trượt băng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "滑 đọc huá, là trượt. Chữ này không phải 华. 华 đọc huá khi nghĩa là Hoa, và Huà trong 华山."
+    ],
+    "app_note_vi": "Động từ. 滑冰场 là sân băng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "滑冰 nghĩa là gì?",
+        "answer": "trượt băng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "冬天我们去____。",
+        "answer": "滑冰"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_978",
+    "level": "HSK5",
+    "hanzi": "灰",
+    "pinyin": "huī",
+    "topic_id": "nature",
+    "display_meaning_vi": "tro; xám",
+    "meaning_en": "ash; gray",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一团灰 / 灰颜色",
+    "collocations": [
+      "一团灰",
+      "灰颜色",
+      "烧成灰"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "纸烧成灰了。",
+        "pinyin": "Zhǐ shāo chéng huī le.",
+        "vi": "Giấy cháy thành tro.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "灰 vừa là tro, vừa là màu xám. Tro sau khi cháy là nghĩa gốc."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ. 灰颜色 là màu xám.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "灰 nghĩa là gì?",
+        "answer": "tro; xám"
+      },
+      {
+        "type": "cloze",
+        "prompt": "纸烧成____了。",
+        "answer": "灰"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_979",
+    "level": "HSK5",
+    "hanzi": "灰尘",
+    "pinyin": "huīchén",
+    "topic_id": "daily",
+    "display_meaning_vi": "bụi",
+    "meaning_en": "dust",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一层灰尘 / 灰尘很多",
+    "collocations": [
+      "一层灰尘",
+      "灰尘很多",
+      "擦灰尘"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "桌子上有一层灰尘。",
+        "pinyin": "Zhuōzi shàng yǒu yì céng huīchén.",
+        "vi": "Trên bàn có một lớp bụi.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一层 đọc yì céng vì 层 là thanh 2. 灰尘 là bụi bám trên đồ."
+    ],
+    "app_note_vi": "Danh từ. 擦灰尘 là lau bụi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "灰尘 nghĩa là gì?",
+        "answer": "bụi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "桌子上有一层____。",
+        "answer": "灰尘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_980",
+    "level": "HSK5",
+    "hanzi": "煤炭",
+    "pinyin": "méitàn",
+    "topic_id": "nature",
+    "display_meaning_vi": "than đá",
+    "meaning_en": "coal",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一吨煤炭 / 煤炭资源",
+    "collocations": [
+      "一吨煤炭",
+      "煤炭资源",
+      "开采煤炭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里出产煤炭。",
+        "pinyin": "Zhèlǐ chūchǎn méitàn.",
+        "vi": "Nơi này sản xuất than đá.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一吨 đọc yí dūn vì 吨 là thanh 4. 煤炭 là nhiên liệu lấy từ mỏ."
+    ],
+    "app_note_vi": "Danh từ. 煤炭资源 là tài nguyên than.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "煤炭 nghĩa là gì?",
+        "answer": "than đá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里出产____。",
+        "answer": "煤炭"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

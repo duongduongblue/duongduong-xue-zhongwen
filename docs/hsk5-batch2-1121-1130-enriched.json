@@ -1,0 +1,587 @@
+[
+  {
+    "id": "hsk5_batch2_1121",
+    "level": "HSK5",
+    "hanzi": "原料",
+    "pinyin": "yuánliào",
+    "topic_id": "work",
+    "display_meaning_vi": "nguyên liệu",
+    "meaning_en": "raw material",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生产原料 / 天然原料",
+    "collocations": [
+      "生产原料",
+      "天然原料",
+      "原料成本"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "原料 là nguyên liệu thô; 材料 là vật liệu hoặc hồ sơ, rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "面包的原料很简单。",
+        "pinyin": "Miàn bāo de yuán liào hěn jiǎn dān.",
+        "vi": "Nguyên liệu làm bánh mì rất đơn giản.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vật liệu thô chưa chế biến, dùng để sản xuất hoặc nấu."
+    ],
+    "app_note_vi": "Vật liệu thô chưa chế biến, dùng để sản xuất hoặc nấu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "原料 nghĩa là gì?",
+        "answer": "nguyên liệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "面包的____很简单。",
+        "answer": "原料"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 原料?",
+        "answer": "原料 là nguyên liệu thô; 材料 là vật liệu hoặc hồ sơ, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1122",
+    "level": "HSK5",
+    "hanzi": "展开",
+    "pinyin": "zhǎnkāi",
+    "topic_id": "work",
+    "display_meaning_vi": "triển khai",
+    "meaning_en": "to carry out",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "展开工作 / 全面展开",
+    "collocations": [
+      "展开工作",
+      "全面展开",
+      "展开双臂"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "展开 là mở ra hoặc bắt đầu làm; 开展 cũng là tiến hành, hay dùng cho phong trào.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "调查已经在各地展开。",
+        "pinyin": "Diào chá yǐ jīng zài gè dì zhǎn kāi.",
+        "vi": "Cuộc điều tra đã được triển khai ở khắp nơi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Với việc làm, nghĩa là bắt đầu tiến hành. Với vật gấp, nghĩa là mở ra."
+    ],
+    "app_note_vi": "Với việc làm, nghĩa là bắt đầu tiến hành. Với vật gấp, nghĩa là mở ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "展开 nghĩa là gì?",
+        "answer": "triển khai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "调查已经在各地____。",
+        "answer": "展开"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 展开?",
+        "answer": "展开 là mở ra hoặc bắt đầu làm; 开展 cũng là tiến hành, hay dùng cho phong trào."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1123",
+    "level": "HSK5",
+    "hanzi": "召开",
+    "pinyin": "zhàokāi",
+    "topic_id": "work",
+    "display_meaning_vi": "triệu tập",
+    "meaning_en": "to convene",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "召开会议 / 召开大会",
+    "collocations": [
+      "召开会议",
+      "召开大会",
+      "紧急召开"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "召开 chỉ dùng khi triệu tập cuộc họp; 举行 dùng được cho nhiều loại sự kiện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下周将召开家长会。",
+        "pinyin": "Xià zhōu jiāng zhào kāi jiā zhǎng huì.",
+        "vi": "Tuần sau sẽ triệu tập họp phụ huynh.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ dùng cho hội nghị, đại hội, không dùng cho buổi gặp nhỏ."
+    ],
+    "app_note_vi": "Chỉ dùng cho hội nghị, đại hội, không dùng cho buổi gặp nhỏ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "召开 nghĩa là gì?",
+        "answer": "triệu tập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下周将____家长会。",
+        "answer": "召开"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 召开?",
+        "answer": "召开 chỉ dùng khi triệu tập cuộc họp; 举行 dùng được cho nhiều loại sự kiện."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1124",
+    "level": "HSK5",
+    "hanzi": "征求",
+    "pinyin": "zhēngqiú",
+    "topic_id": "work",
+    "display_meaning_vi": "xin ý kiến",
+    "meaning_en": "to ask for opinions",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "征求意见 / 公开征求",
+    "collocations": [
+      "征求意见",
+      "公开征求",
+      "征求方案"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "征求 là xin ý kiến của nhiều người; 申请 là nộp đơn xin một quyền lợi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司正在征求顾客意见。",
+        "pinyin": "Gōng sī zhèng zài zhēng qiú gù kè yì jiàn.",
+        "vi": "Công ty đang xin ý kiến khách hàng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chủ động hỏi để thu góp ý hoặc phương án."
+    ],
+    "app_note_vi": "Chủ động hỏi để thu góp ý hoặc phương án.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "征求 nghĩa là gì?",
+        "answer": "xin ý kiến"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司正在____顾客意见。",
+        "answer": "征求"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 征求?",
+        "answer": "征求 là xin ý kiến của nhiều người; 申请 là nộp đơn xin một quyền lợi."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1125",
+    "level": "HSK5",
+    "hanzi": "执照",
+    "pinyin": "zhízhào",
+    "topic_id": "work",
+    "display_meaning_vi": "giấy phép",
+    "meaning_en": "a license",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "营业执照 / 驾驶执照",
+    "collocations": [
+      "营业执照",
+      "驾驶执照",
+      "申领执照"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "执照 là giấy phép được hành nghề; 证书 là chứng chỉ xác nhận năng lực hoặc thành tích.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家餐馆还没有执照。",
+        "pinyin": "Zhè jiā cān guǎn hái méi yǒu zhí zhào.",
+        "vi": "Quán này vẫn chưa có giấy phép.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Giấy cơ quan có thẩm quyền cấp để được kinh doanh hoặc lái xe."
+    ],
+    "app_note_vi": "Giấy cơ quan có thẩm quyền cấp để được kinh doanh hoặc lái xe.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "执照 nghĩa là gì?",
+        "answer": "giấy phép"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家餐馆还没有____。",
+        "answer": "执照"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 执照?",
+        "answer": "执照 là giấy phép được hành nghề; 证书 là chứng chỉ xác nhận năng lực hoặc thành tích."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1126",
+    "level": "HSK5",
+    "hanzi": "指挥",
+    "pinyin": "zhǐhuī",
+    "topic_id": "work",
+    "display_meaning_vi": "chỉ huy",
+    "meaning_en": "to direct",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "指挥交通 / 指挥棒",
+    "collocations": [
+      "指挥交通",
+      "指挥棒",
+      "现场指挥"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "指挥 là điều phối tại chỗ; 指导 là hướng dẫn phương pháp.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "有人在门口指挥车辆。",
+        "pinyin": "Yǒu rén zài mén kǒu zhǐ huī chē liàng.",
+        "vi": "Có người đang phân luồng xe ở cổng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Điều phối người hoặc xe tại chỗ; cũng chỉ người chỉ huy dàn nhạc."
+    ],
+    "app_note_vi": "Điều phối người hoặc xe tại chỗ; cũng chỉ người chỉ huy dàn nhạc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "指挥 nghĩa là gì?",
+        "answer": "chỉ huy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "有人在门口____车辆。",
+        "answer": "指挥"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 指挥?",
+        "answer": "指挥 là điều phối tại chỗ; 指导 là hướng dẫn phương pháp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1127",
+    "level": "HSK5",
+    "hanzi": "制定",
+    "pinyin": "zhìdìng",
+    "topic_id": "work",
+    "display_meaning_vi": "đặt ra",
+    "meaning_en": "to draw up",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "制定计划 / 制定政策",
+    "collocations": [
+      "制定计划",
+      "制定政策",
+      "制定标准"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "制定 hay dùng cho chính sách, kế hoạch được chốt; 制订 nhấn mạnh khâu thảo ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们制定了出行计划。",
+        "pinyin": "Wǒ men zhì dìng le chū xíng jì huà.",
+        "vi": "Chúng tôi đã lập kế hoạch cho chuyến đi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Xây dựng kế hoạch, chính sách hoặc tiêu chuẩn rồi chốt lại."
+    ],
+    "app_note_vi": "Xây dựng kế hoạch, chính sách hoặc tiêu chuẩn rồi chốt lại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "制定 nghĩa là gì?",
+        "answer": "đặt ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们____了出行计划。",
+        "answer": "制定"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 制定?",
+        "answer": "制定 hay dùng cho chính sách, kế hoạch được chốt; 制订 nhấn mạnh khâu thảo ra."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1128",
+    "level": "HSK5",
+    "hanzi": "中旬",
+    "pinyin": "zhōngxún",
+    "topic_id": "work",
+    "display_meaning_vi": "giữa tháng",
+    "meaning_en": "the middle of the month",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "本月中旬 / 四月中旬",
+    "collocations": [
+      "本月中旬",
+      "四月中旬",
+      "中旬左右"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "报告将于三月中旬完成。",
+        "pinyin": "Bào gào jiāng yú sān yuè zhōng xún wán chéng.",
+        "vi": "Báo cáo sẽ xong vào giữa tháng ba.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "中 đọc zhōng, là giữa tháng. Trúng đọc zhòng, như 中奖."
+    ],
+    "app_note_vi": "Chỉ khoảng từ ngày 11 đến ngày 20. 上旬 là mười ngày đầu, 下旬 là những ngày cuối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "中旬 nghĩa là gì?",
+        "answer": "giữa tháng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "报告将于三月____完成。",
+        "answer": "中旬"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1129",
+    "level": "HSK5",
+    "hanzi": "注册",
+    "pinyin": "zhùcè",
+    "topic_id": "work",
+    "display_meaning_vi": "đăng ký",
+    "meaning_en": "to register",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "注册商标 / 注册公司",
+    "collocations": [
+      "注册商标",
+      "注册公司",
+      "注册资本"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "注册 thường là đăng ký tài khoản hoặc pháp lý; 登记 là ghi vào sổ, rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新用户需要先注册账号。",
+        "pinyin": "Xīn yòng hù xū yào xiān zhù cè zhàng hào.",
+        "vi": "Người dùng mới cần đăng ký tài khoản trước.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ghi danh chính thức để được dùng hoặc được công nhận."
+    ],
+    "app_note_vi": "Ghi danh chính thức để được dùng hoặc được công nhận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "注册 nghĩa là gì?",
+        "answer": "đăng ký"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新用户需要先____账号。",
+        "answer": "注册"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 注册?",
+        "answer": "注册 thường là đăng ký tài khoản hoặc pháp lý; 登记 là ghi vào sổ, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1130",
+    "level": "HSK5",
+    "hanzi": "抓紧",
+    "pinyin": "zhuājǐn",
+    "topic_id": "work",
+    "display_meaning_vi": "tranh thủ",
+    "meaning_en": "to act promptly",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "抓紧时间 / 抓紧机会",
+    "collocations": [
+      "抓紧时间",
+      "抓紧机会",
+      "抓紧处理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "抓紧 là tranh thủ cho kịp; 赶紧 là mau lên ngay lúc này.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "时间不多了，我们抓紧吧。",
+        "pinyin": "Shí jiān bù duō le wǒ men zhuā jǐn ba.",
+        "vi": "Không còn nhiều thời gian, chúng ta tranh thủ thôi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm ngay kẻo lỡ việc. Cũng có nghĩa nắm chặt."
+    ],
+    "app_note_vi": "Làm ngay kẻo lỡ việc. Cũng có nghĩa nắm chặt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抓紧 nghĩa là gì?",
+        "answer": "tranh thủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "时间不多了，我们____吧。",
+        "answer": "抓紧"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 抓紧?",
+        "answer": "抓紧 là tranh thủ cho kịp; 赶紧 là mau lên ngay lúc này."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

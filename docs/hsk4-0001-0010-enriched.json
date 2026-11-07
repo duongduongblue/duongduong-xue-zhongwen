@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0001",
+    "level": "HSK4",
+    "hanzi": "安排",
+    "pinyin": "ānpái",
+    "topic_id": "work",
+    "display_meaning_vi": "sắp xếp; bố trí",
+    "meaning_en": "to arrange",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "安排时间 / 安排工作",
+    "collocations": [
+      "安排时间",
+      "安排工作",
+      "仔细安排"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "安排是 động từ sắp xếp việc hoặc thời gian.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "经理安排我明天开会。",
+        "pinyin": "Jīng lǐ ān pái wǒ míng tiān kāi huì.",
+        "vi": "Quản lý sắp xếp cho tôi họp vào ngày mai.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "安排是 động từ sắp xếp việc hoặc thời gian."
+    ],
+    "app_note_vi": "安排是 động từ sắp xếp việc hoặc thời gian.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "安排 nghĩa là gì?",
+        "answer": "sắp xếp; bố trí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "经理____我明天开会。",
+        "answer": "安排"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0002",
+    "level": "HSK4",
+    "hanzi": "按时",
+    "pinyin": "ànshí",
+    "topic_id": "work",
+    "display_meaning_vi": "đúng giờ; đúng hạn",
+    "meaning_en": "on time",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "按时完成 / 按时到达",
+    "collocations": [
+      "按时完成",
+      "按时到达",
+      "按时上课"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "时 trong 按时 đọc shí.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请按时交作业。",
+        "pinyin": "Qǐng àn shí jiāo zuò yè.",
+        "vi": "Hãy nộp bài đúng hạn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "时 trong 按时 đọc shí."
+    ],
+    "app_note_vi": "时 trong 按时 đọc shí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "按时 nghĩa là gì?",
+        "answer": "đúng giờ; đúng hạn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____交作业。",
+        "answer": "按时"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0003",
+    "level": "HSK4",
+    "hanzi": "报名",
+    "pinyin": "bàomíng",
+    "topic_id": "work",
+    "display_meaning_vi": "đăng ký",
+    "meaning_en": "to sign up",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "报名参加 / 网上报名",
+    "collocations": [
+      "报名参加",
+      "网上报名",
+      "报名费"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "报 đọc bào, là báo danh, không phải tờ báo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我想报名参加比赛。",
+        "pinyin": "Wǒ xiǎng bào míng cān jiā bǐ sài.",
+        "vi": "Tôi muốn đăng ký tham gia cuộc thi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "报 đọc bào, là báo danh, không phải tờ báo."
+    ],
+    "app_note_vi": "报 đọc bào, là báo danh, không phải tờ báo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "报名 nghĩa là gì?",
+        "answer": "đăng ký"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我想____参加比赛。",
+        "answer": "报名"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0004",
+    "level": "HSK4",
+    "hanzi": "保证",
+    "pinyin": "bǎozhèng",
+    "topic_id": "work",
+    "display_meaning_vi": "bảo đảm; cam đoan",
+    "meaning_en": "to guarantee",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保证质量 / 保证完成",
+    "collocations": [
+      "保证质量",
+      "保证完成",
+      "我保证"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "保证 nhấn mạnh lời hứa chắc, khác 保护 là bảo vệ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我保证明天把报告交上。",
+        "pinyin": "Wǒ bǎo zhèng míng tiān bǎ bào gào jiāo shàng.",
+        "vi": "Tôi bảo đảm ngày mai nộp báo cáo.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "保证 nhấn mạnh lời hứa chắc, khác 保护 là bảo vệ."
+    ],
+    "app_note_vi": "保证 nhấn mạnh lời hứa chắc, khác 保护 là bảo vệ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "保证 nghĩa là gì?",
+        "answer": "bảo đảm; cam đoan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____明天把报告交上。",
+        "answer": "保证"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0005",
+    "level": "HSK4",
+    "hanzi": "表扬",
+    "pinyin": "biǎoyáng",
+    "topic_id": "work",
+    "display_meaning_vi": "khen ngợi",
+    "meaning_en": "to praise",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表扬学生 / 受到表扬",
+    "collocations": [
+      "表扬学生",
+      "受到表扬",
+      "表扬信"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "表扬 là khen trước mọi người. 鼓励 là động viên.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师表扬了认真学习的学生。",
+        "pinyin": "Lǎo shī biǎo yáng le rèn zhēn xué xí de xué shēng.",
+        "vi": "Thầy khen những học sinh học nghiêm túc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "表扬 là khen trước mọi người. 鼓励 là động viên."
+    ],
+    "app_note_vi": "表扬 là khen trước mọi người. 鼓励 là động viên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "表扬 nghĩa là gì?",
+        "answer": "khen ngợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____了认真学习的学生。",
+        "answer": "表扬"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0006",
+    "level": "HSK4",
+    "hanzi": "负责",
+    "pinyin": "fùzé",
+    "topic_id": "work",
+    "display_meaning_vi": "phụ trách; chịu trách nhiệm",
+    "meaning_en": "to be responsible for",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "负责项目 / 负责人",
+    "collocations": [
+      "负责项目",
+      "负责人",
+      "认真负责"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "负责 vừa là phụ trách một việc, vừa tả người có trách nhiệm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她负责这个项目。",
+        "pinyin": "Tā fù zé zhè ge xiàng mù.",
+        "vi": "Cô ấy phụ trách dự án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "负责 vừa là phụ trách một việc, vừa tả người có trách nhiệm."
+    ],
+    "app_note_vi": "负责 vừa là phụ trách một việc, vừa tả người có trách nhiệm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "负责 nghĩa là gì?",
+        "answer": "phụ trách; chịu trách nhiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____这个项目。",
+        "answer": "负责"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0007",
+    "level": "HSK4",
+    "hanzi": "管理",
+    "pinyin": "guǎnlǐ",
+    "topic_id": "work",
+    "display_meaning_vi": "quản lý",
+    "meaning_en": "to manage",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "管理公司 / 管理人员",
+    "collocations": [
+      "管理公司",
+      "管理人员",
+      "严格管理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一 trước 家 thanh 1 đọc yì: yì jiā.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他管理一家小公司。",
+        "pinyin": "Tā guǎn lǐ yì jiā xiǎo gōng sī.",
+        "vi": "Anh ấy quản lý một công ty nhỏ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 家 thanh 1 đọc yì: yì jiā."
+    ],
+    "app_note_vi": "一 trước 家 thanh 1 đọc yì: yì jiā.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "管理 nghĩa là gì?",
+        "answer": "quản lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____一家小公司。",
+        "answer": "管理"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0008",
+    "level": "HSK4",
+    "hanzi": "招聘",
+    "pinyin": "zhāopìn",
+    "topic_id": "work",
+    "display_meaning_vi": "tuyển dụng",
+    "meaning_en": "to recruit",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "招聘员工 / 招聘信息",
+    "collocations": [
+      "招聘员工",
+      "招聘信息",
+      "社会招聘"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "聘 đọc pìn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司正在招聘新员工。",
+        "pinyin": "Gōng sī zhèng zài zhāo pìn xīn yuán gōng.",
+        "vi": "Công ty đang tuyển nhân viên mới.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "聘 đọc pìn."
+    ],
+    "app_note_vi": "聘 đọc pìn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "招聘 nghĩa là gì?",
+        "answer": "tuyển dụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司正在____新员工。",
+        "answer": "招聘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0009",
+    "level": "HSK4",
+    "hanzi": "职业",
+    "pinyin": "zhíyè",
+    "topic_id": "work",
+    "display_meaning_vi": "nghề nghiệp",
+    "meaning_en": "occupation",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "职业规划 / 职业生活",
+    "collocations": [
+      "职业规划",
+      "职业生活",
+      "选择职业"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一 trước 份 thanh 4 đọc yí: yí fèn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "医生是一份重要的职业。",
+        "pinyin": "Yī shēng shì yí fèn zhòng yào de zhí yè.",
+        "vi": "Bác sĩ là một nghề quan trọng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 份 thanh 4 đọc yí: yí fèn."
+    ],
+    "app_note_vi": "一 trước 份 thanh 4 đọc yí: yí fèn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "职业 nghĩa là gì?",
+        "answer": "nghề nghiệp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "医生是一份重要的____。",
+        "answer": "职业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0010",
+    "level": "HSK4",
+    "hanzi": "质量",
+    "pinyin": "zhìliàng",
+    "topic_id": "work",
+    "display_meaning_vi": "chất lượng",
+    "meaning_en": "quality",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "质量问题 / 高质量",
+    "collocations": [
+      "质量问题",
+      "高质量",
+      "保证质量"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "量 trong 质量 đọc liàng. Đong đo đọc liáng, như 测量.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家店的衣服质量很好。",
+        "pinyin": "Zhè jiā diàn de yī fu zhì liàng hěn hǎo.",
+        "vi": "Quần áo ở cửa hàng này chất lượng rất tốt.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "量 trong 质量 đọc liàng. Đong đo đọc liáng, như 测量."
+    ],
+    "app_note_vi": "量 trong 质量 đọc liàng. Đong đo đọc liáng, như 测量.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "质量 nghĩa là gì?",
+        "answer": "chất lượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家店的衣服____很好。",
+        "answer": "质量"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

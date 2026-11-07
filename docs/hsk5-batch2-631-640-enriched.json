@@ -1,0 +1,546 @@
+[
+  {
+    "id": "hsk5_batch2_631",
+    "level": "HSK5",
+    "hanzi": "包裹",
+    "pinyin": "bāoguǒ",
+    "topic_id": "daily",
+    "display_meaning_vi": "bưu kiện",
+    "meaning_en": "parcel; to wrap",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "寄包裹 / 取包裹",
+    "collocations": [
+      "寄包裹",
+      "取包裹",
+      "包裹单"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我的包裹已经到学校了。",
+        "pinyin": "Wǒ de bāoguǒ yǐjīng dào xuéxiào le.",
+        "vi": "Bưu kiện của tôi đã tới trường.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "包裹 trong đời sống thường là bưu kiện. Gói lại cũng nói 包裹."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 取包裹 là lấy bưu kiện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "包裹 nghĩa là gì?",
+        "answer": "bưu kiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我的____已经到学校了。",
+        "answer": "包裹"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_632",
+    "level": "HSK5",
+    "hanzi": "包子",
+    "pinyin": "bāozi",
+    "topic_id": "daily",
+    "display_meaning_vi": "bánh bao",
+    "meaning_en": "steamed stuffed bun",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "肉包子 / 吃包子",
+    "collocations": [
+      "肉包子",
+      "吃包子",
+      "一笼包子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早饭我吃了两个包子。",
+        "pinyin": "Zǎofàn wǒ chī le liǎng gè bāozi.",
+        "vi": "Bữa sáng tôi ăn hai cái bánh bao.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi. 两个 dùng 两, không dùng 二. Bánh bao hấp có nhân, khác bánh mì."
+    ],
+    "app_note_vi": "Danh từ. 一笼包子 đọc yì lóng vì 笼 là thanh 2.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "包子 nghĩa là gì?",
+        "answer": "bánh bao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早饭我吃了两个____。",
+        "answer": "包子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_633",
+    "level": "HSK5",
+    "hanzi": "被子",
+    "pinyin": "bèizi",
+    "topic_id": "daily",
+    "display_meaning_vi": "chăn",
+    "meaning_en": "quilt",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "盖被子 / 叠被子",
+    "collocations": [
+      "盖被子",
+      "叠被子",
+      "一床被子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚上记得盖好被子。",
+        "pinyin": "Wǎnshang jìde gài hǎo bèizi.",
+        "vi": "Tối nhớ đắp chăn cho kín.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ. 晚上 đọc wǎnshang, âm sau nhẹ. 记得 đọc jìde. Lượng từ là 床."
+    ],
+    "app_note_vi": "Danh từ. 叠被子 là gấp chăn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "被子 nghĩa là gì?",
+        "answer": "chăn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚上记得盖好____。",
+        "answer": "被子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_634",
+    "level": "HSK5",
+    "hanzi": "抽屉",
+    "pinyin": "chōuti",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngăn kéo",
+    "meaning_en": "drawer",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打开抽屉 / 抽屉里",
+    "collocations": [
+      "打开抽屉",
+      "抽屉里",
+      "关上抽屉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "钥匙放在抽屉里了。",
+        "pinyin": "Yàoshi fàng zài chōuti lǐ le.",
+        "vi": "Chìa khóa để trong ngăn kéo rồi.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "抽屉 là phần kéo ra của bàn hoặc tủ."
+    ],
+    "app_note_vi": "Danh từ. 关上抽屉 là đẩy ngăn vào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抽屉 nghĩa là gì?",
+        "answer": "ngăn kéo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "钥匙放在____里了。",
+        "answer": "抽屉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_635",
+    "level": "HSK5",
+    "hanzi": "窗帘",
+    "pinyin": "chuānglián",
+    "topic_id": "daily",
+    "display_meaning_vi": "rèm cửa",
+    "meaning_en": "curtain",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "拉开窗帘 / 新窗帘",
+    "collocations": [
+      "拉开窗帘",
+      "新窗帘",
+      "窗帘布"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早上拉开窗帘，阳光进来了。",
+        "pinyin": "Zǎoshang lā kāi chuānglián, yángguāng jìn lai le.",
+        "vi": "Sáng kéo rèm, nắng vào.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "早上 đọc zǎoshang. 进来的 来 đọc nhẹ lai."
+    ],
+    "app_note_vi": "Danh từ. 拉开窗帘 là kéo rèm ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "窗帘 nghĩa là gì?",
+        "answer": "rèm cửa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早上拉开____，阳光进来了。",
+        "answer": "窗帘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_636",
+    "level": "HSK5",
+    "hanzi": "充电器",
+    "pinyin": "chōngdiànqì",
+    "topic_id": "daily",
+    "display_meaning_vi": "cục sạc",
+    "meaning_en": "charger",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "手机充电器 / 带充电器",
+    "collocations": [
+      "手机充电器",
+      "带充电器",
+      "充电器坏了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我忘了带手机充电器。",
+        "pinyin": "Wǒ wàng le dài shǒujī chōngdiànqì.",
+        "vi": "Tôi quên mang cục sạc điện thoại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "充电器 là thiết bị nạp điện, không phải pin. Pin là 电池."
+    ],
+    "app_note_vi": "Danh từ. 充电器坏了 là sạc hỏng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "充电器 nghĩa là gì?",
+        "answer": "cục sạc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我忘了带手机____。",
+        "answer": "充电器"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_637",
+    "level": "HSK5",
+    "hanzi": "叉子",
+    "pinyin": "chāzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "nĩa",
+    "meaning_en": "fork",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把叉子 / 用叉子",
+    "collocations": [
+      "一把叉子",
+      "用叉子",
+      "刀和叉子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "吃面条时可以用叉子。",
+        "pinyin": "Chī miàntiáo shí kěyǐ yòng chāzi.",
+        "vi": "Khi ăn mì có thể dùng nĩa.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ. 一把 đọc yì bǎ vì 把 là thanh 3. Đũa là 筷子."
+    ],
+    "app_note_vi": "Danh từ. Đồ ăn kiểu Tây.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "叉子 nghĩa là gì?",
+        "answer": "nĩa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "吃面条时可以用____。",
+        "answer": "叉子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_638",
+    "level": "HSK5",
+    "hanzi": "尺子",
+    "pinyin": "chǐzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "thước kẻ",
+    "meaning_en": "ruler",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把尺子 / 用尺子",
+    "collocations": [
+      "一把尺子",
+      "用尺子",
+      "尺子量"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "画直线要用尺子。",
+        "pinyin": "Huà zhíxiàn yào yòng chǐzi.",
+        "vi": "Kẻ đường thẳng thì dùng thước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ. 尺子 là đồ đo và kẻ, không phải thước dây may. Thước dây thường nói 卷尺."
+    ],
+    "app_note_vi": "Danh từ. 用尺子量 là đo bằng thước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尺子 nghĩa là gì?",
+        "answer": "thước kẻ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "画直线要用____。",
+        "answer": "尺子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_639",
+    "level": "HSK5",
+    "hanzi": "地毯",
+    "pinyin": "dìtǎn",
+    "topic_id": "daily",
+    "display_meaning_vi": "thảm",
+    "meaning_en": "carpet",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "铺地毯 / 一条地毯",
+    "collocations": [
+      "一条地毯",
+      "铺地毯",
+      "地毯上"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "客厅里铺着一条红地毯。",
+        "pinyin": "Kètīng lǐ pū zhe yì tiáo hóng dìtǎn.",
+        "vi": "Trong phòng khách trải một tấm thảm đỏ.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "铺地毯的 铺 đọc pū, là trải. Cửa hàng đọc pù, như 店铺. 一条 đọc yì tiáo vì 条 là thanh 2. 着 đọc nhẹ."
+    ],
+    "app_note_vi": "Danh từ. Thảm trải sàn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地毯 nghĩa là gì?",
+        "answer": "thảm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "客厅里铺着一条红____。",
+        "answer": "地毯"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_640",
+    "level": "HSK5",
+    "hanzi": "结实",
+    "pinyin": "jiēshi",
+    "topic_id": "daily",
+    "display_meaning_vi": "chắc",
+    "meaning_en": "sturdy",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "结实耐用 / 身体结实",
+    "collocations": [
+      "结实耐用",
+      "身体结实",
+      "长得结实"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这双鞋很结实，能穿很久。",
+        "pinyin": "Zhè shuāng xié hěn jiēshi, néng chuān hěn jiǔ.",
+        "vi": "Đôi giày này chắc, đi được lâu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结实 đọc jiēshi, âm sau nhẹ. Kết thúc, tính tiền đọc jié, như 结束, 结账. Cây ra quả là nghĩa khác, cũng đọc jiē."
+    ],
+    "app_note_vi": "Tính từ. Chắc khỏe hoặc bền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "结实 nghĩa là gì?",
+        "answer": "chắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这双鞋很____，能穿很久。",
+        "answer": "结实"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

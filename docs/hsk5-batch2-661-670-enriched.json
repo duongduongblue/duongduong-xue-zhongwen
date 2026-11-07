@@ -1,0 +1,575 @@
+[
+  {
+    "id": "hsk5_batch2_661",
+    "level": "HSK5",
+    "hanzi": "不得了",
+    "pinyin": "bùdéliǎo",
+    "topic_id": "emotion",
+    "display_meaning_vi": "ghê lắm",
+    "meaning_en": "extremely; terribly",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "热得不得了 / 忙得不得了",
+    "collocations": [
+      "热得不得了",
+      "忙得不得了",
+      "高兴得不得了"
+    ],
+    "near_synonyms": [
+      {
+        "word": "很",
+        "difference_vi": "不得了 đứng sau 得, mức độ rất cao; 很 chỉ là rất."
+      }
+    ],
+    "app_synonym_note_vi": "不得了 = ghê lắm; 很 = rất.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今天热得不得了。",
+        "pinyin": "Jīntiān rè de bùdéliǎo.",
+        "vi": "Hôm nay nóng ghê lắm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 trong 不得了 đọc dé, không đọc nhẹ. Bổ ngữ 热得的 得 mới đọc nhẹ de. Phải đi đọc děi, như 得去."
+    ],
+    "app_note_vi": "Đứng sau 得 để nói mức độ rất cao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不得了 nghĩa là gì?",
+        "answer": "ghê lắm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今天热得____。",
+        "answer": "不得了"
+      },
+      {
+        "type": "synonym",
+        "prompt": "不得了 khác 很 ở điểm nào?",
+        "answer": "不得了 đứng sau 得, mức độ rất cao; 很 chỉ là rất."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_662",
+    "level": "HSK5",
+    "hanzi": "不好意思",
+    "pinyin": "bùhǎoyìsi",
+    "topic_id": "emotion",
+    "display_meaning_vi": "ngại",
+    "meaning_en": "embarrassed; excuse me",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "很不好意思 / 不好意思说",
+    "collocations": [
+      "很不好意思",
+      "不好意思说",
+      "感到不好意思"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "迟到了，我很不好意思。",
+        "pinyin": "Chídào le, wǒ hěn bùhǎoyìsi.",
+        "vi": "Đi muộn, tôi rất ngại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "意思的 思 đọc nhẹ si. 好 đọc hǎo. Đây là ngại xã giao, không phải hổ thẹn vì lỗi nặng; lỗi nặng nói 惭愧."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. Cũng dùng để xin lỗi nhẹ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不好意思 nghĩa là gì?",
+        "answer": "ngại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "迟到了，我很____。",
+        "answer": "不好意思"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_663",
+    "level": "HSK5",
+    "hanzi": "不免",
+    "pinyin": "bùmiǎn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "khó tránh",
+    "meaning_en": "unavoidably",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "不免担心 / 不免紧张",
+    "collocations": [
+      "不免担心",
+      "不免紧张",
+      "不免失望"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "第一次上台，不免有点紧张。",
+        "pinyin": "Dì-yī cì shàng tái, bùmiǎn yǒudiǎn jǐnzhāng.",
+        "vi": "Lần đầu lên sân khấu, khó tránh hơi căng.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "第一的 一 đọc yī, không biến thanh. 不免 là khó tránh, không phải cấm."
+    ],
+    "app_note_vi": "Phó từ trang trọng. Hay đứng trước một cảm xúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不免 nghĩa là gì?",
+        "answer": "khó tránh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "第一次上台，____有点紧张。",
+        "answer": "不免"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_664",
+    "level": "HSK5",
+    "hanzi": "不耐烦",
+    "pinyin": "búnàifán",
+    "topic_id": "emotion",
+    "display_meaning_vi": "mất kiên nhẫn",
+    "meaning_en": "impatient",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "有点不耐烦 / 很不耐烦",
+    "collocations": [
+      "有点不耐烦",
+      "很不耐烦",
+      "显得不耐烦"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "等太久，他有点不耐烦。",
+        "pinyin": "Děng tài jiǔ, tā yǒudiǎn búnàifán.",
+        "vi": "Đợi quá lâu, anh ấy hơi mất kiên nhẫn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "耐 là thanh 4, nên 不 đọc bú: búnàifán."
+    ],
+    "app_note_vi": "Tính từ. 显得不耐烦 là trông ra vẻ sốt ruột.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不耐烦 nghĩa là gì?",
+        "answer": "mất kiên nhẫn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "等太久，他有点____。",
+        "answer": "不耐烦"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_665",
+    "level": "HSK5",
+    "hanzi": "不要紧",
+    "pinyin": "búyàojǐn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "không sao",
+    "meaning_en": "it doesn't matter",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "不要紧的 / 迟到不要紧",
+    "collocations": [
+      "不要紧的",
+      "迟到不要紧",
+      "身体不要紧"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "迟到几分钟不要紧。",
+        "pinyin": "Chídào jǐ fēnzhōng búyàojǐn.",
+        "vi": "Muộn vài phút thì không sao.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "要 là thanh 4, nên 不 đọc bú: búyàojǐn. 要紧 là quan trọng; 不要紧 là không đáng lo."
+    ],
+    "app_note_vi": "Cụm từ. An ủi khi việc nhỏ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不要紧 nghĩa là gì?",
+        "answer": "không sao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "迟到几分钟____。",
+        "answer": "不要紧"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_666",
+    "level": "HSK5",
+    "hanzi": "不足",
+    "pinyin": "bùzú",
+    "topic_id": "language",
+    "display_meaning_vi": "không đủ",
+    "meaning_en": "insufficient",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "准备不足 / 睡眠不足",
+    "collocations": [
+      "准备不足",
+      "睡眠不足",
+      "信心不足"
+    ],
+    "near_synonyms": [
+      {
+        "word": "不够",
+        "difference_vi": "不足 trang trọng hơn; 不够 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "不足 = không đủ, trang trọng; 不够 = không đủ, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "准备时间还不足。",
+        "pinyin": "Zhǔnbèi shíjiān hái bùzú.",
+        "vi": "Thời gian chuẩn bị vẫn chưa đủ.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "还 đọc hái. 足 là thanh 2, nên 不 vẫn đọc bù."
+    ],
+    "app_note_vi": "Tính từ. 睡眠不足 là thiếu ngủ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不足 nghĩa là gì?",
+        "answer": "không đủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "准备时间还____。",
+        "answer": "不足"
+      },
+      {
+        "type": "synonym",
+        "prompt": "不足 khác 不够 ở điểm nào?",
+        "answer": "不足 trang trọng hơn; 不够 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_667",
+    "level": "HSK5",
+    "hanzi": "操心",
+    "pinyin": "cāoxīn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "lo lắng",
+    "meaning_en": "to worry about; to take trouble",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "为孩子操心 / 别操心",
+    "collocations": [
+      "为孩子操心",
+      "别操心",
+      "太操心"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "父母总为孩子操心。",
+        "pinyin": "Fùmǔ zǒng wèi háizi cāoxīn.",
+        "vi": "Cha mẹ suốt ngày lo cho con.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "为 đọc wèi khi nghĩa là vì. 操心 là để tâm lo liệu, không chỉ thoáng lo."
+    ],
+    "app_note_vi": "Động từ. 别操心 là bảo đừng lo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "操心 nghĩa là gì?",
+        "answer": "lo lắng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "父母总为孩子____。",
+        "answer": "操心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_668",
+    "level": "HSK5",
+    "hanzi": "发愁",
+    "pinyin": "fāchóu",
+    "topic_id": "emotion",
+    "display_meaning_vi": "lo buồn",
+    "meaning_en": "to worry",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有点发愁 / 发愁的事",
+    "collocations": [
+      "有点发愁",
+      "发愁的事",
+      "不必发愁"
+    ],
+    "near_synonyms": [
+      {
+        "word": "担心",
+        "difference_vi": "发愁 là lo mà chưa thấy cách; 担心 là lo một việc có thể xấu."
+      }
+    ],
+    "app_synonym_note_vi": "发愁 = lo buồn chưa có cách; 担心 = lo lắng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "找不到工作，他有点发愁。",
+        "pinyin": "Zhǎo bu dào gōngzuò, tā yǒudiǎn fāchóu.",
+        "vi": "Không tìm được việc, anh ấy hơi lo.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. Tóc đọc fà, như 头发. 找不到的 不 đọc nhẹ bu."
+    ],
+    "app_note_vi": "Động từ. 不必发愁 là không cần lo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发愁 nghĩa là gì?",
+        "answer": "lo buồn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "找不到工作，他有点____。",
+        "answer": "发愁"
+      },
+      {
+        "type": "synonym",
+        "prompt": "发愁 khác 担心 ở điểm nào?",
+        "answer": "发愁 là lo mà chưa thấy cách; 担心 là lo một việc có thể xấu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_669",
+    "level": "HSK5",
+    "hanzi": "发抖",
+    "pinyin": "fādǒu",
+    "topic_id": "emotion",
+    "display_meaning_vi": "run",
+    "meaning_en": "to shiver; to tremble",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion",
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "冷得发抖 / 双手发抖",
+    "collocations": [
+      "冷得发抖",
+      "双手发抖",
+      "冻得发抖"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一到冬天，他的手就发抖。",
+        "pinyin": "Yí dào dōngtiān, tā de shǒu jiù fādǒu.",
+        "vi": "Hễ đến mùa đông, tay anh ấy lại run.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā, không đọc fà. 一到 đọc yí dào vì 到 là thanh 4."
+    ],
+    "app_note_vi": "Động từ. Run vì lạnh, sợ hoặc yếu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发抖 nghĩa là gì?",
+        "answer": "run"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一到冬天，他的手就____。",
+        "answer": "发抖"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_670",
+    "level": "HSK5",
+    "hanzi": "愤怒",
+    "pinyin": "fènnù",
+    "topic_id": "emotion",
+    "display_meaning_vi": "phẫn nộ",
+    "meaning_en": "furious",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "非常愤怒 / 愤怒的情绪",
+    "collocations": [
+      "非常愤怒",
+      "愤怒的情绪",
+      "感到愤怒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听到这个消息，大家很愤怒。",
+        "pinyin": "Tīngdào zhège xiāoxi, dàjiā hěn fènnù.",
+        "vi": "Nghe tin này, mọi người rất phẫn nộ.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "消息 đọc xiāoxi, âm sau nhẹ. 愤怒 mạnh hơn 生气."
+    ],
+    "app_note_vi": "Tính từ trang trọng. Mạnh hơn giận thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "愤怒 nghĩa là gì?",
+        "answer": "phẫn nộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听到这个消息，大家很____。",
+        "answer": "愤怒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

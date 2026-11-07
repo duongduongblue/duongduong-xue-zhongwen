@@ -1,0 +1,567 @@
+[
+  {
+    "id": "hsk5_batch2_491",
+    "level": "HSK5",
+    "hanzi": "话题",
+    "pinyin": "huàtí",
+    "topic_id": "language",
+    "display_meaning_vi": "chủ đề",
+    "meaning_en": "topic of conversation",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "换话题 / 热门话题",
+    "collocations": [
+      "换话题",
+      "热门话题",
+      "话题很多"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个话题大家都很感兴趣。",
+        "pinyin": "Zhège huàtí dàjiā dōu hěn gǎn xìngqù.",
+        "vi": "Chủ đề này ai cũng thấy thú vị.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "话题 là chuyện đang nói. Chủ đề một bài viết có thể là 题目 hoặc 主题."
+    ],
+    "app_note_vi": "Danh từ. 换话题 là đổi chuyện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "话题 nghĩa là gì?",
+        "answer": "chủ đề"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____大家都很感兴趣。",
+        "answer": "话题"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_492",
+    "level": "HSK5",
+    "hanzi": "至于",
+    "pinyin": "zhìyú",
+    "topic_id": "language",
+    "display_meaning_vi": "còn về phần",
+    "meaning_en": "as for",
+    "part_of_speech": "preposition",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "至于我 / 不至于",
+    "collocations": [
+      "至于我",
+      "不至于",
+      "至于说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "至于晚饭，我们出去吃。",
+        "pinyin": "Zhìyú wǎnfàn, wǒmen chūqù chī.",
+        "vi": "Còn bữa tối thì chúng ta đi ăn ngoài.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "至于 chuyển sang một ý khác. 不至于 là chưa đến mức ấy, nghĩa khác."
+    ],
+    "app_note_vi": "Giới từ. Hay đứng đầu câu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "至于 nghĩa là gì?",
+        "answer": "còn về phần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____晚饭，我们出去吃。",
+        "answer": "至于"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_493",
+    "level": "HSK5",
+    "hanzi": "重复",
+    "pinyin": "chóngfù",
+    "topic_id": "language",
+    "display_meaning_vi": "lặp lại",
+    "meaning_en": "to repeat",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "重复一遍 / 避免重复",
+    "collocations": [
+      "重复一遍",
+      "重复出现",
+      "避免重复"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这句话你已经重复了三遍。",
+        "pinyin": "Zhè jù huà nǐ yǐjīng chóngfù le sān biàn.",
+        "vi": "Câu này bạn đã lặp ba lần.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "重 trong 重复 đọc chóng, không đọc zhòng. Nặng mới đọc zhòng."
+    ],
+    "app_note_vi": "Động từ. 一遍 đọc yí biàn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "重复 nghĩa là gì?",
+        "answer": "lặp lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这句话你已经____了三遍。",
+        "answer": "重复"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_494",
+    "level": "HSK5",
+    "hanzi": "赶快",
+    "pinyin": "gǎnkuài",
+    "topic_id": "language",
+    "display_meaning_vi": "mau lên",
+    "meaning_en": "quickly; at once",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "informal",
+    "grammar_pattern": "赶快走 / 赶快行动",
+    "collocations": [
+      "赶快行动",
+      "赶快走",
+      "赶快决定"
+    ],
+    "near_synonyms": [
+      {
+        "word": "赶紧",
+        "difference_vi": "赶快 và 赶紧 đều là mau lên. 赶快 nhấn “nhanh”; 赶紧 nhấn “tranh thủ ngay”."
+      }
+    ],
+    "app_synonym_note_vi": "赶快 = mau; 赶紧 = tranh thủ ngay.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "电影要开始了，赶快入场。",
+        "pinyin": "Diànyǐng yào kāishǐ le, gǎnkuài rùchǎng.",
+        "vi": "Phim sắp bắt đầu, mau vào.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "赶快 đứng trước động từ."
+    ],
+    "app_note_vi": "Phó từ khẩu ngữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "赶快 nghĩa là gì?",
+        "answer": "mau lên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "电影要开始了，____入场。",
+        "answer": "赶快"
+      },
+      {
+        "type": "synonym",
+        "prompt": "赶快 khác 赶紧 ở điểm nào?",
+        "answer": "赶快 và 赶紧 đều là mau lên. 赶快 nhấn “nhanh”; 赶紧 nhấn “tranh thủ ngay”."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_495",
+    "level": "HSK5",
+    "hanzi": "咨询",
+    "pinyin": "zīxún",
+    "topic_id": "language",
+    "display_meaning_vi": "hỏi tư vấn",
+    "meaning_en": "to consult",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "咨询处 / 免费咨询",
+    "collocations": [
+      "咨询处",
+      "免费咨询",
+      "在线咨询"
+    ],
+    "near_synonyms": [
+      {
+        "word": "问",
+        "difference_vi": "咨询 là hỏi để được tư vấn, trang trọng hơn; 问 là hỏi thông thường."
+      }
+    ],
+    "app_synonym_note_vi": "咨询 = hỏi tư vấn; 问 = hỏi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "详情可以电话咨询。",
+        "pinyin": "Xiángqíng kěyǐ diànhuà zīxún.",
+        "vi": "Chi tiết có thể gọi điện hỏi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "咨询 là hỏi chuyên môn hoặc thủ tục. Hỏi một câu nhỏ nói 问."
+    ],
+    "app_note_vi": "Động từ. 咨询处 là quầy tư vấn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "咨询 nghĩa là gì?",
+        "answer": "hỏi tư vấn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "详情可以电话____。",
+        "answer": "咨询"
+      },
+      {
+        "type": "synonym",
+        "prompt": "咨询 khác 问 ở điểm nào?",
+        "answer": "咨询 là hỏi để được tư vấn, trang trọng hơn; 问 là hỏi thông thường."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_496",
+    "level": "HSK5",
+    "hanzi": "似的",
+    "pinyin": "shìde",
+    "topic_id": "language",
+    "display_meaning_vi": "như thể",
+    "meaning_en": "as if",
+    "part_of_speech": "particle",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "像…似的",
+    "collocations": [
+      "像雪似的",
+      "飞也似的",
+      "疯了似的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他高兴得像小孩似的。",
+        "pinyin": "Tā gāoxìng de xiàng xiǎohái shìde.",
+        "vi": "Anh ấy vui như trẻ con vậy.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "似的 đọc shìde, không đọc sìde. 相似的 似 mới đọc sì."
+    ],
+    "app_note_vi": "Trợ từ. Đứng cuối cụm so sánh: 像…似的.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "似的 nghĩa là gì?",
+        "answer": "như thể"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他高兴得像小孩____。",
+        "answer": "似的"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_497",
+    "level": "HSK5",
+    "hanzi": "插",
+    "pinyin": "chā",
+    "topic_id": "language",
+    "display_meaning_vi": "cắm; xen vào",
+    "meaning_en": "to insert; to cut in",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "插队 / 插头 / 插一句",
+    "collocations": [
+      "插队",
+      "插头",
+      "插一句"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "排队时不要插队。",
+        "pinyin": "Páiduì shí búyào chāduì.",
+        "vi": "Khi xếp hàng đừng chen hàng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "插 đọc chā. 不要 đọc búyào. 插队 là chen hàng, 插头 là phích cắm."
+    ],
+    "app_note_vi": "Động từ. Cũng là xen một câu: 插一句.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "插 nghĩa là gì?",
+        "answer": "cắm; xen vào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "排队时不要____队。",
+        "answer": "插"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_498",
+    "level": "HSK5",
+    "hanzi": "骂",
+    "pinyin": "mà",
+    "topic_id": "language",
+    "display_meaning_vi": "mắng",
+    "meaning_en": "to scold",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "不要骂人 / 挨骂",
+    "collocations": [
+      "不要骂人",
+      "挨骂",
+      "责骂"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "就算生气也不要骂人。",
+        "pinyin": "Jiùsuàn shēngqì yě búyào mà rén.",
+        "vi": "Dù tức cũng đừng mắng người.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "骂 là mắng. Nhẹ hơn thì nói 批评. 不要 đọc búyào."
+    ],
+    "app_note_vi": "Động từ. Nên tránh dùng với người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "骂 nghĩa là gì?",
+        "answer": "mắng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "就算生气也不要____人。",
+        "answer": "骂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_499",
+    "level": "HSK5",
+    "hanzi": "因素",
+    "pinyin": "yīnsù",
+    "topic_id": "language",
+    "display_meaning_vi": "yếu tố",
+    "meaning_en": "factor",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "重要因素 / 因素之一",
+    "collocations": [
+      "重要因素",
+      "关键因素",
+      "因素之一"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "天气是比赛改期的重要因素。",
+        "pinyin": "Tiānqì shì bǐsài gǎiqī de zhòngyào yīnsù.",
+        "vi": "Thời tiết là yếu tố quan trọng khiến trận đấu đổi ngày.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "因素 là một phần gây ra kết quả. Không phải “nhân tố con người” theo nghĩa khen; khen người nói 人才."
+    ],
+    "app_note_vi": "Danh từ. Hay đi với 重要 hoặc 关键.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "因素 nghĩa là gì?",
+        "answer": "yếu tố"
+      },
+      {
+        "type": "cloze",
+        "prompt": "天气是比赛改期的重要____。",
+        "answer": "因素"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_500",
+    "level": "HSK5",
+    "hanzi": "矛盾",
+    "pinyin": "máodùn",
+    "topic_id": "language",
+    "display_meaning_vi": "mâu thuẫn",
+    "meaning_en": "contradiction",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自相矛盾 / 产生矛盾",
+    "collocations": [
+      "自相矛盾",
+      "矛盾心理",
+      "产生矛盾"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这两种说法互相矛盾。",
+        "pinyin": "Zhè liǎng zhǒng shuōfǎ hùxiāng máodùn.",
+        "vi": "Hai cách nói này mâu thuẫn nhau.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "自相矛盾 là chính mình nói trái nhau. 矛盾 cũng là tính từ."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "矛盾 nghĩa là gì?",
+        "answer": "mâu thuẫn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这两种说法互相____。",
+        "answer": "矛盾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

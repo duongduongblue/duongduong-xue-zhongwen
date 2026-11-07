@@ -1,13 +1,14 @@
 import type { QuizQuestion, VocabWord } from '../types';
 import { buildQuizQuestionsFromSeed, createAppSeedBundle } from '../lib/seed-loader';
+import { hsk4FocusLessons, hsk4FocusWords } from './hsk4-focus';
 import { hsk5FocusLessons, hsk5FocusWords } from './hsk5-focus';
 
 const appSeed = createAppSeedBundle();
 
 export const levels = appSeed.levels;
 export const modules = appSeed.modules;
-export const lessons = [...appSeed.lessons, ...hsk5FocusLessons];
-export const allWords: VocabWord[] = [...appSeed.words, ...hsk5FocusWords];
+export const lessons = [...appSeed.lessons, ...hsk4FocusLessons, ...hsk5FocusLessons];
+export const allWords: VocabWord[] = [...appSeed.words, ...hsk4FocusWords, ...hsk5FocusWords];
 
 export const buildQuizQuestions = (words: VocabWord[] = allWords): QuizQuestion[] => {
   if (!words.length || words === allWords) {

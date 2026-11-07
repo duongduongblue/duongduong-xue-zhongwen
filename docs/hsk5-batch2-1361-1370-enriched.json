@@ -1,0 +1,567 @@
+[
+  {
+    "id": "hsk5_batch2_1361",
+    "level": "HSK5",
+    "hanzi": "魅力",
+    "pinyin": "mèilì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "sức hút",
+    "meaning_en": "a charm that draws people",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "个人魅力 / 独特魅力",
+    "collocations": [
+      "个人魅力",
+      "独特魅力",
+      "魅力十足"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座古城很有魅力。",
+        "pinyin": "Zhè zuò gǔ chéng hěn yǒu mèi lì.",
+        "vi": "Thành cổ này rất có sức hút.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng cho người, nơi chốn hoặc tác phẩm khiến người ta muốn đến gần."
+    ],
+    "app_note_vi": "Dùng cho người, nơi chốn hoặc tác phẩm khiến người ta muốn đến gần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "魅力 nghĩa là gì?",
+        "answer": "sức hút"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座古城很有____。",
+        "answer": "魅力"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1362",
+    "level": "HSK5",
+    "hanzi": "浅",
+    "pinyin": "qiǎn",
+    "topic_id": "abstract",
+    "display_meaning_vi": "nông; nhạt",
+    "meaning_en": "shallow; light",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "浅水 / 颜色浅",
+    "collocations": [
+      "浅水",
+      "颜色浅",
+      "浅显"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "浅 là nông hoặc nhạt; 深 là sâu hoặc đậm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "河水很浅，孩子也能过去。",
+        "pinyin": "Hé shuǐ hěn qiǎn hái zi yě néng guò qù.",
+        "vi": "Nước sông nông, trẻ con cũng qua được.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là nước nông, vừa là màu nhạt hoặc bài dễ hiểu."
+    ],
+    "app_note_vi": "Vừa là nước nông, vừa là màu nhạt hoặc bài dễ hiểu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "浅 nghĩa là gì?",
+        "answer": "nông; nhạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "河水很____，孩子也能过去。",
+        "answer": "浅"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 浅?",
+        "answer": "浅 là nông hoặc nhạt; 深 là sâu hoặc đậm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1363",
+    "level": "HSK5",
+    "hanzi": "弱",
+    "pinyin": "ruò",
+    "topic_id": "abstract",
+    "display_meaning_vi": "yếu",
+    "meaning_en": "weak",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "弱项 / 减弱",
+    "collocations": [
+      "弱项",
+      "减弱",
+      "微弱"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "地下室的信号比较弱。",
+        "pinyin": "Dì xià shì de xìn hào bǐ jiào ruò.",
+        "vi": "Tín hiệu ở tầng hầm khá yếu.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tín hiệu, trà, sức, năng lực đều nói được. Nói về sức người thì nên nhẹ nhàng, không chế giễu."
+    ],
+    "app_note_vi": "Tín hiệu, trà, sức, năng lực đều nói được. Nói về sức người thì nên nhẹ nhàng, không chế giễu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "弱 nghĩa là gì?",
+        "answer": "yếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "地下室的信号比较____。",
+        "answer": "弱"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1364",
+    "level": "HSK5",
+    "hanzi": "神秘",
+    "pinyin": "shénmì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "bí ẩn",
+    "meaning_en": "mysterious",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "神秘感 / 神秘色彩",
+    "collocations": [
+      "神秘感",
+      "神秘色彩",
+      "神秘人物"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "神秘 là bí ẩn, khó hiểu; 秘密 là bí mật được giấu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "森林深处显得很神秘。",
+        "pinyin": "Sēn lín shēn chù xiǎn de hěn shén mì.",
+        "vi": "Chỗ sâu trong rừng trông rất bí ẩn.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhấn mạnh khó đoán, không phải điều giấu kín."
+    ],
+    "app_note_vi": "Nhấn mạnh khó đoán, không phải điều giấu kín.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "神秘 nghĩa là gì?",
+        "answer": "bí ẩn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "森林深处显得很____。",
+        "answer": "神秘"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 神秘?",
+        "answer": "神秘 là bí ẩn, khó hiểu; 秘密 là bí mật được giấu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1365",
+    "level": "HSK5",
+    "hanzi": "生动",
+    "pinyin": "shēngdòng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "sinh động",
+    "meaning_en": "vivid",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生动有趣 / 生动形象",
+    "collocations": [
+      "生动有趣",
+      "生动形象",
+      "讲得生动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "生动 là sinh động; 活泼 thiên về người hoạt bát.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "例子让讲解更加生动。",
+        "pinyin": "Lì zi ràng jiǎng jiě gèng jiā shēng dòng.",
+        "vi": "Ví dụ làm bài giảng sinh động hơn.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hay tả cách kể hoặc cách miêu tả."
+    ],
+    "app_note_vi": "Hay tả cách kể hoặc cách miêu tả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "生动 nghĩa là gì?",
+        "answer": "sinh động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "例子让讲解更加____。",
+        "answer": "生动"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 生动?",
+        "answer": "生动 là sinh động; 活泼 thiên về người hoạt bát."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1366",
+    "level": "HSK5",
+    "hanzi": "实用",
+    "pinyin": "shíyòng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "thiết thực",
+    "meaning_en": "practical and useful",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "实用价值 / 很实用",
+    "collocations": [
+      "实用价值",
+      "很实用",
+      "实用技术"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个袋子又大又实用。",
+        "pinyin": "Zhè ge dài zi yòu dà yòu shí yòng.",
+        "vi": "Cái túi này vừa to vừa dùng tiện.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhấn mạnh dùng được trong việc thật."
+    ],
+    "app_note_vi": "Nhấn mạnh dùng được trong việc thật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "实用 nghĩa là gì?",
+        "answer": "thiết thực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个袋子又大又____。",
+        "answer": "实用"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1367",
+    "level": "HSK5",
+    "hanzi": "丝毫",
+    "pinyin": "sīháo",
+    "topic_id": "abstract",
+    "display_meaning_vi": "mảy may",
+    "meaning_en": "the slightest bit",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "丝毫不 / 丝毫没有",
+    "collocations": [
+      "丝毫不",
+      "丝毫没有",
+      "丝毫不差"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他对结果丝毫不惊讶。",
+        "pinyin": "Tā duì jié guǒ sī háo bù jīng yà.",
+        "vi": "Anh ấy không ngạc nhiên chút nào về kết quả.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hầu như luôn đi với ý phủ định, nghĩa một chút cũng không."
+    ],
+    "app_note_vi": "Hầu như luôn đi với ý phủ định, nghĩa một chút cũng không.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "丝毫 nghĩa là gì?",
+        "answer": "mảy may"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他对结果____不惊讶。",
+        "answer": "丝毫"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1368",
+    "level": "HSK5",
+    "hanzi": "缩小",
+    "pinyin": "suōxiǎo",
+    "topic_id": "abstract",
+    "display_meaning_vi": "thu nhỏ",
+    "meaning_en": "to reduce in size",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "缩小差距 / 缩小范围",
+    "collocations": [
+      "缩小差距",
+      "缩小范围",
+      "缩小比例"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "缩小 là thu nhỏ; 缩短 là rút ngắn thời gian hoặc chiều dài.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这张图片缩小一点。",
+        "pinyin": "Qǐng bǎ zhè zhāng tú piàn suō xiǎo yì diǎn.",
+        "vi": "Xin thu nhỏ bức ảnh này một chút.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm cho nhỏ hơn về cỡ hoặc phạm vi."
+    ],
+    "app_note_vi": "Làm cho nhỏ hơn về cỡ hoặc phạm vi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "缩小 nghĩa là gì?",
+        "answer": "thu nhỏ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这张图片____一点。",
+        "answer": "缩小"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 缩小?",
+        "answer": "缩小 là thu nhỏ; 缩短 là rút ngắn thời gian hoặc chiều dài."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1369",
+    "level": "HSK5",
+    "hanzi": "特征",
+    "pinyin": "tèzhēng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "đặc trưng",
+    "meaning_en": "distinguishing feature",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "主要特征 / 明显特征",
+    "collocations": [
+      "主要特征",
+      "明显特征",
+      "特征明显"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "特征 là dấu hiệu nhận ra; 特点 là điểm nổi bật nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这只猫的特征很好认。",
+        "pinyin": "Zhè zhǐ māo de tè zhēng hěn hǎo rèn.",
+        "vi": "Đặc điểm con mèo này rất dễ nhận.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dấu hiệu giúp phân biệt với cái khác."
+    ],
+    "app_note_vi": "Dấu hiệu giúp phân biệt với cái khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "特征 nghĩa là gì?",
+        "answer": "đặc trưng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这只猫的____很好认。",
+        "answer": "特征"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 特征?",
+        "answer": "特征 là dấu hiệu nhận ra; 特点 là điểm nổi bật nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1370",
+    "level": "HSK5",
+    "hanzi": "体积",
+    "pinyin": "tǐjī",
+    "topic_id": "abstract",
+    "display_meaning_vi": "thể tích",
+    "meaning_en": "volume of an object",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "体积小 / 计算体积",
+    "collocations": [
+      "体积小",
+      "计算体积",
+      "体积庞大"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "冰箱体积太大放不进。",
+        "pinyin": "Bīng xiāng tǐ jī tài dà fàng bú jìn.",
+        "vi": "Tủ lạnh thể tích quá lớn, không đưa vào được.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không gian vật chiếm, khác diện tích mặt bằng."
+    ],
+    "app_note_vi": "Không gian vật chiếm, khác diện tích mặt bằng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "体积 nghĩa là gì?",
+        "answer": "thể tích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "冰箱____太大放不进。",
+        "answer": "体积"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

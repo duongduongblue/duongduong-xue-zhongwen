@@ -1,0 +1,595 @@
+[
+  {
+    "id": "hsk5_batch2_621",
+    "level": "HSK5",
+    "hanzi": "称赞",
+    "pinyin": "chēngzàn",
+    "topic_id": "language",
+    "display_meaning_vi": "khen ngợi",
+    "meaning_en": "to praise",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "受到称赞 / 称赞别人",
+    "collocations": [
+      "称赞别人",
+      "受到称赞",
+      "称赞一声"
+    ],
+    "near_synonyms": [
+      {
+        "word": "夸",
+        "difference_vi": "称赞 trang trọng hơn; 夸 thông dụng trong lời nói."
+      }
+    ],
+    "app_synonym_note_vi": "称赞 = khen, trang trọng; 夸 = khen, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师称赞她发音清楚。",
+        "pinyin": "Lǎoshī chēngzàn tā fāyīn qīngchu.",
+        "vi": "Thầy khen cô ấy phát âm rõ.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "称 đọc chēng. Vừa ý đọc chèn, như 称心. 清楚 đọc qīngchu, âm sau nhẹ. 发 đọc fā."
+    ],
+    "app_note_vi": "Động từ. Trang trọng hơn 夸.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "称赞 nghĩa là gì?",
+        "answer": "khen ngợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____她发音清楚。",
+        "answer": "称赞"
+      },
+      {
+        "type": "synonym",
+        "prompt": "称赞 khác 夸 ở điểm nào?",
+        "answer": "称赞 trang trọng hơn; 夸 thông dụng trong lời nói."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_622",
+    "level": "HSK5",
+    "hanzi": "称呼",
+    "pinyin": "chēnghu",
+    "topic_id": "language",
+    "display_meaning_vi": "xưng hô",
+    "meaning_en": "form of address",
+    "part_of_speech": "noun/verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "怎么称呼 / 称呼别人",
+    "collocations": [
+      "怎么称呼",
+      "称呼别人",
+      "礼貌的称呼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请问怎么称呼您？",
+        "pinyin": "Qǐngwèn zěnme chēnghu nín?",
+        "vi": "Xin hỏi tôi nên gọi ngài thế nào?",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "称呼 đọc chēnghu, âm sau nhẹ. 称 là gọi, đọc chēng. Vừa khít đọc chèn."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. Câu lịch sự khi chưa biết cách gọi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "称呼 nghĩa là gì?",
+        "answer": "xưng hô"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请问怎么____您？",
+        "answer": "称呼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_623",
+    "level": "HSK5",
+    "hanzi": "辩论",
+    "pinyin": "biànlùn",
+    "topic_id": "language",
+    "display_meaning_vi": "tranh luận",
+    "meaning_en": "to debate",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "辩论会 / 一场辩论",
+    "collocations": [
+      "一场辩论",
+      "辩论会",
+      "参加辩论"
+    ],
+    "near_synonyms": [
+      {
+        "word": "吵架",
+        "difference_vi": "辩论 có lý lẽ hai phía; 吵架 là cãi nhau."
+      }
+    ],
+    "app_synonym_note_vi": "辩论 = tranh luận; 吵架 = cãi nhau.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "同学们就这个题目展开辩论。",
+        "pinyin": "Tóngxuémen jiù zhège tímù zhǎnkāi biànlùn.",
+        "vi": "Các bạn tranh luận về đề này.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一场辩论 đọc yì chǎng vì 场 là thanh 3."
+    ],
+    "app_note_vi": "Vừa là động từ vừa là danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "辩论 nghĩa là gì?",
+        "answer": "tranh luận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "同学们就这个题目展开____。",
+        "answer": "辩论"
+      },
+      {
+        "type": "synonym",
+        "prompt": "辩论 khác 吵架 ở điểm nào?",
+        "answer": "辩论 có lý lẽ hai phía; 吵架 là cãi nhau."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_624",
+    "level": "HSK5",
+    "hanzi": "成果",
+    "pinyin": "chéngguǒ",
+    "topic_id": "language",
+    "display_meaning_vi": "thành quả",
+    "meaning_en": "result of effort",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "研究成果 / 成果显著",
+    "collocations": [
+      "研究成果",
+      "分享成果",
+      "成果显著"
+    ],
+    "near_synonyms": [
+      {
+        "word": "成就",
+        "difference_vi": "成果 là kết quả của một việc đã làm; 成就 là thành tựu lớn, thường của cả sự nghiệp."
+      }
+    ],
+    "app_synonym_note_vi": "成果 = thành quả của một việc; 成就 = thành tựu lớn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是大家一年的成果。",
+        "pinyin": "Zhè shì dàjiā yì nián de chéngguǒ.",
+        "vi": "Đây là thành quả một năm của mọi người.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一年 đọc yì nián vì 年 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. 成果显著 là kết quả rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "成果 nghĩa là gì?",
+        "answer": "thành quả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是大家一年的____。",
+        "answer": "成果"
+      },
+      {
+        "type": "synonym",
+        "prompt": "成果 khác 成就 ở điểm nào?",
+        "answer": "成果 là kết quả của một việc đã làm; 成就 là thành tựu lớn, thường của cả sự nghiệp."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_625",
+    "level": "HSK5",
+    "hanzi": "成就",
+    "pinyin": "chéngjiù",
+    "topic_id": "language",
+    "display_meaning_vi": "thành tựu",
+    "meaning_en": "achievement",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "巨大成就 / 很有成就",
+    "collocations": [
+      "巨大成就",
+      "事业成就",
+      "很有成就"
+    ],
+    "near_synonyms": [
+      {
+        "word": "成果",
+        "difference_vi": "成就 lớn và lâu dài hơn; 成果 là kết quả cụ thể của một việc."
+      }
+    ],
+    "app_synonym_note_vi": "成就 = thành tựu; 成果 = thành quả.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她为自己的成就感到自豪。",
+        "pinyin": "Tā wèi zìjǐ de chéngjiù gǎndào zìháo.",
+        "vi": "Cô ấy tự hào về thành tựu của mình.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "为 đọc wèi khi nghĩa là vì. Làm, trở thành đọc wéi."
+    ],
+    "app_note_vi": "Danh từ. 很有成就 là có thành tựu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "成就 nghĩa là gì?",
+        "answer": "thành tựu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她为自己的____感到自豪。",
+        "answer": "成就"
+      },
+      {
+        "type": "synonym",
+        "prompt": "成就 khác 成果 ở điểm nào?",
+        "answer": "成就 lớn và lâu dài hơn; 成果 là kết quả cụ thể của một việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_626",
+    "level": "HSK5",
+    "hanzi": "标志",
+    "pinyin": "biāozhì",
+    "topic_id": "language",
+    "display_meaning_vi": "dấu hiệu",
+    "meaning_en": "sign; symbol",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "交通标志 / 标志性",
+    "collocations": [
+      "交通标志",
+      "标志性",
+      "作为标志"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座桥是城市的标志。",
+        "pinyin": "Zhè zuò qiáo shì chéngshì de biāozhì.",
+        "vi": "Cây cầu này là dấu mốc của thành phố.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "标志 vừa là biển báo, vừa là dấu nhận ra một vật hoặc một giai đoạn."
+    ],
+    "app_note_vi": "Danh từ. 交通标志 là biển báo giao thông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "标志 nghĩa là gì?",
+        "answer": "dấu hiệu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座桥是城市的____。",
+        "answer": "标志"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_627",
+    "level": "HSK5",
+    "hanzi": "干脆",
+    "pinyin": "gāncuì",
+    "topic_id": "language",
+    "display_meaning_vi": "dứt khoát",
+    "meaning_en": "straightforward; might as well",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "干脆利落 / 干脆一点",
+    "collocations": [
+      "干脆利落",
+      "干脆一点",
+      "干脆别去"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "与其修，干脆买个新的。",
+        "pinyin": "Yǔqí xiū, gāncuì mǎi gè xīn de.",
+        "vi": "Thay vì sửa, chi bằng mua cái mới.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "干 trong 干脆 đọc gān, nghĩa khô, dứt. Làm việc đọc gàn, như 干活儿. 一点 đọc yìdiǎn."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. Vừa là dứt khoát, vừa là chi bằng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "干脆 nghĩa là gì?",
+        "answer": "dứt khoát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "与其修，____买个新的。",
+        "answer": "干脆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_628",
+    "level": "HSK5",
+    "hanzi": "不见得",
+    "pinyin": "bújiànde",
+    "topic_id": "language",
+    "display_meaning_vi": "chưa chắc",
+    "meaning_en": "not necessarily",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不见得对 / 并不见得",
+    "collocations": [
+      "不见得对",
+      "不见得会",
+      "并不见得"
+    ],
+    "near_synonyms": [
+      {
+        "word": "不一定",
+        "difference_vi": "不见得 phủ nhận một điều người khác tưởng là chắc; 不一定 là không nhất định, rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "不见得 = chưa chắc đúng như vậy; 不一定 = không nhất định.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "贵的东西不见得更好。",
+        "pinyin": "Guì de dōngxi bújiànde gèng hǎo.",
+        "vi": "Đồ đắt chưa chắc đã tốt hơn.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不见得 đọc bújiànde. 不 đứng trước 见 thanh 4 nên đọc bú. 得 đọc nhẹ de. 东西 đọc dōngxi, âm sau nhẹ."
+    ],
+    "app_note_vi": "Phó từ. Phủ nhận một kết luận tưởng như chắc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不见得 nghĩa là gì?",
+        "answer": "chưa chắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "贵的东西____更好。",
+        "answer": "不见得"
+      },
+      {
+        "type": "synonym",
+        "prompt": "不见得 khác 不一定 ở điểm nào?",
+        "answer": "不见得 phủ nhận một điều người khác tưởng là chắc; 不一定 là không nhất định, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_629",
+    "level": "HSK5",
+    "hanzi": "怪不得",
+    "pinyin": "guàibude",
+    "topic_id": "language",
+    "display_meaning_vi": "thảo nào",
+    "meaning_en": "no wonder",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "怪不得呢 / 怪不得他",
+    "collocations": [
+      "怪不得呢",
+      "也怪不得",
+      "怪不得他"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "原来停电了，怪不得这么黑。",
+        "pinyin": "Yuánlái tíngdiàn le, guàibude zhème hēi.",
+        "vi": "Hóa ra mất điện, thảo nào tối thế.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 đọc nhẹ de. 不 ở đây đứng trước thanh nhẹ, vẫn đọc bù. Biết nguyên nhân rồi mới dùng 怪不得."
+    ],
+    "app_note_vi": "Liên từ khẩu ngữ. Đứng sau câu nói nguyên nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "怪不得 nghĩa là gì?",
+        "answer": "thảo nào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "原来停电了，____这么黑。",
+        "answer": "怪不得"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_630",
+    "level": "HSK5",
+    "hanzi": "胡说",
+    "pinyin": "húshuō",
+    "topic_id": "language",
+    "display_meaning_vi": "nói bừa",
+    "meaning_en": "to talk nonsense",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "胡说八道 / 胡说什么",
+    "collocations": [
+      "胡说八道",
+      "胡说什么",
+      "胡说一通"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "没有根据的话别胡说。",
+        "pinyin": "Méi yǒu gēnjù de huà bié húshuō.",
+        "vi": "Lời không có căn cứ thì đừng nói bừa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "胡说 hơi nặng. Nói đùa nhẹ hơn là 开玩笑."
+    ],
+    "app_note_vi": "Động từ. 胡说八道 là nói linh tinh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胡说 nghĩa là gì?",
+        "answer": "nói bừa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "没有根据的话别____。",
+        "answer": "胡说"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

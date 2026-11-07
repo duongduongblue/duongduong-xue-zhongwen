@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_1001",
+    "level": "HSK5",
+    "hanzi": "内科",
+    "pinyin": "nèikē",
+    "topic_id": "health",
+    "display_meaning_vi": "khoa nội",
+    "meaning_en": "internal medicine",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "看内科 / 内科医生",
+    "collocations": [
+      "看内科",
+      "内科医生",
+      "内科门诊"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他去内科看病。",
+        "pinyin": "Tā qù nèikē kàn bìng.",
+        "vi": "Anh ấy đi khám khoa nội.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. 内科 khám bệnh bên trong cơ thể. Khoa ngoại nói 外科."
+    ],
+    "app_note_vi": "Danh từ. 内科医生 là bác sĩ nội khoa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "内科 nghĩa là gì?",
+        "answer": "khoa nội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他去____看病。",
+        "answer": "内科"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1002",
+    "level": "HSK5",
+    "hanzi": "残疾",
+    "pinyin": "cánjí",
+    "topic_id": "health",
+    "display_meaning_vi": "khuyết tật",
+    "meaning_en": "disability",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "残疾人 / 身体残疾",
+    "collocations": [
+      "残疾人",
+      "身体残疾",
+      "残疾证"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校为残疾人修了坡道。",
+        "pinyin": "Xuéxiào wèi cánjírén xiū le pōdào.",
+        "vi": "Trường làm đường dốc cho người khuyết tật.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "为 đọc wèi. Nói tôn trọng, ngắn gọn. 残疾人 là người khuyết tật."
+    ],
+    "app_note_vi": "Danh từ. Chỉ tình trạng cơ thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "残疾 nghĩa là gì?",
+        "answer": "khuyết tật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校为____人修了坡道。",
+        "answer": "残疾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1003",
+    "level": "HSK5",
+    "hanzi": "眉毛",
+    "pinyin": "méimao",
+    "topic_id": "health",
+    "display_meaning_vi": "lông mày",
+    "meaning_en": "eyebrow",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "两条眉毛 / 眉毛浓",
+    "collocations": [
+      "两条眉毛",
+      "眉毛浓",
+      "皱眉毛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她的眉毛很浓。",
+        "pinyin": "Tā de méimao hěn nóng.",
+        "vi": "Lông mày cô ấy rất đậm.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "浓 đọc nóng, thanh 2, là đậm. Không đọc thanh 4. 毛 đọc máo."
+    ],
+    "app_note_vi": "Danh từ. Lông phía trên mắt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "眉毛 nghĩa là gì?",
+        "answer": "lông mày"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她的____很浓。",
+        "answer": "眉毛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1004",
+    "level": "HSK5",
+    "hanzi": "胡须",
+    "pinyin": "húxū",
+    "topic_id": "health",
+    "display_meaning_vi": "râu",
+    "meaning_en": "beard",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "留胡须 / 一把胡须",
+    "collocations": [
+      "留胡须",
+      "一把胡须",
+      "刮胡须"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爷爷留着胡须。",
+        "pinyin": "Yéye liú zhe húxū.",
+        "vi": "Ông để râu.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc nhẹ zhe. 胡须 là râu trên mặt. Tóc nói 头发, 发 đọc fà."
+    ],
+    "app_note_vi": "Danh từ. 刮胡须 là cạo râu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胡须 nghĩa là gì?",
+        "answer": "râu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爷爷留着____。",
+        "answer": "胡须"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1005",
+    "level": "HSK5",
+    "hanzi": "苗条",
+    "pinyin": "miáotiao",
+    "topic_id": "health",
+    "display_meaning_vi": "thon",
+    "meaning_en": "slim",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "身材苗条 / 很苗条",
+    "collocations": [
+      "身材苗条",
+      "很苗条",
+      "苗条的身材"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她身材很苗条。",
+        "pinyin": "Tā shēncái hěn miáotiao.",
+        "vi": "Cô ấy có dáng rất thon.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "条 đọc nhẹ tiao: miáotiao. 苗条 khen dáng người, nói cho lịch sự."
+    ],
+    "app_note_vi": "Tính từ. Hay đi với 身材.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "苗条 nghĩa là gì?",
+        "answer": "thon"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她身材很____。",
+        "answer": "苗条"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1006",
+    "level": "HSK5",
+    "hanzi": "戒烟",
+    "pinyin": "jièyān",
+    "topic_id": "health",
+    "display_meaning_vi": "cai thuốc",
+    "meaning_en": "to quit smoking",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "决心戒烟 / 戒烟成功",
+    "collocations": [
+      "决心戒烟",
+      "戒烟成功",
+      "劝他戒烟"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他决心戒烟。",
+        "pinyin": "Tā juéxīn jièyān.",
+        "vi": "Anh ấy quyết tâm cai thuốc.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "戒烟 là bỏ thuốc lá. Chữ 决 không phải 觉."
+    ],
+    "app_note_vi": "Động từ. 戒烟成功 là cai được.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "戒烟 nghĩa là gì?",
+        "answer": "cai thuốc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他决心____。",
+        "answer": "戒烟"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1007",
+    "level": "HSK5",
+    "hanzi": "嫩",
+    "pinyin": "nèn",
+    "topic_id": "daily",
+    "display_meaning_vi": "non",
+    "meaning_en": "tender; young",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很嫩 / 嫩绿",
+    "collocations": [
+      "很嫩",
+      "嫩绿",
+      "肉很嫩"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这盘青菜很嫩。",
+        "pinyin": "Zhè pán qīngcài hěn nèn.",
+        "vi": "Đĩa rau này rất non.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "嫩 là non, mềm. Già, dai nói 老."
+    ],
+    "app_note_vi": "Tính từ. Nói rau hoặc thịt vừa tới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "嫩 nghĩa là gì?",
+        "answer": "non"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这盘青菜很____。",
+        "answer": "嫩"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1008",
+    "level": "HSK5",
+    "hanzi": "皮鞋",
+    "pinyin": "píxié",
+    "topic_id": "daily",
+    "display_meaning_vi": "giày da",
+    "meaning_en": "leather shoes",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一双皮鞋 / 擦皮鞋",
+    "collocations": [
+      "一双皮鞋",
+      "擦皮鞋",
+      "黑皮鞋"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他穿了一双皮鞋。",
+        "pinyin": "Tā chuān le yì shuāng píxié.",
+        "vi": "Anh ấy đi một đôi giày da.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一双 đọc yì shuāng vì 双 là thanh 1. 皮鞋 là giày bằng da."
+    ],
+    "app_note_vi": "Danh từ. 擦皮鞋 là đánh giày.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "皮鞋 nghĩa là gì?",
+        "answer": "giày da"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他穿了一双____。",
+        "answer": "皮鞋"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1009",
+    "level": "HSK5",
+    "hanzi": "牛仔裤",
+    "pinyin": "niúzǎikù",
+    "topic_id": "daily",
+    "display_meaning_vi": "quần bò",
+    "meaning_en": "jeans",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一条牛仔裤 / 穿牛仔裤",
+    "collocations": [
+      "一条牛仔裤",
+      "穿牛仔裤",
+      "蓝色牛仔裤"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他穿着一条牛仔裤。",
+        "pinyin": "Tā chuān zhe yì tiáo niúzǎikù.",
+        "vi": "Anh ấy mặc một chiếc quần bò.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "仔 đọc zǎi, không đọc zǐ. 一条 đọc yì tiáo vì 条 là thanh 2. 着 đọc nhẹ zhe."
+    ],
+    "app_note_vi": "Danh từ. Quần vải bò.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "牛仔裤 nghĩa là gì?",
+        "answer": "quần bò"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他穿着一条____。",
+        "answer": "牛仔裤"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1010",
+    "level": "HSK5",
+    "hanzi": "棉花",
+    "pinyin": "miánhua",
+    "topic_id": "daily",
+    "display_meaning_vi": "bông",
+    "meaning_en": "cotton",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一团棉花 / 棉花田",
+    "collocations": [
+      "一团棉花",
+      "棉花田",
+      "棉花软"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件衣服是棉花做的。",
+        "pinyin": "Zhè jiàn yīfu shì miánhua zuò de.",
+        "vi": "Áo này làm bằng bông.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "花 đọc nhẹ hua: miánhua. 棉花 mềm, dùng làm áo và chăn."
+    ],
+    "app_note_vi": "Danh từ. Sợi từ cây bông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "棉花 nghĩa là gì?",
+        "answer": "bông"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件衣服是____做的。",
+        "answer": "棉花"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

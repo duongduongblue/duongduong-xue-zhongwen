@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_1341",
+    "level": "HSK5",
+    "hanzi": "近代",
+    "pinyin": "jìndài",
+    "topic_id": "society",
+    "display_meaning_vi": "cận đại",
+    "meaning_en": "the early modern period",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "近代史 / 近代文学",
+    "collocations": [
+      "近代史",
+      "近代文学",
+      "中国近代"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "近代 là cận đại; 现代 là hiện đại, gần hôm nay hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们对近代历史很感兴趣。",
+        "pinyin": "Wǒ men duì jìn dài lì shǐ hěn gǎn xìng qù.",
+        "vi": "Chúng tôi rất thích lịch sử cận đại.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Giai đoạn lịch sử sát thời hiện đại, sau thời cổ."
+    ],
+    "app_note_vi": "Giai đoạn lịch sử sát thời hiện đại, sau thời cổ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "近代 nghĩa là gì?",
+        "answer": "cận đại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们对____历史很感兴趣。",
+        "answer": "近代"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 近代?",
+        "answer": "近代 là cận đại; 现代 là hiện đại, gần hôm nay hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1342",
+    "level": "HSK5",
+    "hanzi": "恐怖",
+    "pinyin": "kǒngbù",
+    "topic_id": "society",
+    "display_meaning_vi": "kinh dị",
+    "meaning_en": "horror, or terror in the news",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "恐怖故事 / 恐怖气氛",
+    "collocations": [
+      "恐怖故事",
+      "恐怖气氛",
+      "感到恐怖"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这部恐怖片我不敢看。",
+        "pinyin": "Zhè bù kǒng bù piàn wǒ bù gǎn kàn.",
+        "vi": "Bộ phim kinh dị này tôi không dám xem.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "恐怖片 là phim kinh dị. Trên báo, 恐怖袭击 là vụ khủng bố."
+    ],
+    "app_note_vi": "恐怖片 là phim kinh dị. Trên báo, 恐怖袭击 là vụ khủng bố.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "恐怖 nghĩa là gì?",
+        "answer": "kinh dị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这部____片我不敢看。",
+        "answer": "恐怖"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1343",
+    "level": "HSK5",
+    "hanzi": "情景",
+    "pinyin": "qíngjǐng",
+    "topic_id": "society",
+    "display_meaning_vi": "cảnh, tình huống",
+    "meaning_en": "the scene before you",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "情景对话 / 感人情景",
+    "collocations": [
+      "情景对话",
+      "感人情景",
+      "情景喜剧"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "情景 là cảnh bên ngoài; 情绪 là tâm trạng bên trong.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "书里的情景让人难忘。",
+        "pinyin": "Shū lǐ de qíng jǐng ràng rén nán wàng.",
+        "vi": "Cảnh trong sách khiến người ta khó quên.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khung cảnh và việc đang diễn ra trước mắt."
+    ],
+    "app_note_vi": "Khung cảnh và việc đang diễn ra trước mắt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "情景 nghĩa là gì?",
+        "answer": "cảnh, tình huống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "书里的____让人难忘。",
+        "answer": "情景"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 情景?",
+        "answer": "情景 là cảnh bên ngoài; 情绪 là tâm trạng bên trong."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1344",
+    "level": "HSK5",
+    "hanzi": "球迷",
+    "pinyin": "qiúmí",
+    "topic_id": "society",
+    "display_meaning_vi": "fan bóng",
+    "meaning_en": "someone devoted to a ball game",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "球迷协会 / 忠实球迷",
+    "collocations": [
+      "球迷协会",
+      "忠实球迷",
+      "篮球球迷"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我爸爸是个老球迷。",
+        "pinyin": "Wǒ bà bà shì gè lǎo qiú mí.",
+        "vi": "Bố tôi là người hâm mộ bóng đã lâu.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người mê một môn dùng bóng, hay nhất là bóng đá."
+    ],
+    "app_note_vi": "Người mê một môn dùng bóng, hay nhất là bóng đá.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "球迷 nghĩa là gì?",
+        "answer": "fan bóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我爸爸是个老____。",
+        "answer": "球迷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1345",
+    "level": "HSK5",
+    "hanzi": "神话",
+    "pinyin": "shénhuà",
+    "topic_id": "society",
+    "display_meaning_vi": "thần thoại",
+    "meaning_en": "myth",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "神话故事 / 古代神话",
+    "collocations": [
+      "神话故事",
+      "古代神话",
+      "神话传说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "很多节日来自古老神话。",
+        "pinyin": "Hěn duō jié rì lái zì gǔ lǎo shén huà.",
+        "vi": "Nhiều lễ hội bắt nguồn từ thần thoại xưa.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ truyện về thần linh. Đôi khi ví điều khó tin."
+    ],
+    "app_note_vi": "Chỉ truyện về thần linh. Đôi khi ví điều khó tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "神话 nghĩa là gì?",
+        "answer": "thần thoại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "很多节日来自古老____。",
+        "answer": "神话"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1346",
+    "level": "HSK5",
+    "hanzi": "手工",
+    "pinyin": "shǒugōng",
+    "topic_id": "society",
+    "display_meaning_vi": "thủ công",
+    "meaning_en": "handmade",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "手工制作 / 手工艺",
+    "collocations": [
+      "手工制作",
+      "手工艺",
+      "纯手工"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个包是纯手工做的。",
+        "pinyin": "Zhè ge bāo shì chún shǒu gōng zuò de.",
+        "vi": "Cái túi này làm hoàn toàn bằng tay.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là đồ làm tay, vừa là môn thủ công."
+    ],
+    "app_note_vi": "Vừa là đồ làm tay, vừa là môn thủ công.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "手工 nghĩa là gì?",
+        "answer": "thủ công"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个包是纯____做的。",
+        "answer": "手工"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1347",
+    "level": "HSK5",
+    "hanzi": "塔",
+    "pinyin": "tǎ",
+    "topic_id": "society",
+    "display_meaning_vi": "tháp",
+    "meaning_en": "tower",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电视塔 / 宝塔",
+    "collocations": [
+      "电视塔",
+      "宝塔",
+      "一座塔"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "河边立着一座古塔。",
+        "pinyin": "Hé biān lì zhe yí zuò gǔ tǎ.",
+        "vi": "Bên sông có một ngọn tháp cổ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Công trình cao dạng tháp."
+    ],
+    "app_note_vi": "Công trình cao dạng tháp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "塔 nghĩa là gì?",
+        "answer": "tháp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "河边立着一座古____。",
+        "answer": "塔"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1348",
+    "level": "HSK5",
+    "hanzi": "王子",
+    "pinyin": "wángzǐ",
+    "topic_id": "society",
+    "display_meaning_vi": "hoàng tử",
+    "meaning_en": "prince",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "小王子 / 王子公主",
+    "collocations": [
+      "小王子",
+      "王子公主",
+      "王子身份"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "童话里的王子很善良。",
+        "pinyin": "Tóng huà lǐ de wáng zǐ hěn shàn liáng.",
+        "vi": "Hoàng tử trong cổ tích rất lương thiện.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Con trai vua, hay gặp trong truyện."
+    ],
+    "app_note_vi": "Con trai vua, hay gặp trong truyện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "王子 nghĩa là gì?",
+        "answer": "hoàng tử"
+      },
+      {
+        "type": "cloze",
+        "prompt": "童话里的____很善良。",
+        "answer": "王子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1349",
+    "level": "HSK5",
+    "hanzi": "文学",
+    "pinyin": "wénxué",
+    "topic_id": "society",
+    "display_meaning_vi": "văn học",
+    "meaning_en": "literature",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "文学作品 / 古典文学",
+    "collocations": [
+      "文学作品",
+      "古典文学",
+      "文学史"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她立志研究古典文学。",
+        "pinyin": "Tā lì zhì yán jiū gǔ diǎn wén xué.",
+        "vi": "Cô ấy quyết chí nghiên cứu văn học cổ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ngành hoặc tác phẩm văn chương, không phải chữ viết."
+    ],
+    "app_note_vi": "Ngành hoặc tác phẩm văn chương, không phải chữ viết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "文学 nghĩa là gì?",
+        "answer": "văn học"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她立志研究古典____。",
+        "answer": "文学"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1350",
+    "level": "HSK5",
+    "hanzi": "武术",
+    "pinyin": "wǔshù",
+    "topic_id": "society",
+    "display_meaning_vi": "võ thuật",
+    "meaning_en": "martial arts",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "中国武术 / 武术馆",
+    "collocations": [
+      "中国武术",
+      "武术馆",
+      "练武术"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校这个学期开了武术课。",
+        "pinyin": "Xué xiào zhè ge xué qī kāi le wǔ shù kè.",
+        "vi": "Học kỳ này trường mở lớp võ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Từ chung cho các môn võ."
+    ],
+    "app_note_vi": "Từ chung cho các môn võ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "武术 nghĩa là gì?",
+        "answer": "võ thuật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校这个学期开了____课。",
+        "answer": "武术"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
