@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hsk5_batch2_881",
+    "level": "HSK5",
+    "hanzi": "妇女",
+    "pinyin": "fùnǚ",
+    "display_meaning_vi": "phụ nữ",
+    "meaning_en": "woman",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "妇女节 / 妇女儿童",
+    "collocations": [
+      "妇女节",
+      "妇女儿童",
+      "保护妇女"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妇女节是三月八日。",
+        "pinyin": "Fùnǚjié shì sān yuè bā rì.",
+        "vi": "Ngày Phụ nữ là 8 tháng 3.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "女 chỉ đọc nǚ, dấu thanh 3 nằm trên ü, không có e theo sau. Không viết nüè."
+    ],
+    "app_note_vi": "Danh từ trang trọng. Chỉ phụ nữ đã trưởng thành.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "妇女 nghĩa là gì?",
+        "answer": "phụ nữ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____节是三月八日。",
+        "answer": "妇女"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_882",
+    "level": "HSK5",
+    "hanzi": "公主",
+    "pinyin": "gōngzhǔ",
+    "display_meaning_vi": "công chúa",
+    "meaning_en": "princess",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一位公主 / 小公主",
+    "collocations": [
+      "一位公主",
+      "小公主",
+      "公主裙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "故事里有一位公主。",
+        "pinyin": "Gùshi lǐ yǒu yí wèi gōngzhǔ.",
+        "vi": "Trong chuyện có một công chúa.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一位 đọc yí wèi vì 位 là thanh 4. 故事 đọc gùshi, âm sau nhẹ."
+    ],
+    "app_note_vi": "Danh từ. Con gái vua trong truyện hoặc lịch sử.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "公主 nghĩa là gì?",
+        "answer": "công chúa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "故事里有一位____。",
+        "answer": "公主"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_883",
+    "level": "HSK5",
+    "hanzi": "皇帝",
+    "pinyin": "huángdì",
+    "display_meaning_vi": "hoàng đế",
+    "meaning_en": "emperor",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "古代皇帝 / 当皇帝",
+    "collocations": [
+      "古代皇帝",
+      "当皇帝",
+      "皇帝的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "故宫以前是皇帝住的地方。",
+        "pinyin": "Gùgōng yǐqián shì huángdì zhù de dìfang.",
+        "vi": "Tử Cấm Thành xưa là chỗ ở của hoàng đế.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地方 đọc dìfang, âm sau nhẹ. 地 ở đây đọc dì, là đất, không phải trợ từ de."
+    ],
+    "app_note_vi": "Danh từ. Vua của một triều đại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "皇帝 nghĩa là gì?",
+        "answer": "hoàng đế"
+      },
+      {
+        "type": "cloze",
+        "prompt": "故宫以前是____住的地方。",
+        "answer": "皇帝"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_884",
+    "level": "HSK5",
+    "hanzi": "皇后",
+    "pinyin": "huánghòu",
+    "display_meaning_vi": "hoàng hậu",
+    "meaning_en": "empress",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当皇后 / 皇后的",
+    "collocations": [
+      "当皇后",
+      "皇后的",
+      "古代皇后"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "皇后住在宫里。",
+        "pinyin": "Huánghòu zhù zài gōng lǐ.",
+        "vi": "Hoàng hậu ở trong cung.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "皇后 là vợ vua. Công chúa là 公主."
+    ],
+    "app_note_vi": "Danh từ. Vợ của hoàng đế.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "皇后 nghĩa là gì?",
+        "answer": "hoàng hậu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____住在宫里。",
+        "answer": "皇后"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_885",
+    "level": "HSK5",
+    "hanzi": "功夫",
+    "pinyin": "gōngfu",
+    "display_meaning_vi": "công phu",
+    "meaning_en": "kung fu; skill; effort",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "练功夫 / 功夫深",
+    "collocations": [
+      "练功夫",
+      "功夫深",
+      "十年功夫"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他练了十年功夫。",
+        "pinyin": "Tā liàn le shí nián gōngfu.",
+        "vi": "Anh ấy luyện công phu mười năm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "夫 đọc nhẹ fu. 工夫 cùng đọc gōngfu, nghiêng về thời gian và công sức bỏ ra."
+    ],
+    "app_note_vi": "Danh từ. Võ hoặc tài phải luyện lâu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "功夫 nghĩa là gì?",
+        "answer": "công phu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他练了十年____。",
+        "answer": "功夫"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_886",
+    "level": "HSK5",
+    "hanzi": "鸽子",
+    "pinyin": "gēzi",
+    "display_meaning_vi": "bồ câu",
+    "meaning_en": "pigeon",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一只鸽子 / 喂鸽子",
+    "collocations": [
+      "一只鸽子",
+      "广场鸽子",
+      "喂鸽子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "广场上有很多鸽子。",
+        "pinyin": "Guǎngchǎng shang yǒu hěn duō gēzi.",
+        "vi": "Trên quảng trường có rất nhiều bồ câu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi. 上 đọc nhẹ shang. 一只 đọc yì zhī vì 只 lượng từ đọc zhī, thanh 1."
+    ],
+    "app_note_vi": "Danh từ. Chim thường thấy ở quảng trường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鸽子 nghĩa là gì?",
+        "answer": "bồ câu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "广场上有很多____。",
+        "answer": "鸽子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_887",
+    "level": "HSK5",
+    "hanzi": "馒头",
+    "pinyin": "mántou",
+    "display_meaning_vi": "bánh màn thầu",
+    "meaning_en": "steamed bun",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吃馒头 / 白馒头",
+    "collocations": [
+      "吃馒头",
+      "两个馒头",
+      "白馒头"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早饭我吃了两个馒头。",
+        "pinyin": "Zǎofàn wǒ chī le liǎng gè mántou.",
+        "vi": "Sáng tôi ăn hai cái bánh màn thầu.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "头 đọc nhẹ tou. 两个 dùng 两, không dùng 二. Bánh không có nhân, khác 包子."
+    ],
+    "app_note_vi": "Danh từ. Bánh hấp không nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "馒头 nghĩa là gì?",
+        "answer": "bánh màn thầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早饭我吃了两个____。",
+        "answer": "馒头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_888",
+    "level": "HSK5",
+    "hanzi": "粮食",
+    "pinyin": "liángshi",
+    "display_meaning_vi": "lương thực",
+    "meaning_en": "grain; food staple",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "爱惜粮食 / 节约粮食",
+    "collocations": [
+      "爱惜粮食",
+      "粮食产量",
+      "节约粮食"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要爱惜粮食。",
+        "pinyin": "Wǒmen yào àixī liángshi.",
+        "vi": "Chúng ta phải quý lương thực.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "食 đọc nhẹ shi. 粮食 là gạo, lúa và thức ăn chính, không phải mọi món."
+    ],
+    "app_note_vi": "Danh từ. Thức ăn gốc từ cây lương thực.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "粮食 nghĩa là gì?",
+        "answer": "lương thực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要爱惜____。",
+        "answer": "粮食"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_889",
+    "level": "HSK5",
+    "hanzi": "鲜艳",
+    "pinyin": "xiānyàn",
+    "display_meaning_vi": "rực rỡ",
+    "meaning_en": "bright-colored",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "鲜艳的颜色 / 很鲜艳",
+    "collocations": [
+      "鲜艳的颜色",
+      "很鲜艳",
+      "鲜艳的花"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她穿着鲜艳的裙子。",
+        "pinyin": "Tā chuān zhe xiānyàn de qúnzi.",
+        "vi": "Cô ấy mặc chiếc váy màu rực.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "鲜 đọc xiān, là tươi, rực. Nghĩa hiếm đọc xiǎn. 着 đọc nhẹ zhe. 子 đọc nhẹ zi."
+    ],
+    "app_note_vi": "Tính từ. Màu sáng và nổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鲜艳 nghĩa là gì?",
+        "answer": "rực rỡ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她穿着____的裙子。",
+        "answer": "鲜艳"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_890",
+    "level": "HSK5",
+    "hanzi": "老鼠",
+    "pinyin": "lǎoshǔ",
+    "display_meaning_vi": "chuột",
+    "meaning_en": "mouse; rat",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "一只老鼠 / 捉老鼠",
+    "collocations": [
+      "一只老鼠",
+      "捉老鼠",
+      "小老鼠"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "厨房里有老鼠。",
+        "pinyin": "Chúfáng lǐ yǒu lǎoshǔ.",
+        "vi": "Trong bếp có chuột.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "老鼠 là cách nói miệng. Chuột máy tính nói 鼠标."
+    ],
+    "app_note_vi": "Danh từ. Con chuột.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "老鼠 nghĩa là gì?",
+        "answer": "chuột"
+      },
+      {
+        "type": "cloze",
+        "prompt": "厨房里有____。",
+        "answer": "老鼠"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

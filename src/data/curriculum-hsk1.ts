@@ -92,6 +92,12 @@ export const modules: Module[] = [
   { id: 'hsk5-module-77', levelId: 'HSK5', title: '青少年与家庭', subtitle: 'Youth & Family', order: 77 },
   { id: 'hsk5-module-78', levelId: 'HSK5', title: '天空与食物', subtitle: 'Sky & Food', order: 78 },
   { id: 'hsk5-module-79', levelId: 'HSK5', title: '下载与纪律', subtitle: 'Downloads & Discipline', order: 79 },
+  { id: 'hsk5-module-80', levelId: 'HSK5', title: '密切与判断', subtitle: 'Closeness & Judgment', order: 80 },
+  { id: 'hsk5-module-81', levelId: 'HSK5', title: '模仿与传统', subtitle: 'Imitation & Tradition', order: 81 },
+  { id: 'hsk5-module-82', levelId: 'HSK5', title: '延长与变化', subtitle: 'Extension & Change', order: 82 },
+  { id: 'hsk5-module-83', levelId: 'HSK5', title: '招待与规矩', subtitle: 'Hosting & Manners', order: 83 },
+  { id: 'hsk5-module-84', levelId: 'HSK5', title: '妇女与日常', subtitle: 'Women & Daily Life', order: 84 },
+  { id: 'hsk5-module-85', levelId: 'HSK5', title: '录音与联系', subtitle: 'Recording & Contact', order: 85 },
 ];
 
 export const hsk1LessonDefs = [

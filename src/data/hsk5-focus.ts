@@ -83,6 +83,12 @@ import enriched801To810 from '../../docs/hsk5-batch2-801-810-enriched.json';
 import enriched811To820 from '../../docs/hsk5-batch2-811-820-enriched.json';
 import enriched821To830 from '../../docs/hsk5-batch2-821-830-enriched.json';
 import enriched831To840 from '../../docs/hsk5-batch2-831-840-enriched.json';
+import enriched841To850 from '../../docs/hsk5-batch2-841-850-enriched.json';
+import enriched851To860 from '../../docs/hsk5-batch2-851-860-enriched.json';
+import enriched861To870 from '../../docs/hsk5-batch2-861-870-enriched.json';
+import enriched871To880 from '../../docs/hsk5-batch2-871-880-enriched.json';
+import enriched881To890 from '../../docs/hsk5-batch2-881-890-enriched.json';
+import enriched891To900 from '../../docs/hsk5-batch2-891-900-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -193,6 +199,12 @@ const sourceWords = [
   ...(enriched811To820 as EnrichedWord[]),
   ...(enriched821To830 as EnrichedWord[]),
   ...(enriched831To840 as EnrichedWord[]),
+  ...(enriched841To850 as EnrichedWord[]),
+  ...(enriched851To860 as EnrichedWord[]),
+  ...(enriched861To870 as EnrichedWord[]),
+  ...(enriched871To880 as EnrichedWord[]),
+  ...(enriched881To890 as EnrichedWord[]),
+  ...(enriched891To900 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -783,6 +795,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '84 · 下载',
     topic: '下载与纪律 / Tải xuống và kỷ luật',
     color: '#2E7D32',
+  },
+  {
+    id: 'HSK5-F1-L85',
+    moduleId: 'hsk5-module-80',
+    title: '85 · 密切',
+    topic: '密切与判断 / Mật thiết và nhận định',
+    color: '#00695C',
+  },
+  {
+    id: 'HSK5-F1-L86',
+    moduleId: 'hsk5-module-81',
+    title: '86 · 模仿',
+    topic: '模仿与传统 / Bắt chước và truyền thống',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK5-F1-L87',
+    moduleId: 'hsk5-module-82',
+    title: '87 · 延长',
+    topic: '延长与变化 / Kéo dài và thay đổi',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK5-F1-L88',
+    moduleId: 'hsk5-module-83',
+    title: '88 · 招待',
+    topic: '招待与规矩 / Tiếp đãi và phép tắc',
+    color: '#6A1B9A',
+  },
+  {
+    id: 'HSK5-F1-L89',
+    moduleId: 'hsk5-module-84',
+    title: '89 · 妇女',
+    topic: '妇女与日常 / Phụ nữ và đời thường',
+    color: '#EF6C00',
+  },
+  {
+    id: 'HSK5-F1-L90',
+    moduleId: 'hsk5-module-85',
+    title: '90 · 录音',
+    topic: '录音与联系 / Ghi âm và liên lạc',
+    color: '#37474F',
   },
 ];
 
