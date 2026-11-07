@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import {
   Pressable,
   SafeAreaView,
@@ -12,7 +12,9 @@ import {
 
 import { allWords, buildQuizQuestions, lessons, levels, modules } from './data/hsk1';
 import { seedProgress } from './data/app-seed';
+import { HSK5_TOPICS, topicById } from './data/hsk5-topics';
 import { mapMockProgressToPersistedProgress } from './lib/seed-loader';
+import { canSpeakChinese, speakChinese } from './lib/speak-zh';
 import { clearProgress, loadProgress, saveProgress } from './storage/progress';
 import type { QuizQuestion, TabKey, VocabWord } from './types';
 
@@ -113,6 +115,33 @@ function SectionCard({ children }: { children: React.ReactNode }) {
   return <View style={styles.sectionCard}>{children}</View>;
 }
 
+function SpeakButton({ text, label }: { text: string; label: string }) {
+  const supported = canSpeakChinese();
+  const hint = supported ? 'Phát âm tiếng Trung' : 'Trình duyệt không hỗ trợ phát âm';
+  const ref = useRef<View>(null);
+  useEffect(() => {
+    const node = ref.current as unknown as HTMLElement | null;
+    if (node && typeof node.setAttribute === 'function') {
+      node.setAttribute('title', hint);
+    }
+  }, [hint]);
+  return (
+    <Pressable
+      ref={ref}
+      accessibilityLabel={hint}
+      accessibilityState={{ disabled: !supported }}
+      disabled={!supported}
+      onPress={(event) => {
+        event.stopPropagation();
+        if (supported) speakChinese(text);
+      }}
+      style={[styles.speakButton, !supported && styles.speakButtonDisabled]}
+    >
+      <Text style={styles.speakButtonText}>{label}</Text>
+    </Pressable>
+  );
+}
+
 export default function ChineseLearningApp() {
   const [activeTab, setActiveTab] = useState<TabKey>('home');
   const [selectedLessonId, setSelectedLessonId] = useState(lessons[0].id);
@@ -131,6 +160,7 @@ export default function ChineseLearningApp() {
   const [totalQuizAnsweredCount, setTotalQuizAnsweredCount] = useState(0);
   const [totalCompletedQuestionIds, setTotalCompletedQuestionIds] = useState<string[]>([]);
   const [wordQuery, setWordQuery] = useState('');
+  const [topicFilter, setTopicFilter] = useState('all');
   const [studyDates, setStudyDates] = useState<string[]>([]);
   const [startedAt, setStartedAt] = useState<string | undefined>(undefined);
   const [lastStudyAt, setLastStudyAt] = useState<string | undefined>(undefined);
@@ -142,9 +172,14 @@ export default function ChineseLearningApp() {
   const selectedLesson = lessons.find((lesson) => lesson.id === selectedLessonId) ?? lessons[0];
   const currentModule = modules.find((module) => module.id === selectedLesson.moduleId) ?? modules[0];
   const activeLevel = levels.find((level) => level.id === selectedLesson.levelId) ?? levels[0];
-  const quizQuestions = useMemo<QuizQuestion[]>(() => buildQuizQuestions(selectedLesson.words), [selectedLesson]);
-  const currentLearnWord = selectedLesson.words[learnIndex] ?? selectedLesson.words[0];
-  const currentFlashWord = selectedLesson.words[flashIndex] ?? selectedLesson.words[0];
+  const matchesTopic = (word: VocabWord) => topicFilter === 'all' || word.topicId === topicFilter;
+  const displayedWords = useMemo(
+    () => selectedLesson.words.filter((word) => topicFilter === 'all' || word.topicId === topicFilter),
+    [selectedLesson, topicFilter],
+  );
+  const quizQuestions = useMemo<QuizQuestion[]>(() => buildQuizQuestions(displayedWords), [displayedWords]);
+  const currentLearnWord = displayedWords[learnIndex] ?? displayedWords[0] ?? selectedLesson.words[0];
+  const currentFlashWord = displayedWords[flashIndex] ?? displayedWords[0] ?? selectedLesson.words[0];
   const currentQuestion = quizQuestions[quizIndex];
   const isQuizFinished = quizIndex >= quizQuestions.length;
 
@@ -164,8 +199,13 @@ export default function ChineseLearningApp() {
     ? Math.min(100, Math.round((sessionQuizCorrectCount / sessionCompletedQuestionIds.length) * 100))
     : historicalAccuracy;
   const normalizedQuery = foldSearchText(wordQuery.trim());
+  const topicCounts = HSK5_TOPICS.map((topic) => ({
+    ...topic,
+    count: activeLevelWords.filter((word) => word.topicId === topic.id).length,
+  })).filter((topic) => topic.count > 0);
   const searchResults = normalizedQuery
     ? activeLevelWords
+        .filter(matchesTopic)
         .filter((word) =>
           word.hanzi.includes(wordQuery.trim()) ||
           foldSearchText(word.pinyin).includes(normalizedQuery) ||
@@ -259,10 +299,27 @@ export default function ChineseLearningApp() {
   const openSearchedWord = (word: VocabWord) => {
     if (!word.lessonId) return;
     const lesson = lessons.find((item) => item.id === word.lessonId);
-    const index = lesson?.words.findIndex((item) => item.id === word.id) ?? 0;
+    const visible = lesson?.words.filter((item) => topicFilter === 'all' || item.topicId === topicFilter) ?? [];
+    const index = visible.findIndex((item) => item.id === word.id);
     selectLesson(word.lessonId);
     setLearnIndex(Math.max(0, index));
     setWordQuery('');
+  };
+
+  const chooseTopic = (topicId: string) => {
+    setTopicFilter(topicId);
+    setLearnIndex(0);
+    setFlashIndex(0);
+    setQuizIndex(0);
+    setSelectedAnswer(null);
+    setShowFlashBack(false);
+    if (topicId === 'all') return;
+    const stillVisible = selectedLesson.words.some((word) => word.topicId === topicId);
+    if (stillVisible) return;
+    const nextLesson = lessons.find(
+      (lesson) => lesson.levelId === activeLevel.id && lesson.words.some((word) => word.topicId === topicId),
+    );
+    if (nextLesson) setSelectedLessonId(nextLesson.id);
   };
 
   const selectLesson = (lessonId: string) => {
@@ -316,7 +373,7 @@ export default function ChineseLearningApp() {
     }
 
     setShowFlashBack(false);
-    setFlashIndex((current) => (current + 1) % selectedLesson.words.length);
+    setFlashIndex((current) => (current + 1) % Math.max(1, displayedWords.length));
   };
 
   const answerQuestion = (question: QuizQuestion, answer: string) => {
@@ -374,9 +431,42 @@ export default function ChineseLearningApp() {
     setShowStatsDebug(false);
   };
 
+  const renderTopicFilter = () => {
+    if (!activeLevelWords.some((word) => word.topicId)) return null;
+    return (
+      <View style={styles.topicBlock}>
+        <Text style={styles.exampleLabel}>Chủ đề / Topic</Text>
+        <View style={styles.lessonRow}>
+          <Pressable
+            onPress={() => chooseTopic('all')}
+            style={[styles.topicChip, topicFilter === 'all' && styles.topicChipActive]}
+          >
+            <Text style={[styles.topicChipText, topicFilter === 'all' && styles.topicChipTextActive]}>
+              {`Tất cả · ${activeLevelWords.length}`}
+            </Text>
+          </Pressable>
+          {topicCounts.map((topic) => {
+            const active = topicFilter === topic.id;
+            return (
+              <Pressable
+                key={topic.id}
+                onPress={() => chooseTopic(topic.id)}
+                style={[styles.topicChip, active && styles.topicChipActive]}
+              >
+                <Text style={[styles.topicChipText, active && styles.topicChipTextActive]}>
+                  {`${topic.vi} · ${topic.count}`}
+                </Text>
+              </Pressable>
+            );
+          })}
+        </View>
+      </View>
+    );
+  };
+
   const renderLessonPicker = () => (
     <View style={styles.lessonRow}>
-      {lessons.filter((lesson) => lesson.levelId === activeLevel.id).map((lesson) => {
+      {lessons.filter((lesson) => lesson.levelId === activeLevel.id && lesson.words.some(matchesTopic)).map((lesson) => {
         const isActive = lesson.id === selectedLessonId;
         return (
           <Pressable
@@ -426,7 +516,13 @@ export default function ChineseLearningApp() {
   const renderWordMeta = (word: VocabWord) => (
     <>
       <Text style={styles.hanziText}>{word.hanzi}</Text>
+      <View style={styles.speakRow}>
+        <SpeakButton text={word.hanzi} label="发音" />
+      </View>
       <Text style={styles.pinyinText}>{word.pinyin}</Text>
+      {topicById(word.topicId) ? (
+        <Text style={styles.topicLabel}>{topicById(word.topicId)?.vi} · {topicById(word.topicId)?.en}</Text>
+      ) : null}
       <Text style={styles.meaningText}>{word.meaningVi || word.meaningEn}</Text>
       {word.meaningEn && word.meaningEn !== word.meaningVi ? (
         <Text style={styles.exampleVi}>{word.meaningEn}</Text>
@@ -434,6 +530,11 @@ export default function ChineseLearningApp() {
       <View style={styles.divider} />
       <Text style={styles.exampleLabel}>例句 / Example</Text>
       <Text style={styles.exampleCn}>{word.exampleCn}</Text>
+      {word.exampleCn ? (
+        <View style={styles.speakRow}>
+          <SpeakButton text={word.exampleCn} label="读例句" />
+        </View>
+      ) : null}
       {word.exampleVi ? <Text style={styles.exampleVi}>{word.exampleVi}</Text> : null}
       {word.exampleEn && word.exampleEn !== word.exampleVi ? (
         <Text style={styles.exampleVi}>{word.exampleEn}</Text>
@@ -487,6 +588,7 @@ export default function ChineseLearningApp() {
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
         <Text style={styles.sectionTitle}>选择课程 / Choose Lesson</Text>
+        {renderTopicFilter()}
         <TextInput
           value={wordQuery}
           onChangeText={setWordQuery}
@@ -494,10 +596,18 @@ export default function ChineseLearningApp() {
           placeholderTextColor="#AAA39A"
           style={styles.searchInput}
         />
+        {normalizedQuery && searchResults.length === 0 ? (
+          <Text style={styles.metaNote}>Không có từ khớp / No matches</Text>
+        ) : null}
         {searchResults.map((word) => (
           <Pressable key={word.id} onPress={() => openSearchedWord(word)} style={styles.searchResult}>
-            <Text style={styles.listPrimary}>{word.hanzi}</Text>
-            <Text style={styles.listSecondary}>{word.pinyin} · {word.meaningVi || word.meaningEn}</Text>
+            <View style={styles.searchResultRow}>
+              <View style={styles.searchResultText}>
+                <Text style={styles.listPrimary}>{word.hanzi}</Text>
+                <Text style={styles.listSecondary}>{word.pinyin} · {word.meaningVi || word.meaningEn}</Text>
+              </View>
+              <SpeakButton text={word.hanzi} label="发音" />
+            </View>
           </Pressable>
         ))}
         {renderHSKPills()}
@@ -510,7 +620,7 @@ export default function ChineseLearningApp() {
       <View style={styles.wordCard}> 
         <Text style={styles.wordCardTopic}>{selectedLesson.title}</Text>
         <View style={styles.wordHeaderRow}>
-          <Text style={styles.badge}>第 {learnIndex + 1} 词 / Word {learnIndex + 1} of {selectedLesson.words.length}</Text>
+          <Text style={styles.badge}>第 {learnIndex + 1} 词 / Word {learnIndex + 1} of {displayedWords.length}</Text>
           <Pressable onPress={() => toggleFavorite(currentLearnWord.id)}>
             <Text style={styles.favoriteButton}>
               {favoriteIds.includes(currentLearnWord.id) ? '已保存 / Saved' : '保存 / Save'}
@@ -541,7 +651,7 @@ export default function ChineseLearningApp() {
         <ActionButton
           label="下一词 / Next"
           onPress={() =>
-            setLearnIndex((current) => Math.min(selectedLesson.words.length - 1, current + 1))
+            setLearnIndex((current) => Math.min(displayedWords.length - 1, current + 1))
           }
         />
       </View>
@@ -552,6 +662,7 @@ export default function ChineseLearningApp() {
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
         <Text style={styles.sectionTitle}>卡片复习 / Flashcard Review</Text>
+        {renderTopicFilter()}
         {renderHSKPills()}
         {renderMiniProgress()}
         {renderLessonPicker()}
@@ -564,7 +675,7 @@ export default function ChineseLearningApp() {
         style={styles.flashcard}
       >
         <Text style={styles.flashcardHint}>{showFlashBack ? '背面 / Back' : '正面 / Front'}</Text>
-        <Text style={styles.flashcardCounter}>卡片 {flashIndex + 1} / Card {flashIndex + 1} of {selectedLesson.words.length}</Text>
+        <Text style={styles.flashcardCounter}>卡片 {flashIndex + 1} / Card {flashIndex + 1} of {displayedWords.length}</Text>
         {showFlashBack ? (
           <View style={styles.flashBackContent}>
             <Text style={styles.flashMeaning}>{currentFlashWord.meaningVi || currentFlashWord.meaningEn}</Text>
@@ -580,6 +691,10 @@ export default function ChineseLearningApp() {
           </View>
         )}
       </Pressable>
+      <View style={styles.speakRow}>
+        <SpeakButton text={currentFlashWord.hanzi} label="发音" />
+        {currentFlashWord.exampleCn ? <SpeakButton text={currentFlashWord.exampleCn} label="读例句" /> : null}
+      </View>
 
       <View style={styles.swipeHintRow}>
         <Text style={styles.swipeHintText}>不会 / Don't know</Text>
@@ -601,6 +716,7 @@ export default function ChineseLearningApp() {
     <ScrollView contentContainerStyle={styles.contentContainer}>
       <SectionCard>
         <Text style={styles.sectionTitle}>测验 / Quiz</Text>
+        {renderTopicFilter()}
         {renderHSKPills()}
         <Text style={styles.sectionSubtitle}>
           {isQuizFinished
@@ -625,6 +741,14 @@ export default function ChineseLearningApp() {
             <Text style={styles.quizCounter}>第 {quizIndex + 1} 题 / Question {quizIndex + 1} of {quizQuestions.length}</Text>
             <Text style={styles.quizPrompt}>{currentQuestion.prompt}</Text>
             <Text style={styles.quizSupportingText}>{currentQuestion.supportingText}</Text>
+            {currentQuestion.speakHanzi && (currentQuestion.hanziVisible || selectedAnswer) ? (
+              <View style={styles.speakRow}>
+                <SpeakButton text={currentQuestion.speakHanzi} label="发音" />
+                {selectedAnswer && currentQuestion.speakExample ? (
+                  <SpeakButton text={currentQuestion.speakExample} label="读例句" />
+                ) : null}
+              </View>
+            ) : null}
           </View>
           <View style={styles.quizTimerRow}>
             <View style={styles.quizTimerTrack}>
@@ -769,8 +893,11 @@ export default function ChineseLearningApp() {
         ) : (
           favoriteWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
-              <Text style={styles.listPrimary}>{word.hanzi}</Text>
-              <Text style={styles.listSecondary}>{word.meaningVi || word.meaningEn}</Text>
+              <View style={styles.searchResultText}>
+                <Text style={styles.listPrimary}>{word.hanzi}</Text>
+                <Text style={styles.listSecondary}>{word.meaningVi || word.meaningEn}</Text>
+              </View>
+              <SpeakButton text={word.hanzi} label="发音" />
             </View>
           ))
         )}
@@ -783,8 +910,11 @@ export default function ChineseLearningApp() {
         ) : (
           reviewWords.map((word) => (
             <View key={word.id} style={styles.listRow}>
-              <Text style={styles.listPrimary}>{word.hanzi}</Text>
-              <Text style={styles.listSecondary}>{word.pinyin} • {word.meaningVi || word.meaningEn}</Text>
+              <View style={styles.searchResultText}>
+                <Text style={styles.listPrimary}>{word.hanzi}</Text>
+                <Text style={styles.listSecondary}>{word.pinyin} • {word.meaningVi || word.meaningEn}</Text>
+              </View>
+              <SpeakButton text={word.hanzi} label="发音" />
             </View>
           ))
         )}
@@ -1047,6 +1177,68 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     borderBottomColor: '#F0E2C5',
     gap: 2,
+  },
+  searchResultRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  searchResultText: {
+    flex: 1,
+    gap: 2,
+  },
+  topicBlock: {
+    gap: 6,
+  },
+  topicChip: {
+    borderRadius: 999,
+    borderWidth: 1,
+    borderColor: '#D4A017',
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    backgroundColor: '#F7F1E3',
+  },
+  topicChipActive: {
+    backgroundColor: '#185FA5',
+    borderColor: '#185FA5',
+  },
+  topicChipText: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#6B5E53',
+  },
+  topicChipTextActive: {
+    color: '#FFFFFF',
+  },
+  topicLabel: {
+    fontSize: 12,
+    color: '#185FA5',
+    fontWeight: '700',
+    textAlign: 'center',
+  },
+  speakRow: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    flexWrap: 'wrap',
+    gap: 8,
+  },
+  speakButton: {
+    borderRadius: 999,
+    borderWidth: 1,
+    borderColor: '#185FA5',
+    backgroundColor: '#E8F1FB',
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+  },
+  speakButtonDisabled: {
+    opacity: 0.45,
+    borderColor: '#B1A79A',
+    backgroundColor: '#F3EFE8',
+  },
+  speakButtonText: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#185FA5',
   },
   lessonRow: {
     flexDirection: 'row',
@@ -1553,10 +1745,12 @@ const styles = StyleSheet.create({
     color: '#888780',
   },
   listRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
     paddingVertical: 10,
     borderBottomWidth: 1,
     borderBottomColor: '#F0E2C5',
-    gap: 4,
+    gap: 8,
   },
   listPrimary: {
     fontSize: 18,

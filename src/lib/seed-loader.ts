@@ -71,6 +71,9 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
         supportingText: '拼音 / Pinyin: ' + word.pinyin,
         correctAnswer: meaning,
         options: uniqueOptions(meaning, distractorPool.map((item) => item.meaning_en)),
+        speakHanzi: word.hanzi,
+        speakExample: word.example_cn,
+        hanziVisible: true,
       };
     }
     if (index % 3 === 1) {
@@ -80,6 +83,9 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
         supportingText: '意思 / Meaning: ' + meaning,
         correctAnswer: word.pinyin,
         options: uniqueOptions(word.pinyin, distractorPool.map((item) => item.pinyin)),
+        speakHanzi: word.hanzi,
+        speakExample: word.example_cn,
+        hanziVisible: true,
       };
     }
     return {
@@ -88,6 +94,9 @@ export function buildQuizQuestionsFromSeed(words: SeedWord[], limit = 12): QuizQ
       supportingText: '例句 / Example: ' + (word.example_cn ?? ''),
       correctAnswer: word.hanzi,
       options: uniqueOptions(word.hanzi, distractorPool.map((item) => item.hanzi)),
+      speakHanzi: word.hanzi,
+      speakExample: word.example_cn,
+      hanziVisible: false,
     };
   });
 }

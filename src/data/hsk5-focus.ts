@@ -154,6 +154,7 @@ type EnrichedWord = {
   collocations?: string[];
   example_sentences?: Array<{ zh: string; vi?: string }>;
   app_example_vi?: string;
+  topic_id?: string;
 };
 
 type FocusLessonDef = {
@@ -1309,6 +1310,7 @@ export const hsk5FocusWords: VocabWord[] = sourceWords.map((word, index) => {
     appNoteVi: word.app_note_vi,
     appSynonymNoteVi: word.app_synonym_note_vi,
     collocationTop: collocations.slice(0, 3),
+    topicId: word.topic_id,
   };
 });
 
