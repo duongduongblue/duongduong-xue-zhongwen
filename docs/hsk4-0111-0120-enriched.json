@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0111",
+    "level": "HSK4",
+    "hanzi": "工资",
+    "pinyin": "gōngzī",
+    "topic_id": "money",
+    "display_meaning_vi": "tiền lương",
+    "meaning_en": "wages",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "发工资 / 工资高",
+    "collocations": [
+      "发工资",
+      "工资高",
+      "月工资"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "发 đọc fā, là phát ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司每月发工资。",
+        "pinyin": "Gōng sī měi yuè fā gōng zī.",
+        "vi": "Công ty phát lương mỗi tháng.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā, là phát ra."
+    ],
+    "app_note_vi": "发 đọc fā, là phát ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "工资 nghĩa là gì?",
+        "answer": "tiền lương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司每月发____。",
+        "answer": "工资"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0112",
+    "level": "HSK4",
+    "hanzi": "购物",
+    "pinyin": "gòuwù",
+    "topic_id": "money",
+    "display_meaning_vi": "mua sắm",
+    "meaning_en": "shopping",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去购物 / 购物中心",
+    "collocations": [
+      "去购物",
+      "购物中心",
+      "网上购物"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "购物 là đi mua đồ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末我们去购物。",
+        "pinyin": "Zhōu mò wǒ men qù gòu wù.",
+        "vi": "Cuối tuần chúng tôi đi mua sắm.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "购物 là đi mua đồ."
+    ],
+    "app_note_vi": "购物 là đi mua đồ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "购物 nghĩa là gì?",
+        "answer": "mua sắm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末我们去____。",
+        "answer": "购物"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0113",
+    "level": "HSK4",
+    "hanzi": "顾客",
+    "pinyin": "gùkè",
+    "topic_id": "money",
+    "display_meaning_vi": "khách hàng",
+    "meaning_en": "customer",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "服务顾客 / 顾客很多",
+    "collocations": [
+      "服务顾客",
+      "顾客很多",
+      "老顾客"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "顾客 là người đến mua.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "顾客对服务很满意。",
+        "pinyin": "Gù kè duì fú wù hěn mǎn yì.",
+        "vi": "Khách hàng rất hài lòng về dịch vụ.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "顾客 là người đến mua."
+    ],
+    "app_note_vi": "顾客 là người đến mua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "顾客 nghĩa là gì?",
+        "answer": "khách hàng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____对服务很满意。",
+        "answer": "顾客"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0114",
+    "level": "HSK4",
+    "hanzi": "打折",
+    "pinyin": "dǎzhé",
+    "topic_id": "money",
+    "display_meaning_vi": "giảm giá",
+    "meaning_en": "to give a discount",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "正在打折 / 打折商品",
+    "collocations": [
+      "正在打折",
+      "打折商品",
+      "不打折"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "折 đọc zhé.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件衣服正在打折。",
+        "pinyin": "Zhè jiàn yī fu zhèng zài dǎ zhé.",
+        "vi": "Áo này đang giảm giá.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "折 đọc zhé."
+    ],
+    "app_note_vi": "折 đọc zhé.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打折 nghĩa là gì?",
+        "answer": "giảm giá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件衣服正在____。",
+        "answer": "打折"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0115",
+    "level": "HSK4",
+    "hanzi": "信用卡",
+    "pinyin": "xìnyòngkǎ",
+    "topic_id": "money",
+    "display_meaning_vi": "thẻ tín dụng",
+    "meaning_en": "credit card",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "用信用卡 / 信用卡付款",
+    "collocations": [
+      "用信用卡",
+      "信用卡付款",
+      "一张信用卡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "卡 đọc kǎ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我用信用卡付款。",
+        "pinyin": "Wǒ yòng xìn yòng kǎ fù kuǎn.",
+        "vi": "Tôi trả bằng thẻ tín dụng.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "卡 đọc kǎ."
+    ],
+    "app_note_vi": "卡 đọc kǎ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "信用卡 nghĩa là gì?",
+        "answer": "thẻ tín dụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我用____付款。",
+        "answer": "信用卡"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0116",
+    "level": "HSK4",
+    "hanzi": "赚",
+    "pinyin": "zhuàn",
+    "topic_id": "money",
+    "display_meaning_vi": "kiếm (tiền)",
+    "meaning_en": "to earn",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "赚钱 / 赚了很多",
+    "collocations": [
+      "赚钱",
+      "赚了很多",
+      "能赚"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "赚 đọc zhuàn, là kiếm được tiền. Cách đọc ít gặp zuàn là lừa.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他靠做生意赚钱。",
+        "pinyin": "Tā kào zuò shēng yì zhuàn qián.",
+        "vi": "Anh ấy kiếm tiền bằng việc buôn bán.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "赚 đọc zhuàn, là kiếm được tiền. Cách đọc ít gặp zuàn là lừa."
+    ],
+    "app_note_vi": "赚 đọc zhuàn, là kiếm được tiền. Cách đọc ít gặp zuàn là lừa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "赚 nghĩa là gì?",
+        "answer": "kiếm (tiền)"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他靠做生意____钱。",
+        "answer": "赚"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0117",
+    "level": "HSK4",
+    "hanzi": "租",
+    "pinyin": "zū",
+    "topic_id": "money",
+    "display_meaning_vi": "thuê",
+    "meaning_en": "to rent",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "租房子 / 租车",
+    "collocations": [
+      "租房子",
+      "租车",
+      "租金"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "租 là trả tiền để dùng tạm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们租了一套房子。",
+        "pinyin": "Wǒ men zū le yí tào fáng zi.",
+        "vi": "Chúng tôi thuê một căn nhà.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "租 là trả tiền để dùng tạm."
+    ],
+    "app_note_vi": "租 là trả tiền để dùng tạm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "租 nghĩa là gì?",
+        "answer": "thuê"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们____了一套房子。",
+        "answer": "租"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0118",
+    "level": "HSK4",
+    "hanzi": "价格",
+    "pinyin": "jiàgé",
+    "topic_id": "money",
+    "display_meaning_vi": "giá",
+    "meaning_en": "price",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "价格合理 / 价格高",
+    "collocations": [
+      "价格合理",
+      "价格高",
+      "这个价格"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "格 đọc gé.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个价格可以接受。",
+        "pinyin": "Zhè ge jià gé kě yǐ jiē shòu.",
+        "vi": "Mức giá này có thể chấp nhận.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "格 đọc gé."
+    ],
+    "app_note_vi": "格 đọc gé.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "价格 nghĩa là gì?",
+        "answer": "giá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____可以接受。",
+        "answer": "价格"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0119",
+    "level": "HSK4",
+    "hanzi": "收入",
+    "pinyin": "shōurù",
+    "topic_id": "money",
+    "display_meaning_vi": "thu nhập",
+    "meaning_en": "income",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "收入增加 / 家庭收入",
+    "collocations": [
+      "收入增加",
+      "家庭收入",
+      "月收入"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "不 trước 错 thanh 4 đọc bú: búcuò.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "家里的收入不错。",
+        "pinyin": "Jiā lǐ de shōu rù bú cuò.",
+        "vi": "Thu nhập trong nhà khá ổn.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不 trước 错 thanh 4 đọc bú: búcuò."
+    ],
+    "app_note_vi": "不 trước 错 thanh 4 đọc bú: búcuò.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "收入 nghĩa là gì?",
+        "answer": "thu nhập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "家里的____不错。",
+        "answer": "收入"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0120",
+    "level": "HSK4",
+    "hanzi": "免费",
+    "pinyin": "miǎnfèi",
+    "topic_id": "money",
+    "display_meaning_vi": "miễn phí",
+    "meaning_en": "free of charge",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "money"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "免费参观 / 免费的",
+    "collocations": [
+      "免费参观",
+      "免费的",
+      "完全免费"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "免费 là không phải trả tiền.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家博物馆免费开放。",
+        "pinyin": "Zhè jiā bó wù guǎn miǎn fèi kāi fàng.",
+        "vi": "Bảo tàng này mở cửa miễn phí.",
+        "context": "money"
+      }
+    ],
+    "common_mistakes_vi": [
+      "免费 là không phải trả tiền."
+    ],
+    "app_note_vi": "免费 là không phải trả tiền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "免费 nghĩa là gì?",
+        "answer": "miễn phí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家博物馆____开放。",
+        "answer": "免费"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0081",
+    "level": "HSK4",
+    "hanzi": "饼干",
+    "pinyin": "bǐnggān",
+    "topic_id": "daily",
+    "display_meaning_vi": "bánh quy",
+    "meaning_en": "biscuit",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吃饼干 / 一盒饼干",
+    "collocations": [
+      "吃饼干",
+      "一盒饼干",
+      "买饼干"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "干 trong 饼干 đọc gān, là khô.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子们喜欢吃饼干。",
+        "pinyin": "Hái zi men xǐ huān chī bǐng gān.",
+        "vi": "Bọn trẻ thích ăn bánh quy.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "干 trong 饼干 đọc gān, là khô."
+    ],
+    "app_note_vi": "干 trong 饼干 đọc gān, là khô.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "饼干 nghĩa là gì?",
+        "answer": "bánh quy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子们喜欢吃____。",
+        "answer": "饼干"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0082",
+    "level": "HSK4",
+    "hanzi": "尝",
+    "pinyin": "cháng",
+    "topic_id": "daily",
+    "display_meaning_vi": "nếm",
+    "meaning_en": "to taste",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "尝一尝 / 尝味道",
+    "collocations": [
+      "尝一尝",
+      "尝味道",
+      "尝尝看"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "尝 đọc cháng, là nếm. Khác chữ 常.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你尝一尝这个汤。",
+        "pinyin": "Nǐ cháng yì cháng zhè ge tāng.",
+        "vi": "Bạn nếm thử bát canh này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "尝 đọc cháng, là nếm. Khác chữ 常."
+    ],
+    "app_note_vi": "尝 đọc cháng, là nếm. Khác chữ 常.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尝 nghĩa là gì?",
+        "answer": "nếm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你____一尝这个汤。",
+        "answer": "尝"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0083",
+    "level": "HSK4",
+    "hanzi": "汤",
+    "pinyin": "tāng",
+    "topic_id": "daily",
+    "display_meaning_vi": "canh",
+    "meaning_en": "soup",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一碗汤 / 喝汤",
+    "collocations": [
+      "一碗汤",
+      "喝汤",
+      "汤很好喝"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "汤 đọc tāng, là món canh. Không phải cách đọc họ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈做的汤很好喝。",
+        "pinyin": "Mā ma zuò de tāng hěn hǎo hē.",
+        "vi": "Canh mẹ nấu rất ngon.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "汤 đọc tāng, là món canh. Không phải cách đọc họ."
+    ],
+    "app_note_vi": "汤 đọc tāng, là món canh. Không phải cách đọc họ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "汤 nghĩa là gì?",
+        "answer": "canh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈做的____很好喝。",
+        "answer": "汤"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0084",
+    "level": "HSK4",
+    "hanzi": "西红柿",
+    "pinyin": "xīhóngshì",
+    "topic_id": "daily",
+    "display_meaning_vi": "cà chua",
+    "meaning_en": "tomato",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吃西红柿 / 新鲜西红柿",
+    "collocations": [
+      "吃西红柿",
+      "新鲜西红柿",
+      "西红柿汤"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "西红柿 còn gọi là 番茄.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "西红柿可以生吃。",
+        "pinyin": "Xī hóng shì kě yǐ shēng chī.",
+        "vi": "Cà chua có thể ăn sống.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "西红柿 còn gọi là 番茄."
+    ],
+    "app_note_vi": "西红柿 còn gọi là 番茄.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "西红柿 nghĩa là gì?",
+        "answer": "cà chua"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____可以生吃。",
+        "answer": "西红柿"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0085",
+    "level": "HSK4",
+    "hanzi": "咸",
+    "pinyin": "xián",
+    "topic_id": "daily",
+    "display_meaning_vi": "mặn",
+    "meaning_en": "salty",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有点咸 / 太咸了",
+    "collocations": [
+      "有点咸",
+      "太咸了",
+      "咸菜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "咸 đọc xián, là vị mặn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个菜有点咸。",
+        "pinyin": "Zhè ge cài yǒu diǎn xián.",
+        "vi": "Món này hơi mặn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "咸 đọc xián, là vị mặn."
+    ],
+    "app_note_vi": "咸 đọc xián, là vị mặn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "咸 nghĩa là gì?",
+        "answer": "mặn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个菜有点____。",
+        "answer": "咸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0086",
+    "level": "HSK4",
+    "hanzi": "盐",
+    "pinyin": "yán",
+    "topic_id": "daily",
+    "display_meaning_vi": "muối",
+    "meaning_en": "salt",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "放盐 / 一点盐",
+    "collocations": [
+      "放盐",
+      "一点盐",
+      "食盐"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "盐 đọc yán.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "汤里少放一点盐。",
+        "pinyin": "Tāng lǐ shǎo fàng yì diǎn yán.",
+        "vi": "Cho ít muối vào canh.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "盐 đọc yán."
+    ],
+    "app_note_vi": "盐 đọc yán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "盐 nghĩa là gì?",
+        "answer": "muối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "汤里少放一点____。",
+        "answer": "盐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0087",
+    "level": "HSK4",
+    "hanzi": "饮料",
+    "pinyin": "yǐnliào",
+    "topic_id": "daily",
+    "display_meaning_vi": "đồ uống",
+    "meaning_en": "beverage",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "喝饮料 / 冷饮料",
+    "collocations": [
+      "喝饮料",
+      "冷饮料",
+      "饮料瓶"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "饮料 là thứ uống, không phải cơm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我想喝一杯饮料。",
+        "pinyin": "Wǒ xiǎng hē yì bēi yǐn liào.",
+        "vi": "Tôi muốn uống một cốc đồ uống.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "饮料 là thứ uống, không phải cơm."
+    ],
+    "app_note_vi": "饮料 là thứ uống, không phải cơm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "饮料 nghĩa là gì?",
+        "answer": "đồ uống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我想喝一杯____。",
+        "answer": "饮料"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0088",
+    "level": "HSK4",
+    "hanzi": "香",
+    "pinyin": "xiāng",
+    "topic_id": "daily",
+    "display_meaning_vi": "thơm",
+    "meaning_en": "fragrant",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很香 / 香味",
+    "collocations": [
+      "很香",
+      "香味",
+      "香气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "香 là mùi dễ chịu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这朵花很香。",
+        "pinyin": "Zhè duǒ huā hěn xiāng.",
+        "vi": "Bông hoa này rất thơm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "香 là mùi dễ chịu."
+    ],
+    "app_note_vi": "香 là mùi dễ chịu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "香 nghĩa là gì?",
+        "answer": "thơm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这朵花很____。",
+        "answer": "香"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0089",
+    "level": "HSK4",
+    "hanzi": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "topic_id": "daily",
+    "display_meaning_vi": "sô-cô-la",
+    "meaning_en": "chocolate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一盒巧克力 / 巧克力蛋糕",
+    "collocations": [
+      "一盒巧克力",
+      "巧克力蛋糕",
+      "吃巧克力"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "巧克力 là từ vay mượn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她送我一盒巧克力。",
+        "pinyin": "Tā sòng wǒ yì hé qiǎo kè lì.",
+        "vi": "Cô ấy tặng tôi một hộp sô-cô-la.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "巧克力 là từ vay mượn."
+    ],
+    "app_note_vi": "巧克力 là từ vay mượn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "巧克力 nghĩa là gì?",
+        "answer": "sô-cô-la"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她送我一盒____。",
+        "answer": "巧克力"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0090",
+    "level": "HSK4",
+    "hanzi": "饺子",
+    "pinyin": "jiǎozi",
+    "topic_id": "daily",
+    "display_meaning_vi": "sủi cảo",
+    "meaning_en": "dumpling",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "包饺子 / 吃饺子",
+    "collocations": [
+      "包饺子",
+      "吃饺子",
+      "一碗饺子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "子 đọc nhẹ zi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "过年我们包饺子。",
+        "pinyin": "Guò nián wǒ men bāo jiǎo zi.",
+        "vi": "Tết chúng tôi gói sủi cảo.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi."
+    ],
+    "app_note_vi": "子 đọc nhẹ zi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "饺子 nghĩa là gì?",
+        "answer": "sủi cảo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "过年我们包____。",
+        "answer": "饺子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

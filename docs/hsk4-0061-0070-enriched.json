@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0061",
+    "level": "HSK4",
+    "hanzi": "按照",
+    "pinyin": "ànzhào",
+    "topic_id": "language",
+    "display_meaning_vi": "theo; căn cứ vào",
+    "meaning_en": "according to",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "按照规定 / 按照计划",
+    "collocations": [
+      "按照规定",
+      "按照计划",
+      "按照说明"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "按照 đứng trước quy tắc hoặc hướng dẫn mà mình dựa vào.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请按照说明书来做。",
+        "pinyin": "Qǐng àn zhào shuō míng shū lái zuò.",
+        "vi": "Hãy làm theo tờ hướng dẫn.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "按照 đứng trước quy tắc hoặc hướng dẫn mà mình dựa vào."
+    ],
+    "app_note_vi": "按照 đứng trước quy tắc hoặc hướng dẫn mà mình dựa vào.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "按照 nghĩa là gì?",
+        "answer": "theo; căn cứ vào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____说明书来做。",
+        "answer": "按照"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0062",
+    "level": "HSK4",
+    "hanzi": "包括",
+    "pinyin": "bāokuò",
+    "topic_id": "language",
+    "display_meaning_vi": "bao gồm",
+    "meaning_en": "to include",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "包括在内 / 其中包括",
+    "collocations": [
+      "包括在内",
+      "其中包括",
+      "费用包括"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "包括 liệt những gì nằm bên trong.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "门票包括讲解。",
+        "pinyin": "Mén piào bāo kuò jiǎng jiě.",
+        "vi": "Vé vào cửa đã gồm phần thuyết minh.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "包括 liệt những gì nằm bên trong."
+    ],
+    "app_note_vi": "包括 liệt những gì nằm bên trong.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "包括 nghĩa là gì?",
+        "answer": "bao gồm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "门票____讲解。",
+        "answer": "包括"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0063",
+    "level": "HSK4",
+    "hanzi": "本来",
+    "pinyin": "běnlái",
+    "topic_id": "language",
+    "display_meaning_vi": "vốn dĩ; lúc đầu",
+    "meaning_en": "originally",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "本来想 / 本来就",
+    "collocations": [
+      "本来想",
+      "本来就",
+      "本来的计划"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "本来 nói về dự định hoặc tình hình ban đầu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我本来想出门，后来下雨了。",
+        "pinyin": "Wǒ běn lái xiǎng chū mén hòu lái xià yǔ le.",
+        "vi": "Lúc đầu tôi định ra ngoài, sau đó trời mưa.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "本来 nói về dự định hoặc tình hình ban đầu."
+    ],
+    "app_note_vi": "本来 nói về dự định hoặc tình hình ban đầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "本来 nghĩa là gì?",
+        "answer": "vốn dĩ; lúc đầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____想出门，后来下雨了。",
+        "answer": "本来"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0064",
+    "level": "HSK4",
+    "hanzi": "并且",
+    "pinyin": "bìngqiě",
+    "topic_id": "language",
+    "display_meaning_vi": "và; hơn nữa",
+    "meaning_en": "moreover",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "并且还 / 并且说",
+    "collocations": [
+      "并且还",
+      "并且说",
+      "并且认为"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "并且 nối hai ý cùng đúng, nhấn ý sau.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这道菜好看，并且好吃。",
+        "pinyin": "Zhè dào cài hǎo kàn bìng qiě hǎo chī.",
+        "vi": "Món này đẹp mắt, và còn ngon.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "并且 nối hai ý cùng đúng, nhấn ý sau."
+    ],
+    "app_note_vi": "并且 nối hai ý cùng đúng, nhấn ý sau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "并且 nghĩa là gì?",
+        "answer": "và; hơn nữa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这道菜好看，____好吃。",
+        "answer": "并且"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0065",
+    "level": "HSK4",
+    "hanzi": "不但",
+    "pinyin": "bùdàn",
+    "topic_id": "language",
+    "display_meaning_vi": "không những",
+    "meaning_en": "not only",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不但如此 / 不但会",
+    "collocations": [
+      "不但如此",
+      "不但会",
+      "不但好看"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "不但 thường đi với 也 hoặc 而且. 不 trong từ này giữ bù, không đổi thành bú.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她不但会唱歌，也会跳舞。",
+        "pinyin": "Tā bù dàn huì chàng gē yě huì tiào wǔ.",
+        "vi": "Cô ấy không những biết hát, mà cũng biết nhảy.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不但 thường đi với 也 hoặc 而且. 不 trong từ này giữ bù, không đổi thành bú."
+    ],
+    "app_note_vi": "不但 thường đi với 也 hoặc 而且. 不 trong từ này giữ bù, không đổi thành bú.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不但 nghĩa là gì?",
+        "answer": "không những"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____会唱歌，也会跳舞。",
+        "answer": "不但"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0066",
+    "level": "HSK4",
+    "hanzi": "不得不",
+    "pinyin": "bùdébù",
+    "topic_id": "language",
+    "display_meaning_vi": "đành phải; không thể không",
+    "meaning_en": "to have no choice but to",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不得不做 / 不得不走",
+    "collocations": [
+      "不得不做",
+      "不得不走",
+      "不得不承认"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "得 đọc dé. 不得不 nghĩa là không còn cách khác.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雨太大，我不得不留在家里。",
+        "pinyin": "Yǔ tài dà wǒ bù dé bù liú zài jiā lǐ.",
+        "vi": "Mưa to quá, tôi đành phải ở nhà.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 đọc dé. 不得不 nghĩa là không còn cách khác."
+    ],
+    "app_note_vi": "得 đọc dé. 不得不 nghĩa là không còn cách khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不得不 nghĩa là gì?",
+        "answer": "đành phải; không thể không"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雨太大，我____留在家里。",
+        "answer": "不得不"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0067",
+    "level": "HSK4",
+    "hanzi": "不管",
+    "pinyin": "bùguǎn",
+    "topic_id": "language",
+    "display_meaning_vi": "bất kể; dù",
+    "meaning_en": "no matter",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不管怎么样 / 不管多少",
+    "collocations": [
+      "不管怎么样",
+      "不管多少",
+      "不管谁"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "不管 thường đi với 都 hoặc 也 ở vế sau.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不管天气怎么样，我们都去。",
+        "pinyin": "Bù guǎn tiān qì zěn me yàng wǒ men dōu qù.",
+        "vi": "Dù thời tiết thế nào, chúng tôi cũng đi.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不管 thường đi với 都 hoặc 也 ở vế sau."
+    ],
+    "app_note_vi": "不管 thường đi với 都 hoặc 也 ở vế sau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不管 nghĩa là gì?",
+        "answer": "bất kể; dù"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____天气怎么样，我们都去。",
+        "answer": "不管"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0068",
+    "level": "HSK4",
+    "hanzi": "不过",
+    "pinyin": "bùguò",
+    "topic_id": "language",
+    "display_meaning_vi": "nhưng; chỉ là",
+    "meaning_en": "however; only",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不过如此 / 不过是",
+    "collocations": [
+      "不过如此",
+      "不过是",
+      "不过还"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "不过 là chữ nhưng nhẹ hơn 但是. 不 giữ bù.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家店很近，不过有点贵。",
+        "pinyin": "Zhè jiā diàn hěn jìn bù guò yǒu diǎn guì.",
+        "vi": "Cửa hàng này rất gần, nhưng hơi đắt.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不过 là chữ nhưng nhẹ hơn 但是. 不 giữ bù."
+    ],
+    "app_note_vi": "不过 là chữ nhưng nhẹ hơn 但是. 不 giữ bù.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不过 nghĩa là gì?",
+        "answer": "nhưng; chỉ là"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家店很近，____有点贵。",
+        "answer": "不过"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0069",
+    "level": "HSK4",
+    "hanzi": "不仅",
+    "pinyin": "bùjǐn",
+    "topic_id": "language",
+    "display_meaning_vi": "không chỉ",
+    "meaning_en": "not only",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不仅如此 / 不仅是",
+    "collocations": [
+      "不仅如此",
+      "不仅是",
+      "不仅会"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "不仅 gần với 不但, hơi trang trọng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他不仅学习好，也帮助同学。",
+        "pinyin": "Tā bù jǐn xué xí hǎo yě bāng zhù tóng xué.",
+        "vi": "Anh ấy không chỉ học giỏi, mà cũng giúp bạn.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不仅 gần với 不但, hơi trang trọng hơn."
+    ],
+    "app_note_vi": "不仅 gần với 不但, hơi trang trọng hơn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "不仅 nghĩa là gì?",
+        "answer": "không chỉ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____学习好，也帮助同学。",
+        "answer": "不仅"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0070",
+    "level": "HSK4",
+    "hanzi": "部分",
+    "pinyin": "bùfen",
+    "topic_id": "language",
+    "display_meaning_vi": "một phần; bộ phận",
+    "meaning_en": "part",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "language"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一部分 / 部分人",
+    "collocations": [
+      "一部分",
+      "部分人",
+      "部分地区"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "分 trong 部分 đọc nhẹ fen.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "只有部分同学来了。",
+        "pinyin": "Zhǐ yǒu bù fen tóng xué lái le.",
+        "vi": "Chỉ một phần học sinh đã đến.",
+        "context": "language"
+      }
+    ],
+    "common_mistakes_vi": [
+      "分 trong 部分 đọc nhẹ fen."
+    ],
+    "app_note_vi": "分 trong 部分 đọc nhẹ fen.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "部分 nghĩa là gì?",
+        "answer": "một phần; bộ phận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "只有____同学来了。",
+        "answer": "部分"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

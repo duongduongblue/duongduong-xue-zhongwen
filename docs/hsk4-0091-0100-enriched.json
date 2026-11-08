@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0091",
+    "level": "HSK4",
+    "hanzi": "保护",
+    "pinyin": "bǎohù",
+    "topic_id": "society",
+    "display_meaning_vi": "bảo vệ",
+    "meaning_en": "to protect",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保护环境 / 保护自己",
+    "collocations": [
+      "保护环境",
+      "保护自己",
+      "受到保护"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "保护 là không để bị hại. 保证 là cam đoan sẽ làm được.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要保护环境。",
+        "pinyin": "Wǒ men yào bǎo hù huán jìng.",
+        "vi": "Chúng ta phải bảo vệ môi trường.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "保护 là không để bị hại. 保证 là cam đoan sẽ làm được."
+    ],
+    "app_note_vi": "保护 là không để bị hại. 保证 là cam đoan sẽ làm được.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "保护 nghĩa là gì?",
+        "answer": "bảo vệ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要____环境。",
+        "answer": "保护"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0092",
+    "level": "HSK4",
+    "hanzi": "报道",
+    "pinyin": "bàodào",
+    "topic_id": "society",
+    "display_meaning_vi": "đưa tin; bản tin",
+    "meaning_en": "to report; news report",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "新闻报道 / 报道消息",
+    "collocations": [
+      "新闻报道",
+      "报道消息",
+      "详细报道"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "报道 là tin tức kể cho mọi người biết.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新闻里报道了这件事。",
+        "pinyin": "Xīn wén lǐ bào dào le zhè jiàn shì.",
+        "vi": "Bản tin đã đưa chuyện này.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "报道 là tin tức kể cho mọi người biết."
+    ],
+    "app_note_vi": "报道 là tin tức kể cho mọi người biết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "报道 nghĩa là gì?",
+        "answer": "đưa tin; bản tin"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新闻里____了这件事。",
+        "answer": "报道"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0093",
+    "level": "HSK4",
+    "hanzi": "法律",
+    "pinyin": "fǎlǜ",
+    "topic_id": "society",
+    "display_meaning_vi": "pháp luật",
+    "meaning_en": "law",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "遵守法律 / 法律规定",
+    "collocations": [
+      "遵守法律",
+      "法律规定",
+      "学习法律"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "律 đọc lǜ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "每个人都要遵守法律。",
+        "pinyin": "Měi gè rén dōu yào zūn shǒu fǎ lǜ.",
+        "vi": "Ai cũng phải tuân theo pháp luật.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "律 đọc lǜ."
+    ],
+    "app_note_vi": "律 đọc lǜ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "法律 nghĩa là gì?",
+        "answer": "pháp luật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "每个人都要遵守____。",
+        "answer": "法律"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0094",
+    "level": "HSK4",
+    "hanzi": "广播",
+    "pinyin": "guǎngbō",
+    "topic_id": "society",
+    "display_meaning_vi": "phát thanh",
+    "meaning_en": "broadcast",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "听广播 / 广播节目",
+    "collocations": [
+      "听广播",
+      "广播节目",
+      "广播电台"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "播 đọc bō.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早上我听广播。",
+        "pinyin": "Zǎo shàng wǒ tīng guǎng bō.",
+        "vi": "Sáng tôi nghe phát thanh.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "播 đọc bō."
+    ],
+    "app_note_vi": "播 đọc bō.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "广播 nghĩa là gì?",
+        "answer": "phát thanh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早上我听____。",
+        "answer": "广播"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0095",
+    "level": "HSK4",
+    "hanzi": "广告",
+    "pinyin": "guǎnggào",
+    "topic_id": "society",
+    "display_meaning_vi": "quảng cáo",
+    "meaning_en": "advertisement",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电视广告 / 广告太多",
+    "collocations": [
+      "电视广告",
+      "广告太多",
+      "做广告"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "广告 dùng để bán hàng hoặc thông báo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "电视上的广告太多了。",
+        "pinyin": "Diàn shì shàng de guǎng gào tài duō le.",
+        "vi": "Quảng cáo trên tivi quá nhiều.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "广告 dùng để bán hàng hoặc thông báo."
+    ],
+    "app_note_vi": "广告 dùng để bán hàng hoặc thông báo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "广告 nghĩa là gì?",
+        "answer": "quảng cáo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "电视上的____太多了。",
+        "answer": "广告"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0096",
+    "level": "HSK4",
+    "hanzi": "规定",
+    "pinyin": "guīdìng",
+    "topic_id": "society",
+    "display_meaning_vi": "quy định",
+    "meaning_en": "rule; to stipulate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "学校规定 / 按规定",
+    "collocations": [
+      "学校规定",
+      "按规定",
+      "新规定"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "规定 là điều phải làm theo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校规定不能迟到。",
+        "pinyin": "Xué xiào guī dìng bù néng chí dào.",
+        "vi": "Trường quy định không được đến muộn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "规定 là điều phải làm theo."
+    ],
+    "app_note_vi": "规定 là điều phải làm theo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "规定 nghĩa là gì?",
+        "answer": "quy định"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校____不能迟到。",
+        "answer": "规定"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0097",
+    "level": "HSK4",
+    "hanzi": "国际",
+    "pinyin": "guójì",
+    "topic_id": "society",
+    "display_meaning_vi": "quốc tế",
+    "meaning_en": "international",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "国际会议 / 国际关系",
+    "collocations": [
+      "国际会议",
+      "国际关系",
+      "国际新闻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "际 đọc jì.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是一次国际会议。",
+        "pinyin": "Zhè shì yí cì guó jì huì yì.",
+        "vi": "Đây là một hội nghị quốc tế.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "际 đọc jì."
+    ],
+    "app_note_vi": "际 đọc jì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "国际 nghĩa là gì?",
+        "answer": "quốc tế"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是一次____会议。",
+        "answer": "国际"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0098",
+    "level": "HSK4",
+    "hanzi": "观众",
+    "pinyin": "guānzhòng",
+    "topic_id": "society",
+    "display_meaning_vi": "khán giả",
+    "meaning_en": "audience",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "观众席 / 观众很多",
+    "collocations": [
+      "观众席",
+      "观众很多",
+      "广大观众"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "众 đọc zhòng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "观众都在鼓掌。",
+        "pinyin": "Guān zhòng dōu zài gǔ zhǎng.",
+        "vi": "Khán giả đều đang vỗ tay.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "众 đọc zhòng."
+    ],
+    "app_note_vi": "众 đọc zhòng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "观众 nghĩa là gì?",
+        "answer": "khán giả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____都在鼓掌。",
+        "answer": "观众"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0099",
+    "level": "HSK4",
+    "hanzi": "活动",
+    "pinyin": "huódòng",
+    "topic_id": "society",
+    "display_meaning_vi": "hoạt động",
+    "meaning_en": "activity; event",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "参加活动 / 课外活动",
+    "collocations": [
+      "参加活动",
+      "课外活动",
+      "一次活动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一个 đọc yí gè.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校下周有一个活动。",
+        "pinyin": "Xué xiào xià zhōu yǒu yí gè huó dòng.",
+        "vi": "Tuần sau trường có một hoạt động.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè."
+    ],
+    "app_note_vi": "一个 đọc yí gè.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "活动 nghĩa là gì?",
+        "answer": "hoạt động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校下周有一个____。",
+        "answer": "活动"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0100",
+    "level": "HSK4",
+    "hanzi": "艺术",
+    "pinyin": "yìshù",
+    "topic_id": "society",
+    "display_meaning_vi": "nghệ thuật",
+    "meaning_en": "art",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "艺术展览 / 热爱艺术",
+    "collocations": [
+      "艺术展览",
+      "热爱艺术",
+      "艺术作品"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "艺术 gồm nhạc, tranh và biểu diễn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她对艺术很感兴趣。",
+        "pinyin": "Tā duì yì shù hěn gǎn xìng qù.",
+        "vi": "Cô ấy rất quan tâm đến nghệ thuật.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "艺术 gồm nhạc, tranh và biểu diễn."
+    ],
+    "app_note_vi": "艺术 gồm nhạc, tranh và biểu diễn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "艺术 nghĩa là gì?",
+        "answer": "nghệ thuật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她对____很感兴趣。",
+        "answer": "艺术"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

@@ -154,6 +154,12 @@ export const modules: Module[] = [
   { id: 'hsk4-module-4', levelId: 'HSK4', title: '人物', subtitle: 'People', order: 4 },
   { id: 'hsk4-module-5', levelId: 'HSK4', title: '生活', subtitle: 'Daily life', order: 5 },
   { id: 'hsk4-module-6', levelId: 'HSK4', title: '出行', subtitle: 'Travel', order: 6 },
+  { id: 'hsk4-module-7', levelId: 'HSK4', title: '语言', subtitle: 'Language', order: 7 },
+  { id: 'hsk4-module-8', levelId: 'HSK4', title: '心情', subtitle: 'Feelings', order: 8 },
+  { id: 'hsk4-module-9', levelId: 'HSK4', title: '饮食', subtitle: 'Food', order: 9 },
+  { id: 'hsk4-module-10', levelId: 'HSK4', title: '社会', subtitle: 'Society', order: 10 },
+  { id: 'hsk4-module-11', levelId: 'HSK4', title: '健康', subtitle: 'Health', order: 11 },
+  { id: 'hsk4-module-12', levelId: 'HSK4', title: '金钱', subtitle: 'Money', order: 12 },
 ];
 
 export const hsk1LessonDefs = [

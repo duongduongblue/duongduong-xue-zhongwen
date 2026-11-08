@@ -5,6 +5,12 @@ import enriched0021To0030 from '../../docs/hsk4-0021-0030-enriched.json';
 import enriched0031To0040 from '../../docs/hsk4-0031-0040-enriched.json';
 import enriched0041To0050 from '../../docs/hsk4-0041-0050-enriched.json';
 import enriched0051To0060 from '../../docs/hsk4-0051-0060-enriched.json';
+import enriched0061To0070 from '../../docs/hsk4-0061-0070-enriched.json';
+import enriched0071To0080 from '../../docs/hsk4-0071-0080-enriched.json';
+import enriched0081To0090 from '../../docs/hsk4-0081-0090-enriched.json';
+import enriched0091To0100 from '../../docs/hsk4-0091-0100-enriched.json';
+import enriched0101To0110 from '../../docs/hsk4-0101-0110-enriched.json';
+import enriched0111To0120 from '../../docs/hsk4-0111-0120-enriched.json';
 
 type EnrichedWord = {
   id: string;
@@ -34,6 +40,12 @@ const sourceWords = [
   ...(enriched0031To0040 as EnrichedWord[]),
   ...(enriched0041To0050 as EnrichedWord[]),
   ...(enriched0051To0060 as EnrichedWord[]),
+  ...(enriched0061To0070 as EnrichedWord[]),
+  ...(enriched0071To0080 as EnrichedWord[]),
+  ...(enriched0081To0090 as EnrichedWord[]),
+  ...(enriched0091To0100 as EnrichedWord[]),
+  ...(enriched0101To0110 as EnrichedWord[]),
+  ...(enriched0111To0120 as EnrichedWord[]),
 ].filter((word, index, words) => words.findIndex((item) => item.hanzi === word.hanzi) === index);
 
 const FOCUS_LESSONS: FocusLessonDef[] = [
@@ -78,6 +90,48 @@ const FOCUS_LESSONS: FocusLessonDef[] = [
     title: '6 · 出发',
     topic: '出发与出行 / khởi hành · Đi lại',
     color: '#E65100',
+  },
+  {
+    id: 'HSK4-F1-L7',
+    moduleId: 'hsk4-module-7',
+    title: '7 · 按照',
+    topic: '按照与语言 / theo · Ngôn ngữ',
+    color: '#1565C0',
+  },
+  {
+    id: 'HSK4-F1-L8',
+    moduleId: 'hsk4-module-8',
+    title: '8 · 诚实',
+    topic: '诚实与心情 / thành thật · Cảm xúc',
+    color: '#5D4037',
+  },
+  {
+    id: 'HSK4-F1-L9',
+    moduleId: 'hsk4-module-9',
+    title: '9 · 饼干',
+    topic: '饼干与饮食 / bánh quy · Đời sống',
+    color: '#00838F',
+  },
+  {
+    id: 'HSK4-F1-L10',
+    moduleId: 'hsk4-module-10',
+    title: '10 · 保护',
+    topic: '保护与社会 / bảo vệ · Xã hội',
+    color: '#37474F',
+  },
+  {
+    id: 'HSK4-F1-L11',
+    moduleId: 'hsk4-module-11',
+    title: '11 · 大夫',
+    topic: '大夫与健康 / bác sĩ · Sức khỏe',
+    color: '#C62828',
+  },
+  {
+    id: 'HSK4-F1-L12',
+    moduleId: 'hsk4-module-12',
+    title: '12 · 工资',
+    topic: '工资与金钱 / lương · Tiền bạc',
+    color: '#00695C',
   },
 ];
 
