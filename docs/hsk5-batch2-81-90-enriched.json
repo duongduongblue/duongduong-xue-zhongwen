@@ -41,7 +41,7 @@
     "near_synonyms": [{"word":"降低","difference_vi":"减少 thiên về làm ít đi về số lượng; 降低 thiên về hạ xuống mức độ hoặc chỉ số."}],
     "app_synonym_note_vi": "减少 = giảm số lượng; 降低 = hạ mức độ/chỉ số.",
     "antonyms": ["增加"],
-    "example_sentences": [{"zh":"我们需要减少不必要的开支。","pinyin":"Wǒmen xūyào jiǎnshǎo bù bìyào de kāizhī.","vi":"Chúng ta cần giảm bớt những khoản chi không cần thiết.","context":"economy"}],
+    "example_sentences": [{"zh":"我们需要减少不必要的开支。","pinyin":"Wǒmen xūyào jiǎnshǎo bú bìyào de kāizhī.","vi":"Chúng ta cần giảm bớt những khoản chi không cần thiết.","context":"economy"}],
     "common_mistakes_vi": ["减少 thường nhấn mạnh số lượng ít đi, không phải lúc nào cũng thay cho 降低."],
     "app_note_vi": "Từ rất thực dụng trong dữ liệu, chi phí, thời gian và tài nguyên.",
     "review_prompts": [{"type":"meaning","prompt":"减少 nghĩa là gì?","answer":"giảm bớt"},{"type":"cloze","prompt":"我们需要____不必要的开支。","answer":"减少"}],

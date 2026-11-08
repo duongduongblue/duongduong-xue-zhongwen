@@ -219,7 +219,7 @@
     "id": "hsk4_0065",
     "level": "HSK4",
     "hanzi": "不但",
-    "pinyin": "bùdàn",
+    "pinyin": "búdàn",
     "topic_id": "language",
     "display_meaning_vi": "không những",
     "meaning_en": "not only",
@@ -241,20 +241,20 @@
       "不但好看"
     ],
     "near_synonyms": [],
-    "app_synonym_note_vi": "不但 thường đi với 也 hoặc 而且. 不 trong từ này giữ bù, không đổi thành bú.",
+    "app_synonym_note_vi": "不但 thường đi với 也 hoặc 而且. 不 trước 但 thanh 4 đọc bú: búdàn.",
     "antonyms": [],
     "example_sentences": [
       {
         "zh": "她不但会唱歌，也会跳舞。",
-        "pinyin": "Tā bù dàn huì chàng gē yě huì tiào wǔ.",
+        "pinyin": "Tā bú dàn huì chàng gē yě huì tiào wǔ.",
         "vi": "Cô ấy không những biết hát, mà cũng biết nhảy.",
         "context": "language"
       }
     ],
     "common_mistakes_vi": [
-      "不但 thường đi với 也 hoặc 而且. 不 trong từ này giữ bù, không đổi thành bú."
+      "不但 thường đi với 也 hoặc 而且. 不 trước 但 thanh 4 đọc bú: búdàn."
     ],
-    "app_note_vi": "不但 thường đi với 也 hoặc 而且. 不 trong từ này giữ bù, không đổi thành bú.",
+    "app_note_vi": "不但 thường đi với 也 hoặc 而且. 不 trước 但 thanh 4 đọc bú: búdàn.",
     "review_prompts": [
       {
         "type": "meaning",
@@ -381,7 +381,7 @@
     "id": "hsk4_0068",
     "level": "HSK4",
     "hanzi": "不过",
-    "pinyin": "bùguò",
+    "pinyin": "búguò",
     "topic_id": "language",
     "display_meaning_vi": "nhưng; chỉ là",
     "meaning_en": "however; only",
@@ -403,20 +403,20 @@
       "不过还"
     ],
     "near_synonyms": [],
-    "app_synonym_note_vi": "不过 là chữ nhưng nhẹ hơn 但是. 不 giữ bù.",
+    "app_synonym_note_vi": "不过 là chữ nhưng nhẹ hơn 但是. 不 trước 过 thanh 4 đọc bú: búguò.",
     "antonyms": [],
     "example_sentences": [
       {
         "zh": "这家店很近，不过有点贵。",
-        "pinyin": "Zhè jiā diàn hěn jìn bù guò yǒu diǎn guì.",
+        "pinyin": "Zhè jiā diàn hěn jìn bú guò yǒu diǎn guì.",
         "vi": "Cửa hàng này rất gần, nhưng hơi đắt.",
         "context": "language"
       }
     ],
     "common_mistakes_vi": [
-      "不过 là chữ nhưng nhẹ hơn 但是. 不 giữ bù."
+      "不过 là chữ nhưng nhẹ hơn 但是. 不 trước 过 thanh 4 đọc bú: búguò."
     ],
-    "app_note_vi": "不过 là chữ nhưng nhẹ hơn 但是. 不 giữ bù.",
+    "app_note_vi": "不过 là chữ nhưng nhẹ hơn 但是. 不 trước 过 thanh 4 đọc bú: búguò.",
     "review_prompts": [
       {
         "type": "meaning",

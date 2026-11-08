@@ -526,13 +526,13 @@
     "example_sentences": [
       {
         "zh": "坐地铁吧，要不就迟到了。",
-        "pinyin": "Zuò dìtiě ba, yàobù jiù chídào le.",
+        "pinyin": "Zuò dìtiě ba, yàobú jiù chídào le.",
         "vi": "Đi tàu điện ngầm đi, không thì muộn.",
         "context": "daily"
       }
     ],
     "common_mistakes_vi": [
-      "要不的 不 đứng cuối, vẫn đọc bù. 吧 đọc nhẹ ba. 地铁的 地 đọc dì."
+      "要不 đứng riêng đọc yàobù. Trong 要不就, 不 trước 就 thanh 4 đọc bú. 吧 đọc nhẹ ba. 地铁的 地 đọc dì."
     ],
     "app_note_vi": "Liên từ khẩu ngữ. Đưa một cách khác.",
     "review_prompts": [

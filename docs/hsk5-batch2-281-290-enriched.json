@@ -132,7 +132,7 @@
     "id": "hsk5_batch2_283",
     "level": "HSK5",
     "hanzi": "一旦",
-    "pinyin": "yīdàn",
+    "pinyin": "yídàn",
     "topic_id": "language",
     "display_meaning_vi": "một khi",
     "meaning_en": "once; as soon as",
@@ -164,13 +164,13 @@
     "example_sentences": [
       {
         "zh": "一旦答应了，就要做到。",
-        "pinyin": "Yīdàn dāying le, jiù yào zuòdào.",
+        "pinyin": "Yídàn dāying le, jiù yào zuòdào.",
         "vi": "Một khi đã nhận lời thì phải làm được.",
         "context": "logic"
       }
     ],
     "common_mistakes_vi": [
-      "答应的 应 đọc nhẹ: dāying. 一旦 trong từ này giữ yī, theo cách đọc trong từ điển."
+      "一 trước 旦 thanh 4 đọc yí: yídàn. 答应的 应 đọc nhẹ: dāying."
     ],
     "app_note_vi": "Nối điều kiện với kết quả sát ngay. Hay đi với 就.",
     "review_prompts": [
