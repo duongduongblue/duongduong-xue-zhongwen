@@ -1,0 +1,583 @@
+[
+  {
+    "id": "hsk5_batch2_601",
+    "level": "HSK5",
+    "hanzi": "爱护",
+    "pinyin": "àihù",
+    "topic_id": "emotion",
+    "display_meaning_vi": "yêu quý và bảo vệ",
+    "meaning_en": "to care for and protect",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "爱护环境 / 爱护公物",
+    "collocations": [
+      "爱护环境",
+      "爱护公物",
+      "爱护动物"
+    ],
+    "near_synonyms": [
+      {
+        "word": "保护",
+        "difference_vi": "爱护 là giữ vì quý; 保护 là che cho khỏi hại, không nhất thiết vì tình cảm."
+      }
+    ],
+    "app_synonym_note_vi": "爱护 = yêu và giữ gìn; 保护 = bảo vệ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们要爱护校园里的花草。",
+        "pinyin": "Wǒmen yào àihù xiàoyuán lǐ de huācǎo.",
+        "vi": "Chúng ta phải giữ gìn hoa cỏ trong trường.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "爱护 nhấn mạnh giữ gìn, không chỉ là thích."
+    ],
+    "app_note_vi": "Động từ. 爱护公物 là giữ của chung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "爱护 nghĩa là gì?",
+        "answer": "yêu quý và bảo vệ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们要____校园里的花草。",
+        "answer": "爱护"
+      },
+      {
+        "type": "synonym",
+        "prompt": "爱护 khác 保护 ở điểm nào?",
+        "answer": "爱护 là giữ vì quý; 保护 là che cho khỏi hại, không nhất thiết vì tình cảm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_602",
+    "level": "HSK5",
+    "hanzi": "爱惜",
+    "pinyin": "àixī",
+    "topic_id": "emotion",
+    "display_meaning_vi": "trân trọng",
+    "meaning_en": "to treasure; to use sparingly",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "爱惜时间 / 爱惜粮食",
+    "collocations": [
+      "爱惜时间",
+      "爱惜粮食",
+      "爱惜身体"
+    ],
+    "near_synonyms": [
+      {
+        "word": "爱护",
+        "difference_vi": "爱惜 là không lãng phí cái quý; 爱护 là giữ cho khỏi hỏng."
+      }
+    ],
+    "app_synonym_note_vi": "爱惜 = trân trọng, không phí; 爱护 = giữ gìn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他很爱惜时间，从不迟到。",
+        "pinyin": "Tā hěn àixī shíjiān, cóng bù chídào.",
+        "vi": "Anh ấy rất quý thời gian, không bao giờ đi muộn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "爱惜 hay đi với thời gian, lương thực, sức khỏe."
+    ],
+    "app_note_vi": "Động từ. 爱惜粮食 là không phí thức ăn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "爱惜 nghĩa là gì?",
+        "answer": "trân trọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他很____时间，从不迟到。",
+        "answer": "爱惜"
+      },
+      {
+        "type": "synonym",
+        "prompt": "爱惜 khác 爱护 ở điểm nào?",
+        "answer": "爱惜 là không lãng phí cái quý; 爱护 là giữ cho khỏi hỏng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_603",
+    "level": "HSK5",
+    "hanzi": "爱心",
+    "pinyin": "àixīn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tấm lòng",
+    "meaning_en": "kindness; a caring heart",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "献爱心 / 充满爱心",
+    "collocations": [
+      "爱心人士",
+      "充满爱心",
+      "献爱心"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她用爱心照顾生病的同学。",
+        "pinyin": "Tā yòng àixīn zhàogù shēngbìng de tóngxué.",
+        "vi": "Cô ấy chăm bạn ốm bằng tấm lòng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "爱心 là danh từ. Không đứng trước động từ như một phó từ."
+    ],
+    "app_note_vi": "Danh từ. 献爱心 là góp tấm lòng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "爱心 nghĩa là gì?",
+        "answer": "tấm lòng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她用____照顾生病的同学。",
+        "answer": "爱心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_604",
+    "level": "HSK5",
+    "hanzi": "宝贵",
+    "pinyin": "bǎoguì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "quý giá",
+    "meaning_en": "valuable; precious",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "宝贵意见 / 宝贵时间",
+    "collocations": [
+      "宝贵意见",
+      "宝贵时间",
+      "宝贵经验"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "谢谢你提出宝贵意见。",
+        "pinyin": "Xièxie nǐ tíchū bǎoguì yìjiàn.",
+        "vi": "Cảm ơn bạn đã nêu ý kiến quý.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "谢谢 đọc xièxie, âm sau nhẹ. 宝贵 trang trọng hơn 珍贵 khi nói thời gian và ý kiến."
+    ],
+    "app_note_vi": "Tính từ. Hay gặp trong lời cảm ơn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宝贵 nghĩa là gì?",
+        "answer": "quý giá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "谢谢你提出____意见。",
+        "answer": "宝贵"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_605",
+    "level": "HSK5",
+    "hanzi": "悲观",
+    "pinyin": "bēiguān",
+    "topic_id": "emotion",
+    "display_meaning_vi": "bi quan",
+    "meaning_en": "pessimistic",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "悲观情绪 / 很悲观",
+    "collocations": [
+      "悲观情绪",
+      "很悲观",
+      "悲观的看法"
+    ],
+    "near_synonyms": [
+      {
+        "word": "乐观",
+        "difference_vi": "悲观 thấy hướng xấu; 乐观 thấy hướng tốt."
+      }
+    ],
+    "app_synonym_note_vi": "悲观 = bi quan; 乐观 = lạc quan.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别太悲观，还有机会。",
+        "pinyin": "Bié tài bēiguān, hái yǒu jīhuì.",
+        "vi": "Đừng bi quan quá, vẫn còn cơ hội.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "还 đọc hái khi nghĩa là vẫn. Trả lại mới đọc huán."
+    ],
+    "app_note_vi": "Tính từ. Trái với 乐观.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "悲观 nghĩa là gì?",
+        "answer": "bi quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别太____，还有机会。",
+        "answer": "悲观"
+      },
+      {
+        "type": "synonym",
+        "prompt": "悲观 khác 乐观 ở điểm nào?",
+        "answer": "悲观 thấy hướng xấu; 乐观 thấy hướng tốt."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_606",
+    "level": "HSK5",
+    "hanzi": "乐观",
+    "pinyin": "lèguān",
+    "topic_id": "emotion",
+    "display_meaning_vi": "lạc quan",
+    "meaning_en": "optimistic",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "保持乐观 / 乐观态度",
+    "collocations": [
+      "保持乐观",
+      "乐观态度",
+      "很乐观"
+    ],
+    "near_synonyms": [
+      {
+        "word": "悲观",
+        "difference_vi": "乐观 tin hướng tốt; 悲观 chỉ thấy hướng xấu."
+      }
+    ],
+    "app_synonym_note_vi": "乐观 = lạc quan; 悲观 = bi quan.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他对考试结果很乐观。",
+        "pinyin": "Tā duì kǎoshì jiéguǒ hěn lèguān.",
+        "vi": "Anh ấy rất lạc quan về kết quả thi.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "乐 trong 乐观 đọc lè. Âm nhạc đọc yuè, như 音乐."
+    ],
+    "app_note_vi": "Tính từ. 保持乐观 là giữ thái độ lạc quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "乐观 nghĩa là gì?",
+        "answer": "lạc quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他对考试结果很____。",
+        "answer": "乐观"
+      },
+      {
+        "type": "synonym",
+        "prompt": "乐观 khác 悲观 ở điểm nào?",
+        "answer": "乐观 tin hướng tốt; 悲观 chỉ thấy hướng xấu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_607",
+    "level": "HSK5",
+    "hanzi": "惭愧",
+    "pinyin": "cánkuì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hổ thẹn",
+    "meaning_en": "ashamed",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到惭愧 / 很惭愧",
+    "collocations": [
+      "感到惭愧",
+      "很惭愧",
+      "惭愧地说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "答应的事没做成，我很惭愧。",
+        "pinyin": "Dāying de shì méi zuò chéng, wǒ hěn cánkuì.",
+        "vi": "Việc đã nhận mà chưa làm xong, tôi thấy hổ thẹn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "答应 đọc dāying, âm sau nhẹ. 惭愧 vì mình chưa làm đúng, không phải ngại xã giao. Ngại nói 不好意思."
+    ],
+    "app_note_vi": "Tính từ. 感到惭愧 là thấy hổ thẹn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "惭愧 nghĩa là gì?",
+        "answer": "hổ thẹn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "答应的事没做成，我很____。",
+        "answer": "惭愧"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_608",
+    "level": "HSK5",
+    "hanzi": "诚恳",
+    "pinyin": "chéngkěn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "chân thành",
+    "meaning_en": "sincere",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "态度诚恳 / 诚恳道歉",
+    "collocations": [
+      "态度诚恳",
+      "诚恳道歉",
+      "很诚恳"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他诚恳地向大家道歉。",
+        "pinyin": "Tā chéngkěn de xiàng dàjiā dàoqiàn.",
+        "vi": "Anh ấy chân thành xin lỗi mọi người.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地 trong 诚恳地 đọc de. 诚恳 thấy ở thái độ, không chỉ một câu xã giao."
+    ],
+    "app_note_vi": "Tính từ. 态度诚恳 là thái độ thật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "诚恳 nghĩa là gì?",
+        "answer": "chân thành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____地向大家道歉。",
+        "answer": "诚恳"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_609",
+    "level": "HSK5",
+    "hanzi": "大方",
+    "pinyin": "dàfang",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hào phóng",
+    "meaning_en": "generous; poised",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "feeling"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很大方 / 出手大方",
+    "collocations": [
+      "很大方",
+      "出手大方",
+      "举止大方"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她说话很大方，一点也不紧张。",
+        "pinyin": "Tā shuōhuà hěn dàfang, yìdiǎn yě bù jǐnzhāng.",
+        "vi": "Cô ấy nói chuyện rất thoải mái, không hề căng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "大方 đọc dàfang, âm sau nhẹ. Tên huyện Đại Phương đọc Dàfāng. Ở đây là hào phóng hoặc thái độ tự nhiên."
+    ],
+    "app_note_vi": "Tính từ. 出手大方 là chi tiền rộng rãi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "大方 nghĩa là gì?",
+        "answer": "hào phóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她说话很____，一点也不紧张。",
+        "answer": "大方"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_610",
+    "level": "HSK5",
+    "hanzi": "吃亏",
+    "pinyin": "chīkuī",
+    "topic_id": "emotion",
+    "display_meaning_vi": "thiệt",
+    "meaning_en": "to lose out",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "feeling",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "吃亏了 / 不怕吃亏",
+    "collocations": [
+      "吃亏了",
+      "不怕吃亏",
+      "经常吃亏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不看合同，容易吃亏。",
+        "pinyin": "Bú kàn hétong, róngyì chīkuī.",
+        "vi": "Không đọc hợp đồng thì dễ chịu thiệt.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不看 đọc bú kàn vì 看 là thanh 4. 合同 đọc hétong, âm sau nhẹ. 吃亏 là chịu phần thua, không phải đói."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. 吃大亏 là thiệt nặng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吃亏 nghĩa là gì?",
+        "answer": "thiệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不看合同，容易____。",
+        "answer": "吃亏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

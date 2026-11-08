@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_1351",
+    "level": "HSK5",
+    "hanzi": "戏剧",
+    "pinyin": "xìjù",
+    "topic_id": "society",
+    "display_meaning_vi": "kịch",
+    "meaning_en": "drama",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "戏剧表演 / 戏剧学院",
+    "collocations": [
+      "戏剧表演",
+      "戏剧学院",
+      "传统戏剧"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这部戏剧改编自一部小说。",
+        "pinyin": "Zhè bù xì jù gǎi biān zì yí bù xiǎo shuō.",
+        "vi": "Vở kịch này chuyển thể từ một tiểu thuyết.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Từ chung cho kịch trên sân khấu."
+    ],
+    "app_note_vi": "Từ chung cho kịch trên sân khấu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "戏剧 nghĩa là gì?",
+        "answer": "kịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这部____改编自一部小说。",
+        "answer": "戏剧"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1352",
+    "level": "HSK5",
+    "hanzi": "象棋",
+    "pinyin": "xiàngqí",
+    "topic_id": "society",
+    "display_meaning_vi": "cờ tướng",
+    "meaning_en": "Chinese chess",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "下象棋 / 象棋谱",
+    "collocations": [
+      "下象棋",
+      "象棋谱",
+      "一盘象棋"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爷爷每周都和邻居下象棋。",
+        "pinyin": "Yé yé měi zhōu dōu hé lín jū xià xiàng qí.",
+        "vi": "Mỗi tuần ông đánh cờ tướng với hàng xóm.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cờ tướng, khác cờ vây và cờ vua."
+    ],
+    "app_note_vi": "Cờ tướng, khác cờ vây và cờ vua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "象棋 nghĩa là gì?",
+        "answer": "cờ tướng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爷爷每周都和邻居下____。",
+        "answer": "象棋"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1353",
+    "level": "HSK5",
+    "hanzi": "象征",
+    "pinyin": "xiàngzhēng",
+    "topic_id": "society",
+    "display_meaning_vi": "tượng trưng",
+    "meaning_en": "to symbolize",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "象征意义 / 象征着",
+    "collocations": [
+      "象征意义",
+      "象征着",
+      "象征和平"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "鸽子常常被用来象征和平。",
+        "pinyin": "Gē zi cháng cháng bèi yòng lái xiàng zhēng hé píng.",
+        "vi": "Bồ câu thường được dùng để tượng trưng cho hòa bình.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Một vật đại diện cho ý nghĩa trừu tượng."
+    ],
+    "app_note_vi": "Một vật đại diện cho ý nghĩa trừu tượng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "象征 nghĩa là gì?",
+        "answer": "tượng trưng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "鸽子常常被用来____和平。",
+        "answer": "象征"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1354",
+    "level": "HSK5",
+    "hanzi": "悠久",
+    "pinyin": "yōujiǔ",
+    "topic_id": "society",
+    "display_meaning_vi": "lâu đời",
+    "meaning_en": "long-established",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "历史悠久 / 悠久文化",
+    "collocations": [
+      "历史悠久",
+      "悠久文化",
+      "悠久传统"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这所大学有悠久的历史。",
+        "pinyin": "Zhè suǒ dà xué yǒu yōu jiǔ de lì shǐ.",
+        "vi": "Trường đại học này có lịch sử lâu đời.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Gần như luôn đi với lịch sử, văn hóa hoặc truyền thống."
+    ],
+    "app_note_vi": "Gần như luôn đi với lịch sử, văn hóa hoặc truyền thống.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "悠久 nghĩa là gì?",
+        "answer": "lâu đời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这所大学有____的历史。",
+        "answer": "悠久"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1355",
+    "level": "HSK5",
+    "hanzi": "元旦",
+    "pinyin": "Yuándàn",
+    "topic_id": "society",
+    "display_meaning_vi": "Tết Dương lịch",
+    "meaning_en": "New Year's Day",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "元旦快乐 / 元旦晚会",
+    "collocations": [
+      "元旦快乐",
+      "元旦晚会",
+      "过元旦"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "元旦 là 1 tháng 1 dương lịch; 春节 là Tết âm lịch.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "元旦早上我们去爬山。",
+        "pinyin": "Yuán dàn zǎo shàng wǒ men qù pá shān.",
+        "vi": "Sáng Tết Dương lịch chúng tôi đi leo núi.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chỉ ngày 1 tháng 1 dương lịch."
+    ],
+    "app_note_vi": "Chỉ ngày 1 tháng 1 dương lịch.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "元旦 nghĩa là gì?",
+        "answer": "Tết Dương lịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____早上我们去爬山。",
+        "answer": "元旦"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 元旦?",
+        "answer": "元旦 là 1 tháng 1 dương lịch; 春节 là Tết âm lịch."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1356",
+    "level": "HSK5",
+    "hanzi": "展览",
+    "pinyin": "zhǎnlǎn",
+    "topic_id": "society",
+    "display_meaning_vi": "triển lãm",
+    "meaning_en": "an exhibition",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "展览会 / 书画展览",
+    "collocations": [
+      "展览会",
+      "书画展览",
+      "展览馆"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "展览 là một cuộc triển lãm; 展示 là đem ra cho người xem, không nhất thiết thành buổi triển lãm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校举办了摄影展览。",
+        "pinyin": "Xué xiào jǔ bàn le shè yǐng zhǎn lǎn.",
+        "vi": "Trường đã tổ chức triển lãm ảnh.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cuộc trưng bày tranh, ảnh hoặc hiện vật cho người xem."
+    ],
+    "app_note_vi": "Cuộc trưng bày tranh, ảnh hoặc hiện vật cho người xem.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "展览 nghĩa là gì?",
+        "answer": "triển lãm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校举办了摄影____。",
+        "answer": "展览"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 展览?",
+        "answer": "展览 là một cuộc triển lãm; 展示 là đem ra cho người xem, không nhất thiết thành buổi triển lãm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1357",
+    "level": "HSK5",
+    "hanzi": "主持",
+    "pinyin": "zhǔchí",
+    "topic_id": "society",
+    "display_meaning_vi": "chủ trì",
+    "meaning_en": "to host",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "主持会议 / 主持人",
+    "collocations": [
+      "主持会议",
+      "主持人",
+      "主持公道"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "主持 là người điều khiển buổi lễ hoặc cuộc họp; 主办 là đơn vị đứng ra tổ chức.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这场婚礼由朋友主持。",
+        "pinyin": "Zhè chǎng hūn lǐ yóu péng yǒu zhǔ chí.",
+        "vi": "Lễ cưới này do một người bạn chủ trì.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người điều khiển cuộc họp, buổi lễ hoặc chương trình."
+    ],
+    "app_note_vi": "Người điều khiển cuộc họp, buổi lễ hoặc chương trình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "主持 nghĩa là gì?",
+        "answer": "chủ trì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这场婚礼由朋友____。",
+        "answer": "主持"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 主持?",
+        "answer": "主持 là người điều khiển buổi lễ hoặc cuộc họp; 主办 là đơn vị đứng ra tổ chức."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1358",
+    "level": "HSK5",
+    "hanzi": "字幕",
+    "pinyin": "zìmù",
+    "topic_id": "society",
+    "display_meaning_vi": "phụ đề",
+    "meaning_en": "subtitles",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "中文字幕 / 打开字幕",
+    "collocations": [
+      "中文字幕",
+      "打开字幕",
+      "字幕组"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "字幕 là chữ trên phim; 标题 là tiêu đề của bài viết.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "看电影时我开了字幕。",
+        "pinyin": "Kàn diàn yǐng shí wǒ kāi le zì mù.",
+        "vi": "Lúc xem phim tôi đã bật phụ đề.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dòng chữ hiện trên phim hoặc video."
+    ],
+    "app_note_vi": "Dòng chữ hiện trên phim hoặc video.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "字幕 nghĩa là gì?",
+        "answer": "phụ đề"
+      },
+      {
+        "type": "cloze",
+        "prompt": "看电影时我开了____。",
+        "answer": "字幕"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 字幕?",
+        "answer": "字幕 là chữ trên phim; 标题 là tiêu đề của bài viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1359",
+    "level": "HSK5",
+    "hanzi": "祖先",
+    "pinyin": "zǔxiān",
+    "topic_id": "society",
+    "display_meaning_vi": "tổ tiên",
+    "meaning_en": "ancestors",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "祭祀祖先 / 纪念祖先",
+    "collocations": [
+      "祭祀祖先",
+      "纪念祖先",
+      "人类祖先"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些故事是祖先留下的。",
+        "pinyin": "Zhè xiē gù shì shì zǔ xiān liú xià de.",
+        "vi": "Những câu chuyện này là do tổ tiên để lại.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Những đời trước xa trong dòng họ hoặc của loài người."
+    ],
+    "app_note_vi": "Những đời trước xa trong dòng họ hoặc của loài người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "祖先 nghĩa là gì?",
+        "answer": "tổ tiên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些故事是____留下的。",
+        "answer": "祖先"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1360",
+    "level": "HSK5",
+    "hanzi": "艰苦",
+    "pinyin": "jiānkǔ",
+    "topic_id": "abstract",
+    "display_meaning_vi": "gian khổ",
+    "meaning_en": "harsh and difficult",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "desc"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "艰苦奋斗 / 条件艰苦",
+    "collocations": [
+      "艰苦奋斗",
+      "条件艰苦",
+      "艰苦岁月"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们在艰苦的环境里学习。",
+        "pinyin": "Tā men zài jiān kǔ de huán jìng lǐ xué xí.",
+        "vi": "Họ học trong điều kiện rất thiếu thốn.",
+        "context": "desc"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vất vả, thiếu tiện nghi."
+    ],
+    "app_note_vi": "Vất vả, thiếu tiện nghi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "艰苦 nghĩa là gì?",
+        "answer": "gian khổ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们在____的环境里学习。",
+        "answer": "艰苦"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

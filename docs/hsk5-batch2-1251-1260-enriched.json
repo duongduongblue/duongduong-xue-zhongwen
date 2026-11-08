@@ -1,0 +1,587 @@
+[
+  {
+    "id": "hsk5_batch2_1251",
+    "level": "HSK5",
+    "hanzi": "真理",
+    "pinyin": "zhēnlǐ",
+    "topic_id": "abstract",
+    "display_meaning_vi": "chân lý",
+    "meaning_en": "truth",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "探索真理 / 坚持真理",
+    "collocations": [
+      "探索真理",
+      "坚持真理",
+      "客观真理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "真理 là chân lý; 事实 là sự thật cụ thể đã xảy ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她把追求真理当作目标。",
+        "pinyin": "Tā bǎ zhuī qiú zhēn lǐ dàng zuò mù biāo.",
+        "vi": "Cô ấy lấy việc theo đuổi chân lý làm mục tiêu.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lẽ đúng có tính khái quát, không phải một sự việc cụ thể."
+    ],
+    "app_note_vi": "Lẽ đúng có tính khái quát, không phải một sự việc cụ thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "真理 nghĩa là gì?",
+        "answer": "chân lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她把追求____当作目标。",
+        "answer": "真理"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 真理?",
+        "answer": "真理 là chân lý; 事实 là sự thật cụ thể đã xảy ra."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1252",
+    "level": "HSK5",
+    "hanzi": "整体",
+    "pinyin": "zhěngtǐ",
+    "topic_id": "abstract",
+    "display_meaning_vi": "tổng thể",
+    "meaning_en": "the whole",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "整体规划 / 整体水平",
+    "collocations": [
+      "整体规划",
+      "整体水平",
+      "整体利益"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "整体 nhấn mạnh tính chỉnh thể; 整个 đi trước danh từ chỉ một đơn vị.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "要从整体考虑问题。",
+        "pinyin": "Yào cóng zhěng tǐ kǎo lǜ wèn tí.",
+        "vi": "Phải xem xét vấn đề trên tổng thể.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhìn mọi phần như một khối, không tách từng chi tiết."
+    ],
+    "app_note_vi": "Nhìn mọi phần như một khối, không tách từng chi tiết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "整体 nghĩa là gì?",
+        "answer": "tổng thể"
+      },
+      {
+        "type": "cloze",
+        "prompt": "要从____考虑问题。",
+        "answer": "整体"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 整体?",
+        "answer": "整体 nhấn mạnh tính chỉnh thể; 整个 đi trước danh từ chỉ một đơn vị."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1253",
+    "level": "HSK5",
+    "hanzi": "智慧",
+    "pinyin": "zhìhuì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "trí tuệ",
+    "meaning_en": "wisdom",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "集体智慧 / 民间智慧",
+    "collocations": [
+      "集体智慧",
+      "民间智慧",
+      "人生智慧"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "智慧 là trí tuệ, sự khôn; 智力 là năng lực trí óc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本书充满了生活智慧。",
+        "pinyin": "Zhè běn shū chōng mǎn le shēng huó zhì huì.",
+        "vi": "Cuốn sách này chứa đầy trí khôn của đời sống.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Sự hiểu biết chín, không chỉ là điểm số hay trí nhớ."
+    ],
+    "app_note_vi": "Sự hiểu biết chín, không chỉ là điểm số hay trí nhớ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "智慧 nghĩa là gì?",
+        "answer": "trí tuệ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这本书充满了生活____。",
+        "answer": "智慧"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 智慧?",
+        "answer": "智慧 là trí tuệ, sự khôn; 智力 là năng lực trí óc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1254",
+    "level": "HSK5",
+    "hanzi": "主观",
+    "pinyin": "zhǔguān",
+    "topic_id": "abstract",
+    "display_meaning_vi": "chủ quan",
+    "meaning_en": "subjective",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "主观判断 / 主观愿望",
+    "collocations": [
+      "主观判断",
+      "主观愿望",
+      "主观臆断"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "主观 là theo ý mình; 客观 là dựa trên sự thật bên ngoài.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别太主观，先听听事实。",
+        "pinyin": "Bié tài zhǔ guān xiān tīng tīng shì shí.",
+        "vi": "Đừng quá chủ quan, hãy nghe sự thật đã.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dựa trên cảm nhận của mình, chưa theo sự thật khách quan."
+    ],
+    "app_note_vi": "Dựa trên cảm nhận của mình, chưa theo sự thật khách quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "主观 nghĩa là gì?",
+        "answer": "chủ quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别太____，先听听事实。",
+        "answer": "主观"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 主观?",
+        "answer": "主观 là theo ý mình; 客观 là dựa trên sự thật bên ngoài."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1255",
+    "level": "HSK5",
+    "hanzi": "主张",
+    "pinyin": "zhǔzhāng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "chủ trương",
+    "meaning_en": "a view one stands by",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "主张改革 / 坚持主张",
+    "collocations": [
+      "主张改革",
+      "坚持主张",
+      "主张和平"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "主张 là quan điểm mình kiên trì; 建议 là đề nghị, nhẹ hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我主张把会议改到下午。",
+        "pinyin": "Wǒ zhǔ zhāng bǎ huì yì gǎi dào xià wǔ.",
+        "vi": "Tôi chủ trương chuyển cuộc họp sang buổi chiều.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ý kiến mình giữ và muốn người khác làm theo."
+    ],
+    "app_note_vi": "Ý kiến mình giữ và muốn người khác làm theo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "主张 nghĩa là gì?",
+        "answer": "chủ trương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____把会议改到下午。",
+        "answer": "主张"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 主张?",
+        "answer": "主张 là quan điểm mình kiên trì; 建议 là đề nghị, nhẹ hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1256",
+    "level": "HSK5",
+    "hanzi": "否认",
+    "pinyin": "fǒurèn",
+    "topic_id": "language",
+    "display_meaning_vi": "không thừa nhận",
+    "meaning_en": "to deny",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "否认事实 / 矢口否认",
+    "collocations": [
+      "否认事实",
+      "矢口否认",
+      "公开否认"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她否认自己说过那些话。",
+        "pinyin": "Tā fǒu rèn zì jǐ shuō guò nà xiē huà.",
+        "vi": "Cô ấy không thừa nhận đã nói những lời đó.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Không nhận một việc người khác nêu ra."
+    ],
+    "app_note_vi": "Không nhận một việc người khác nêu ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "否认 nghĩa là gì?",
+        "answer": "không thừa nhận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____自己说过那些话。",
+        "answer": "否认"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1257",
+    "level": "HSK5",
+    "hanzi": "连忙",
+    "pinyin": "liánmáng",
+    "topic_id": "language",
+    "display_meaning_vi": "vội",
+    "meaning_en": "hurrying to react",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "连忙解释 / 连忙站起来",
+    "collocations": [
+      "连忙解释",
+      "连忙站起来",
+      "连忙说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "连忙 tả người vội phản ứng; 赶紧 có thể là lời giục người khác mau lên.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听见敲门，他连忙去开。",
+        "pinyin": "Tīng jiàn qiāo mén tā lián máng qù kāi.",
+        "vi": "Nghe tiếng gõ cửa, anh ấy vội đi mở.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm ngay sau một việc vừa xảy ra, không dùng để ra lệnh."
+    ],
+    "app_note_vi": "Làm ngay sau một việc vừa xảy ra, không dùng để ra lệnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "连忙 nghĩa là gì?",
+        "answer": "vội"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听见敲门，他____去开。",
+        "answer": "连忙"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 连忙?",
+        "answer": "连忙 tả người vội phản ứng; 赶紧 có thể là lời giục người khác mau lên."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1258",
+    "level": "HSK5",
+    "hanzi": "哪怕",
+    "pinyin": "nǎpà",
+    "topic_id": "language",
+    "display_meaning_vi": "dù cho",
+    "meaning_en": "even if",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "哪怕再难 / 哪怕只有",
+    "collocations": [
+      "哪怕再难",
+      "哪怕只有",
+      "哪怕是"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "哪怕 là dù, hơi nói miệng; 即使 trang trọng hơn một chút.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "哪怕下雨我也要去。",
+        "pinyin": "Nǎ pà xià yǔ wǒ yě yào qù.",
+        "vi": "Dù mưa tôi cũng vẫn đi.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhượng bộ mạnh, thường đi với 也 ở vế sau."
+    ],
+    "app_note_vi": "Nhượng bộ mạnh, thường đi với 也 ở vế sau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "哪怕 nghĩa là gì?",
+        "answer": "dù cho"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____下雨我也要去。",
+        "answer": "哪怕"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 哪怕?",
+        "answer": "哪怕 là dù, hơi nói miệng; 即使 trang trọng hơn một chút."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1259",
+    "level": "HSK5",
+    "hanzi": "推辞",
+    "pinyin": "tuīcí",
+    "topic_id": "language",
+    "display_meaning_vi": "từ chối khéo",
+    "meaning_en": "to decline politely",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "婉言推辞 / 再三推辞",
+    "collocations": [
+      "婉言推辞",
+      "再三推辞",
+      "推辞不掉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "推辞 là từ chối khéo lời mời; 拒绝 là từ chối thẳng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她推辞了这次演讲邀请。",
+        "pinyin": "Tā tuī cí le zhè cì yǎn jiǎng yāo qǐng.",
+        "vi": "Cô ấy khéo từ chối lời mời thuyết trình.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Từ chối việc được mời, nhẹ hơn từ chối thẳng."
+    ],
+    "app_note_vi": "Từ chối việc được mời, nhẹ hơn từ chối thẳng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "推辞 nghĩa là gì?",
+        "answer": "từ chối khéo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____了这次演讲邀请。",
+        "answer": "推辞"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 推辞?",
+        "answer": "推辞 là từ chối khéo lời mời; 拒绝 là từ chối thẳng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1260",
+    "level": "HSK5",
+    "hanzi": "问候",
+    "pinyin": "wènhòu",
+    "topic_id": "language",
+    "display_meaning_vi": "hỏi thăm",
+    "meaning_en": "to send regards",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "问候语 / 代为问候",
+    "collocations": [
+      "问候语",
+      "代为问候",
+      "亲切问候"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "问候 là hỏi thăm xã giao; 问 là hỏi nói chung.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请代我问候你的父母。",
+        "pinyin": "Qǐng dài wǒ wèn hòu nǐ de fù mǔ.",
+        "vi": "Nhờ bạn hỏi thăm bố mẹ giúp tôi.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lời thăm hỏi xã giao, không phải hỏi để lấy tin."
+    ],
+    "app_note_vi": "Lời thăm hỏi xã giao, không phải hỏi để lấy tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "问候 nghĩa là gì?",
+        "answer": "hỏi thăm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请代我____你的父母。",
+        "answer": "问候"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 问候?",
+        "answer": "问候 là hỏi thăm xã giao; 问 là hỏi nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

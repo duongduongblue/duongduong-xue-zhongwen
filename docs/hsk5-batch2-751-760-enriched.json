@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_751",
+    "level": "HSK5",
+    "hanzi": "划船",
+    "pinyin": "huáchuán",
+    "topic_id": "daily",
+    "display_meaning_vi": "chèo thuyền",
+    "meaning_en": "to row a boat",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去划船 / 划船比赛",
+    "collocations": [
+      "去划船",
+      "划船比赛",
+      "喜欢划船"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末我们去公园划船。",
+        "pinyin": "Zhōumò wǒmen qù gōngyuán huáchuán.",
+        "vi": "Cuối tuần chúng tôi ra công viên chèo thuyền.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "划 trong 划船 đọc huá. Kế hoạch đọc huà, như 计划."
+    ],
+    "app_note_vi": "Động từ. 划船比赛 là đua thuyền.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "划船 nghĩa là gì?",
+        "answer": "chèo thuyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末我们去公园____。",
+        "answer": "划船"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_752",
+    "level": "HSK5",
+    "hanzi": "钓",
+    "pinyin": "diào",
+    "topic_id": "daily",
+    "display_meaning_vi": "câu",
+    "meaning_en": "to fish with a hook",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "钓鱼 / 钓上来",
+    "collocations": [
+      "钓鱼",
+      "钓上来",
+      "钓到了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爷爷在河边钓鱼。",
+        "pinyin": "Yéye zài hé biān diào yú.",
+        "vi": "Ông đang câu cá bên sông.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "钓 dùng lưỡi câu. Lưới bắt nói 捕."
+    ],
+    "app_note_vi": "Động từ. 钓鱼 là câu cá.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "钓 nghĩa là gì?",
+        "answer": "câu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爷爷在河边____鱼。",
+        "answer": "钓"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_753",
+    "level": "HSK5",
+    "hanzi": "蹲",
+    "pinyin": "dūn",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngồi xổm",
+    "meaning_en": "to squat",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "蹲下来 / 蹲着",
+    "collocations": [
+      "蹲下来",
+      "蹲在地上",
+      "蹲着"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他蹲下来系鞋带。",
+        "pinyin": "Tā dūn xiàlai jì xiédài.",
+        "vi": "Anh ấy ngồi xổm buộc dây giày.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "下来的 来 đọc nhẹ lai. 系鞋带的 系 đọc jì. Thắt cà vạt 系领带 đọc xì."
+    ],
+    "app_note_vi": "Động từ. 蹲着 là đang ngồi xổm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "蹲 nghĩa là gì?",
+        "answer": "ngồi xổm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____下来系鞋带。",
+        "answer": "蹲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_754",
+    "level": "HSK5",
+    "hanzi": "递",
+    "pinyin": "dì",
+    "topic_id": "daily",
+    "display_meaning_vi": "đưa",
+    "meaning_en": "to pass; to hand",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "递给 / 递过来",
+    "collocations": [
+      "递给",
+      "递过来",
+      "递名片"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把菜单递给我。",
+        "pinyin": "Qǐng bǎ càidān dì gěi wǒ.",
+        "vi": "Xin đưa thực đơn cho tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "递 là chuyển từ tay này sang tay kia, ở gần. Gửi đi xa nói 寄."
+    ],
+    "app_note_vi": "Động từ. 递名片 là đưa danh thiếp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "递 nghĩa là gì?",
+        "answer": "đưa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把菜单____给我。",
+        "answer": "递"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_755",
+    "level": "HSK5",
+    "hanzi": "点头",
+    "pinyin": "diǎntóu",
+    "topic_id": "daily",
+    "display_meaning_vi": "gật đầu",
+    "meaning_en": "to nod",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "点头同意 / 点头微笑",
+    "collocations": [
+      "点头同意",
+      "点头微笑",
+      "轻轻点头"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他点头同意了。",
+        "pinyin": "Tā diǎntóu tóngyì le.",
+        "vi": "Anh ấy gật đầu đồng ý.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "点头 là ra hiệu đồng ý hoặc chào. Lắc đầu là 摇头."
+    ],
+    "app_note_vi": "Động từ. 轻轻点头 là gật nhẹ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "点头 nghĩa là gì?",
+        "answer": "gật đầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____同意了。",
+        "answer": "点头"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_756",
+    "level": "HSK5",
+    "hanzi": "打喷嚏",
+    "pinyin": "dǎpēntì",
+    "topic_id": "health",
+    "display_meaning_vi": "hắt hơi",
+    "meaning_en": "to sneeze",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "大声打喷嚏 / 想打喷嚏",
+    "collocations": [
+      "大声打喷嚏",
+      "想打喷嚏",
+      "不停地打喷嚏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一进门他就打喷嚏。",
+        "pinyin": "Yí jìn mén tā jiù dǎpēntì.",
+        "vi": "Vừa vào cửa anh ấy đã hắt hơi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "喷 trong 打喷嚏 đọc pēn. Thơm nức đọc pèn, như 喷香. 一进 đọc yí jìn vì 进 là thanh 4."
+    ],
+    "app_note_vi": "Động từ. 想打喷嚏 là muốn hắt hơi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打喷嚏 nghĩa là gì?",
+        "answer": "hắt hơi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一进门他就____。",
+        "answer": "打喷嚏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_757",
+    "level": "HSK5",
+    "hanzi": "躲藏",
+    "pinyin": "duǒcáng",
+    "topic_id": "daily",
+    "display_meaning_vi": "trốn",
+    "meaning_en": "to hide",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "躲藏起来 / 躲藏在",
+    "collocations": [
+      "躲藏起来",
+      "四处躲藏",
+      "躲藏在"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小猫躲藏在沙发后面。",
+        "pinyin": "Xiǎo māo duǒcáng zài shāfā hòumiàn.",
+        "vi": "Mèo con trốn sau ghế sofa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "藏 trong 躲藏 đọc cáng, là giấu. Tây Tạng đọc zàng, như 西藏."
+    ],
+    "app_note_vi": "Động từ. 躲藏起来 là trốn đi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "躲藏 nghĩa là gì?",
+        "answer": "trốn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小猫____在沙发后面。",
+        "answer": "躲藏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_758",
+    "level": "HSK5",
+    "hanzi": "挥",
+    "pinyin": "huī",
+    "topic_id": "daily",
+    "display_meaning_vi": "vẫy",
+    "meaning_en": "to wave",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "挥手 / 挥动",
+    "collocations": [
+      "挥手",
+      "挥动",
+      "挥了挥"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他挥手跟我们再见。",
+        "pinyin": "Tā huī shǒu gēn wǒmen zàijiàn.",
+        "vi": "Anh ấy vẫy tay tạm biệt chúng tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "挥手 là vẫy. Gật đầu là 点头."
+    ],
+    "app_note_vi": "Động từ. 挥了挥 là vẫy một cái.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "挥 nghĩa là gì?",
+        "answer": "vẫy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____手跟我们再见。",
+        "answer": "挥"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_759",
+    "level": "HSK5",
+    "hanzi": "扶",
+    "pinyin": "fú",
+    "topic_id": "daily",
+    "display_meaning_vi": "đỡ",
+    "meaning_en": "to support with the hand",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "扶着 / 扶起来",
+    "collocations": [
+      "扶着",
+      "扶起来",
+      "扶老人"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请扶着栏杆走。",
+        "pinyin": "Qǐng fú zhe lángān zǒu.",
+        "vi": "Xin vịn lan can mà đi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc nhẹ zhe. 扶 là lấy tay đỡ hoặc vịn."
+    ],
+    "app_note_vi": "Động từ. 扶起来 là đỡ dậy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "扶 nghĩa là gì?",
+        "answer": "đỡ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____着栏杆走。",
+        "answer": "扶"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_760",
+    "level": "HSK5",
+    "hanzi": "关闭",
+    "pinyin": "guānbì",
+    "topic_id": "daily",
+    "display_meaning_vi": "đóng",
+    "meaning_en": "to close; to shut down",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "关闭窗户 / 关闭电脑",
+    "collocations": [
+      "关闭窗户",
+      "关闭电脑",
+      "暂时关闭"
+    ],
+    "near_synonyms": [
+      {
+        "word": "关",
+        "difference_vi": "关闭 trang trọng hơn, dùng cho cửa, máy và cửa sổ chương trình; 关 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "关闭 = đóng, tắt; 关 = đóng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "离开时请关闭电脑。",
+        "pinyin": "Líkāi shí qǐng guānbì diànnǎo.",
+        "vi": "Khi rời đi xin tắt máy tính.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "关闭 dùng cho cửa, máy và một chức năng. Cửa hàng hết giờ hay nói 关门."
+    ],
+    "app_note_vi": "Động từ. 暂时关闭 là tạm đóng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "关闭 nghĩa là gì?",
+        "answer": "đóng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "离开时请____电脑。",
+        "answer": "关闭"
+      },
+      {
+        "type": "synonym",
+        "prompt": "关闭 khác 关 ở điểm nào?",
+        "answer": "关闭 trang trọng hơn, dùng cho cửa, máy và cửa sổ chương trình; 关 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

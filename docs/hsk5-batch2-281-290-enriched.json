@@ -1,0 +1,629 @@
+[
+  {
+    "id": "hsk5_batch2_281",
+    "level": "HSK5",
+    "hanzi": "居然",
+    "pinyin": "jūrán",
+    "topic_id": "language",
+    "display_meaning_vi": "thế mà",
+    "meaning_en": "unexpectedly; to one's surprise",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "居然 + 动词",
+    "collocations": [
+      "居然会",
+      "居然如此",
+      "居然敢"
+    ],
+    "near_synonyms": [
+      {
+        "word": "竟然",
+        "difference_vi": "居然和 竟然 đều là không ngờ. 居然 khẩu ngữ hơn; 竟然 hơi trang trọng."
+      }
+    ],
+    "app_synonym_note_vi": "居然 = thế mà, khẩu ngữ hơn; 竟然 = không ngờ, hơi trang trọng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他居然忘了自己的生日。",
+        "pinyin": "Tā jūrán wàng le zìjǐ de shēngrì.",
+        "vi": "Anh ấy thế mà quên sinh nhật của mình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "居然 đứng trước việc khó tin, thường có ý ngạc nhiên, không phải chỉ “đã”."
+    ],
+    "app_note_vi": "Phó từ. Đặt trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "居然 nghĩa là gì?",
+        "answer": "thế mà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____忘了自己的生日。",
+        "answer": "居然"
+      },
+      {
+        "type": "synonym",
+        "prompt": "居然 khác 竟然 ở điểm nào?",
+        "answer": "居然和 竟然 đều là không ngờ. 居然 khẩu ngữ hơn; 竟然 hơi trang trọng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_282",
+    "level": "HSK5",
+    "hanzi": "导致",
+    "pinyin": "dǎozhì",
+    "topic_id": "language",
+    "display_meaning_vi": "dẫn đến",
+    "meaning_en": "to lead to; to cause",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "导致 + 结果",
+    "collocations": [
+      "导致失败",
+      "导致问题",
+      "从而导致"
+    ],
+    "near_synonyms": [
+      {
+        "word": "造成",
+        "difference_vi": "导致 nối nguyên nhân với kết quả trong câu; 造成 cũng là gây ra, hay đứng trước danh từ thiệt hại."
+      }
+    ],
+    "app_synonym_note_vi": "导致 = dẫn đến một kết quả; 造成 = gây ra một thiệt hại.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "粗心导致他算错了答案。",
+        "pinyin": "Cūxīn dǎozhì tā suàn cuò le dá'àn.",
+        "vi": "Sơ ý khiến anh ấy tính sai đáp án.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "导致 thường đi với kết quả không hay. Kết quả tốt nên nói 带来 hoặc 使."
+    ],
+    "app_note_vi": "Động từ trang trọng. Chủ ngữ là nguyên nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "导致 nghĩa là gì?",
+        "answer": "dẫn đến"
+      },
+      {
+        "type": "cloze",
+        "prompt": "粗心____他算错了答案。",
+        "answer": "导致"
+      },
+      {
+        "type": "synonym",
+        "prompt": "导致 khác 造成 ở điểm nào?",
+        "answer": "导致 nối nguyên nhân với kết quả trong câu; 造成 cũng là gây ra, hay đứng trước danh từ thiệt hại."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_283",
+    "level": "HSK5",
+    "hanzi": "一旦",
+    "pinyin": "yídàn",
+    "topic_id": "language",
+    "display_meaning_vi": "một khi",
+    "meaning_en": "once; as soon as",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "一旦…就…",
+    "collocations": [
+      "一旦决定",
+      "一旦发现",
+      "一旦发生"
+    ],
+    "near_synonyms": [
+      {
+        "word": "如果",
+        "difference_vi": "一旦 là một khi việc đã xảy ra thì hệ quả theo ngay; 如果 chỉ là giả định, hệ quả chưa chắc sát ngay."
+      }
+    ],
+    "app_synonym_note_vi": "一旦 = một khi đã… thì…; 如果 = nếu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一旦答应了，就要做到。",
+        "pinyin": "Yídàn dāying le, jiù yào zuòdào.",
+        "vi": "Một khi đã nhận lời thì phải làm được.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 旦 thanh 4 đọc yí: yídàn. 答应的 应 đọc nhẹ: dāying."
+    ],
+    "app_note_vi": "Nối điều kiện với kết quả sát ngay. Hay đi với 就.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "一旦 nghĩa là gì?",
+        "answer": "một khi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____答应了，就要做到。",
+        "answer": "一旦"
+      },
+      {
+        "type": "synonym",
+        "prompt": "一旦 khác 如果 ở điểm nào?",
+        "answer": "一旦 là một khi việc đã xảy ra thì hệ quả theo ngay; 如果 chỉ là giả định, hệ quả chưa chắc sát ngay."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_284",
+    "level": "HSK5",
+    "hanzi": "显然",
+    "pinyin": "xiǎnrán",
+    "topic_id": "language",
+    "display_meaning_vi": "rõ ràng",
+    "meaning_en": "obviously; clearly",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "很显然 / 显然 + 是",
+    "collocations": [
+      "很显然",
+      "显然不同",
+      "显然是"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个答案显然不完整。",
+        "pinyin": "Zhège dá'àn xiǎnrán bù wánzhěng.",
+        "vi": "Đáp án này rõ ràng còn thiếu.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "显然 là người nói thấy điều đó đã quá rõ, không cần chứng minh thêm trong câu."
+    ],
+    "app_note_vi": "Phó từ. Hay đứng đầu câu hoặc trước vị ngữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "显然 nghĩa là gì?",
+        "answer": "rõ ràng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个答案____不完整。",
+        "answer": "显然"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_285",
+    "level": "HSK5",
+    "hanzi": "必要",
+    "pinyin": "bìyào",
+    "topic_id": "language",
+    "display_meaning_vi": "cần thiết",
+    "meaning_en": "necessary",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有必要 / 没有必要",
+    "collocations": [
+      "有必要",
+      "没有必要",
+      "必要的时候"
+    ],
+    "near_synonyms": [
+      {
+        "word": "必须",
+        "difference_vi": "有必要 là thấy nên làm; 必须 là bắt buộc, không còn lựa chọn."
+      }
+    ],
+    "app_synonym_note_vi": "必要 = cần thiết; 必须 = bắt buộc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "有必要再检查一遍作业。",
+        "pinyin": "Yǒu bìyào zài jiǎnchá yí biàn zuòyè.",
+        "vi": "Cần kiểm tra bài thêm một lượt.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "没有必要 là không cần phải làm. 一遍 đọc yí biàn."
+    ],
+    "app_note_vi": "Hay đi với 有 hoặc 没有. Ít đứng một mình làm vị ngữ trần.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "必要 nghĩa là gì?",
+        "answer": "cần thiết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "有____再检查一遍作业。",
+        "answer": "必要"
+      },
+      {
+        "type": "synonym",
+        "prompt": "必要 khác 必须 ở điểm nào?",
+        "answer": "有必要 là thấy nên làm; 必须 là bắt buộc, không còn lựa chọn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_286",
+    "level": "HSK5",
+    "hanzi": "反应",
+    "pinyin": "fǎnyìng",
+    "topic_id": "language",
+    "display_meaning_vi": "phản ứng",
+    "meaning_en": "reaction; response",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "没有反应 / 反应很快",
+    "collocations": [
+      "化学反应",
+      "反应很快",
+      "过敏反应"
+    ],
+    "near_synonyms": [
+      {
+        "word": "反映",
+        "difference_vi": "反应 là cách người hoặc cơ thể đáp lại; 反映 là phản ánh một tình hình hoặc báo cáo lên."
+      }
+    ],
+    "app_synonym_note_vi": "反应 = phản ứng; 反映 = phản ánh, báo cáo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听到这个消息，他没什么反应。",
+        "pinyin": "Tīngdào zhège xiāoxi, tā méi shénme fǎnyìng.",
+        "vi": "Nghe tin này, anh ấy hầu như không phản ứng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "过敏反应 là dị ứng, cùng chữ 反应. Đừng viết thành 反映 khi muốn nói phản ứng của người."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 没什么反应 là hầu như không đáp lại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "反应 nghĩa là gì?",
+        "answer": "phản ứng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听到这个消息，他没什么____。",
+        "answer": "反应"
+      },
+      {
+        "type": "synonym",
+        "prompt": "反应 khác 反映 ở điểm nào?",
+        "answer": "反应 là cách người hoặc cơ thể đáp lại; 反映 là phản ánh một tình hình hoặc báo cáo lên."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_287",
+    "level": "HSK5",
+    "hanzi": "人生",
+    "pinyin": "rénshēng",
+    "topic_id": "language",
+    "display_meaning_vi": "đời người",
+    "meaning_en": "life; one's life",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "人生 + 经验 / 目标",
+    "collocations": [
+      "人生经验",
+      "人生目标",
+      "人生道路"
+    ],
+    "near_synonyms": [
+      {
+        "word": "生活",
+        "difference_vi": "人生 là cả quãng đời và ý nghĩa của nó; 生活 là đời sống hàng ngày."
+      }
+    ],
+    "app_synonym_note_vi": "人生 = cả cuộc đời; 生活 = sinh hoạt hàng ngày.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "每个人的人生都不一样。",
+        "pinyin": "Měi gè rén de rénshēng dōu bù yíyàng.",
+        "vi": "Cuộc đời mỗi người đều không giống nhau.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "人生 không phải phòng nhân sự. Phòng nhân sự là 人事."
+    ],
+    "app_note_vi": "Danh từ. 不一样 đọc bù yíyàng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人生 nghĩa là gì?",
+        "answer": "đời người"
+      },
+      {
+        "type": "cloze",
+        "prompt": "每个人的____都不一样。",
+        "answer": "人生"
+      },
+      {
+        "type": "synonym",
+        "prompt": "人生 khác 生活 ở điểm nào?",
+        "answer": "人生 là cả quãng đời và ý nghĩa của nó; 生活 là đời sống hàng ngày."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_288",
+    "level": "HSK5",
+    "hanzi": "意外",
+    "pinyin": "yìwài",
+    "topic_id": "language",
+    "display_meaning_vi": "bất ngờ",
+    "meaning_en": "unexpected; accident",
+    "part_of_speech": "adjective/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到意外 / 意外事故",
+    "collocations": [
+      "感到意外",
+      "意外事故",
+      "出乎意外"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个消息让大家都很意外。",
+        "pinyin": "Zhège xiāoxi ràng dàjiā dōu hěn yìwài.",
+        "vi": "Tin này khiến mọi người đều rất bất ngờ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "意外 vừa là bất ngờ, vừa là tai nạn trong 意外事故. Nhìn câu để tách hai nghĩa."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 感到意外 là thấy ngoài dự kiến.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "意外 nghĩa là gì?",
+        "answer": "bất ngờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个消息让大家都很____。",
+        "answer": "意外"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_289",
+    "level": "HSK5",
+    "hanzi": "具体",
+    "pinyin": "jùtǐ",
+    "topic_id": "language",
+    "display_meaning_vi": "cụ thể",
+    "meaning_en": "specific; concrete",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "具体 + 计划 / 情况",
+    "collocations": [
+      "具体情况",
+      "具体计划",
+      "具体来说"
+    ],
+    "near_synonyms": [
+      {
+        "word": "详细",
+        "difference_vi": "具体 là chỉ đúng việc, đúng chi tiết cần nói; 详细 là kể đầy đủ, dài hơn."
+      }
+    ],
+    "app_synonym_note_vi": "具体 = cụ thể, đúng việc; 详细 = tường tận, đầy đủ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请说得再具体一些。",
+        "pinyin": "Qǐng shuō de zài jùtǐ yìxiē.",
+        "vi": "Xin nói cụ thể hơn một chút.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "说得具体 dùng 得, đọc de. 一些 đọc yìxiē."
+    ],
+    "app_note_vi": "Tính từ. 具体来说 là “nói cụ thể thì”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "具体 nghĩa là gì?",
+        "answer": "cụ thể"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请说得再____一些。",
+        "answer": "具体"
+      },
+      {
+        "type": "synonym",
+        "prompt": "具体 khác 详细 ở điểm nào?",
+        "answer": "具体 là chỉ đúng việc, đúng chi tiết cần nói; 详细 là kể đầy đủ, dài hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_290",
+    "level": "HSK5",
+    "hanzi": "表明",
+    "pinyin": "biǎomíng",
+    "topic_id": "language",
+    "display_meaning_vi": "cho thấy; bày tỏ",
+    "meaning_en": "to show; to make clear",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "表明 + 态度 / 事实表明",
+    "collocations": [
+      "表明态度",
+      "表明看法",
+      "事实表明"
+    ],
+    "near_synonyms": [
+      {
+        "word": "表示",
+        "difference_vi": "表明 là làm cho một thái độ hoặc một kết luận trở nên rõ; 表示 là bày tỏ, rộng và thông dụng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "表明 = làm rõ, cho thấy; 表示 = bày tỏ, thông dụng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他的行动表明他很认真。",
+        "pinyin": "Tā de xíngdòng biǎomíng tā hěn rènzhēn.",
+        "vi": "Việc anh ấy làm cho thấy anh ấy rất nghiêm túc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "事实表明后面接一个结论，不接一个名词 trần."
+    ],
+    "app_note_vi": "Động từ trang trọng. Chủ ngữ có thể là hành động, số liệu hoặc sự thật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "表明 nghĩa là gì?",
+        "answer": "cho thấy; bày tỏ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他的行动____他很认真。",
+        "answer": "表明"
+      },
+      {
+        "type": "synonym",
+        "prompt": "表明 khác 表示 ở điểm nào?",
+        "answer": "表明 là làm cho một thái độ hoặc một kết luận trở nên rõ; 表示 là bày tỏ, rộng và thông dụng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

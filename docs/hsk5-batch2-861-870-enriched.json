@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_861",
+    "level": "HSK5",
+    "hanzi": "延长",
+    "pinyin": "yáncháng",
+    "topic_id": "work",
+    "display_meaning_vi": "kéo dài",
+    "meaning_en": "to extend; to prolong",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "延长时间 / 延长合同",
+    "collocations": [
+      "延长时间",
+      "延长合同",
+      "会议延长"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "会议延长了十分钟。",
+        "pinyin": "Huìyì yáncháng le shí fēnzhōng.",
+        "vi": "Cuộc họp kéo dài thêm mười phút.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "长 trong 延长 đọc cháng, là dài. Lớn lên đọc zhǎng, như 长大. Đây là chữ 长, khác 常 trong 常识."
+    ],
+    "app_note_vi": "Động từ. Làm cho thời gian hoặc độ dài thêm ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "延长 nghĩa là gì?",
+        "answer": "kéo dài"
+      },
+      {
+        "type": "cloze",
+        "prompt": "会议____了十分钟。",
+        "answer": "延长"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_862",
+    "level": "HSK5",
+    "hanzi": "转变",
+    "pinyin": "zhuǎnbiàn",
+    "topic_id": "work",
+    "display_meaning_vi": "chuyển biến",
+    "meaning_en": "to change; a shift",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "转变态度 / 很大转变",
+    "collocations": [
+      "转变态度",
+      "很大转变",
+      "思想转变"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "态度有了很大转变。",
+        "pinyin": "Tàidu yǒu le hěn dà zhuǎnbiàn.",
+        "vi": "Thái độ đã chuyển nhiều.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "转 đọc zhuǎn, là chuyển. Xoay vòng đọc zhuàn, như 转圈."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. Đổi hướng rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "转变 nghĩa là gì?",
+        "answer": "chuyển biến"
+      },
+      {
+        "type": "cloze",
+        "prompt": "态度有了很大____。",
+        "answer": "转变"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_863",
+    "level": "HSK5",
+    "hanzi": "流传",
+    "pinyin": "liúchuán",
+    "topic_id": "society",
+    "display_meaning_vi": "lưu truyền",
+    "meaning_en": "to circulate; to be handed down",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "流传很久 / 流传下来",
+    "collocations": [
+      "流传很久",
+      "广泛流传",
+      "流传下来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个故事流传了很久。",
+        "pinyin": "Zhège gùshi liúchuán le hěn jiǔ.",
+        "vi": "Câu chuyện này lưu truyền đã lâu.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "传 đọc chuán. Tiểu sử đọc zhuàn, như 传记. 故事 đọc gùshi, âm sau nhẹ."
+    ],
+    "app_note_vi": "Động từ. Chuyện hoặc cách làm đi qua nhiều đời.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "流传 nghĩa là gì?",
+        "answer": "lưu truyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个故事____了很久。",
+        "answer": "流传"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_864",
+    "level": "HSK5",
+    "hanzi": "落后",
+    "pinyin": "luòhòu",
+    "topic_id": "work",
+    "display_meaning_vi": "tụt lại",
+    "meaning_en": "to fall behind; backward",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不想落后 / 思想落后",
+    "collocations": [
+      "不想落后",
+      "思想落后",
+      "落后于"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他不想落后。",
+        "pinyin": "Tā bù xiǎng luòhòu.",
+        "vi": "Anh ấy không muốn tụt lại.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "落 đọc luò. Bỏ quên đọc là, như 丢三落四. Đau cổ vì gối đọc lào, như 落枕. 想 là thanh 3, nên 不 vẫn đọc bù."
+    ],
+    "app_note_vi": "Động từ hoặc tính từ. Đi sau người khác hoặc còn cũ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "落后 nghĩa là gì?",
+        "answer": "tụt lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他不想____。",
+        "answer": "落后"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_865",
+    "level": "HSK5",
+    "hanzi": "开放",
+    "pinyin": "kāifàng",
+    "topic_id": "work",
+    "display_meaning_vi": "mở cửa",
+    "meaning_en": "to open; open",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对外开放 / 开放时间",
+    "collocations": [
+      "对外开放",
+      "开放时间",
+      "图书馆开放"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "图书馆周末开放。",
+        "pinyin": "Túshūguǎn zhōumò kāifàng.",
+        "vi": "Thư viện mở cửa cuối tuần.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "开放 là cho người vào hoặc mở ra với bên ngoài. Mở một cái cửa nhỏ nói 开."
+    ],
+    "app_note_vi": "Động từ. 开放时间 là giờ mở cửa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "开放 nghĩa là gì?",
+        "answer": "mở cửa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "图书馆周末____。",
+        "answer": "开放"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_866",
+    "level": "HSK5",
+    "hanzi": "建设",
+    "pinyin": "jiànshè",
+    "topic_id": "work",
+    "display_meaning_vi": "xây dựng",
+    "meaning_en": "to build; construction",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "建设国家 / 正在建设",
+    "collocations": [
+      "建设国家",
+      "建设家乡",
+      "正在建设"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们正在建设新校区。",
+        "pinyin": "Tāmen zhèngzài jiànshè xīn xiàoqū.",
+        "vi": "Họ đang xây khu trường mới.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "校 trong 校区 đọc xiào. Đối chiếu đọc jiào, như 校对."
+    ],
+    "app_note_vi": "Động từ. Làm nên cơ sở hoặc khu mới.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "建设 nghĩa là gì?",
+        "answer": "xây dựng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们正在____新校区。",
+        "answer": "建设"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_867",
+    "level": "HSK5",
+    "hanzi": "进口",
+    "pinyin": "jìnkǒu",
+    "topic_id": "work",
+    "display_meaning_vi": "nhập khẩu",
+    "meaning_en": "to import; imported",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "进口商品 / 进口机器",
+    "collocations": [
+      "进口商品",
+      "进口机器",
+      "从国外进口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这台机器是进口的。",
+        "pinyin": "Zhè tái jīqì shì jìnkǒu de.",
+        "vi": "Máy này là hàng nhập.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "进口 là đưa từ nước ngoài vào. Đưa ra nói 出口."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 进口商品 là hàng nhập.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "进口 nghĩa là gì?",
+        "answer": "nhập khẩu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这台机器是____的。",
+        "answer": "进口"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_868",
+    "level": "HSK5",
+    "hanzi": "地位",
+    "pinyin": "dìwèi",
+    "topic_id": "work",
+    "display_meaning_vi": "địa vị",
+    "meaning_en": "status; position",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "社会地位 / 地位很高",
+    "collocations": [
+      "社会地位",
+      "地位很高",
+      "重要地位"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在队里的地位很高。",
+        "pinyin": "Tā zài duì lǐ de dìwèi hěn gāo.",
+        "vi": "Địa vị của anh ấy trong đội rất cao.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地位 là chỗ đứng trong mắt người khác hoặc trong tổ chức. Chỗ ngồi nói 座位."
+    ],
+    "app_note_vi": "Danh từ. 社会地位 là vị trí xã hội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地位 nghĩa là gì?",
+        "answer": "địa vị"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他在队里的____很高。",
+        "answer": "地位"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_869",
+    "level": "HSK5",
+    "hanzi": "国籍",
+    "pinyin": "guójí",
+    "topic_id": "work",
+    "display_meaning_vi": "quốc tịch",
+    "meaning_en": "nationality",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "填写国籍 / 国籍证明",
+    "collocations": [
+      "填写国籍",
+      "双重国籍",
+      "国籍证明"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请填写国籍。",
+        "pinyin": "Qǐng tiánxiě guójí.",
+        "vi": "Xin điền quốc tịch.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "国籍 là nước mà mình là công dân. Quê nói 家乡."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp trong mẫu đơn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "国籍 nghĩa là gì?",
+        "answer": "quốc tịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请填写____。",
+        "answer": "国籍"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_870",
+    "level": "HSK5",
+    "hanzi": "国庆节",
+    "pinyin": "Guóqìngjié",
+    "topic_id": "society",
+    "display_meaning_vi": "Quốc khánh",
+    "meaning_en": "National Day",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "过国庆节 / 国庆节放假",
+    "collocations": [
+      "过国庆节",
+      "国庆节放假",
+      "庆祝国庆节"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "国庆节我们去看游行。",
+        "pinyin": "Guóqìngjié wǒmen qù kàn yóuxíng.",
+        "vi": "Quốc khánh chúng tôi đi xem diễu hành.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. 国庆节 là ngày quốc khánh, viết hoa khi là tên ngày."
+    ],
+    "app_note_vi": "Danh từ. Ngày lễ của một nước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "国庆节 nghĩa là gì?",
+        "answer": "Quốc khánh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____我们去看游行。",
+        "answer": "国庆节"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

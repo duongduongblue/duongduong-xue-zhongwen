@@ -1,0 +1,588 @@
+[
+  {
+    "id": "hsk5_batch2_471",
+    "level": "HSK5",
+    "hanzi": "咬",
+    "pinyin": "yǎo",
+    "topic_id": "health",
+    "display_meaning_vi": "cắn",
+    "meaning_en": "to bite",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "咬一口 / 咬住",
+    "collocations": [
+      "咬一口",
+      "咬住",
+      "咬牙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小狗把我的拖鞋咬破了。",
+        "pinyin": "Xiǎo gǒu bǎ wǒ de tuōxié yǎo pò le.",
+        "vi": "Chú chó cắn rách dép của tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "咬 là dùng răng cắn. 咬牙 là nghiến răng. Khẩu ngữ cũng nói côn trùng đốt."
+    ],
+    "app_note_vi": "Động từ. 咬破 là cắn rách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "咬 nghĩa là gì?",
+        "answer": "cắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小狗把我的拖鞋____破了。",
+        "answer": "咬"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_472",
+    "level": "HSK5",
+    "hanzi": "心脏",
+    "pinyin": "xīnzàng",
+    "topic_id": "health",
+    "display_meaning_vi": "tim",
+    "meaning_en": "heart",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "检查心脏 / 心脏病",
+    "collocations": [
+      "心脏检查",
+      "心脏病",
+      "心脏科"
+    ],
+    "near_synonyms": [
+      {
+        "word": "心",
+        "difference_vi": "心脏 là cơ quan tim; 心 còn chỉ lòng, cảm xúc hoặc trung tâm."
+      }
+    ],
+    "app_synonym_note_vi": "心脏 = quả tim; 心 = lòng, hoặc trung tâm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他每年都去医院检查心脏。",
+        "pinyin": "Tā měi nián dōu qù yīyuàn jiǎnchá xīnzàng.",
+        "vi": "Hằng năm anh ấy đi viện kiểm tra tim.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "心脏是 bộ phận cơ thể. Đau lòng hoặc trung tâm một việc không nói 心脏."
+    ],
+    "app_note_vi": "Danh từ. 心脏病 là bệnh tim.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "心脏 nghĩa là gì?",
+        "answer": "tim"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他每年都去医院检查____。",
+        "answer": "心脏"
+      },
+      {
+        "type": "synonym",
+        "prompt": "心脏 khác 心 ở điểm nào?",
+        "answer": "心脏 là cơ quan tim; 心 còn chỉ lòng, cảm xúc hoặc trung tâm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_473",
+    "level": "HSK5",
+    "hanzi": "脑袋",
+    "pinyin": "nǎodai",
+    "topic_id": "health",
+    "display_meaning_vi": "đầu",
+    "meaning_en": "head",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "摇脑袋 / 脑袋疼",
+    "collocations": [
+      "脑袋疼",
+      "摇脑袋",
+      "脑袋瓜"
+    ],
+    "near_synonyms": [
+      {
+        "word": "头",
+        "difference_vi": "脑袋 là cách nói miệng của đầu; 头 trung tính hơn và dùng được khi viết."
+      }
+    ],
+    "app_synonym_note_vi": "脑袋 = đầu, khẩu ngữ; 头 = đầu, trung tính.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他拍了拍自己的脑袋。",
+        "pinyin": "Tā pāi le pāi zìjǐ de nǎodai.",
+        "vi": "Anh ấy vỗ đầu mình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "脑袋的 袋 đọc nhẹ: nǎodai. Cũng chỉ óc khi nói 动动脑袋."
+    ],
+    "app_note_vi": "Danh từ khẩu ngữ. 拍了拍 là vỗ một cái.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "脑袋 nghĩa là gì?",
+        "answer": "đầu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他拍了拍自己的____。",
+        "answer": "脑袋"
+      },
+      {
+        "type": "synonym",
+        "prompt": "脑袋 khác 头 ở điểm nào?",
+        "answer": "脑袋 là cách nói miệng của đầu; 头 trung tính hơn và dùng được khi viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_474",
+    "level": "HSK5",
+    "hanzi": "诊断",
+    "pinyin": "zhěnduàn",
+    "topic_id": "health",
+    "display_meaning_vi": "chẩn đoán",
+    "meaning_en": "to diagnose; diagnosis",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "初步诊断 / 诊断结果",
+    "collocations": [
+      "初步诊断",
+      "诊断结果",
+      "诊断证明"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "医生还不能马上诊断。",
+        "pinyin": "Yīshēng hái bù néng mǎshàng zhěnduàn.",
+        "vi": "Bác sĩ còn chưa thể chẩn đoán ngay.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "诊断 là bác sĩ xác định bệnh sau khi khám. Người không có chuyên môn không tự 诊断."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 初步诊断 là chẩn đoán bước đầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "诊断 nghĩa là gì?",
+        "answer": "chẩn đoán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "医生还不能马上____。",
+        "answer": "诊断"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_475",
+    "level": "HSK5",
+    "hanzi": "胃",
+    "pinyin": "wèi",
+    "topic_id": "health",
+    "display_meaning_vi": "dạ dày",
+    "meaning_en": "stomach",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "胃疼 / 胃病",
+    "collocations": [
+      "胃疼",
+      "胃病",
+      "养胃"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "吃得太辣，他的胃不舒服。",
+        "pinyin": "Chī de tài là, tā de wèi bù shūfu.",
+        "vi": "Ăn quá cay, dạ dày anh ấy khó chịu.",
+        "context": "body"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得 trong 吃得太辣 đọc de. 舒服 đọc shūfu, âm sau nhẹ. Nói về bệnh nên nhẹ nhàng."
+    ],
+    "app_note_vi": "Danh từ. 养胃 là giữ gìn dạ dày.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "胃 nghĩa là gì?",
+        "answer": "dạ dày"
+      },
+      {
+        "type": "cloze",
+        "prompt": "吃得太辣，他的____不舒服。",
+        "answer": "胃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_476",
+    "level": "HSK5",
+    "hanzi": "摇",
+    "pinyin": "yáo",
+    "topic_id": "health",
+    "display_meaning_vi": "lắc",
+    "meaning_en": "to shake",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摇头 / 摇了摇",
+    "collocations": [
+      "摇头",
+      "摇晃",
+      "摇摆"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他摇了摇头，说自己不知道。",
+        "pinyin": "Tā yáo le yáo tóu, shuō zìjǐ bù zhīdào.",
+        "vi": "Anh ấy lắc đầu, nói mình không biết.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "摇 đọc yáo. Họ 摇 cũng đọc Yáo. 摇头 thường là không đồng ý hoặc không biết."
+    ],
+    "app_note_vi": "Động từ. 摇了摇 là lắc một cái.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摇 nghĩa là gì?",
+        "answer": "lắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____了摇头，说自己不知道。",
+        "answer": "摇"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_477",
+    "level": "HSK5",
+    "hanzi": "摔",
+    "pinyin": "shuāi",
+    "topic_id": "health",
+    "display_meaning_vi": "ngã; đập",
+    "meaning_en": "to fall; to throw down",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "body",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "摔了一跤 / 摔倒",
+    "collocations": [
+      "摔倒",
+      "摔了一跤",
+      "摔碎"
+    ],
+    "near_synonyms": [
+      {
+        "word": "倒",
+        "difference_vi": "摔 là ngã hoặc đập mạnh; 倒 là đổ, ngã về một phía, đọc dǎo."
+      }
+    ],
+    "app_synonym_note_vi": "摔 = ngã, đập; 倒 = đổ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小孩学走路摔了几跤。",
+        "pinyin": "Xiǎohái xué zǒu lù shuāi le jǐ jiāo.",
+        "vi": "Đứa trẻ tập đi ngã mấy lần.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "摔了一跤 là ngã một cái. 摔碎 là đập vỡ. Đừng dùng 摔 để đuổi người."
+    ],
+    "app_note_vi": "Động từ. Vừa là ngã, vừa là ném hoặc đập mạnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "摔 nghĩa là gì?",
+        "answer": "ngã; đập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小孩学走路____了几跤。",
+        "answer": "摔"
+      },
+      {
+        "type": "synonym",
+        "prompt": "摔 khác 倒 ở điểm nào?",
+        "answer": "摔 là ngã hoặc đập mạnh; 倒 là đổ, ngã về một phía, đọc dǎo."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_478",
+    "level": "HSK5",
+    "hanzi": "自动",
+    "pinyin": "zìdòng",
+    "topic_id": "daily",
+    "display_meaning_vi": "tự động",
+    "meaning_en": "automatic",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自动门 / 自动打开",
+    "collocations": [
+      "自动门",
+      "自动挡",
+      "自动化"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "超市的门会自动打开。",
+        "pinyin": "Chāoshì de mén huì zìdòng dǎkāi.",
+        "vi": "Cửa siêu thị sẽ tự mở.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "自动 là máy tự chạy, hoặc việc tự xảy ra. 自己做 là tự mình làm, khác 自动."
+    ],
+    "app_note_vi": "Tính từ. 自动挡 là số tự động trên ô tô.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自动 nghĩa là gì?",
+        "answer": "tự động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "超市的门会____打开。",
+        "answer": "自动"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_479",
+    "level": "HSK5",
+    "hanzi": "碎",
+    "pinyin": "suì",
+    "topic_id": "daily",
+    "display_meaning_vi": "vỡ vụn",
+    "meaning_en": "broken into pieces",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打碎 / 碎了",
+    "collocations": [
+      "碎玻璃",
+      "打碎",
+      "碎纸"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "杯子掉在地上碎了。",
+        "pinyin": "Bēizi diào zài dì shàng suì le.",
+        "vi": "Cốc rơi xuống đất vỡ vụn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "碎 là vỡ thành mảnh. Hỏng máy hoặc rách áo không nhất thiết nói 碎."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 打碎 là làm vỡ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "碎 nghĩa là gì?",
+        "answer": "vỡ vụn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "杯子掉在地上____了。",
+        "answer": "碎"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_480",
+    "level": "HSK5",
+    "hanzi": "服装",
+    "pinyin": "fúzhuāng",
+    "topic_id": "daily",
+    "display_meaning_vi": "trang phục",
+    "meaning_en": "clothing; apparel",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "服装店 / 民族服装",
+    "collocations": [
+      "民族服装",
+      "服装设计",
+      "服装厂"
+    ],
+    "near_synonyms": [
+      {
+        "word": "衣服",
+        "difference_vi": "服装 nói áo quần như một ngành hoặc một loại trang phục; 衣服 là quần áo hàng ngày."
+      }
+    ],
+    "app_synonym_note_vi": "服装 = trang phục, ngành may; 衣服 = quần áo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在一家服装店上班。",
+        "pinyin": "Tā zài yì jiā fúzhuāng diàn shàngbān.",
+        "vi": "Cô ấy làm việc ở một cửa hàng quần áo.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一家 đọc yì jiā. 服装店 là cửa hàng quần áo, thường nói theo ngành nghề."
+    ],
+    "app_note_vi": "Danh từ. 服装设计 là thiết kế thời trang.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "服装 nghĩa là gì?",
+        "answer": "trang phục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在一家____店上班。",
+        "answer": "服装"
+      },
+      {
+        "type": "synonym",
+        "prompt": "服装 khác 衣服 ở điểm nào?",
+        "answer": "服装 nói áo quần như một ngành hoặc một loại trang phục; 衣服 là quần áo hàng ngày."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

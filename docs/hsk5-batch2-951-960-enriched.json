@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_951",
+    "level": "HSK5",
+    "hanzi": "能干",
+    "pinyin": "nénggàn",
+    "topic_id": "work",
+    "display_meaning_vi": "tháo vát",
+    "meaning_en": "capable",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很能干 / 能干的人",
+    "collocations": [
+      "很能干",
+      "能干的人",
+      "真能干"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她做事很能干。",
+        "pinyin": "Tā zuòshì hěn nénggàn.",
+        "vi": "Cô ấy làm việc rất tháo vát.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "干 đọc gàn, là làm. Khô hoặc dứt khoát đọc gān, như 干脆."
+    ],
+    "app_note_vi": "Tính từ. Khen người làm được việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "能干 nghĩa là gì?",
+        "answer": "tháo vát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她做事很____。",
+        "answer": "能干"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_952",
+    "level": "HSK5",
+    "hanzi": "勤奋",
+    "pinyin": "qínfèn",
+    "topic_id": "study",
+    "display_meaning_vi": "chuyên cần",
+    "meaning_en": "diligent",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "勤奋学习 / 很勤奋",
+    "collocations": [
+      "勤奋学习",
+      "很勤奋",
+      "勤奋工作"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他勤奋学习，进步很快。",
+        "pinyin": "Tā qínfèn xuéxí, jìnbù hěn kuài.",
+        "vi": "Anh ấy học chuyên cần nên tiến bộ nhanh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "勤奋 là siêng trong thời gian dài."
+    ],
+    "app_note_vi": "Tính từ. Hay đi với học và làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "勤奋 nghĩa là gì?",
+        "answer": "chuyên cần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____学习，进步很快。",
+        "answer": "勤奋"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_953",
+    "level": "HSK5",
+    "hanzi": "勤劳",
+    "pinyin": "qínláo",
+    "topic_id": "work",
+    "display_meaning_vi": "cần cù",
+    "meaning_en": "hard-working",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "勤劳的人 / 勤劳致富",
+    "collocations": [
+      "勤劳的人",
+      "勤劳致富",
+      "很勤劳"
+    ],
+    "near_synonyms": [
+      {
+        "word": "勤奋",
+        "difference_vi": "勤劳 hay khen người lao động chăm chỉ; 勤奋 hay khen việc học."
+      }
+    ],
+    "app_synonym_note_vi": "勤劳 = cần cù; 勤奋 = chuyên cần.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "农民很勤劳。",
+        "pinyin": "Nóngmín hěn qínláo.",
+        "vi": "Người nông dân rất cần cù.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "勤劳 nhấn mạnh chịu khó làm việc."
+    ],
+    "app_note_vi": "Tính từ. Khen đức tính làm lụng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "勤劳 nghĩa là gì?",
+        "answer": "cần cù"
+      },
+      {
+        "type": "cloze",
+        "prompt": "农民很____。",
+        "answer": "勤劳"
+      },
+      {
+        "type": "synonym",
+        "prompt": "勤劳 khác 勤奋 ở điểm nào?",
+        "answer": "勤劳 hay khen người lao động chăm chỉ; 勤奋 hay khen việc học."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_954",
+    "level": "HSK5",
+    "hanzi": "灵活",
+    "pinyin": "línghuó",
+    "topic_id": "work",
+    "display_meaning_vi": "linh hoạt",
+    "meaning_en": "flexible",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "灵活运用 / 头脑灵活",
+    "collocations": [
+      "灵活运用",
+      "头脑灵活",
+      "很灵活"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "用这个方法要灵活。",
+        "pinyin": "Yòng zhège fāngfǎ yào línghuó.",
+        "vi": "Dùng cách này phải linh hoạt.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "灵活 là biết đổi cho hợp việc. Cứng nhắc là trái nghĩa."
+    ],
+    "app_note_vi": "Tính từ. Nói đầu óc hoặc cách làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "灵活 nghĩa là gì?",
+        "answer": "linh hoạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "用这个方法要____。",
+        "answer": "灵活"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_955",
+    "level": "HSK5",
+    "hanzi": "谦虚",
+    "pinyin": "qiānxū",
+    "topic_id": "people",
+    "display_meaning_vi": "khiêm tốn",
+    "meaning_en": "modest",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很谦虚 / 谦虚的态度",
+    "collocations": [
+      "很谦虚",
+      "谦虚的态度",
+      "为人谦虚"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他取得成绩还很谦虚。",
+        "pinyin": "Tā qǔdé chéngjì hái hěn qiānxū.",
+        "vi": "Anh ấy có thành tích mà vẫn khiêm tốn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "还 đọc hái, là vẫn. Trả lại đọc huán. 谦虚 là không khoe."
+    ],
+    "app_note_vi": "Tính từ. Thái độ nhún.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "谦虚 nghĩa là gì?",
+        "answer": "khiêm tốn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他取得成绩还很____。",
+        "answer": "谦虚"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_956",
+    "level": "HSK5",
+    "hanzi": "谨慎",
+    "pinyin": "jǐnshèn",
+    "topic_id": "work",
+    "display_meaning_vi": "thận trọng",
+    "meaning_en": "cautious",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "谨慎行事 / 很谨慎",
+    "collocations": [
+      "谨慎行事",
+      "很谨慎",
+      "说话谨慎"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "签字以前要谨慎。",
+        "pinyin": "Qiānzì yǐqián yào jǐnshèn.",
+        "vi": "Trước khi ký phải thận trọng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "谨慎 là xem kỹ rồi mới làm. Nhát không dám làm nói 胆小."
+    ],
+    "app_note_vi": "Tính từ. 谨慎行事 là làm việc cho chắc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "谨慎 nghĩa là gì?",
+        "answer": "thận trọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "签字以前要____。",
+        "answer": "谨慎"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_957",
+    "level": "HSK5",
+    "hanzi": "具备",
+    "pinyin": "jùbèi",
+    "topic_id": "work",
+    "display_meaning_vi": "có đủ",
+    "meaning_en": "to possess (conditions)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "具备条件 / 具备能力",
+    "collocations": [
+      "具备条件",
+      "具备能力",
+      "具备资格"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他具备当老师的条件。",
+        "pinyin": "Tā jùbèi dāng lǎoshī de tiáojiàn.",
+        "vi": "Anh ấy có đủ điều kiện làm giáo viên.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "当 đọc dāng, là làm nghề. Mắc lừa đọc dàng. 具备 là đã có những gì cần."
+    ],
+    "app_note_vi": "Động từ. Hay đi với 条件 và 能力.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "具备 nghĩa là gì?",
+        "answer": "có đủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____当老师的条件。",
+        "answer": "具备"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_958",
+    "level": "HSK5",
+    "hanzi": "均匀",
+    "pinyin": "jūnyún",
+    "topic_id": "abstract",
+    "display_meaning_vi": "đều",
+    "meaning_en": "even; uniform",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "分布均匀 / 搅拌均匀",
+    "collocations": [
+      "分布均匀",
+      "搅拌均匀",
+      "很均匀"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把颜料搅拌均匀。",
+        "pinyin": "Qǐng bǎ yánliào jiǎobàn jūnyún.",
+        "vi": "Xin khuấy màu cho đều.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "均匀 là các phần như nhau, không chỗ đặc chỗ loãng."
+    ],
+    "app_note_vi": "Tính từ. 搅拌均匀 là trộn đều.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "均匀 nghĩa là gì?",
+        "answer": "đều"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把颜料搅拌____。",
+        "answer": "均匀"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_959",
+    "level": "HSK5",
+    "hanzi": "尖锐",
+    "pinyin": "jiānruì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "sắc",
+    "meaning_en": "sharp; pointed",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "尖锐的问题 / 很尖锐",
+    "collocations": [
+      "尖锐的问题",
+      "很尖锐",
+      "矛盾尖锐"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题很尖锐。",
+        "pinyin": "Zhège wèntí hěn jiānruì.",
+        "vi": "Vấn đề này rất gay.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "尖锐 vừa là mũi nhọn, vừa là câu hỏi gay gắt."
+    ],
+    "app_note_vi": "Tính từ. 矛盾尖锐 là mâu thuẫn gay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "尖锐 nghĩa là gì?",
+        "answer": "sắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个问题很____。",
+        "answer": "尖锐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_960",
+    "level": "HSK5",
+    "hanzi": "狡猾",
+    "pinyin": "jiǎohuá",
+    "topic_id": "people",
+    "display_meaning_vi": "xảo quyệt",
+    "meaning_en": "cunning",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很狡猾 / 狡猾的人",
+    "collocations": [
+      "很狡猾",
+      "狡猾的人",
+      "太狡猾"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别太狡猾，要诚实。",
+        "pinyin": "Bié tài jiǎohuá, yào chéngshí.",
+        "vi": "Đừng quá xảo, phải thật thà.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "狡猾 là lời chê. Khôn theo nghĩa tốt nói 聪明."
+    ],
+    "app_note_vi": "Tính từ. Mưu mẹo để lợi mình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "狡猾 nghĩa là gì?",
+        "answer": "xảo quyệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别太____，要诚实。",
+        "answer": "狡猾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

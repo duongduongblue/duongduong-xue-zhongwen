@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_851",
+    "level": "HSK5",
+    "hanzi": "模仿",
+    "pinyin": "mófǎng",
+    "topic_id": "study",
+    "display_meaning_vi": "bắt chước",
+    "meaning_en": "to imitate",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "模仿大人 / 模仿声音",
+    "collocations": [
+      "模仿大人",
+      "模仿声音",
+      "别模仿"
+    ],
+    "near_synonyms": [
+      {
+        "word": "学习",
+        "difference_vi": "模仿 là làm giống người khác; 学习 là học để biết."
+      }
+    ],
+    "app_synonym_note_vi": "模仿 = bắt chước; 学习 = học.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子喜欢模仿大人。",
+        "pinyin": "Háizi xǐhuan mófǎng dàren.",
+        "vi": "Trẻ thích bắt chước người lớn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "模 đọc mó. Dáng vẻ đọc mú, như 模样. 喜欢 đọc xǐhuan, âm sau nhẹ. 大人 đọc dàren, âm sau nhẹ."
+    ],
+    "app_note_vi": "Động từ. Làm theo cách của người khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "模仿 nghĩa là gì?",
+        "answer": "bắt chước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子喜欢____大人。",
+        "answer": "模仿"
+      },
+      {
+        "type": "synonym",
+        "prompt": "模仿 khác 学习 ở điểm nào?",
+        "answer": "模仿 là làm giống người khác; 学习 là học để biết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_852",
+    "level": "HSK5",
+    "hanzi": "模糊",
+    "pinyin": "móhu",
+    "topic_id": "abstract",
+    "display_meaning_vi": "mờ",
+    "meaning_en": "blurry; vague",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有点模糊 / 模糊不清",
+    "collocations": [
+      "有点模糊",
+      "概念模糊",
+      "模糊不清"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "照片有点模糊。",
+        "pinyin": "Zhàopiàn yǒudiǎn móhu.",
+        "vi": "Ảnh hơi mờ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "模 đọc mó. 糊 đọc nhẹ hu. 照片的 片 đọc piàn. 相片 mới hay đọc piān."
+    ],
+    "app_note_vi": "Tính từ. Không rõ, nhìn hoặc hiểu không rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "模糊 nghĩa là gì?",
+        "answer": "mờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "照片有点____。",
+        "answer": "模糊"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_853",
+    "level": "HSK5",
+    "hanzi": "概括",
+    "pinyin": "gàikuò",
+    "topic_id": "study",
+    "display_meaning_vi": "tóm tắt",
+    "meaning_en": "to summarize",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "高度概括 / 概括一下",
+    "collocations": [
+      "概括一下",
+      "高度概括",
+      "用一句话概括"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请用一句话概括。",
+        "pinyin": "Qǐng yòng yí jù huà gàikuò.",
+        "vi": "Xin tóm trong một câu.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一句 đọc yí jù vì 句 là thanh 4."
+    ],
+    "app_note_vi": "Động từ. Gom ý chính cho ngắn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "概括 nghĩa là gì?",
+        "answer": "tóm tắt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请用一句话____。",
+        "answer": "概括"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_854",
+    "level": "HSK5",
+    "hanzi": "概念",
+    "pinyin": "gàiniàn",
+    "topic_id": "study",
+    "display_meaning_vi": "khái niệm",
+    "meaning_en": "concept",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "基本概念 / 新概念",
+    "collocations": [
+      "基本概念",
+      "新概念",
+      "概念不清"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个概念不太难。",
+        "pinyin": "Zhège gàiniàn bú tài nán.",
+        "vi": "Khái niệm này không quá khó.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不太 đọc bú tài vì 太 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Ý chung của một từ hoặc một việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "概念 nghĩa là gì?",
+        "answer": "khái niệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____不太难。",
+        "answer": "概念"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_855",
+    "level": "HSK5",
+    "hanzi": "感想",
+    "pinyin": "gǎnxiǎng",
+    "topic_id": "study",
+    "display_meaning_vi": "cảm nghĩ",
+    "meaning_en": "impressions; thoughts",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "写感想 / 谈感想",
+    "collocations": [
+      "写感想",
+      "谈感想",
+      "参观感想"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "参观后请写感想。",
+        "pinyin": "Cānguān hòu qǐng xiě gǎnxiǎng.",
+        "vi": "Sau khi tham quan xin viết cảm nghĩ.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "感想 là điều mình nghĩ sau khi xem hoặc làm. Không phải cảm ơn; cảm ơn nói 感谢."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp sau buổi tham quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "感想 nghĩa là gì?",
+        "answer": "cảm nghĩ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "参观后请写____。",
+        "answer": "感想"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_856",
+    "level": "HSK5",
+    "hanzi": "古代",
+    "pinyin": "gǔdài",
+    "topic_id": "society",
+    "display_meaning_vi": "thời cổ",
+    "meaning_en": "ancient times",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "古代历史 / 古代建筑",
+    "collocations": [
+      "古代历史",
+      "古代建筑",
+      "古代的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是古代的钱币。",
+        "pinyin": "Zhè shì gǔdài de qiánbì.",
+        "vi": "Đây là tiền thời cổ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "古代 là thời xa, trước hiện đại. Cận đại nói 近代."
+    ],
+    "app_note_vi": "Danh từ. Chỉ thời xưa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "古代 nghĩa là gì?",
+        "answer": "thời cổ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是____的钱币。",
+        "answer": "古代"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_857",
+    "level": "HSK5",
+    "hanzi": "古典",
+    "pinyin": "gǔdiǎn",
+    "topic_id": "society",
+    "display_meaning_vi": "cổ điển",
+    "meaning_en": "classical",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "古典音乐 / 古典文学",
+    "collocations": [
+      "古典音乐",
+      "古典文学",
+      "古典风格"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她喜欢古典音乐。",
+        "pinyin": "Tā xǐhuan gǔdiǎn yīnyuè.",
+        "vi": "Cô ấy thích nhạc cổ điển.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "乐 trong 音乐 đọc yuè. Vui đọc lè, như 快乐. 喜欢 đọc xǐhuan."
+    ],
+    "app_note_vi": "Tính từ. Chỉ nghệ thuật và sách kinh điển cũ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "古典 nghĩa là gì?",
+        "answer": "cổ điển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她喜欢____音乐。",
+        "answer": "古典"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_858",
+    "level": "HSK5",
+    "hanzi": "古老",
+    "pinyin": "gǔlǎo",
+    "topic_id": "society",
+    "display_meaning_vi": "cổ xưa",
+    "meaning_en": "ancient; age-old",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "古老的城市 / 很古老",
+    "collocations": [
+      "古老的城市",
+      "很古老",
+      "古老传说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座桥很古老。",
+        "pinyin": "Zhè zuò qiáo hěn gǔlǎo.",
+        "vi": "Cây cầu này rất cổ.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "古老 tả vật hoặc phong tục đã có từ rất lâu."
+    ],
+    "app_note_vi": "Tính từ. Cũ và có lịch sử dài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "古老 nghĩa là gì?",
+        "answer": "cổ xưa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座桥很____。",
+        "answer": "古老"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_859",
+    "level": "HSK5",
+    "hanzi": "风俗",
+    "pinyin": "fēngsú",
+    "topic_id": "society",
+    "display_meaning_vi": "phong tục",
+    "meaning_en": "custom",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当地风俗 / 风俗习惯",
+    "collocations": [
+      "当地风俗",
+      "风俗习惯",
+      "不同风俗"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "各地的风俗不一样。",
+        "pinyin": "Gè dì de fēngsú bù yíyàng.",
+        "vi": "Phong tục mỗi nơi một khác.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一样 đọc yíyàng vì 样 là thanh 4. 不 đứng trước thanh 2 yí, vẫn đọc bù."
+    ],
+    "app_note_vi": "Danh từ. Tập quán của một vùng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "风俗 nghĩa là gì?",
+        "answer": "phong tục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "各地的____不一样。",
+        "answer": "风俗"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_860",
+    "level": "HSK5",
+    "hanzi": "宗教",
+    "pinyin": "zōngjiào",
+    "topic_id": "society",
+    "display_meaning_vi": "tôn giáo",
+    "meaning_en": "religion",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "宗教信仰 / 宗教活动",
+    "collocations": [
+      "宗教信仰",
+      "研究宗教",
+      "宗教活动"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在研究宗教。",
+        "pinyin": "Tā zài yánjiū zōngjiào.",
+        "vi": "Anh ấy đang nghiên cứu tôn giáo.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "教 trong 宗教 đọc jiào. Dạy một việc cụ thể đọc jiāo, như 教我."
+    ],
+    "app_note_vi": "Danh từ. Niềm tin và nghi lễ của một đạo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宗教 nghĩa là gì?",
+        "answer": "tôn giáo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他在研究____。",
+        "answer": "宗教"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

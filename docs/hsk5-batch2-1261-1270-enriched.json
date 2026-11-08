@@ -1,0 +1,582 @@
+[
+  {
+    "id": "hsk5_batch2_1261",
+    "level": "HSK5",
+    "hanzi": "形容",
+    "pinyin": "xíngróng",
+    "topic_id": "language",
+    "display_meaning_vi": "miêu tả",
+    "meaning_en": "to describe",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "难以形容 / 形容词",
+    "collocations": [
+      "难以形容",
+      "形容词",
+      "形容一下"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "当时的心情很难形容。",
+        "pinyin": "Dāng shí de xīn qíng hěn nán xíng róng.",
+        "vi": "Tâm trạng lúc đó khó tả.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Dùng lời tả người, cảnh hoặc cảm xúc."
+    ],
+    "app_note_vi": "Dùng lời tả người, cảnh hoặc cảm xúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "形容 nghĩa là gì?",
+        "answer": "miêu tả"
+      },
+      {
+        "type": "cloze",
+        "prompt": "当时的心情很难____。",
+        "answer": "形容"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1262",
+    "level": "HSK5",
+    "hanzi": "叙述",
+    "pinyin": "xùshù",
+    "topic_id": "language",
+    "display_meaning_vi": "thuật lại",
+    "meaning_en": "to narrate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "叙述清楚 / 详细叙述",
+    "collocations": [
+      "叙述清楚",
+      "详细叙述",
+      "叙述事情"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "叙述 là kể cho rõ diễn biến; 描述 thiên về tả.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把经过按顺序叙述一遍。",
+        "pinyin": "Qǐng bǎ jīng guò àn shùn xù xù shù yí biàn.",
+        "vi": "Xin thuật lại diễn biến theo đúng thứ tự.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kể có thứ tự, trang trọng hơn nói thường."
+    ],
+    "app_note_vi": "Kể có thứ tự, trang trọng hơn nói thường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "叙述 nghĩa là gì?",
+        "answer": "thuật lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把经过按顺序____一遍。",
+        "answer": "叙述"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 叙述?",
+        "answer": "叙述 là kể cho rõ diễn biến; 描述 thiên về tả."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1263",
+    "level": "HSK5",
+    "hanzi": "议论",
+    "pinyin": "yìlùn",
+    "topic_id": "language",
+    "display_meaning_vi": "bàn tán",
+    "meaning_en": "to comment among themselves",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "议论纷纷 / 背后议论",
+    "collocations": [
+      "议论纷纷",
+      "背后议论",
+      "议论这件事"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "议论 là bàn tán; 讨论 là thảo luận có mục đích.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "邻居们正在议论这件事。",
+        "pinyin": "Lín jū men zhèng zài yì lùn zhè jiàn shì.",
+        "vi": "Hàng xóm đang bàn tán việc này.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nói qua lại về một việc, đôi khi ở sau lưng."
+    ],
+    "app_note_vi": "Nói qua lại về một việc, đôi khi ở sau lưng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "议论 nghĩa là gì?",
+        "answer": "bàn tán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "邻居们正在____这件事。",
+        "answer": "议论"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 议论?",
+        "answer": "议论 là bàn tán; 讨论 là thảo luận có mục đích."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1264",
+    "level": "HSK5",
+    "hanzi": "再三",
+    "pinyin": "zàisān",
+    "topic_id": "language",
+    "display_meaning_vi": "nhiều lần",
+    "meaning_en": "repeatedly",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "再三考虑 / 再三提醒",
+    "collocations": [
+      "再三考虑",
+      "再三提醒",
+      "再三请求"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "再三 là lặp lại nhiều lần; 再 chỉ là thêm một lần.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师再三强调安全。",
+        "pinyin": "Lǎo shī zài sān qiáng diào ān quán.",
+        "vi": "Giáo viên nhấn mạnh chuyện an toàn nhiều lần.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhấn mạnh nhắc hoặc nghĩ đi nghĩ lại, không phải chỉ một lần nữa."
+    ],
+    "app_note_vi": "Nhấn mạnh nhắc hoặc nghĩ đi nghĩ lại, không phải chỉ một lần nữa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "再三 nghĩa là gì?",
+        "answer": "nhiều lần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师____强调安全。",
+        "answer": "再三"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 再三?",
+        "answer": "再三 là lặp lại nhiều lần; 再 chỉ là thêm một lần."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1265",
+    "level": "HSK5",
+    "hanzi": "赞成",
+    "pinyin": "zànchéng",
+    "topic_id": "language",
+    "display_meaning_vi": "tán thành",
+    "meaning_en": "to approve",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表示赞成 / 赞成票",
+    "collocations": [
+      "表示赞成",
+      "赞成票",
+      "不赞成"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "赞成 là tán thành một đề xuất; 同意 rộng hơn, dùng cho nhiều việc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "多数人赞成推迟比赛。",
+        "pinyin": "Duō shù rén zàn chéng tuī chí bǐ sài.",
+        "vi": "Phần đông tán thành hoãn trận.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đồng ý với một đề xuất hoặc cách làm."
+    ],
+    "app_note_vi": "Đồng ý với một đề xuất hoặc cách làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "赞成 nghĩa là gì?",
+        "answer": "tán thành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "多数人____推迟比赛。",
+        "answer": "赞成"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 赞成?",
+        "answer": "赞成 là tán thành một đề xuất; 同意 rộng hơn, dùng cho nhiều việc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1266",
+    "level": "HSK5",
+    "hanzi": "赞美",
+    "pinyin": "zànměi",
+    "topic_id": "language",
+    "display_meaning_vi": "khen ngợi",
+    "meaning_en": "to praise",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "由衷赞美 / 赞美诗",
+    "collocations": [
+      "由衷赞美",
+      "赞美诗",
+      "大加赞美"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "赞美 là lời khen trang trọng; 表扬 thường là khen trong lớp hoặc cơ quan.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "游客赞美这里的夜景。",
+        "pinyin": "Yóu kè zàn měi zhè lǐ de yè jǐng.",
+        "vi": "Du khách khen cảnh đêm ở đây.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khen với sắc thái trân trọng, có thể khen người hoặc cảnh."
+    ],
+    "app_note_vi": "Khen với sắc thái trân trọng, có thể khen người hoặc cảnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "赞美 nghĩa là gì?",
+        "answer": "khen ngợi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "游客____这里的夜景。",
+        "answer": "赞美"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 赞美?",
+        "answer": "赞美 là lời khen trang trọng; 表扬 thường là khen trong lớp hoặc cơ quan."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1267",
+    "level": "HSK5",
+    "hanzi": "责备",
+    "pinyin": "zébèi",
+    "topic_id": "language",
+    "display_meaning_vi": "trách móc",
+    "meaning_en": "to reproach",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "责备自己 / 不要责备",
+    "collocations": [
+      "责备自己",
+      "不要责备",
+      "求全责备"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "责备 là trách móc; 批评 là góp ý phê bình, trung tính hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "父母不该这样责备孩子。",
+        "pinyin": "Fù mǔ bù gāi zhè yàng zé bèi hái zi.",
+        "vi": "Bố mẹ không nên trách con như thế.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Trách người khác vì lỗi, thường có cảm xúc."
+    ],
+    "app_note_vi": "Trách người khác vì lỗi, thường có cảm xúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "责备 nghĩa là gì?",
+        "answer": "trách móc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "父母不该这样____孩子。",
+        "answer": "责备"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 责备?",
+        "answer": "责备 là trách móc; 批评 là góp ý phê bình, trung tính hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1268",
+    "level": "HSK5",
+    "hanzi": "争论",
+    "pinyin": "zhēnglùn",
+    "topic_id": "language",
+    "display_meaning_vi": "tranh luận",
+    "meaning_en": "a debate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "激烈争论 / 争论不休",
+    "collocations": [
+      "激烈争论",
+      "争论不休",
+      "发生争论"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "争论 là tranh luận về ý; 争吵 là cãi nhau, cảm xúc nặng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "为了路线他们争论了半天。",
+        "pinyin": "Wèi le lù xiàn tā men zhēng lùn le bàn tiān.",
+        "vi": "Họ tranh luận mãi về lộ trình.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bàn qua lại vì ý kiến khác nhau."
+    ],
+    "app_note_vi": "Bàn qua lại vì ý kiến khác nhau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "争论 nghĩa là gì?",
+        "answer": "tranh luận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "为了路线他们____了半天。",
+        "answer": "争论"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 争论?",
+        "answer": "争论 là tranh luận về ý; 争吵 là cãi nhau, cảm xúc nặng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1269",
+    "level": "HSK5",
+    "hanzi": "嘱咐",
+    "pinyin": "zhǔfù",
+    "topic_id": "language",
+    "display_meaning_vi": "dặn dò",
+    "meaning_en": "to urge someone",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "再三嘱咐 / 嘱咐孩子",
+    "collocations": [
+      "再三嘱咐",
+      "嘱咐孩子",
+      "嘱咐一遍"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "嘱咐 là dặn dò ân cần; 吩咐 mang tính sai bảo hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈嘱咐我早点回家。",
+        "pinyin": "Mā mā zhǔ fù wǒ zǎo diǎn huí jiā.",
+        "vi": "Mẹ dặn tôi về nhà sớm.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lời dặn ân cần, thường của người lớn với người nhỏ hơn."
+    ],
+    "app_note_vi": "Lời dặn ân cần, thường của người lớn với người nhỏ hơn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "嘱咐 nghĩa là gì?",
+        "answer": "dặn dò"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈____我早点回家。",
+        "answer": "嘱咐"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 嘱咐?",
+        "answer": "嘱咐 là dặn dò ân cần; 吩咐 mang tính sai bảo hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1270",
+    "level": "HSK5",
+    "hanzi": "管子",
+    "pinyin": "guǎnzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "ống dẫn",
+    "meaning_en": "a pipe or tube",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "水管子 / 铁管子",
+    "collocations": [
+      "水管子",
+      "铁管子",
+      "管子工"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这根管子太旧，该换了。",
+        "pinyin": "Zhè gēn guǎn zi tài jiù gāi huàn le.",
+        "vi": "Cái ống này cũ quá, phải thay.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ống dẫn nước, khí hoặc chất lỏng."
+    ],
+    "app_note_vi": "Ống dẫn nước, khí hoặc chất lỏng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "管子 nghĩa là gì?",
+        "answer": "ống dẫn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这根____太旧，该换了。",
+        "answer": "管子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

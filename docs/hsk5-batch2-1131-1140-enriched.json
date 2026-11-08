@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_1131",
+    "level": "HSK5",
+    "hanzi": "自愿",
+    "pinyin": "zìyuàn",
+    "topic_id": "work",
+    "display_meaning_vi": "tự nguyện",
+    "meaning_en": "voluntary",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自愿参加 / 出于自愿",
+    "collocations": [
+      "自愿参加",
+      "出于自愿",
+      "自愿原则"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "自愿 là tự nguyện; 自觉 là tự giác làm điều nên làm dù không ai nhắc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他是自愿留下加班的。",
+        "pinyin": "Tā shì zì yuàn liú xià jiā bān de.",
+        "vi": "Anh ấy tự nguyện ở lại làm thêm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Tự mình muốn làm, không bị bắt buộc."
+    ],
+    "app_note_vi": "Tự mình muốn làm, không bị bắt buộc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自愿 nghĩa là gì?",
+        "answer": "tự nguyện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他是____留下加班的。",
+        "answer": "自愿"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 自愿?",
+        "answer": "自愿 là tự nguyện; 自觉 là tự giác làm điều nên làm dù không ai nhắc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1132",
+    "level": "HSK5",
+    "hanzi": "总裁",
+    "pinyin": "zǒngcái",
+    "topic_id": "work",
+    "display_meaning_vi": "tổng giám đốc điều hành",
+    "meaning_en": "chief executive",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "公司总裁 / 集团总裁",
+    "collocations": [
+      "公司总裁",
+      "集团总裁",
+      "总裁助理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "总裁 là lãnh đạo công ty; 总理 là thủ tướng, 总统 là nguyên thủ quốc gia.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "总裁同意了这个方案。",
+        "pinyin": "Zǒng cái tóng yì le zhè ge fān gàn.",
+        "vi": "Tổng giám đốc đã đồng ý phương án này.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người điều hành cao nhất của một công ty."
+    ],
+    "app_note_vi": "Người điều hành cao nhất của một công ty.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "总裁 nghĩa là gì?",
+        "answer": "tổng giám đốc điều hành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____同意了这个方案。",
+        "answer": "总裁"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 总裁?",
+        "answer": "总裁 là lãnh đạo công ty; 总理 là thủ tướng, 总统 là nguyên thủ quốc gia."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1133",
+    "level": "HSK5",
+    "hanzi": "固体",
+    "pinyin": "gùtǐ",
+    "topic_id": "study",
+    "display_meaning_vi": "chất rắn",
+    "meaning_en": "a solid",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "固体燃料 / 液体和固体",
+    "collocations": [
+      "固体燃料",
+      "液体和固体",
+      "固体废物"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "冰是水的固体状态。",
+        "pinyin": "Bīng shì shuǐ de gù tǐ zhuàng tài.",
+        "vi": "Nước đá là thể rắn của nước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Một trong ba thể: rắn, lỏng, khí."
+    ],
+    "app_note_vi": "Một trong ba thể: rắn, lỏng, khí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "固体 nghĩa là gì?",
+        "answer": "chất rắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "冰是水的____状态。",
+        "answer": "固体"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1134",
+    "level": "HSK5",
+    "hanzi": "届",
+    "pinyin": "jiè",
+    "topic_id": "study",
+    "display_meaning_vi": "khóa, lần",
+    "meaning_en": "measure for sessions or terms",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "应届 / 本届",
+    "collocations": [
+      "应届",
+      "本届",
+      "历届"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上一届冠军也来了。",
+        "pinyin": "Shàng yí jiè guàn jūn yě lái le.",
+        "vi": "Quán quân lần trước cũng đến.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Lượng từ cho khóa tốt nghiệp, nhiệm kỳ hoặc lần tổ chức."
+    ],
+    "app_note_vi": "Lượng từ cho khóa tốt nghiệp, nhiệm kỳ hoặc lần tổ chức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "届 nghĩa là gì?",
+        "answer": "khóa, lần"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上一____冠军也来了。",
+        "answer": "届"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1135",
+    "level": "HSK5",
+    "hanzi": "立方",
+    "pinyin": "lìfāng",
+    "topic_id": "study",
+    "display_meaning_vi": "lập phương",
+    "meaning_en": "cubic, or a cube",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "立方体 / 立方厘米",
+    "collocations": [
+      "立方体",
+      "立方厘米",
+      "立方形"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "立方 là lập phương, mét khối; 平方 là bình phương, mét vuông.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个水箱有两立方米。",
+        "pinyin": "Zhè ge shuǐ xiāng yǒu liǎng lì fāng mǐ.",
+        "vi": "Bể nước này có dung tích hai mét khối.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "立方米 là mét khối. Đừng lẫn với mét vuông."
+    ],
+    "app_note_vi": "立方米 là mét khối. Đừng lẫn với mét vuông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "立方 nghĩa là gì?",
+        "answer": "lập phương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个水箱有两____米。",
+        "answer": "立方"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 立方?",
+        "answer": "立方 là lập phương, mét khối; 平方 là bình phương, mét vuông."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1136",
+    "level": "HSK5",
+    "hanzi": "提纲",
+    "pinyin": "tígāng",
+    "topic_id": "study",
+    "display_meaning_vi": "dàn ý",
+    "meaning_en": "outline",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "写作提纲 / 发言提纲",
+    "collocations": [
+      "写作提纲",
+      "发言提纲",
+      "列提纲"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "发言前他先写了提纲。",
+        "pinyin": "Fā yán qián tā xiān xiě le tí gāng.",
+        "vi": "Trước khi nói anh ấy viết dàn ý.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khung các ý chính trước khi viết hoặc nói."
+    ],
+    "app_note_vi": "Khung các ý chính trước khi viết hoặc nói.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "提纲 nghĩa là gì?",
+        "answer": "dàn ý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "发言前他先写了____。",
+        "answer": "提纲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1137",
+    "level": "HSK5",
+    "hanzi": "退步",
+    "pinyin": "tuìbù",
+    "topic_id": "study",
+    "display_meaning_vi": "thụt lùi",
+    "meaning_en": "to slip backward",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "成绩退步 / 明显退步",
+    "collocations": [
+      "成绩退步",
+      "明显退步",
+      "退步了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "退步 là thụt lùi; 进步 là tiến bộ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不好好练，技术就会退步。",
+        "pinyin": "Bù hǎo hǎo liàn jì shù jiù huì tuì bù.",
+        "vi": "Không chịu luyện thì tay nghề sẽ tụt.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ngược với tiến bộ. Nhường một bước là cách nói khác."
+    ],
+    "app_note_vi": "Ngược với tiến bộ. Nhường một bước là cách nói khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "退步 nghĩa là gì?",
+        "answer": "thụt lùi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不好好练，技术就会____。",
+        "answer": "退步"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 退步?",
+        "answer": "退步 là thụt lùi; 进步 là tiến bộ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1138",
+    "level": "HSK5",
+    "hanzi": "文具",
+    "pinyin": "wénjù",
+    "topic_id": "study",
+    "display_meaning_vi": "đồ dùng học tập",
+    "meaning_en": "stationery",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "文具店 / 文具盒",
+    "collocations": [
+      "文具店",
+      "文具盒",
+      "学习文具"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "文具店就在学校对面。",
+        "pinyin": "Wén jù diàn jiù zài xué xiào duì miàn.",
+        "vi": "Cửa hàng văn phòng phẩm ở ngay đối diện trường.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bút, thước, tẩy và đồ dùng để học."
+    ],
+    "app_note_vi": "Bút, thước, tẩy và đồ dùng để học.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "文具 nghĩa là gì?",
+        "answer": "đồ dùng học tập"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____店就在学校对面。",
+        "answer": "文具"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1139",
+    "level": "HSK5",
+    "hanzi": "物理",
+    "pinyin": "wùlǐ",
+    "topic_id": "study",
+    "display_meaning_vi": "vật lý",
+    "meaning_en": "physics",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "物理课 / 物理题",
+    "collocations": [
+      "物理课",
+      "物理题",
+      "应用物理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妹妹这次物理考得不错。",
+        "pinyin": "Mèi mèi zhè cì wù lǐ kǎo dé bú cuò.",
+        "vi": "Lần này em gái thi vật lý khá tốt.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Môn học. Đừng hiểu thành lẽ phải trong đời."
+    ],
+    "app_note_vi": "Môn học. Đừng hiểu thành lẽ phải trong đời.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "物理 nghĩa là gì?",
+        "answer": "vật lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妹妹这次____考得不错。",
+        "answer": "物理"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1140",
+    "level": "HSK5",
+    "hanzi": "橡皮",
+    "pinyin": "xiàngpí",
+    "topic_id": "study",
+    "display_meaning_vi": "cục tẩy",
+    "meaning_en": "eraser",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一块橡皮 / 橡皮擦",
+    "collocations": [
+      "一块橡皮",
+      "橡皮擦",
+      "橡皮屑"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "写错了就用橡皮擦掉。",
+        "pinyin": "Xiě cuò le jiù yòng xiàng pí cā diào.",
+        "vi": "Viết sai thì dùng tẩy xóa đi.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đồ tẩy bút chì. Đất nặn là một từ khác có chữ này."
+    ],
+    "app_note_vi": "Đồ tẩy bút chì. Đất nặn là một từ khác có chữ này.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "橡皮 nghĩa là gì?",
+        "answer": "cục tẩy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "写错了就用____擦掉。",
+        "answer": "橡皮"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

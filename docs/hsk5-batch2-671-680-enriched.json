@@ -1,0 +1,563 @@
+[
+  {
+    "id": "hsk5_batch2_671",
+    "level": "HSK5",
+    "hanzi": "发言",
+    "pinyin": "fāyán",
+    "topic_id": "work",
+    "display_meaning_vi": "phát biểu",
+    "meaning_en": "to speak; a speech",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大会发言 / 发言稿",
+    "collocations": [
+      "第一个发言",
+      "大会发言",
+      "发言稿"
+    ],
+    "near_synonyms": [
+      {
+        "word": "说话",
+        "difference_vi": "发言 là nói trong cuộc họp; 说话 là nói nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "发言 = phát biểu; 说话 = nói.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "会上她第一个发言。",
+        "pinyin": "Huì shang tā dì-yī gè fāyán.",
+        "vi": "Trong họp cô ấy phát biểu đầu tiên.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. 会上的 上 đọc nhẹ shang. 第一个的 一 đọc yī."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 发言稿 là bài phát biểu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发言 nghĩa là gì?",
+        "answer": "phát biểu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "会上她第一个____。",
+        "answer": "发言"
+      },
+      {
+        "type": "synonym",
+        "prompt": "发言 khác 说话 ở điểm nào?",
+        "answer": "发言 là nói trong cuộc họp; 说话 là nói nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_672",
+    "level": "HSK5",
+    "hanzi": "发明",
+    "pinyin": "fāmíng",
+    "topic_id": "work",
+    "display_meaning_vi": "phát minh",
+    "meaning_en": "to invent; an invention",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "发明创造 / 新发明",
+    "collocations": [
+      "新发明",
+      "发明创造",
+      "发明家"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是他的新发明。",
+        "pinyin": "Zhè shì tā de xīn fāmíng.",
+        "vi": "Đây là phát minh mới của anh ấy.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. 发明 là tạo ra cái chưa có. Cải tiến cái đã có nói 改进."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 发明家 là nhà phát minh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发明 nghĩa là gì?",
+        "answer": "phát minh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是他的新____。",
+        "answer": "发明"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_673",
+    "level": "HSK5",
+    "hanzi": "发达",
+    "pinyin": "fādá",
+    "topic_id": "work",
+    "display_meaning_vi": "phát triển",
+    "meaning_en": "developed; flourishing",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "交通发达 / 经济发达",
+    "collocations": [
+      "交通发达",
+      "经济发达",
+      "很发达"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座城市的交通很发达。",
+        "pinyin": "Zhè zuò chéngshì de jiāotōng hěn fādá.",
+        "vi": "Giao thông thành phố này rất phát triển.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. 发达 tả một lĩnh vực đã đi xa, không phải một người siêng."
+    ],
+    "app_note_vi": "Tính từ. Hay nói giao thông, kinh tế, khoa học.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "发达 nghĩa là gì?",
+        "answer": "phát triển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座城市的交通很____。",
+        "answer": "发达"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_674",
+    "level": "HSK5",
+    "hanzi": "出席",
+    "pinyin": "chūxí",
+    "topic_id": "work",
+    "display_meaning_vi": "có mặt",
+    "meaning_en": "to attend",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "出席会议 / 出席典礼",
+    "collocations": [
+      "出席会议",
+      "出席典礼",
+      "亲自出席"
+    ],
+    "near_synonyms": [
+      {
+        "word": "参加",
+        "difference_vi": "出席 trang trọng, nhấn mạnh có mặt; 参加 là tham gia một hoạt động."
+      }
+    ],
+    "app_synonym_note_vi": "出席 = có mặt, trang trọng; 参加 = tham gia.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "校长出席了开学典礼。",
+        "pinyin": "Xiàozhǎng chūxí le kāixué diǎnlǐ.",
+        "vi": "Hiệu trưởng đã có mặt ở lễ khai giảng.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "出席 hay đi với cuộc họp và lễ. Đi chơi không nói 出席."
+    ],
+    "app_note_vi": "Động từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出席 nghĩa là gì?",
+        "answer": "có mặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "校长____了开学典礼。",
+        "answer": "出席"
+      },
+      {
+        "type": "synonym",
+        "prompt": "出席 khác 参加 ở điểm nào?",
+        "answer": "出席 trang trọng, nhấn mạnh có mặt; 参加 là tham gia một hoạt động."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_675",
+    "level": "HSK5",
+    "hanzi": "从事",
+    "pinyin": "cóngshì",
+    "topic_id": "work",
+    "display_meaning_vi": "làm nghề",
+    "meaning_en": "to be engaged in",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "从事工作 / 从事研究",
+    "collocations": [
+      "从事工作",
+      "从事研究",
+      "从事教育"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她从事翻译工作十年了。",
+        "pinyin": "Tā cóngshì fānyì gōngzuò shí nián le.",
+        "vi": "Cô ấy làm nghề dịch đã mười năm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "从事 đứng trước lĩnh vực hoặc nghề, trang trọng hơn 做."
+    ],
+    "app_note_vi": "Động từ. Hay gặp trong lý lịch.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "从事 nghĩa là gì?",
+        "answer": "làm nghề"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____翻译工作十年了。",
+        "answer": "从事"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_676",
+    "level": "HSK5",
+    "hanzi": "担任",
+    "pinyin": "dānrèn",
+    "topic_id": "work",
+    "display_meaning_vi": "đảm nhiệm",
+    "meaning_en": "to hold the post of",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "担任班长 / 担任职务",
+    "collocations": [
+      "担任班长",
+      "担任职务",
+      "担任角色"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他担任班长已经两年。",
+        "pinyin": "Tā dānrèn bānzhǎng yǐjīng liǎng nián.",
+        "vi": "Anh ấy làm lớp trưởng đã hai năm.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "两年 dùng 两, không dùng 二. 担任 là giữ một vai hoặc chức."
+    ],
+    "app_note_vi": "Động từ. 担任角色 là đóng một vai.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "担任 nghĩa là gì?",
+        "answer": "đảm nhiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____班长已经两年。",
+        "answer": "担任"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_677",
+    "level": "HSK5",
+    "hanzi": "耽误",
+    "pinyin": "dānwu",
+    "topic_id": "work",
+    "display_meaning_vi": "làm lỡ",
+    "meaning_en": "to delay",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "耽误时间 / 别耽误",
+    "collocations": [
+      "耽误时间",
+      "别耽误",
+      "耽误学习"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别耽误时间，快出发。",
+        "pinyin": "Bié dānwu shíjiān, kuài chūfā.",
+        "vi": "Đừng để lỡ thời gian, đi mau.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "误 đọc nhẹ wu: dānwu. 耽误 là làm chậm một việc đáng làm."
+    ],
+    "app_note_vi": "Động từ. 别耽误 là đừng để chậm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "耽误 nghĩa là gì?",
+        "answer": "làm lỡ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别____时间，快出发。",
+        "answer": "耽误"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_678",
+    "level": "HSK5",
+    "hanzi": "打工",
+    "pinyin": "dǎgōng",
+    "topic_id": "work",
+    "display_meaning_vi": "làm thêm",
+    "meaning_en": "to do odd jobs; to work part-time",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "周末打工 / 出去打工",
+    "collocations": [
+      "打工仔",
+      "出去打工",
+      "周末打工"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他周末在餐厅打工。",
+        "pinyin": "Tā zhōumò zài cāntīng dǎgōng.",
+        "vi": "Cuối tuần anh ấy làm thêm ở quán ăn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "打工 thường là việc tạm hoặc bán thời gian, không phải chức danh chính."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. 打工仔 là người đi làm thuê.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打工 nghĩa là gì?",
+        "answer": "làm thêm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他周末在餐厅____。",
+        "answer": "打工"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_679",
+    "level": "HSK5",
+    "hanzi": "干活儿",
+    "pinyin": "gànhuór",
+    "topic_id": "work",
+    "display_meaning_vi": "làm việc",
+    "meaning_en": "to work; to do a job",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "在家干活儿 / 好好干活儿",
+    "collocations": [
+      "干活儿的人",
+      "在家干活儿",
+      "好好干活儿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爸爸在院子里干活儿。",
+        "pinyin": "Bàba zài yuànzi lǐ gànhuór.",
+        "vi": "Bố đang làm việc ngoài sân.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "干 đọc gàn, là làm. Khô hoặc dứt khoát đọc gān, như 干脆. 儿 đọc nhẹ, dính vào huór."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. Có 儿 ở cuối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "干活儿 nghĩa là gì?",
+        "answer": "làm việc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爸爸在院子里____。",
+        "answer": "干活儿"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_680",
+    "level": "HSK5",
+    "hanzi": "待遇",
+    "pinyin": "dàiyù",
+    "topic_id": "work",
+    "display_meaning_vi": "đãi ngộ",
+    "meaning_en": "pay and benefits; treatment",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "待遇不错 / 工资待遇",
+    "collocations": [
+      "待遇不错",
+      "工资待遇",
+      "待遇好"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家公司的待遇不错。",
+        "pinyin": "Zhè jiā gōngsī de dàiyù búcuò.",
+        "vi": "Đãi ngộ của công ty này khá ổn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "待 đọc dài. Ở lại một lát đọc dāi, như 待一会儿. 不错 đọc búcuò vì 错 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Gồm lương và điều kiện làm việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "待遇 nghĩa là gì?",
+        "answer": "đãi ngộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家公司的____不错。",
+        "answer": "待遇"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

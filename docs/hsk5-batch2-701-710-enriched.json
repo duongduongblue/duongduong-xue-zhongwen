@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_701",
+    "level": "HSK5",
+    "hanzi": "假装",
+    "pinyin": "jiǎzhuāng",
+    "topic_id": "daily",
+    "display_meaning_vi": "giả vờ",
+    "meaning_en": "to pretend",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "假装不知道 / 别假装",
+    "collocations": [
+      "假装不知道",
+      "假装没看见",
+      "别假装"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他假装没听见。",
+        "pinyin": "Tā jiǎzhuāng méi tīngjiàn.",
+        "vi": "Anh ấy giả vờ không nghe thấy.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "假 đọc jiǎ, là giả. Nghỉ phép đọc jià, như 放假."
+    ],
+    "app_note_vi": "Động từ. 别假装 là đừng giả bộ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "假装 nghĩa là gì?",
+        "answer": "giả vờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____没听见。",
+        "answer": "假装"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_702",
+    "level": "HSK5",
+    "hanzi": "宁可",
+    "pinyin": "nìngkě",
+    "topic_id": "language",
+    "display_meaning_vi": "thà",
+    "meaning_en": "would rather",
+    "part_of_speech": "conjunction",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "宁可吃苦 / 宁可放弃",
+    "collocations": [
+      "宁可吃苦",
+      "宁可放弃",
+      "宁可慢一点"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "宁可走着去，也不迟到。",
+        "pinyin": "Nìngkě zǒu zhe qù, yě bù chídào.",
+        "vi": "Thà đi bộ còn hơn đến muộn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "宁 đọc nìng, là thà. Yên đọc níng, như 宁静. 着 đọc nhẹ zhe. 迟到的 迟 là thanh 2, nên 不 vẫn đọc bù."
+    ],
+    "app_note_vi": "Liên từ. Hay đi với 也 ở vế sau.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宁可 nghĩa là gì?",
+        "answer": "thà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____走着去，也不迟到。",
+        "answer": "宁可"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_703",
+    "level": "HSK5",
+    "hanzi": "舍不得",
+    "pinyin": "shěbude",
+    "topic_id": "emotion",
+    "display_meaning_vi": "không nỡ",
+    "meaning_en": "to hate to part with or use",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "舍不得扔 / 舍不得离开",
+    "collocations": [
+      "舍不得扔",
+      "舍不得离开",
+      "有点舍不得"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件旧外套我还舍不得扔。",
+        "pinyin": "Zhè jiàn jiù wàitào wǒ hái shěbude rēng.",
+        "vi": "Cái áo khoác cũ này tôi vẫn không nỡ vứt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "舍 đọc shě, là nỡ bỏ. Ký túc đọc shè, như 宿舍. 得 đọc nhẹ de. 还 đọc hái."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. Không nỡ bỏ hoặc không nỡ dùng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "舍不得 nghĩa là gì?",
+        "answer": "không nỡ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件旧外套我还____扔。",
+        "answer": "舍不得"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_704",
+    "level": "HSK5",
+    "hanzi": "上当",
+    "pinyin": "shàngdàng",
+    "topic_id": "daily",
+    "display_meaning_vi": "mắc lừa",
+    "meaning_en": "to be taken in",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "上当了 / 小心上当",
+    "collocations": [
+      "上当了",
+      "小心上当",
+      "别上当"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听了他的话，我上当了。",
+        "pinyin": "Tīng le tā de huà, wǒ shàngdàng le.",
+        "vi": "Nghe lời anh ấy, tôi đã mắc lừa.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "当 đọc dàng, là mắc bẫy. Làm một nghề đọc dāng, như 当编辑."
+    ],
+    "app_note_vi": "Động từ. 别上当 là đừng mắc lừa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "上当 nghĩa là gì?",
+        "answer": "mắc lừa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听了他的话，我____了。",
+        "answer": "上当"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_705",
+    "level": "HSK5",
+    "hanzi": "省略",
+    "pinyin": "shěnglüè",
+    "topic_id": "study",
+    "display_meaning_vi": "lược bớt",
+    "meaning_en": "to omit",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "可以省略 / 省略号",
+    "collocations": [
+      "可以省略",
+      "省略号",
+      "省略这一段"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "时间不够，这一段可以省略。",
+        "pinyin": "Shíjiān bú gòu, zhè yí duàn kěyǐ shěnglüè.",
+        "vi": "Không đủ giờ, đoạn này có thể lược.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "省 đọc shěng, là lược bớt; tỉnh cũng đọc shěng. Tự kiểm đọc xǐng, như 反省. 不够 đọc búgòu. 一段 đọc yí duàn."
+    ],
+    "app_note_vi": "Động từ. 省略号 là dấu ba chấm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "省略 nghĩa là gì?",
+        "answer": "lược bớt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "时间不够，这一段可以____。",
+        "answer": "省略"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_706",
+    "level": "HSK5",
+    "hanzi": "应付",
+    "pinyin": "yìngfu",
+    "topic_id": "work",
+    "display_meaning_vi": "xoay sở",
+    "meaning_en": "to cope; to deal with",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "应付考试 / 难以应付",
+    "collocations": [
+      "应付考试",
+      "应付不过来",
+      "难以应付"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这么多作业，他应付不过来。",
+        "pinyin": "Zhème duō zuòyè, tā yìngfu bu guòlái.",
+        "vi": "Nhiều bài thế này, anh ấy xoay không xuể.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "应 đọc yìng, là ứng phó. Nên đọc yīng, như 应该. 付 đọc nhẹ fu. 不过来的 不 đọc nhẹ bu."
+    ],
+    "app_note_vi": "Động từ. 难以应付 là khó xoay sở.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "应付 nghĩa là gì?",
+        "answer": "xoay sở"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这么多作业，他____不过来。",
+        "answer": "应付"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_707",
+    "level": "HSK5",
+    "hanzi": "空闲",
+    "pinyin": "kòngxián",
+    "topic_id": "daily",
+    "display_meaning_vi": "rảnh",
+    "meaning_en": "free; spare time",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "空闲时间 / 有空闲",
+    "collocations": [
+      "空闲时间",
+      "有空闲",
+      "空闲的时候"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你空闲的时候给我打电话。",
+        "pinyin": "Nǐ kòngxián de shíhou gěi wǒ dǎ diànhuà.",
+        "vi": "Lúc rảnh thì gọi cho tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "空 đọc kòng, là rảnh. Trống không đọc kōng, như 天空, 空气."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 有空闲 là có giờ rảnh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "空闲 nghĩa là gì?",
+        "answer": "rảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你____的时候给我打电话。",
+        "answer": "空闲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_708",
+    "level": "HSK5",
+    "hanzi": "会计",
+    "pinyin": "kuàijì",
+    "topic_id": "work",
+    "display_meaning_vi": "kế toán",
+    "meaning_en": "accounting; accountant",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当会计 / 会计师",
+    "collocations": [
+      "当会计",
+      "会计师",
+      "会计工作"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在公司当会计。",
+        "pinyin": "Tā zài gōngsī dāng kuàijì.",
+        "vi": "Cô ấy làm kế toán ở công ty.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "会 trong 会计 đọc kuài. Biết hoặc họp đọc huì, như 会说, 会议. 当职业 đọc dāng."
+    ],
+    "app_note_vi": "Danh từ. 会计师 là kế toán viên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "会计 nghĩa là gì?",
+        "answer": "kế toán"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在公司当____。",
+        "answer": "会计"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_709",
+    "level": "HSK5",
+    "hanzi": "降落",
+    "pinyin": "jiàngluò",
+    "topic_id": "travel",
+    "display_meaning_vi": "hạ cánh",
+    "meaning_en": "to land; to descend",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "准时降落 / 降落伞",
+    "collocations": [
+      "准时降落",
+      "降落伞",
+      "安全降落"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "飞机准时降落了。",
+        "pinyin": "Fēijī zhǔnshí jiàngluò le.",
+        "vi": "Máy bay hạ cánh đúng giờ.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "降 đọc jiàng, là hạ xuống. Đầu hàng đọc xiáng, như 投降. 落在这里 đọc luò."
+    ],
+    "app_note_vi": "Động từ. 降落伞 là dù.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "降落 nghĩa là gì?",
+        "answer": "hạ cánh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "飞机准时____了。",
+        "answer": "降落"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_710",
+    "level": "HSK5",
+    "hanzi": "扇子",
+    "pinyin": "shànzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "cái quạt",
+    "meaning_en": "a hand fan",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把扇子 / 用扇子",
+    "collocations": [
+      "一把扇子",
+      "用扇子",
+      "纸扇子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夏天奶奶喜欢用扇子。",
+        "pinyin": "Xiàtiān nǎinai xǐhuan yòng shànzi.",
+        "vi": "Mùa hè bà thích dùng quạt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "扇 danh từ đọc shàn, 子 đọc nhẹ. Quạt bằng tay, động từ, đọc shān, như 扇风. 喜欢 đọc xǐhuan, âm sau nhẹ."
+    ],
+    "app_note_vi": "Danh từ. 一把扇子 đọc yì bǎ vì 把 là thanh 3.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "扇子 nghĩa là gì?",
+        "answer": "cái quạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "夏天奶奶喜欢用____。",
+        "answer": "扇子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

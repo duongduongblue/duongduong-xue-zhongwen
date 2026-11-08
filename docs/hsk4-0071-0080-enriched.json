@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0071",
+    "level": "HSK4",
+    "hanzi": "诚实",
+    "pinyin": "chéngshí",
+    "topic_id": "emotion",
+    "display_meaning_vi": "thành thật",
+    "meaning_en": "honest",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "诚实的人 / 很诚实",
+    "collocations": [
+      "诚实的人",
+      "很诚实",
+      "诚实可靠"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "诚实 nói về người không nói dối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他是一个诚实的人。",
+        "pinyin": "Tā shì yí gè chéng shí de rén.",
+        "vi": "Anh ấy là một người thành thật.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "诚实 nói về người không nói dối."
+    ],
+    "app_note_vi": "诚实 nói về người không nói dối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "诚实 nghĩa là gì?",
+        "answer": "thành thật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他是一个____的人。",
+        "answer": "诚实"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0072",
+    "level": "HSK4",
+    "hanzi": "烦恼",
+    "pinyin": "fánnǎo",
+    "topic_id": "emotion",
+    "display_meaning_vi": "phiền muộn",
+    "meaning_en": "worried; worries",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到烦恼 / 别烦恼",
+    "collocations": [
+      "感到烦恼",
+      "别烦恼",
+      "烦恼的事"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "为了 đọc wèi le. 烦恼 là trong lòng không yên.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "别为了这件事烦恼。",
+        "pinyin": "Bié wèi le zhè jiàn shì fán nǎo.",
+        "vi": "Đừng phiền muộn vì chuyện này.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "为了 đọc wèi le. 烦恼 là trong lòng không yên."
+    ],
+    "app_note_vi": "为了 đọc wèi le. 烦恼 là trong lòng không yên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "烦恼 nghĩa là gì?",
+        "answer": "phiền muộn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "别为了这件事____。",
+        "answer": "烦恼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0073",
+    "level": "HSK4",
+    "hanzi": "害羞",
+    "pinyin": "hàixiū",
+    "topic_id": "emotion",
+    "display_meaning_vi": "xấu hổ; ngại",
+    "meaning_en": "shy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到害羞 / 很害羞",
+    "collocations": [
+      "感到害羞",
+      "很害羞",
+      "害羞地说"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "害羞 là ngại khi bị người khác nhìn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她见到生人会害羞。",
+        "pinyin": "Tā jiàn dào shēng rén huì hài xiū.",
+        "vi": "Cô ấy gặp người lạ thì ngại.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "害羞 là ngại khi bị người khác nhìn."
+    ],
+    "app_note_vi": "害羞 là ngại khi bị người khác nhìn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "害羞 nghĩa là gì?",
+        "answer": "xấu hổ; ngại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她见到生人会____。",
+        "answer": "害羞"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0074",
+    "level": "HSK4",
+    "hanzi": "后悔",
+    "pinyin": "hòuhuǐ",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hối hận",
+    "meaning_en": "to regret",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很后悔 / 后悔莫及",
+    "collocations": [
+      "很后悔",
+      "后悔莫及",
+      "开始后悔"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "后悔 là sau khi làm xong mới thấy không nên.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我后悔没听你的话。",
+        "pinyin": "Wǒ hòu huǐ méi tīng nǐ de huà.",
+        "vi": "Tôi hối hận vì đã không nghe lời bạn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "后悔 là sau khi làm xong mới thấy không nên."
+    ],
+    "app_note_vi": "后悔 là sau khi làm xong mới thấy không nên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "后悔 nghĩa là gì?",
+        "answer": "hối hận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____没听你的话。",
+        "answer": "后悔"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0075",
+    "level": "HSK4",
+    "hanzi": "怀疑",
+    "pinyin": "huáiyí",
+    "topic_id": "emotion",
+    "display_meaning_vi": "nghi ngờ",
+    "meaning_en": "to doubt",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "表示怀疑 / 怀疑他",
+    "collocations": [
+      "表示怀疑",
+      "怀疑他",
+      "毫不怀疑"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "疑 đọc yí.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我怀疑他没说真话。",
+        "pinyin": "Wǒ huái yí tā méi shuō zhēn huà.",
+        "vi": "Tôi nghi anh ấy chưa nói thật.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "疑 đọc yí."
+    ],
+    "app_note_vi": "疑 đọc yí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "怀疑 nghĩa là gì?",
+        "answer": "nghi ngờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____他没说真话。",
+        "answer": "怀疑"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0076",
+    "level": "HSK4",
+    "hanzi": "孤单",
+    "pinyin": "gūdān",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cô đơn",
+    "meaning_en": "lonely",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "感到孤单 / 很孤单",
+    "collocations": [
+      "感到孤单",
+      "很孤单",
+      "孤单一人"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "孤单 là không có người ở bên.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一个人过节有点孤单。",
+        "pinyin": "Yí gè rén guò jié yǒu diǎn gū dān.",
+        "vi": "Một mình ăn tết hơi cô đơn.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "孤单 là không có người ở bên."
+    ],
+    "app_note_vi": "孤单 là không có người ở bên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "孤单 nghĩa là gì?",
+        "answer": "cô đơn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一个人过节有点____。",
+        "answer": "孤单"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0077",
+    "level": "HSK4",
+    "hanzi": "活泼",
+    "pinyin": "huópo",
+    "topic_id": "emotion",
+    "display_meaning_vi": "hoạt bát",
+    "meaning_en": "lively",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "活泼的孩子 / 活泼开朗",
+    "collocations": [
+      "活泼的孩子",
+      "活泼开朗",
+      "又活泼"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "泼 đọc nhẹ po.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个孩子又聪明又活泼。",
+        "pinyin": "Zhè ge hái zi yòu cōng míng yòu huó po.",
+        "vi": "Đứa trẻ này vừa thông minh vừa hoạt bát.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "泼 đọc nhẹ po."
+    ],
+    "app_note_vi": "泼 đọc nhẹ po.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "活泼 nghĩa là gì?",
+        "answer": "hoạt bát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个孩子又聪明又____。",
+        "answer": "活泼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0078",
+    "level": "HSK4",
+    "hanzi": "粗心",
+    "pinyin": "cūxīn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "sơ ý",
+    "meaning_en": "careless",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "太粗心 / 因为粗心",
+    "collocations": [
+      "太粗心",
+      "因为粗心",
+      "粗心大意"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "粗心 là không cẩn thận. Trái với 细心. 因为 đọc yīnwèi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "因为粗心，他把名字写错了。",
+        "pinyin": "Yīn wèi cū xīn tā bǎ míng zì xiě cuò le.",
+        "vi": "Vì sơ ý, anh ấy viết sai tên.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "粗心 là không cẩn thận. Trái với 细心. 因为 đọc yīnwèi."
+    ],
+    "app_note_vi": "粗心 là không cẩn thận. Trái với 细心. 因为 đọc yīnwèi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "粗心 nghĩa là gì?",
+        "answer": "sơ ý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "因为____，他把名字写错了。",
+        "answer": "粗心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0079",
+    "level": "HSK4",
+    "hanzi": "得意",
+    "pinyin": "déyì",
+    "topic_id": "emotion",
+    "display_meaning_vi": "đắc ý",
+    "meaning_en": "pleased with oneself",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很得意 / 得意的样子",
+    "collocations": [
+      "很得意",
+      "得意的样子",
+      "得意洋洋"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "得意 là vui vì việc mình làm tốt. Không phải 得到.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "赢了比赛以后他很得意。",
+        "pinyin": "Yíng le bǐ sài yǐ hòu tā hěn dé yì.",
+        "vi": "Thắng trận xong anh ấy rất đắc ý.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "得意 là vui vì việc mình làm tốt. Không phải 得到."
+    ],
+    "app_note_vi": "得意 là vui vì việc mình làm tốt. Không phải 得到.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "得意 nghĩa là gì?",
+        "answer": "đắc ý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "赢了比赛以后他很____。",
+        "answer": "得意"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0080",
+    "level": "HSK4",
+    "hanzi": "笨",
+    "pinyin": "bèn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "ngốc; vụng",
+    "meaning_en": "stupid; clumsy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "太笨了 / 笨办法",
+    "collocations": [
+      "太笨了",
+      "笨办法",
+      "一点也不笨"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "笨 nói về phản ứng chậm. Nên nói khéo khi chỉ người.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个办法一点也不笨。",
+        "pinyin": "Zhè ge bàn fǎ yì diǎn yě bú bèn.",
+        "vi": "Cách này không hề ngốc.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "笨 nói về phản ứng chậm. Nên nói khéo khi chỉ người."
+    ],
+    "app_note_vi": "笨 nói về phản ứng chậm. Nên nói khéo khi chỉ người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "笨 nghĩa là gì?",
+        "answer": "ngốc; vụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个办法一点也不____。",
+        "answer": "笨"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

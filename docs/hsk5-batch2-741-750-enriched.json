@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_741",
+    "level": "HSK5",
+    "hanzi": "好奇",
+    "pinyin": "hàoqí",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tò mò",
+    "meaning_en": "curious",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很好奇 / 好奇心",
+    "collocations": [
+      "很好奇",
+      "好奇心",
+      "感到好奇"
+    ],
+    "near_synonyms": [
+      {
+        "word": "奇怪",
+        "difference_vi": "好奇 là muốn biết; 奇怪 là thấy lạ."
+      }
+    ],
+    "app_synonym_note_vi": "好奇 = tò mò; 奇怪 = kỳ lạ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子对星星很好奇。",
+        "pinyin": "Háizi duì xīngxing hěn hàoqí.",
+        "vi": "Trẻ tò mò về các ngôi sao.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好 trong 好奇 đọc hào, là thích, ham. Tốt đọc hǎo, như 很好. 星星 âm sau nhẹ."
+    ],
+    "app_note_vi": "Tính từ. 好奇心 là lòng hiếu kỳ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "好奇 nghĩa là gì?",
+        "answer": "tò mò"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子对星星很____。",
+        "answer": "好奇"
+      },
+      {
+        "type": "synonym",
+        "prompt": "好奇 khác 奇怪 ở điểm nào?",
+        "answer": "好奇 là muốn biết; 奇怪 là thấy lạ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_742",
+    "level": "HSK5",
+    "hanzi": "仿佛",
+    "pinyin": "fǎngfú",
+    "topic_id": "language",
+    "display_meaning_vi": "dường như",
+    "meaning_en": "as if",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "仿佛看见 / 仿佛是",
+    "collocations": [
+      "仿佛看见",
+      "仿佛是",
+      "仿佛听到"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他仿佛还在身边。",
+        "pinyin": "Tā fǎngfú hái zài shēnbiān.",
+        "vi": "Anh ấy dường như vẫn ở bên.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "佛 trong 仿佛 đọc fú, không đọc fó. Phật giáo đọc fó, như 佛教. 还 đọc hái."
+    ],
+    "app_note_vi": "Phó từ trang trọng. Gần nghĩa với 好像.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "仿佛 nghĩa là gì?",
+        "answer": "dường như"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____还在身边。",
+        "answer": "仿佛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_743",
+    "level": "HSK5",
+    "hanzi": "横",
+    "pinyin": "héng",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngang",
+    "meaning_en": "horizontal; across",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "横线 / 横着放",
+    "collocations": [
+      "横线",
+      "横着放",
+      "横穿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这张纸横着放。",
+        "pinyin": "Qǐng bǎ zhè zhāng zhǐ héng zhe fàng.",
+        "vi": "Xin đặt tờ giấy theo chiều ngang.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "横 nghĩa ngang đọc héng. Hung, thô bạo đọc hèng, như 蛮横. 着 đọc nhẹ zhe."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 横穿 là băng qua.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "横 nghĩa là gì?",
+        "answer": "ngang"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这张纸____着放。",
+        "answer": "横"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_744",
+    "level": "HSK5",
+    "hanzi": "规模",
+    "pinyin": "guīmó",
+    "topic_id": "work",
+    "display_meaning_vi": "quy mô",
+    "meaning_en": "scale",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大规模 / 规模大",
+    "collocations": [
+      "规模大",
+      "大规模",
+      "规模不大"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次活动的规模不大。",
+        "pinyin": "Zhè cì huódòng de guīmó bú dà.",
+        "vi": "Quy mô hoạt động này không lớn.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "模 trong 规模 đọc mó. Dáng vẻ đọc mú, như 模样. 不大 đọc bú dà vì 大 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. 大规模 là quy mô lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "规模 nghĩa là gì?",
+        "answer": "quy mô"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次活动的____不大。",
+        "answer": "规模"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_745",
+    "level": "HSK5",
+    "hanzi": "恶劣",
+    "pinyin": "èliè",
+    "topic_id": "abstract",
+    "display_meaning_vi": "tồi tệ",
+    "meaning_en": "abominable; vile",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "天气恶劣 / 环境恶劣",
+    "collocations": [
+      "天气恶劣",
+      "环境恶劣",
+      "态度恶劣"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "天气这么恶劣，别出门。",
+        "pinyin": "Tiānqì zhème èliè, bié chūmén.",
+        "vi": "Thời tiết tệ thế này, đừng ra ngoài.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "恶劣 mạnh, hay nói thời tiết, môi trường hoặc thái độ. Hơi xấu nói 不好."
+    ],
+    "app_note_vi": "Tính từ trang trọng. Mức xấu rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "恶劣 nghĩa là gì?",
+        "answer": "tồi tệ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "天气这么____，别出门。",
+        "answer": "恶劣"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_746",
+    "level": "HSK5",
+    "hanzi": "讽刺",
+    "pinyin": "fěngcì",
+    "topic_id": "language",
+    "display_meaning_vi": "châm biếm",
+    "meaning_en": "to satirize; sarcasm",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "讽刺意味 / 别讽刺",
+    "collocations": [
+      "讽刺意味",
+      "讽刺小说",
+      "别讽刺"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这句话有点讽刺。",
+        "pinyin": "Zhè jù huà yǒudiǎn fěngcì.",
+        "vi": "Câu này hơi châm biếm.",
+        "context": "talk"
+      }
+    ],
+    "common_mistakes_vi": [
+      "讽刺 là nói có gai. Khen thật không nói 讽刺."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 讽刺意味 là ý châm biếm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "讽刺 nghĩa là gì?",
+        "answer": "châm biếm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这句话有点____。",
+        "answer": "讽刺"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_747",
+    "level": "HSK5",
+    "hanzi": "废话",
+    "pinyin": "fèihuà",
+    "topic_id": "language",
+    "display_meaning_vi": "lời thừa",
+    "meaning_en": "nonsense; rubbish",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "说废话 / 少说废话",
+    "collocations": [
+      "说废话",
+      "废话连篇",
+      "少说废话"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "开会时少说废话。",
+        "pinyin": "Kāihuì shí shǎo shuō fèihuà.",
+        "vi": "Khi họp hãy bớt nói lời thừa.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "少 ở đây đọc shǎo, là ít. Tuổi trẻ đọc shào, như 少年. 废话 hơi nặng."
+    ],
+    "app_note_vi": "Danh từ khẩu ngữ. 废话连篇 là toàn lời thừa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "废话 nghĩa là gì?",
+        "answer": "lời thừa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "开会时少说____。",
+        "answer": "废话"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_748",
+    "level": "HSK5",
+    "hanzi": "妨碍",
+    "pinyin": "fángài",
+    "topic_id": "daily",
+    "display_meaning_vi": "cản trở",
+    "meaning_en": "to hinder",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "妨碍交通 / 妨碍学习",
+    "collocations": [
+      "妨碍交通",
+      "妨碍学习",
+      "妨碍别人"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "路边停车会妨碍交通。",
+        "pinyin": "Lùbiān tíng chē huì fángài jiāotōng.",
+        "vi": "Đỗ xe ven đường sẽ cản giao thông.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "妨碍 là làm người khác hoặc một việc khó tiến. Không phải cấm hẳn."
+    ],
+    "app_note_vi": "Động từ. 妨碍别人 là làm phiền người khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "妨碍 nghĩa là gì?",
+        "answer": "cản trở"
+      },
+      {
+        "type": "cloze",
+        "prompt": "路边停车会____交通。",
+        "answer": "妨碍"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_749",
+    "level": "HSK5",
+    "hanzi": "灰心",
+    "pinyin": "huīxīn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "nản lòng",
+    "meaning_en": "discouraged",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "别灰心 / 感到灰心",
+    "collocations": [
+      "别灰心",
+      "感到灰心",
+      "灰心丧气"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "一次失败别灰心。",
+        "pinyin": "Yí cì shībài bié huīxīn.",
+        "vi": "Thất bại một lần thì đừng nản.",
+        "context": "emotion"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一次 đọc yí cì vì 次 là thanh 4. 灰心 là mất khí thế, không phải màu xám."
+    ],
+    "app_note_vi": "Tính từ. 灰心丧气 là cụt hứng hẳn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "灰心 nghĩa là gì?",
+        "answer": "nản lòng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "一次失败别____。",
+        "answer": "灰心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_750",
+    "level": "HSK5",
+    "hanzi": "了不起",
+    "pinyin": "liǎobuqǐ",
+    "topic_id": "emotion",
+    "display_meaning_vi": "đáng nể",
+    "meaning_en": "amazing; extraordinary",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "真了不起 / 了不起的人",
+    "collocations": [
+      "真了不起",
+      "了不起的人",
+      "太了不起"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她一个人完成了这个项目，真了不起。",
+        "pinyin": "Tā yí gè rén wánchéng le zhège xiàngmù, zhēn liǎobuqǐ.",
+        "vi": "Một mình cô ấy làm xong dự án, thật đáng nể.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "了 trong 了不起 đọc liǎo, không đọc le. 不 đọc nhẹ bu. 一个 đọc yí gè vì 个 là thanh 4."
+    ],
+    "app_note_vi": "Tính từ khẩu ngữ. Khen việc khó mà làm được.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "了不起 nghĩa là gì?",
+        "answer": "đáng nể"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她一个人完成了这个项目，真____。",
+        "answer": "了不起"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

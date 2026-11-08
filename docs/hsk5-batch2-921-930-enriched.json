@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_921",
+    "level": "HSK5",
+    "hanzi": "化学",
+    "pinyin": "huàxué",
+    "topic_id": "study",
+    "display_meaning_vi": "hóa học",
+    "meaning_en": "chemistry",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "化学课 / 学化学",
+    "collocations": [
+      "化学课",
+      "学化学",
+      "化学实验"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她对化学很感兴趣。",
+        "pinyin": "Tā duì huàxué hěn gǎn xìngqù.",
+        "vi": "Cô ấy rất thích hóa học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "兴 trong 感兴趣 đọc xìng. Dâng, hưng phấn đọc xīng, như 兴奋."
+    ],
+    "app_note_vi": "Danh từ. Một môn khoa học.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "化学 nghĩa là gì?",
+        "answer": "hóa học"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她对____很感兴趣。",
+        "answer": "化学"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_922",
+    "level": "HSK5",
+    "hanzi": "及格",
+    "pinyin": "jígé",
+    "topic_id": "study",
+    "display_meaning_vi": "đạt",
+    "meaning_en": "to pass (a test)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "考试及格 / 刚好及格",
+    "collocations": [
+      "考试及格",
+      "刚好及格",
+      "刚刚及格"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次考试他及格了。",
+        "pinyin": "Zhè cì kǎoshì tā jígé le.",
+        "vi": "Kỳ thi này anh ấy đã đạt.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "及格 là đạt mức tối thiểu. Giỏi hơn nói 优秀."
+    ],
+    "app_note_vi": "Động từ. 刚好及格 là vừa đủ điểm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "及格 nghĩa là gì?",
+        "answer": "đạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次考试他____了。",
+        "answer": "及格"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_923",
+    "level": "HSK5",
+    "hanzi": "论文",
+    "pinyin": "lùnwén",
+    "topic_id": "study",
+    "display_meaning_vi": "luận văn",
+    "meaning_en": "thesis; paper",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "写论文 / 毕业论文",
+    "collocations": [
+      "写论文",
+      "毕业论文",
+      "一篇论文"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她在写毕业论文。",
+        "pinyin": "Tā zài xiě bìyè lùnwén.",
+        "vi": "Cô ấy đang viết luận văn tốt nghiệp.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一篇 đọc yì piān vì 篇 là thanh 1. 论文 là bài viết học thuật."
+    ],
+    "app_note_vi": "Danh từ. 毕业论文 là luận văn ra trường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "论文 nghĩa là gì?",
+        "answer": "luận văn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她在写毕业____。",
+        "answer": "论文"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_924",
+    "level": "HSK5",
+    "hanzi": "逻辑",
+    "pinyin": "luóji",
+    "topic_id": "study",
+    "display_meaning_vi": "lôgic",
+    "meaning_en": "logic",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "逻辑清楚 / 没有逻辑",
+    "collocations": [
+      "逻辑清楚",
+      "没有逻辑",
+      "逻辑思维"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这句话没有逻辑。",
+        "pinyin": "Zhè jù huà méiyǒu luóji.",
+        "vi": "Câu này không có lôgic.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "辑 đọc nhẹ ji: luóji. 逻辑 là mạch lý lẽ, không phải ngữ pháp."
+    ],
+    "app_note_vi": "Danh từ. 逻辑清楚 là mạch ý rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "逻辑 nghĩa là gì?",
+        "answer": "lôgic"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这句话没有____。",
+        "answer": "逻辑"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_925",
+    "level": "HSK5",
+    "hanzi": "讲座",
+    "pinyin": "jiǎngzuò",
+    "topic_id": "study",
+    "display_meaning_vi": "buổi nói chuyện",
+    "meaning_en": "lecture",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "听讲座 / 一场讲座",
+    "collocations": [
+      "听讲座",
+      "一场讲座",
+      "专题讲座"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚上有一场讲座。",
+        "pinyin": "Wǎnshang yǒu yì chǎng jiǎngzuò.",
+        "vi": "Tối có một buổi nói chuyện.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "晚上 đọc wǎnshang. 一场 đọc yì chǎng vì 场 là thanh 3."
+    ],
+    "app_note_vi": "Danh từ. Một người nói về một chủ đề.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "讲座 nghĩa là gì?",
+        "answer": "buổi nói chuyện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚上有一场____。",
+        "answer": "讲座"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_926",
+    "level": "HSK5",
+    "hanzi": "简历",
+    "pinyin": "jiǎnlì",
+    "topic_id": "work",
+    "display_meaning_vi": "hồ sơ xin việc",
+    "meaning_en": "résumé",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "写简历 / 一份简历",
+    "collocations": [
+      "写简历",
+      "一份简历",
+      "个人简历"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请发一份简历给我。",
+        "pinyin": "Qǐng fā yí fèn jiǎnlì gěi wǒ.",
+        "vi": "Xin gửi tôi một bản hồ sơ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. 一份 đọc yí fèn vì 份 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Tóm tắt học vấn và việc làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "简历 nghĩa là gì?",
+        "answer": "hồ sơ xin việc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请发一份____给我。",
+        "answer": "简历"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_927",
+    "level": "HSK5",
+    "hanzi": "单元",
+    "pinyin": "dānyuán",
+    "topic_id": "study",
+    "display_meaning_vi": "bài; đơn nguyên",
+    "meaning_en": "unit",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "第一单元 / 单元测试",
+    "collocations": [
+      "第一单元",
+      "单元测试",
+      "这个单元"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们学完了第一单元。",
+        "pinyin": "Wǒmen xuéwán le dì-yī dānyuán.",
+        "vi": "Chúng tôi đã học xong bài một.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "第一的 一 đọc yī, không biến thanh. 单元 là một phần của sách."
+    ],
+    "app_note_vi": "Danh từ. Cũng chỉ một đơn vị nhà.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "单元 nghĩa là gì?",
+        "answer": "bài; đơn nguyên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们学完了第一____。",
+        "answer": "单元"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_928",
+    "level": "HSK5",
+    "hanzi": "册",
+    "pinyin": "cè",
+    "topic_id": "study",
+    "display_meaning_vi": "quyển",
+    "meaning_en": "volume; copy",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一册 / 上册",
+    "collocations": [
+      "一册",
+      "上册",
+      "手册"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这本书分上下两册。",
+        "pinyin": "Zhè běn shū fēn shàng xià liǎng cè.",
+        "vi": "Sách này chia thành hai quyển trên và dưới.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "两册 dùng 两. 册 là từng tập của một bộ sách."
+    ],
+    "app_note_vi": "Danh từ hoặc lượng từ. 上册 là quyển đầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "册 nghĩa là gì?",
+        "answer": "quyển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这本书分上下两____。",
+        "answer": "册"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_929",
+    "level": "HSK5",
+    "hanzi": "厘米",
+    "pinyin": "límǐ",
+    "topic_id": "study",
+    "display_meaning_vi": "xentimét",
+    "meaning_en": "centimeter",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "十厘米 / 多少厘米",
+    "collocations": [
+      "十厘米",
+      "多少厘米",
+      "三厘米"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条绳子长三十厘米。",
+        "pinyin": "Zhè tiáo shéngzi cháng sānshí límǐ.",
+        "vi": "Sợi dây này dài ba mươi xentimét.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "长 ở đây đọc cháng, là dài. Lớn lên đọc zhǎng. Đây là chữ 长."
+    ],
+    "app_note_vi": "Danh từ đo độ dài. Một mét bằng một trăm xentimét.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "厘米 nghĩa là gì?",
+        "answer": "xentimét"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条绳子长三十____。",
+        "answer": "厘米"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_930",
+    "level": "HSK5",
+    "hanzi": "平方",
+    "pinyin": "píngfāng",
+    "topic_id": "study",
+    "display_meaning_vi": "bình phương",
+    "meaning_en": "square",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "平方米 / 平方千米",
+    "collocations": [
+      "平方米",
+      "平方千米",
+      "十平方"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "房间大约二十平方米。",
+        "pinyin": "Fángjiān dàyuē èrshí píngfāng mǐ.",
+        "vi": "Phòng khoảng hai mươi mét vuông.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "平方 là đơn vị diện tích khi đi với 米. Không phải mức bình thường; mức ấy nói 平常."
+    ],
+    "app_note_vi": "Danh từ. 平方米 là mét vuông.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "平方 nghĩa là gì?",
+        "answer": "bình phương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "房间大约二十____米。",
+        "answer": "平方"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

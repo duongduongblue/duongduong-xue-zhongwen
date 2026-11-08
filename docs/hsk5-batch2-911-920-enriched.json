@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_911",
+    "level": "HSK5",
+    "hanzi": "功能",
+    "pinyin": "gōngnéng",
+    "topic_id": "work",
+    "display_meaning_vi": "chức năng",
+    "meaning_en": "function",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "功能很多 / 使用功能",
+    "collocations": [
+      "功能很多",
+      "使用功能",
+      "基本功能"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个机器的功能很多。",
+        "pinyin": "Zhège jīqì de gōngnéng hěn duō.",
+        "vi": "Máy này có nhiều chức năng.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "功能 là máy hoặc bộ phận làm được gì. Chức vụ của người nói 职务."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp ở máy và phần mềm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "功能 nghĩa là gì?",
+        "answer": "chức năng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个机器的____很多。",
+        "answer": "功能"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_912",
+    "level": "HSK5",
+    "hanzi": "构成",
+    "pinyin": "gòuchéng",
+    "topic_id": "language",
+    "display_meaning_vi": "cấu thành",
+    "meaning_en": "to constitute",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "构成威胁 / 构成部分",
+    "collocations": [
+      "构成威胁",
+      "构成部分",
+      "由三部分构成"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "水由氢和氧构成。",
+        "pinyin": "Shuǐ yóu qīng hé yǎng gòuchéng.",
+        "vi": "Nước cấu thành từ hidro và oxi.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "构成 là các phần hợp lại thành một cái. Làm ra một sản phẩm nói 制造."
+    ],
+    "app_note_vi": "Động từ. 由…构成 là do… tạo nên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "构成 nghĩa là gì?",
+        "answer": "cấu thành"
+      },
+      {
+        "type": "cloze",
+        "prompt": "水由氢和氧____。",
+        "answer": "构成"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_913",
+    "level": "HSK5",
+    "hanzi": "固定",
+    "pinyin": "gùdìng",
+    "topic_id": "work",
+    "display_meaning_vi": "cố định",
+    "meaning_en": "fixed",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "固定时间 / 固定下来",
+    "collocations": [
+      "固定时间",
+      "固定下来",
+      "位置固定"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们把时间固定下来。",
+        "pinyin": "Wǒmen bǎ shíjiān gùdìng xiàlai.",
+        "vi": "Chúng tôi chốt thời gian.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "下来 đọc xiàlai, âm sau nhẹ. 固定 là không đổi nữa."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 固定下来 là giữ cho ổn định.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "固定 nghĩa là gì?",
+        "answer": "cố định"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们把时间____下来。",
+        "answer": "固定"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_914",
+    "level": "HSK5",
+    "hanzi": "雇佣",
+    "pinyin": "gùyōng",
+    "topic_id": "work",
+    "display_meaning_vi": "thuê người",
+    "meaning_en": "to employ",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "雇佣工人 / 雇佣关系",
+    "collocations": [
+      "雇佣工人",
+      "雇佣关系",
+      "临时雇佣"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "公司雇佣了十名工人。",
+        "pinyin": "Gōngsī gùyōng le shí míng gōngrén.",
+        "vi": "Công ty đã thuê mười công nhân.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "雇佣 là thuê người làm. Thuê nhà nói 租."
+    ],
+    "app_note_vi": "Động từ. 雇佣关系 là quan hệ thuê mướn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "雇佣 nghĩa là gì?",
+        "answer": "thuê người"
+      },
+      {
+        "type": "cloze",
+        "prompt": "公司____了十名工人。",
+        "answer": "雇佣"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_915",
+    "level": "HSK5",
+    "hanzi": "观念",
+    "pinyin": "guānniàn",
+    "topic_id": "language",
+    "display_meaning_vi": "quan niệm",
+    "meaning_en": "concept; outlook",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "传统观念 / 改变观念",
+    "collocations": [
+      "传统观念",
+      "改变观念",
+      "消费观念"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "年轻人的观念变了。",
+        "pinyin": "Niánqīngrén de guānniàn biàn le.",
+        "vi": "Quan niệm của người trẻ đã đổi.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "观念 là cách nhìn một loại việc. Một ý nhỏ nói 想法."
+    ],
+    "app_note_vi": "Danh từ. 改变观念 là đổi cách nghĩ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "观念 nghĩa là gì?",
+        "answer": "quan niệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "年轻人的____变了。",
+        "answer": "观念"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_916",
+    "level": "HSK5",
+    "hanzi": "广泛",
+    "pinyin": "guǎngfàn",
+    "topic_id": "language",
+    "display_meaning_vi": "rộng rãi",
+    "meaning_en": "wide; extensive",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "广泛使用 / 广泛兴趣",
+    "collocations": [
+      "广泛使用",
+      "广泛兴趣",
+      "广泛传播"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种方法被广泛使用。",
+        "pinyin": "Zhè zhǒng fāngfǎ bèi guǎngfàn shǐyòng.",
+        "vi": "Cách này được dùng rộng rãi.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "广泛 là phạm vi lớn, nhiều nơi hoặc nhiều người."
+    ],
+    "app_note_vi": "Tính từ. Hay đứng trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "广泛 nghĩa là gì?",
+        "answer": "rộng rãi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种方法被____使用。",
+        "answer": "广泛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_917",
+    "level": "HSK5",
+    "hanzi": "核心",
+    "pinyin": "héxīn",
+    "topic_id": "language",
+    "display_meaning_vi": "cốt lõi",
+    "meaning_en": "core",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "核心问题 / 核心成员",
+    "collocations": [
+      "核心问题",
+      "核心成员",
+      "核心技术"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是问题的核心。",
+        "pinyin": "Zhè shì wèntí de héxīn.",
+        "vi": "Đây là cốt lõi của vấn đề.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "核心 là phần quan trọng nhất, không phải toàn bộ."
+    ],
+    "app_note_vi": "Danh từ. 核心问题 là vấn đề then chốt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "核心 nghĩa là gì?",
+        "answer": "cốt lõi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是问题的____。",
+        "answer": "核心"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_918",
+    "level": "HSK5",
+    "hanzi": "启发",
+    "pinyin": "qǐfā",
+    "topic_id": "study",
+    "display_meaning_vi": "gợi mở",
+    "meaning_en": "to inspire",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "受到启发 / 启发思考",
+    "collocations": [
+      "受到启发",
+      "启发思考",
+      "很有启发"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次谈话给了我启发。",
+        "pinyin": "Zhè cì tánhuà gěi le wǒ qǐfā.",
+        "vi": "Lần nói chuyện này đã gợi mở cho tôi.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. Tóc đọc fà, như 头发. 启发 là làm người khác tự nghĩ ra."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 受到启发 là được gợi ý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "启发 nghĩa là gì?",
+        "answer": "gợi mở"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次谈话给了我____。",
+        "answer": "启发"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_919",
+    "level": "HSK5",
+    "hanzi": "繁荣",
+    "pinyin": "fánróng",
+    "topic_id": "society",
+    "display_meaning_vi": "phồn vinh",
+    "meaning_en": "prosperous",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "经济繁荣 / 繁荣发展",
+    "collocations": [
+      "经济繁荣",
+      "繁荣发展",
+      "市场繁荣"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这座城市很繁荣。",
+        "pinyin": "Zhè zuò chéngshì hěn fánróng.",
+        "vi": "Thành phố này rất phồn vinh.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "繁荣 tả kinh tế và đời sống thịnh vượng, không phải một người giàu."
+    ],
+    "app_note_vi": "Tính từ. 经济繁荣 là kinh tế phát đạt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "繁荣 nghĩa là gì?",
+        "answer": "phồn vinh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这座城市很____。",
+        "answer": "繁荣"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_920",
+    "level": "HSK5",
+    "hanzi": "鼓舞",
+    "pinyin": "gǔwǔ",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cổ vũ",
+    "meaning_en": "to inspire; encouraging",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "emotion"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "鼓舞人心 / 受到鼓舞",
+    "collocations": [
+      "鼓舞人心",
+      "受到鼓舞",
+      "令人鼓舞"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个消息鼓舞了大家。",
+        "pinyin": "Zhège xiāoxi gǔwǔ le dàjiā.",
+        "vi": "Tin này đã cổ vũ mọi người.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "消息 đọc xiāoxi, âm sau nhẹ. 鼓舞 là làm người ta có thêm khí thế."
+    ],
+    "app_note_vi": "Động từ. 鼓舞人心 là khích lệ lòng người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鼓舞 nghĩa là gì?",
+        "answer": "cổ vũ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个消息____了大家。",
+        "answer": "鼓舞"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

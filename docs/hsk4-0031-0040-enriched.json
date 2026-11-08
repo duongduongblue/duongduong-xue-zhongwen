@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0031",
+    "level": "HSK4",
+    "hanzi": "父亲",
+    "pinyin": "fùqīn",
+    "topic_id": "people",
+    "display_meaning_vi": "bố; cha",
+    "meaning_en": "father",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "我的父亲 / 父亲的话",
+    "collocations": [
+      "我的父亲",
+      "父亲的话",
+      "尊敬父亲"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "父亲 trang trọng hơn 爸爸. 亲 đọc qīn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我父亲是一名老师。",
+        "pinyin": "Wǒ fù qīn shì yì míng lǎo shī.",
+        "vi": "Bố tôi là giáo viên.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "父亲 trang trọng hơn 爸爸. 亲 đọc qīn."
+    ],
+    "app_note_vi": "父亲 trang trọng hơn 爸爸. 亲 đọc qīn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "父亲 nghĩa là gì?",
+        "answer": "bố; cha"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____是一名老师。",
+        "answer": "父亲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0032",
+    "level": "HSK4",
+    "hanzi": "儿童",
+    "pinyin": "értóng",
+    "topic_id": "people",
+    "display_meaning_vi": "trẻ em",
+    "meaning_en": "child",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "儿童公园 / 儿童读物",
+    "collocations": [
+      "儿童公园",
+      "儿童读物",
+      "关心儿童"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "儿 đọc ér, không phải hậu tố er.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个公园是为儿童准备的。",
+        "pinyin": "Zhè ge gōng yuán shì wèi ér tóng zhǔn bèi de.",
+        "vi": "Công viên này dành cho trẻ em.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "儿 đọc ér, không phải hậu tố er."
+    ],
+    "app_note_vi": "儿 đọc ér, không phải hậu tố er.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "儿童 nghĩa là gì?",
+        "answer": "trẻ em"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个公园是为____准备的。",
+        "answer": "儿童"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0033",
+    "level": "HSK4",
+    "hanzi": "出生",
+    "pinyin": "chūshēng",
+    "topic_id": "people",
+    "display_meaning_vi": "sinh ra; chào đời",
+    "meaning_en": "to be born",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "出生日期 / 出生在",
+    "collocations": [
+      "出生日期",
+      "出生在",
+      "出生证明"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "生 đọc shēng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她出生在北京。",
+        "pinyin": "Tā chū shēng zài běi jīng.",
+        "vi": "Cô ấy sinh ra ở Bắc Kinh.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "生 đọc shēng."
+    ],
+    "app_note_vi": "生 đọc shēng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出生 nghĩa là gì?",
+        "answer": "sinh ra; chào đời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____在北京。",
+        "answer": "出生"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0034",
+    "level": "HSK4",
+    "hanzi": "母亲",
+    "pinyin": "mǔqīn",
+    "topic_id": "people",
+    "display_meaning_vi": "mẹ",
+    "meaning_en": "mother",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "我的母亲 / 母亲的爱",
+    "collocations": [
+      "我的母亲",
+      "母亲的爱",
+      "尊敬母亲"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "母亲 trang trọng hơn 妈妈.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "母亲每天很早起床。",
+        "pinyin": "Mǔ qīn měi tiān hěn zǎo qǐ chuáng.",
+        "vi": "Mẹ dậy rất sớm mỗi ngày.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "母亲 trang trọng hơn 妈妈."
+    ],
+    "app_note_vi": "母亲 trang trọng hơn 妈妈.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "母亲 nghĩa là gì?",
+        "answer": "mẹ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____每天很早起床。",
+        "answer": "母亲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0035",
+    "level": "HSK4",
+    "hanzi": "性格",
+    "pinyin": "xìnggé",
+    "topic_id": "people",
+    "display_meaning_vi": "tính cách",
+    "meaning_en": "personality",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "性格开朗 / 性格特点",
+    "collocations": [
+      "性格开朗",
+      "性格特点",
+      "了解性格"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "性 đọc xìng. 性格 khác 性别.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她的性格很开朗。",
+        "pinyin": "Tā de xìng gé hěn kāi lǎng.",
+        "vi": "Tính cách của cô ấy rất cởi mở.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "性 đọc xìng. 性格 khác 性别."
+    ],
+    "app_note_vi": "性 đọc xìng. 性格 khác 性别.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "性格 nghĩa là gì?",
+        "answer": "tính cách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她的____很开朗。",
+        "answer": "性格"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0036",
+    "level": "HSK4",
+    "hanzi": "性别",
+    "pinyin": "xìngbié",
+    "topic_id": "people",
+    "display_meaning_vi": "giới tính",
+    "meaning_en": "gender",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "填写性别 / 性别平等",
+    "collocations": [
+      "填写性别",
+      "性别平等",
+      "不分性别"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "性别 là nam hay nữ. 性格 là tính cách.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请在表格上填写性别。",
+        "pinyin": "Qǐng zài biǎo gé shàng tián xiě xìng bié.",
+        "vi": "Hãy điền giới tính vào biểu mẫu.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "性别 là nam hay nữ. 性格 là tính cách."
+    ],
+    "app_note_vi": "性别 là nam hay nữ. 性格 là tính cách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "性别 nghĩa là gì?",
+        "answer": "giới tính"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请在表格上填写____。",
+        "answer": "性别"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0037",
+    "level": "HSK4",
+    "hanzi": "约会",
+    "pinyin": "yuēhuì",
+    "topic_id": "people",
+    "display_meaning_vi": "cuộc hẹn",
+    "meaning_en": "appointment; date",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有个约会 / 约会时间",
+    "collocations": [
+      "有个约会",
+      "约会时间",
+      "取消约会"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "约 đọc yuē.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们下午三点有个约会。",
+        "pinyin": "Wǒ men xià wǔ sān diǎn yǒu gè yuē huì.",
+        "vi": "Chiều nay ba giờ chúng tôi có một cuộc hẹn.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "约 đọc yuē."
+    ],
+    "app_note_vi": "约 đọc yuē.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "约会 nghĩa là gì?",
+        "answer": "cuộc hẹn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们下午三点有个____。",
+        "answer": "约会"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0038",
+    "level": "HSK4",
+    "hanzi": "友谊",
+    "pinyin": "yǒuyì",
+    "topic_id": "people",
+    "display_meaning_vi": "tình bạn",
+    "meaning_en": "friendship",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "珍贵的友谊 / 建立友谊",
+    "collocations": [
+      "珍贵的友谊",
+      "建立友谊",
+      "友谊长存"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "友谊 là tình bạn. 爱情 là tình yêu. 谊 đọc yì.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "真正的友谊很珍贵。",
+        "pinyin": "Zhēn zhèng de yǒu yì hěn zhēn guì.",
+        "vi": "Tình bạn thật sự rất đáng quý.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "友谊 là tình bạn. 爱情 là tình yêu. 谊 đọc yì."
+    ],
+    "app_note_vi": "友谊 là tình bạn. 爱情 là tình yêu. 谊 đọc yì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "友谊 nghĩa là gì?",
+        "answer": "tình bạn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "真正的____很珍贵。",
+        "answer": "友谊"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0039",
+    "level": "HSK4",
+    "hanzi": "邀请",
+    "pinyin": "yāoqǐng",
+    "topic_id": "people",
+    "display_meaning_vi": "mời",
+    "meaning_en": "to invite",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "邀请朋友 / 受到邀请",
+    "collocations": [
+      "邀请朋友",
+      "受到邀请",
+      "邀请函"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "邀 đọc yāo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我邀请朋友来家里吃饭。",
+        "pinyin": "Wǒ yāo qǐng péng yǒu lái jiā lǐ chī fàn.",
+        "vi": "Tôi mời bạn đến nhà ăn cơm.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "邀 đọc yāo."
+    ],
+    "app_note_vi": "邀 đọc yāo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "邀请 nghĩa là gì?",
+        "answer": "mời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____朋友来家里吃饭。",
+        "answer": "邀请"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0040",
+    "level": "HSK4",
+    "hanzi": "鼓掌",
+    "pinyin": "gǔzhǎng",
+    "topic_id": "people",
+    "display_meaning_vi": "vỗ tay",
+    "meaning_en": "to applaud",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "热烈鼓掌 / 鼓掌欢迎",
+    "collocations": [
+      "热烈鼓掌",
+      "鼓掌欢迎",
+      "一起鼓掌"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "掌 đọc zhǎng, là lòng bàn tay.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "演出结束后大家都在鼓掌。",
+        "pinyin": "Yǎn chū jié shù hòu dà jiā dōu zài gǔ zhǎng.",
+        "vi": "Biểu diễn xong, mọi người đều vỗ tay.",
+        "context": "people"
+      }
+    ],
+    "common_mistakes_vi": [
+      "掌 đọc zhǎng, là lòng bàn tay."
+    ],
+    "app_note_vi": "掌 đọc zhǎng, là lòng bàn tay.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鼓掌 nghĩa là gì?",
+        "answer": "vỗ tay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "演出结束后大家都在____。",
+        "answer": "鼓掌"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

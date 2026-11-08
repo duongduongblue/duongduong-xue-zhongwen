@@ -1,0 +1,556 @@
+[
+  {
+    "id": "hsk5_batch2_711",
+    "level": "HSK5",
+    "hanzi": "长途",
+    "pinyin": "chángtú",
+    "topic_id": "travel",
+    "display_meaning_vi": "đường dài",
+    "meaning_en": "long-distance",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "长途汽车 / 长途旅行",
+    "collocations": [
+      "长途汽车",
+      "长途旅行",
+      "长途电话"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他坐长途汽车回家。",
+        "pinyin": "Tā zuò chángtú qìchē huí jiā.",
+        "vi": "Anh ấy đi xe đường dài về nhà.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "长 trong 长途 đọc cháng, là dài. Lớn lên đọc zhǎng, như 长大. Chữ này là 长, khác 常 trong 常识."
+    ],
+    "app_note_vi": "Tính từ. 长途电话 là cuộc gọi đường dài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "长途 nghĩa là gì?",
+        "answer": "đường dài"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他坐____汽车回家。",
+        "answer": "长途"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_712",
+    "level": "HSK5",
+    "hanzi": "重量",
+    "pinyin": "zhòngliàng",
+    "topic_id": "daily",
+    "display_meaning_vi": "trọng lượng",
+    "meaning_en": "weight",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "总重量 / 重量轻",
+    "collocations": [
+      "总重量",
+      "重量轻",
+      "称重量"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "先称一下这箱水果的重量。",
+        "pinyin": "Xiān chēng yíxià zhè xiāng shuǐguǒ de zhòngliàng.",
+        "vi": "Hãy cân trọng lượng thùng hoa quả này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "重 đọc zhòng, là nặng. Lặp lại đọc chóng, như 重复. 量 đọc liàng, là khối lượng. Đo đọc liáng, như 量体温. 称 ở đây đọc chēng, là cân. 一下 đọc yíxià."
+    ],
+    "app_note_vi": "Danh từ. 称重量 là cân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "重量 nghĩa là gì?",
+        "answer": "trọng lượng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "先称一下这箱水果的____。",
+        "answer": "重量"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_713",
+    "level": "HSK5",
+    "hanzi": "着凉",
+    "pinyin": "zháoliáng",
+    "topic_id": "daily",
+    "display_meaning_vi": "cảm lạnh",
+    "meaning_en": "to catch a chill",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily",
+      "body"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "小心着凉 / 着凉了",
+    "collocations": [
+      "小心着凉",
+      "着凉了",
+      "容易着凉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚上出门，小心着凉。",
+        "pinyin": "Wǎnshang chūmén, xiǎoxīn zháoliáng.",
+        "vi": "Tối ra ngoài, cẩn thận kẻo cảm lạnh.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "着 đọc zháo. Trợ từ đọc nhẹ zhe, như 看着. 着落 đọc zhuó. 晚上 đọc wǎnshang."
+    ],
+    "app_note_vi": "Động từ khẩu ngữ. Lạnh trúng người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "着凉 nghĩa là gì?",
+        "answer": "cảm lạnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚上出门，小心____。",
+        "answer": "着凉"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_714",
+    "level": "HSK5",
+    "hanzi": "转告",
+    "pinyin": "zhuǎngào",
+    "topic_id": "language",
+    "display_meaning_vi": "chuyển lời",
+    "meaning_en": "to pass on a message",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "请转告 / 代为转告",
+    "collocations": [
+      "请转告",
+      "转告他",
+      "代为转告"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请转告他明天开会。",
+        "pinyin": "Qǐng zhuǎngào tā míngtiān kāihuì.",
+        "vi": "Nhờ chuyển lời: ngày mai anh ấy có họp.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "转 đọc zhuǎn, là chuyển. Xoay vòng đọc zhuàn, như 转圈."
+    ],
+    "app_note_vi": "Động từ. 代为转告 là chuyển lời hộ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "转告 nghĩa là gì?",
+        "answer": "chuyển lời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请____他明天开会。",
+        "answer": "转告"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_715",
+    "level": "HSK5",
+    "hanzi": "系领带",
+    "pinyin": "xìlǐngdài",
+    "topic_id": "daily",
+    "display_meaning_vi": "thắt cà vạt",
+    "meaning_en": "to tie a necktie",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "学会系领带 / 会系领带",
+    "collocations": [
+      "学会系领带",
+      "会系领带",
+      "系领带的方法"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爸爸教我系领带。",
+        "pinyin": "Bàba jiāo wǒ xìlǐngdài.",
+        "vi": "Bố dạy tôi thắt cà vạt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "系在 系领带 đọc xì. Buộc dây giày 系鞋带 đọc jì. 教我的 教 đọc jiāo; giáo trình 教材 đọc jiào."
+    ],
+    "app_note_vi": "Cụm động từ. Làm trước khi đi họp hoặc phỏng vấn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "系领带 nghĩa là gì?",
+        "answer": "thắt cà vạt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爸爸教我____。",
+        "answer": "系领带"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_716",
+    "level": "HSK5",
+    "hanzi": "车厢",
+    "pinyin": "chēxiāng",
+    "topic_id": "travel",
+    "display_meaning_vi": "toa xe",
+    "meaning_en": "railway carriage; compartment",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "车厢里 / 列车车厢",
+    "collocations": [
+      "车厢里",
+      "列车车厢",
+      "软卧车厢"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "车厢里人很多。",
+        "pinyin": "Chēxiāng lǐ rén hěn duō.",
+        "vi": "Trong toa có rất nhiều người.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "车厢 là khoang tàu hoặc xe. Nhà để xe là 车库."
+    ],
+    "app_note_vi": "Danh từ. 软卧车厢 là toa giường mềm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "车厢 nghĩa là gì?",
+        "answer": "toa xe"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____里人很多。",
+        "answer": "车厢"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_717",
+    "level": "HSK5",
+    "hanzi": "车库",
+    "pinyin": "chēkù",
+    "topic_id": "travel",
+    "display_meaning_vi": "nhà để xe",
+    "meaning_en": "garage",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel",
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "地下车库 / 车库门",
+    "collocations": [
+      "地下车库",
+      "停进车库",
+      "车库门"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "车停在车库里。",
+        "pinyin": "Chē tíng zài chēkù lǐ.",
+        "vi": "Xe đỗ trong nhà để xe.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "车库 là chỗ đỗ xe. Toa hành khách là 车厢."
+    ],
+    "app_note_vi": "Danh từ. 地下车库 là hầm để xe.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "车库 nghĩa là gì?",
+        "answer": "nhà để xe"
+      },
+      {
+        "type": "cloze",
+        "prompt": "车停在____里。",
+        "answer": "车库"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_718",
+    "level": "HSK5",
+    "hanzi": "登机牌",
+    "pinyin": "dēngjīpái",
+    "topic_id": "travel",
+    "display_meaning_vi": "thẻ lên máy bay",
+    "meaning_en": "boarding pass",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "出示登机牌 / 电子登机牌",
+    "collocations": [
+      "出示登机牌",
+      "电子登机牌",
+      "拿登机牌"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请出示登机牌。",
+        "pinyin": "Qǐng chūshì dēngjīpái.",
+        "vi": "Xin xuất trình thẻ lên máy bay.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "登机 là lên máy bay. 牌 là tấm thẻ."
+    ],
+    "app_note_vi": "Danh từ. 电子登机牌 là thẻ trên điện thoại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "登机牌 nghĩa là gì?",
+        "answer": "thẻ lên máy bay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请出示____。",
+        "answer": "登机牌"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_719",
+    "level": "HSK5",
+    "hanzi": "登记",
+    "pinyin": "dēngjì",
+    "topic_id": "travel",
+    "display_meaning_vi": "đăng ký",
+    "meaning_en": "to register",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "登记表 / 先登记",
+    "collocations": [
+      "登记表",
+      "先登记",
+      "登记姓名"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "来宾请先登记。",
+        "pinyin": "Láibīn qǐng xiān dēngjì.",
+        "vi": "Khách mời xin đăng ký trước.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "登记 là ghi vào sổ hoặc biểu. Không phải lên máy bay; lên máy bay là 登机."
+    ],
+    "app_note_vi": "Động từ. 登记表 là phiếu đăng ký.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "登记 nghĩa là gì?",
+        "answer": "đăng ký"
+      },
+      {
+        "type": "cloze",
+        "prompt": "来宾请先____。",
+        "answer": "登记"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_720",
+    "level": "HSK5",
+    "hanzi": "等候",
+    "pinyin": "děnghòu",
+    "topic_id": "travel",
+    "display_meaning_vi": "chờ",
+    "meaning_en": "to wait",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "请等候 / 等候通知",
+    "collocations": [
+      "在门口等候",
+      "等候通知",
+      "请等候"
+    ],
+    "near_synonyms": [
+      {
+        "word": "等",
+        "difference_vi": "等候 trang trọng hơn; 等 thông dụng."
+      }
+    ],
+    "app_synonym_note_vi": "等候 = chờ, trang trọng; 等 = đợi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请在门口等候。",
+        "pinyin": "Qǐng zài ménkǒu děnghòu.",
+        "vi": "Xin chờ ở cửa.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "等候 hay gặp ở sân bay, bệnh viện, quầy. Bạn bè thường nói 等."
+    ],
+    "app_note_vi": "Động từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "等候 nghĩa là gì?",
+        "answer": "chờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请在门口____。",
+        "answer": "等候"
+      },
+      {
+        "type": "synonym",
+        "prompt": "等候 khác 等 ở điểm nào?",
+        "answer": "等候 trang trọng hơn; 等 thông dụng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

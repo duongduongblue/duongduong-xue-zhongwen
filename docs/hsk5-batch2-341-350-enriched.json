@@ -1,0 +1,547 @@
+[
+  {
+    "id": "hsk5_batch2_341",
+    "level": "HSK5",
+    "hanzi": "食物",
+    "pinyin": "shíwù",
+    "topic_id": "daily",
+    "display_meaning_vi": "thức ăn",
+    "meaning_en": "food",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "储存食物 / 食物中毒",
+    "collocations": [
+      "食物中毒",
+      "食物链",
+      "储存食物"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "吃剩的食物收进冰箱。",
+        "pinyin": "Chī shèng de shíwù shōu jìn bīngxiāng.",
+        "vi": "Đồ ăn còn thừa thì cất vào tủ lạnh.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "食物 là đồ ăn nói chung. Một món cụ thể có thể gọi tên món, không nhất thiết nói 食物."
+    ],
+    "app_note_vi": "Danh từ rộng. 食物中毒 là ngộ độc thức ăn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "食物 nghĩa là gì?",
+        "answer": "thức ăn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "吃剩的____收进冰箱。",
+        "answer": "食物"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_342",
+    "level": "HSK5",
+    "hanzi": "切",
+    "pinyin": "qiē",
+    "topic_id": "daily",
+    "display_meaning_vi": "cắt",
+    "meaning_en": "to cut; to slice",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "切菜 / 切开",
+    "collocations": [
+      "切菜",
+      "切开",
+      "切蛋糕"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈把苹果切成块。",
+        "pinyin": "Māma bǎ píngguǒ qiē chéng kuài.",
+        "vi": "Mẹ cắt táo thành miếng.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "切在 đây đọc qiē, nghĩa là cắt. 一切 và 亲切 đọc qiè, là từ khác."
+    ],
+    "app_note_vi": "Động từ. Dao cắt rau là 切菜.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "切 nghĩa là gì?",
+        "answer": "cắt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈把苹果____成块。",
+        "answer": "切"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_343",
+    "level": "HSK5",
+    "hanzi": "炒",
+    "pinyin": "chǎo",
+    "topic_id": "daily",
+    "display_meaning_vi": "xào",
+    "meaning_en": "to stir-fry",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "炒菜 / 炒饭",
+    "collocations": [
+      "炒菜",
+      "炒饭",
+      "清炒"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "妈妈晚上炒了一盘青菜。",
+        "pinyin": "Māma wǎnshang chǎo le yì pán qīngcài.",
+        "vi": "Tối mẹ xào một đĩa rau.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "炒 là xào trên chảo với dầu, lửa lớn. Luộc là 煮, không đổi hai từ."
+    ],
+    "app_note_vi": "Động từ. 一盘 đọc yì pán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "炒 nghĩa là gì?",
+        "answer": "xào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "妈妈晚上____了一盘青菜。",
+        "answer": "炒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_344",
+    "level": "HSK5",
+    "hanzi": "煮",
+    "pinyin": "zhǔ",
+    "topic_id": "daily",
+    "display_meaning_vi": "luộc; nấu trong nước sôi",
+    "meaning_en": "to boil; to cook in water",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "煮鸡蛋 / 煮熟",
+    "collocations": [
+      "煮鸡蛋",
+      "煮饺子",
+      "煮熟"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "水开了就可以煮面条。",
+        "pinyin": "Shuǐ kāi le jiù kěyǐ zhǔ miàntiáo.",
+        "vi": "Nước sôi rồi thì có thể nấu mì.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "煮 là làm chín bằng nước sôi. Xào là 炒."
+    ],
+    "app_note_vi": "Động từ. 煮熟 là nấu chín.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "煮 nghĩa là gì?",
+        "answer": "luộc; nấu trong nước sôi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "水开了就可以____面条。",
+        "answer": "煮"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_345",
+    "level": "HSK5",
+    "hanzi": "餐厅",
+    "pinyin": "cāntīng",
+    "topic_id": "daily",
+    "display_meaning_vi": "nhà hàng; phòng ăn",
+    "meaning_en": "dining room; restaurant",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "学校餐厅 / 在餐厅吃饭",
+    "collocations": [
+      "学校餐厅",
+      "中餐厅",
+      "在餐厅吃饭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "中午我们在学校餐厅见面。",
+        "pinyin": "Zhōngwǔ wǒmen zài xuéxiào cāntīng jiànmiàn.",
+        "vi": "Trưa chúng ta gặp nhau ở căn tin trường.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "餐厅 vừa là nhà hàng vừa là căn tin. Quán nhỏ vỉa hè thường nói 饭馆 hoặc 小吃店."
+    ],
+    "app_note_vi": "Danh từ. 中餐厅 là nhà hàng món Trung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "餐厅 nghĩa là gì?",
+        "answer": "nhà hàng; phòng ăn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "中午我们在学校____见面。",
+        "answer": "餐厅"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_346",
+    "level": "HSK5",
+    "hanzi": "臭",
+    "pinyin": "chòu",
+    "topic_id": "daily",
+    "display_meaning_vi": "hôi",
+    "meaning_en": "stinky",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "food",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "臭味 / 很臭",
+    "collocations": [
+      "臭味",
+      "臭豆腐",
+      "很臭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "冰箱里有一股臭味。",
+        "pinyin": "Bīngxiāng lǐ yǒu yì gǔ chòuwèi.",
+        "vi": "Trong tủ lạnh có một mùi hôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nghĩa hôi đọc chòu. Cách đọc xiù chỉ gặp trong vài từ cũ, như nói về khứu giác, không dùng cho mùi hôi hàng ngày."
+    ],
+    "app_note_vi": "Tính từ. 臭豆腐 là đậu phụ thối, một món ăn. 一股 đọc yì gǔ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "臭 nghĩa là gì?",
+        "answer": "hôi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "冰箱里有一股____味。",
+        "answer": "臭"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_347",
+    "level": "HSK5",
+    "hanzi": "青",
+    "pinyin": "qīng",
+    "topic_id": "daily",
+    "display_meaning_vi": "xanh; trẻ",
+    "meaning_en": "green; young",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "青菜 / 青年",
+    "collocations": [
+      "青菜",
+      "青年",
+      "青草"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些青菜要多洗几遍。",
+        "pinyin": "Zhèxiē qīngcài yào duō xǐ jǐ biàn.",
+        "vi": "Rau này phải rửa thêm vài lượt.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "青 là xanh của lá hoặc trời, và tuổi trẻ trong 青年. Không phải mọi màu xanh đều gọi 青. Xanh dương của áo có thể là 蓝."
+    ],
+    "app_note_vi": "Tính từ. 青菜 là rau xanh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "青 nghĩa là gì?",
+        "answer": "xanh; trẻ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些____菜要多洗几遍。",
+        "answer": "青"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_348",
+    "level": "HSK5",
+    "hanzi": "烂",
+    "pinyin": "làn",
+    "topic_id": "daily",
+    "display_meaning_vi": "nát; hỏng",
+    "meaning_en": "rotten; mushy",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "烂掉 / 破烂",
+    "collocations": [
+      "烂掉",
+      "破烂",
+      "烂泥"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这些苹果已经烂了。",
+        "pinyin": "Zhèxiē píngguǒ yǐjīng làn le.",
+        "vi": "Những quả táo này đã hỏng.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "烂 là hỏng, nát. Đồ cũ rách nói 破烂. Đừng dùng 烂 để chê người."
+    ],
+    "app_note_vi": "Tính từ. Hoa quả hỏng hoặc việc rối tung đều có thể nói 烂.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "烂 nghĩa là gì?",
+        "answer": "nát; hỏng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这些苹果已经____了。",
+        "answer": "烂"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_349",
+    "level": "HSK5",
+    "hanzi": "玉米",
+    "pinyin": "yùmǐ",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngô",
+    "meaning_en": "corn; maize",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "玉米粥 / 甜玉米",
+    "collocations": [
+      "玉米粥",
+      "甜玉米",
+      "玉米油"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "晚饭有玉米和排骨。",
+        "pinyin": "Wǎnfàn yǒu yùmǐ hé páigǔ.",
+        "vi": "Cơm tối có ngô và sườn.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "玉米 là ngô, cũng gọi là bắp tùy vùng. Không phải gạo."
+    ],
+    "app_note_vi": "Danh từ. 玉米粥 là cháo ngô.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "玉米 nghĩa là gì?",
+        "answer": "ngô"
+      },
+      {
+        "type": "cloze",
+        "prompt": "晚饭有____和排骨。",
+        "answer": "玉米"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_350",
+    "level": "HSK5",
+    "hanzi": "酒吧",
+    "pinyin": "jiǔbā",
+    "topic_id": "daily",
+    "display_meaning_vi": "quán bar",
+    "meaning_en": "bar",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "food",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去酒吧 / 一家酒吧",
+    "collocations": [
+      "去酒吧",
+      "酒吧街",
+      "一家酒吧"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们约在酒吧见面。",
+        "pinyin": "Tāmen yuē zài jiǔbā jiànmiàn.",
+        "vi": "Họ hẹn gặp ở quán bar.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "酒吧 là chỗ uống rượu, nghe nhạc. Quán ăn thường không gọi là 酒吧."
+    ],
+    "app_note_vi": "Danh từ. 吧 đọc bā.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "酒吧 nghĩa là gì?",
+        "answer": "quán bar"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们约在____见面。",
+        "answer": "酒吧"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

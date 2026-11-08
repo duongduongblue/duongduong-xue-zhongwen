@@ -1,0 +1,585 @@
+[
+  {
+    "id": "hsk5_batch2_301",
+    "level": "HSK5",
+    "hanzi": "项目",
+    "pinyin": "xiàngmù",
+    "topic_id": "work",
+    "display_meaning_vi": "dự án",
+    "meaning_en": "project; item",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "项目 + 经理 / 完成项目",
+    "collocations": [
+      "项目经理",
+      "科研项目",
+      "项目组"
+    ],
+    "near_synonyms": [
+      {
+        "word": "任务",
+        "difference_vi": "项目 là một hạng mục có mục tiêu và thời hạn; 任务 là một việc được giao, nhỏ hơn."
+      }
+    ],
+    "app_synonym_note_vi": "项目 = dự án; 任务 = nhiệm vụ được giao.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个项目下个月能完成。",
+        "pinyin": "Zhège xiàngmù xià gè yuè néng wánchéng.",
+        "vi": "Dự án này tháng sau làm xong được.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "项目 không phải một việc lặt vặt. Một việc nhỏ trong ngày nói 事情 hoặc 任务."
+    ],
+    "app_note_vi": "Danh từ. Hay đi với người phụ trách, nhóm và thời hạn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "项目 nghĩa là gì?",
+        "answer": "dự án"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____下个月能完成。",
+        "answer": "项目"
+      },
+      {
+        "type": "synonym",
+        "prompt": "项目 khác 任务 ở điểm nào?",
+        "answer": "项目 là một hạng mục có mục tiêu và thời hạn; 任务 là một việc được giao, nhỏ hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_302",
+    "level": "HSK5",
+    "hanzi": "训练",
+    "pinyin": "xùnliàn",
+    "topic_id": "work",
+    "display_meaning_vi": "huấn luyện",
+    "meaning_en": "to train; training",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "接受训练 / 严格训练",
+    "collocations": [
+      "严格训练",
+      "训练营",
+      "训练有素"
+    ],
+    "near_synonyms": [
+      {
+        "word": "练习",
+        "difference_vi": "训练 có kế hoạch và thường do người khác hướng dẫn; 练习 là tự luyện."
+      }
+    ],
+    "app_synonym_note_vi": "训练 = huấn luyện có kế hoạch; 练习 = tự luyện.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新员工下周开始接受训练。",
+        "pinyin": "Xīn yuángōng xià zhōu kāishǐ jiēshòu xùnliàn.",
+        "vi": "Nhân viên mới tuần sau bắt đầu được huấn luyện.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "接受训练 là được huấn luyện. Tự mình luyện một kỹ năng nhỏ nói 练习."
+    ],
+    "app_note_vi": "Vừa là động từ vừa là danh từ. 训练有素 là đã được luyện thành thạo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "训练 nghĩa là gì?",
+        "answer": "huấn luyện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新员工下周开始接受____。",
+        "answer": "训练"
+      },
+      {
+        "type": "synonym",
+        "prompt": "训练 khác 练习 ở điểm nào?",
+        "answer": "训练 có kế hoạch và thường do người khác hướng dẫn; 练习 là tự luyện."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_303",
+    "level": "HSK5",
+    "hanzi": "部门",
+    "pinyin": "bùmén",
+    "topic_id": "work",
+    "display_meaning_vi": "bộ phận; phòng ban",
+    "meaning_en": "department",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "人事部门 / 有关部门",
+    "collocations": [
+      "有关部门",
+      "销售部门",
+      "部门经理"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题要问人事部门。",
+        "pinyin": "Zhège wèntí yào wèn rénshì bùmén.",
+        "vi": "Việc này phải hỏi phòng nhân sự.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "部门 là một đơn vị trong cơ quan, không phải cả công ty. Cả công ty nói 公司."
+    ],
+    "app_note_vi": "Danh từ. 有关部门 là cơ quan liên quan.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "部门 nghĩa là gì?",
+        "answer": "bộ phận; phòng ban"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个问题要问人事____。",
+        "answer": "部门"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_304",
+    "level": "HSK5",
+    "hanzi": "显示",
+    "pinyin": "xiǎnshì",
+    "topic_id": "work",
+    "display_meaning_vi": "hiển thị; cho thấy",
+    "meaning_en": "to show; to display",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "显示 + 结果 / 显示出",
+    "collocations": [
+      "显示屏",
+      "显示结果",
+      "数据显示"
+    ],
+    "near_synonyms": [
+      {
+        "word": "表明",
+        "difference_vi": "显示 hay là màn hình hoặc số liệu hiện ra; 表明 là một việc làm cho kết luận trở nên rõ."
+      }
+    ],
+    "app_synonym_note_vi": "显示 = hiện ra, cho thấy; 表明 = làm rõ một kết luận.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "屏幕上显示出成绩了。",
+        "pinyin": "Píngmù shàng xiǎnshì chū chéngjì le.",
+        "vi": "Trên màn hình đã hiện điểm.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "显示出 là hiện ra. Không dùng 显示 thay cho 表示 khi chỉ muốn nói “tỏ ra”."
+    ],
+    "app_note_vi": "Động từ. Vừa là màn hình hiện chữ, vừa là tình hình cho thấy một kết quả.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "显示 nghĩa là gì?",
+        "answer": "hiển thị; cho thấy"
+      },
+      {
+        "type": "cloze",
+        "prompt": "屏幕上____出成绩了。",
+        "answer": "显示"
+      },
+      {
+        "type": "synonym",
+        "prompt": "显示 khác 表明 ở điểm nào?",
+        "answer": "显示 hay là màn hình hoặc số liệu hiện ra; 表明 là một việc làm cho kết luận trở nên rõ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_305",
+    "level": "HSK5",
+    "hanzi": "对方",
+    "pinyin": "duìfāng",
+    "topic_id": "work",
+    "display_meaning_vi": "phía bên kia",
+    "meaning_en": "the other party",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对方 + 意见 / 同意",
+    "collocations": [
+      "对方同意",
+      "通知对方",
+      "对方意见"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "签约前要听对方的意见。",
+        "pinyin": "Qiānyuē qián yào tīng duìfāng de yìjiàn.",
+        "vi": "Trước khi ký phải nghe ý kiến của bên kia.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "对方 là bên còn lại, không phải “đối phương” theo nghĩa kẻ thù. Kẻ thù là 敌人."
+    ],
+    "app_note_vi": "Danh từ. Dùng trong hợp đồng, nói chuyện và thi đấu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "对方 nghĩa là gì?",
+        "answer": "phía bên kia"
+      },
+      {
+        "type": "cloze",
+        "prompt": "签约前要听____的意见。",
+        "answer": "对方"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_306",
+    "level": "HSK5",
+    "hanzi": "老板",
+    "pinyin": "lǎobǎn",
+    "topic_id": "work",
+    "display_meaning_vi": "ông chủ; sếp",
+    "meaning_en": "boss",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "当老板 / 老板今天",
+    "collocations": [
+      "老板娘",
+      "大老板",
+      "当老板"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老板今天不在店里。",
+        "pinyin": "Lǎobǎn jīntiān bú zài diàn lǐ.",
+        "vi": "Hôm nay ông chủ không có ở quán.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "老板 đọc lǎobǎn, dùng cho chủ việc kinh doanh, cả nam và nữ. Không đọc thành tên riêng."
+    ],
+    "app_note_vi": "不 trước 在 đọc bú. Vợ chủ quán có thể gọi 老板娘.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "老板 nghĩa là gì?",
+        "answer": "ông chủ; sếp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____今天不在店里。",
+        "answer": "老板"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_307",
+    "level": "HSK5",
+    "hanzi": "达到",
+    "pinyin": "dádào",
+    "topic_id": "work",
+    "display_meaning_vi": "đạt tới",
+    "meaning_en": "to reach; to achieve",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "达到 + 目标 / 标准",
+    "collocations": [
+      "达到目标",
+      "达到标准",
+      "达到要求"
+    ],
+    "near_synonyms": [
+      {
+        "word": "到达",
+        "difference_vi": "达到 là đạt một mức hoặc mục tiêu; 到达 là tới một địa điểm."
+      }
+    ],
+    "app_synonym_note_vi": "达到 = đạt mức, mục tiêu; 到达 = đến một nơi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他终于达到了自己的目标。",
+        "pinyin": "Tā zhōngyú dádào le zìjǐ de mùbiāo.",
+        "vi": "Cuối cùng anh ấy đã đạt mục tiêu của mình.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Địa điểm dùng 到达, không dùng 达到北京."
+    ],
+    "app_note_vi": "Động từ. Đi với mục tiêu, tiêu chuẩn và yêu cầu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "达到 nghĩa là gì?",
+        "answer": "đạt tới"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他终于____了自己的目标。",
+        "answer": "达到"
+      },
+      {
+        "type": "synonym",
+        "prompt": "达到 khác 到达 ở điểm nào?",
+        "answer": "达到 là đạt một mức hoặc mục tiêu; 到达 là tới một địa điểm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_308",
+    "level": "HSK5",
+    "hanzi": "派",
+    "pinyin": "pài",
+    "topic_id": "work",
+    "display_meaning_vi": "cử; phái",
+    "meaning_en": "to send; to assign",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "派 + 人 + 去",
+    "collocations": [
+      "派人",
+      "派出",
+      "派代表"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校派他去参加比赛。",
+        "pinyin": "Xuéxiào pài tā qù cānjiā bǐsài.",
+        "vi": "Trường cử anh ấy đi tham gia thi đấu.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "派 là cử người đi. 学派 là một trường phái tư tưởng, cùng chữ nhưng là danh từ khác."
+    ],
+    "app_note_vi": "Động từ. Mẫu hay gặp: 派某人去做某事.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "派 nghĩa là gì?",
+        "answer": "cử; phái"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校____他去参加比赛。",
+        "answer": "派"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_309",
+    "level": "HSK5",
+    "hanzi": "项",
+    "pinyin": "xiàng",
+    "topic_id": "work",
+    "display_meaning_vi": "hạng mục",
+    "meaning_en": "item; measure for tasks",
+    "part_of_speech": "measure",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "数词 + 项 + 任务",
+    "collocations": [
+      "一项任务",
+      "事项",
+      "奖项"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们这个月完成了三项任务。",
+        "pinyin": "Wǒmen zhège yuè wánchéng le sān xiàng rènwù.",
+        "vi": "Tháng này chúng tôi đã xong ba hạng mục việc.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "项 đọc xiàng. Họ 项 mới viết hoa Xiang. Đếm việc dùng 项, không dùng 个 cho một hạng mục trang trọng."
+    ],
+    "app_note_vi": "Lượng từ cho nhiệm vụ, dự án và giải thưởng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "项 nghĩa là gì?",
+        "answer": "hạng mục"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们这个月完成了三____任务。",
+        "answer": "项"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_310",
+    "level": "HSK5",
+    "hanzi": "重",
+    "pinyin": "chóng",
+    "topic_id": "work",
+    "display_meaning_vi": "làm lại",
+    "meaning_en": "again; to repeat",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "重 + 动词",
+    "collocations": [
+      "重来",
+      "重新",
+      "重复"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次没做好，我们重来。",
+        "pinyin": "Zhè cì méi zuò hǎo, wǒmen chóng lái.",
+        "vi": "Lần này chưa làm tốt, chúng ta làm lại.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "重 đứng trước động từ, nghĩa “lại”, đọc chóng. Nặng hoặc quan trọng đọc zhòng, như 很重, 重要."
+    ],
+    "app_note_vi": "Đừng đọc 重来 thành zhòng lái. 重新 và 重复 cũng đọc chóng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "重 nghĩa là gì?",
+        "answer": "làm lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次没做好，我们____来。",
+        "answer": "重"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

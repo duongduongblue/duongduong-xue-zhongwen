@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1171",
+    "level": "HSK5",
+    "hanzi": "武器",
+    "pinyin": "wǔqì",
+    "topic_id": "society",
+    "display_meaning_vi": "vũ khí",
+    "meaning_en": "weapon",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "武器装备 / 常规武器",
+    "collocations": [
+      "武器装备",
+      "常规武器",
+      "放下武器"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "展柜里陈列着古代武器。",
+        "pinyin": "Zhǎn guì lǐ chén liè zhe gǔ dài wǔ qì.",
+        "vi": "Trong tủ kính trưng bày vũ khí cổ.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đồ dùng để chiến đấu. Cũng ví công cụ sắc trong tranh luận."
+    ],
+    "app_note_vi": "Đồ dùng để chiến đấu. Cũng ví công cụ sắc trong tranh luận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "武器 nghĩa là gì?",
+        "answer": "vũ khí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "展柜里陈列着古代____。",
+        "answer": "武器"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1172",
+    "level": "HSK5",
+    "hanzi": "物质",
+    "pinyin": "wùzhì",
+    "topic_id": "society",
+    "display_meaning_vi": "vật chất",
+    "meaning_en": "material things",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "物质生活 / 物质条件",
+    "collocations": [
+      "物质生活",
+      "物质条件",
+      "物质奖励"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "物质 đối lập tinh thần; 材料 là nguyên liệu cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不能只看物质条件。",
+        "pinyin": "Bù néng zhǐ kàn wù zhì tiáo jiàn.",
+        "vi": "Không thể chỉ nhìn điều kiện vật chất.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đối lập với đời sống tinh thần. Cũng chỉ chất liệu."
+    ],
+    "app_note_vi": "Đối lập với đời sống tinh thần. Cũng chỉ chất liệu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "物质 nghĩa là gì?",
+        "answer": "vật chất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不能只看____条件。",
+        "answer": "物质"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 物质?",
+        "answer": "物质 đối lập tinh thần; 材料 là nguyên liệu cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1173",
+    "level": "HSK5",
+    "hanzi": "县",
+    "pinyin": "xiàn",
+    "topic_id": "society",
+    "display_meaning_vi": "huyện",
+    "meaning_en": "county",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "县城 / 县政府",
+    "collocations": [
+      "县城",
+      "县政府",
+      "一个县"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们从县城搬到了市里。",
+        "pinyin": "Tā men cóng xiàn chéng bān dào le shì lǐ.",
+        "vi": "Họ chuyển từ huyện lên thành phố.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đơn vị hành chính dưới thành phố."
+    ],
+    "app_note_vi": "Đơn vị hành chính dưới thành phố.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "县 nghĩa là gì?",
+        "answer": "huyện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们从____城搬到了市里。",
+        "answer": "县"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1174",
+    "level": "HSK5",
+    "hanzi": "消灭",
+    "pinyin": "xiāomiè",
+    "topic_id": "society",
+    "display_meaning_vi": "loại bỏ hẳn",
+    "meaning_en": "to wipe out",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "消灭害虫 / 彻底消灭",
+    "collocations": [
+      "消灭害虫",
+      "彻底消灭",
+      "消灭隐患"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "消灭 là bị loại bỏ; 消失 là tự biến mất.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "园林工人正在消灭害虫。",
+        "pinyin": "Yuán lín gōng rén zhèng zài xiāo miè hài chóng.",
+        "vi": "Công nhân công viên đang diệt sâu hại.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Làm mất hẳn, dùng cho sâu bệnh, nguy cơ hoặc kẻ thù."
+    ],
+    "app_note_vi": "Làm mất hẳn, dùng cho sâu bệnh, nguy cơ hoặc kẻ thù.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "消灭 nghĩa là gì?",
+        "answer": "loại bỏ hẳn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "园林工人正在____害虫。",
+        "answer": "消灭"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 消灭?",
+        "answer": "消灭 là bị loại bỏ; 消失 là tự biến mất."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1175",
+    "level": "HSK5",
+    "hanzi": "小偷",
+    "pinyin": "xiǎotōu",
+    "topic_id": "society",
+    "display_meaning_vi": "kẻ trộm",
+    "meaning_en": "thief",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "抓小偷 / 防小偷",
+    "collocations": [
+      "抓小偷",
+      "防小偷",
+      "小偷小摸"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "商场里要留意防小偷。",
+        "pinyin": "Shāng chǎng lǐ yào liú yì fáng xiǎo tōu.",
+        "vi": "Trong trung tâm thương mại nên để ý đề phòng trộm.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người trộm vặt, không phải tội phạm lớn."
+    ],
+    "app_note_vi": "Người trộm vặt, không phải tội phạm lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "小偷 nghĩa là gì?",
+        "answer": "kẻ trộm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "商场里要留意防____。",
+        "answer": "小偷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1176",
+    "level": "HSK5",
+    "hanzi": "形势",
+    "pinyin": "xíngshì",
+    "topic_id": "society",
+    "display_meaning_vi": "tình hình",
+    "meaning_en": "situation",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "形势严峻 / 国际形势",
+    "collocations": [
+      "形势严峻",
+      "国际形势",
+      "就业形势"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "形势 là tình thế; 形式 là hình thức.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "目前的就业形势慢慢好转。",
+        "pinyin": "Mù qián de jiù yè xíng shì màn màn hǎo zhuǎn.",
+        "vi": "Tình hình việc làm hiện nay đang khá dần.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cục diện đang diễn ra, thường ở tầm lớn."
+    ],
+    "app_note_vi": "Cục diện đang diễn ra, thường ở tầm lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "形势 nghĩa là gì?",
+        "answer": "tình hình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "目前的就业____慢慢好转。",
+        "answer": "形势"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 形势?",
+        "answer": "形势 là tình thế; 形式 là hình thức."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1177",
+    "level": "HSK5",
+    "hanzi": "形象",
+    "pinyin": "xíngxiàng",
+    "topic_id": "society",
+    "display_meaning_vi": "hình ảnh",
+    "meaning_en": "image",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "公众形象 / 城市形象",
+    "collocations": [
+      "公众形象",
+      "城市形象",
+      "形象代言"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "发言的时候要注意自己的形象。",
+        "pinyin": "Fā yán de shí hòu yào zhù yì zì jǐ de xíng xiàng.",
+        "vi": "Khi phát biểu hãy chú ý hình ảnh của mình.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ấn tượng bên ngoài của người, nơi hoặc thương hiệu."
+    ],
+    "app_note_vi": "Ấn tượng bên ngoài của người, nơi hoặc thương hiệu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "形象 nghĩa là gì?",
+        "answer": "hình ảnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "发言的时候要注意自己的____。",
+        "answer": "形象"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1178",
+    "level": "HSK5",
+    "hanzi": "选举",
+    "pinyin": "xuǎnjǔ",
+    "topic_id": "society",
+    "display_meaning_vi": "bầu cử",
+    "meaning_en": "election",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "选举权 / 选举结果",
+    "collocations": [
+      "选举权",
+      "选举结果",
+      "参加选举"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "班长是同学们选举出来的。",
+        "pinyin": "Bān zhǎng shì tóng xué men xuǎn jǔ chū lái de.",
+        "vi": "Lớp trưởng do các bạn bầu ra.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chọn người bằng phiếu."
+    ],
+    "app_note_vi": "Chọn người bằng phiếu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "选举 nghĩa là gì?",
+        "answer": "bầu cử"
+      },
+      {
+        "type": "cloze",
+        "prompt": "班长是同学们____出来的。",
+        "answer": "选举"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1179",
+    "level": "HSK5",
+    "hanzi": "移民",
+    "pinyin": "yímín",
+    "topic_id": "society",
+    "display_meaning_vi": "di cư",
+    "meaning_en": "to migrate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "移民政策 / 移民局",
+    "collocations": [
+      "移民政策",
+      "移民局",
+      "技术移民"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们一家五年前移民国外。",
+        "pinyin": "Tā men yì jiā wǔ nián qián yí mín guó wài.",
+        "vi": "Cả nhà họ di cư ra nước ngoài năm năm trước.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chuyển đến nơi khác để sống lâu dài."
+    ],
+    "app_note_vi": "Chuyển đến nơi khác để sống lâu dài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "移民 nghĩa là gì?",
+        "answer": "di cư"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们一家五年前____国外。",
+        "answer": "移民"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1180",
+    "level": "HSK5",
+    "hanzi": "邮局",
+    "pinyin": "yóujú",
+    "topic_id": "society",
+    "display_meaning_vi": "bưu điện",
+    "meaning_en": "post office",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去邮局 / 邮局营业",
+    "collocations": [
+      "去邮局",
+      "邮局营业",
+      "附近邮局"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我在邮局门口等你。",
+        "pinyin": "Wǒ zài yóu jú mén kǒu děng nǐ.",
+        "vi": "Tôi đợi bạn trước cửa bưu điện.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nơi gửi thư và bưu kiện."
+    ],
+    "app_note_vi": "Nơi gửi thư và bưu kiện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "邮局 nghĩa là gì?",
+        "answer": "bưu điện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我在____门口等你。",
+        "answer": "邮局"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

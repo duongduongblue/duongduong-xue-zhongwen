@@ -1,0 +1,566 @@
+[
+  {
+    "id": "hsk5_batch2_441",
+    "level": "HSK5",
+    "hanzi": "公开",
+    "pinyin": "gōngkāi",
+    "topic_id": "society",
+    "display_meaning_vi": "công khai",
+    "meaning_en": "open; public",
+    "part_of_speech": "adjective/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "信息公开 / 公开场合",
+    "collocations": [
+      "公开信",
+      "公开场合",
+      "信息公开"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "招聘信息已经公开。",
+        "pinyin": "Zhāopìn xìnxī yǐjīng gōngkāi.",
+        "vi": "Thông tin tuyển dụng đã được công khai.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "公开 là không giấu, ai cũng có thể biết. Không phải “mở cửa”."
+    ],
+    "app_note_vi": "Tính từ hoặc động từ. 公开信 là thư ngỏ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "公开 nghĩa là gì?",
+        "answer": "công khai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "招聘信息已经____。",
+        "answer": "公开"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_442",
+    "level": "HSK5",
+    "hanzi": "针对",
+    "pinyin": "zhēnduì",
+    "topic_id": "society",
+    "display_meaning_vi": "nhằm vào",
+    "meaning_en": "to target; aimed at",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "针对问题 / 针对性",
+    "collocations": [
+      "针对性",
+      "针对问题",
+      "针对儿童"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "政策针对住房问题。",
+        "pinyin": "Zhèngcè zhēnduì zhùfáng wèntí.",
+        "vi": "Chính sách nhằm vào vấn đề nhà ở.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "针对 nhắm đúng một đối tượng hoặc một vấn đề, không nói chung."
+    ],
+    "app_note_vi": "Động từ hoặc giới từ. 针对性 là tính nhắm đúng việc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "针对 nghĩa là gì?",
+        "answer": "nhằm vào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "政策____住房问题。",
+        "answer": "针对"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_443",
+    "level": "HSK5",
+    "hanzi": "宣传",
+    "pinyin": "xuānchuán",
+    "topic_id": "society",
+    "display_meaning_vi": "quảng bá; tuyên truyền",
+    "meaning_en": "to publicize",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "大力宣传 / 宣传栏",
+    "collocations": [
+      "大力宣传",
+      "宣传单",
+      "宣传栏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "社区正在宣传垃圾分类。",
+        "pinyin": "Shèqū zhèngzài xuānchuán lājī fēnlèi.",
+        "vi": "Cộng đồng đang tuyên truyền phân loại rác.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "宣传 là đưa một thông điệp ra nhiều người. Không phải quảng cáo thương mại từng món, việc đó thường là 广告."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 宣传单 là tờ rơi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "宣传 nghĩa là gì?",
+        "answer": "quảng bá; tuyên truyền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "社区正在____垃圾分类。",
+        "answer": "宣传"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_444",
+    "level": "HSK5",
+    "hanzi": "和平",
+    "pinyin": "héping",
+    "topic_id": "society",
+    "display_meaning_vi": "hòa bình",
+    "meaning_en": "peace",
+    "part_of_speech": "noun/adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "世界和平 / 和平共处",
+    "collocations": [
+      "和平共处",
+      "热爱和平",
+      "和平年代"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "人们都希望世界和平。",
+        "pinyin": "Rénmen dōu xīwàng shìjiè héping.",
+        "vi": "Mọi người đều mong thế giới hòa bình.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "和平 đọc héping. Họ hoặc địa danh viết hoa không đổi nghĩa của từ này trong câu thường."
+    ],
+    "app_note_vi": "Danh từ hoặc tính từ. 和平共处 là chung sống hòa bình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "和平 nghĩa là gì?",
+        "answer": "hòa bình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "人们都希望世界____。",
+        "answer": "和平"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_445",
+    "level": "HSK5",
+    "hanzi": "庆祝",
+    "pinyin": "qìngzhù",
+    "topic_id": "society",
+    "display_meaning_vi": "ăn mừng",
+    "meaning_en": "to celebrate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "庆祝生日 / 庆祝活动",
+    "collocations": [
+      "庆祝活动",
+      "庆祝节日",
+      "庆祝大会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "祝贺",
+        "difference_vi": "庆祝 là tổ chức hoặc làm gì đó để mừng; 祝贺 là nói lời chúc."
+      }
+    ],
+    "app_synonym_note_vi": "庆祝 = ăn mừng bằng việc làm; 祝贺 = chúc mừng bằng lời.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "全家一起庆祝生日。",
+        "pinyin": "Quánjiā yìqǐ qìngzhù shēngrì.",
+        "vi": "Cả nhà cùng ăn mừng sinh nhật.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一起 đọc yìqǐ. Chỉ nói lời chúc thì dùng 祝贺, chưa chắc đã 庆祝."
+    ],
+    "app_note_vi": "Động từ. 庆祝活动 là hoạt động ăn mừng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "庆祝 nghĩa là gì?",
+        "answer": "ăn mừng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "全家一起____生日。",
+        "answer": "庆祝"
+      },
+      {
+        "type": "synonym",
+        "prompt": "庆祝 khác 祝贺 ở điểm nào?",
+        "answer": "庆祝 là tổ chức hoặc làm gì đó để mừng; 祝贺 là nói lời chúc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_446",
+    "level": "HSK5",
+    "hanzi": "婚礼",
+    "pinyin": "hūnlǐ",
+    "topic_id": "society",
+    "display_meaning_vi": "lễ cưới",
+    "meaning_en": "wedding ceremony",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "参加婚礼 / 婚礼现场",
+    "collocations": [
+      "参加婚礼",
+      "婚礼现场",
+      "婚礼礼服"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们的婚礼简单而热闹。",
+        "pinyin": "Tāmen de hūnlǐ jiǎndān ér rènao.",
+        "vi": "Lễ cưới của họ đơn giản mà náo nhiệt.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "婚礼 là buổi lễ. Quan hệ vợ chồng là 婚姻."
+    ],
+    "app_note_vi": "Danh từ. 而 nối hai tính từ trái ngược hoặc bổ sung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "婚礼 nghĩa là gì?",
+        "answer": "lễ cưới"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们的____简单而热闹。",
+        "answer": "婚礼"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_447",
+    "level": "HSK5",
+    "hanzi": "婚姻",
+    "pinyin": "hūnyīn",
+    "topic_id": "society",
+    "display_meaning_vi": "hôn nhân",
+    "meaning_en": "marriage",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "婚姻状况 / 婚姻自由",
+    "collocations": [
+      "婚姻状况",
+      "婚姻生活",
+      "婚姻自由"
+    ],
+    "near_synonyms": [
+      {
+        "word": "婚礼",
+        "difference_vi": "婚姻 là quan hệ vợ chồng; 婚礼 là buổi lễ cưới."
+      }
+    ],
+    "app_synonym_note_vi": "婚姻 = hôn nhân; 婚礼 = lễ cưới.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "婚姻需要两个人一起经营。",
+        "pinyin": "Hūnyīn xūyào liǎng gè rén yìqǐ jīngyíng.",
+        "vi": "Hôn nhân cần hai người cùng gây dựng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "婚姻是 danh từ, không phải động từ kết hôn. Kết hôn nói 结婚."
+    ],
+    "app_note_vi": "Danh từ. 婚姻状况 là tình trạng hôn nhân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "婚姻 nghĩa là gì?",
+        "answer": "hôn nhân"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____需要两个人一起经营。",
+        "answer": "婚姻"
+      },
+      {
+        "type": "synonym",
+        "prompt": "婚姻 khác 婚礼 ở điểm nào?",
+        "answer": "婚姻 là quan hệ vợ chồng; 婚礼 là buổi lễ cưới."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_448",
+    "level": "HSK5",
+    "hanzi": "女士",
+    "pinyin": "nǚshì",
+    "topic_id": "society",
+    "display_meaning_vi": "quý bà; quý cô",
+    "meaning_en": "lady; madam",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "formal",
+    "grammar_pattern": "女士们 / 女士优先",
+    "collocations": [
+      "女士们",
+      "年轻女士",
+      "女士优先"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这位女士是今天的主持人。",
+        "pinyin": "Zhè wèi nǚshì shì jīntiān de zhǔchírén.",
+        "vi": "Vị này là người dẫn chương trình hôm nay.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "女士 là cách gọi lịch sự với phụ nữ trưởng thành. Trong nhiều tình huống an toàn hơn 小姐."
+    ],
+    "app_note_vi": "Danh từ. 女士们 là các quý vị nữ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "女士 nghĩa là gì?",
+        "answer": "quý bà; quý cô"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这位____是今天的主持人。",
+        "answer": "女士"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_449",
+    "level": "HSK5",
+    "hanzi": "彼此",
+    "pinyin": "bǐcǐ",
+    "topic_id": "society",
+    "display_meaning_vi": "lẫn nhau",
+    "meaning_en": "each other",
+    "part_of_speech": "pronoun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "彼此了解 / 彼此尊重",
+    "collocations": [
+      "彼此了解",
+      "彼此尊重",
+      "彼此彼此"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "邻居之间要彼此帮助。",
+        "pinyin": "Línjū zhījiān yào bǐcǐ bāngzhù.",
+        "vi": "Hàng xóm nên giúp đỡ lẫn nhau.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "彼此彼此 là cách nói khiêm “tôi cũng vậy”, không phải “lẫn nhau” trong câu đó."
+    ],
+    "app_note_vi": "Đại từ. Đứng trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "彼此 nghĩa là gì?",
+        "answer": "lẫn nhau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "邻居之间要____帮助。",
+        "answer": "彼此"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_450",
+    "level": "HSK5",
+    "hanzi": "教练",
+    "pinyin": "jiàoliàn",
+    "topic_id": "society",
+    "display_meaning_vi": "huấn luyện viên",
+    "meaning_en": "coach",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "society",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "足球教练 / 主教练",
+    "collocations": [
+      "足球教练",
+      "主教练",
+      "教练员"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "教练让我们再跑一圈。",
+        "pinyin": "Jiàoliàn ràng wǒmen zài pǎo yì quān.",
+        "vi": "Huấn luyện viên bảo chúng tôi chạy thêm một vòng.",
+        "context": "sport"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一圈 đọc yì quān vì 圈 là thanh 1. 教练 là người dạy kỹ năng, không phải mọi thầy cô trên lớp."
+    ],
+    "app_note_vi": "Danh từ. 主教练 là huấn luyện viên trưởng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "教练 nghĩa là gì?",
+        "answer": "huấn luyện viên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____让我们再跑一圈。",
+        "answer": "教练"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

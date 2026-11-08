@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0051",
+    "level": "HSK4",
+    "hanzi": "出发",
+    "pinyin": "chūfā",
+    "topic_id": "travel",
+    "display_meaning_vi": "khởi hành; xuất phát",
+    "meaning_en": "to set off",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "准时出发 / 准备出发",
+    "collocations": [
+      "准时出发",
+      "准备出发",
+      "出发时间"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "发 đọc fā, là xuất phát, không phải tóc fà.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们明天早上六点出发。",
+        "pinyin": "Wǒ men míng tiān zǎo shàng liù diǎn chū fā.",
+        "vi": "Sáng mai chúng tôi xuất phát lúc sáu giờ.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā, là xuất phát, không phải tóc fà."
+    ],
+    "app_note_vi": "发 đọc fā, là xuất phát, không phải tóc fà.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出发 nghĩa là gì?",
+        "answer": "khởi hành; xuất phát"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们明天早上六点____。",
+        "answer": "出发"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0052",
+    "level": "HSK4",
+    "hanzi": "出差",
+    "pinyin": "chūchāi",
+    "topic_id": "travel",
+    "display_meaning_vi": "đi công tác",
+    "meaning_en": "to go on a business trip",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "去出差 / 出差回来",
+    "collocations": [
+      "去出差",
+      "出差回来",
+      "经常出差"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "差 trong 出差 đọc chāi. Kém đọc chà, như 差不多. Khác biệt đọc chā, như 差别.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "爸爸下周要去上海出差。",
+        "pinyin": "Bà ba xià zhōu yào qù shàng hǎi chū chāi.",
+        "vi": "Tuần sau bố đi Thượng Hải công tác.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "差 trong 出差 đọc chāi. Kém đọc chà, như 差不多. Khác biệt đọc chā, như 差别."
+    ],
+    "app_note_vi": "差 trong 出差 đọc chāi. Kém đọc chà, như 差不多. Khác biệt đọc chā, như 差别.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出差 nghĩa là gì?",
+        "answer": "đi công tác"
+      },
+      {
+        "type": "cloze",
+        "prompt": "爸爸下周要去上海____。",
+        "answer": "出差"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0053",
+    "level": "HSK4",
+    "hanzi": "乘坐",
+    "pinyin": "chéngzuò",
+    "topic_id": "travel",
+    "display_meaning_vi": "đi bằng (phương tiện)",
+    "meaning_en": "to ride",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "乘坐地铁 / 乘坐飞机",
+    "collocations": [
+      "乘坐地铁",
+      "乘坐飞机",
+      "乘坐公交"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "乘 đọc chéng. 坐 đọc zuò.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们乘坐地铁去机场。",
+        "pinyin": "Wǒ men chéng zuò dì tiě qù jī chǎng.",
+        "vi": "Chúng tôi đi tàu điện ngầm ra sân bay.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "乘 đọc chéng. 坐 đọc zuò."
+    ],
+    "app_note_vi": "乘 đọc chéng. 坐 đọc zuò.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "乘坐 nghĩa là gì?",
+        "answer": "đi bằng (phương tiện)"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们____地铁去机场。",
+        "answer": "乘坐"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0054",
+    "level": "HSK4",
+    "hanzi": "导游",
+    "pinyin": "dǎoyóu",
+    "topic_id": "travel",
+    "display_meaning_vi": "hướng dẫn viên du lịch",
+    "meaning_en": "tour guide",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一名导游 / 当导游",
+    "collocations": [
+      "一名导游",
+      "当导游",
+      "导游介绍"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一 trước 名 đọc yì. 导 đọc dǎo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "导游给我们介绍了这座城市。",
+        "pinyin": "Dǎo yóu gěi wǒ men jiè shào le zhè zuò chéng shì.",
+        "vi": "Hướng dẫn viên giới thiệu thành phố này.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 名 đọc yì. 导 đọc dǎo."
+    ],
+    "app_note_vi": "一 trước 名 đọc yì. 导 đọc dǎo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "导游 nghĩa là gì?",
+        "answer": "hướng dẫn viên du lịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____给我们介绍了这座城市。",
+        "answer": "导游"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0055",
+    "level": "HSK4",
+    "hanzi": "堵车",
+    "pinyin": "dǔchē",
+    "topic_id": "travel",
+    "display_meaning_vi": "kẹt xe",
+    "meaning_en": "traffic jam",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "路上堵车 / 严重堵车",
+    "collocations": [
+      "路上堵车",
+      "严重堵车",
+      "堵车了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "堵 đọc dǔ. 车 đọc chē.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早上上班的时候常常堵车。",
+        "pinyin": "Zǎo shàng shàng bān de shí hòu cháng cháng dǔ chē.",
+        "vi": "Sáng đi làm thường kẹt xe.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "堵 đọc dǔ. 车 đọc chē."
+    ],
+    "app_note_vi": "堵 đọc dǔ. 车 đọc chē.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "堵车 nghĩa là gì?",
+        "answer": "kẹt xe"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早上上班的时候常常____。",
+        "answer": "堵车"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0056",
+    "level": "HSK4",
+    "hanzi": "航班",
+    "pinyin": "hángbān",
+    "topic_id": "travel",
+    "display_meaning_vi": "chuyến bay",
+    "meaning_en": "flight",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "国际航班 / 航班延误",
+    "collocations": [
+      "国际航班",
+      "航班延误",
+      "赶上航班"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "航 đọc háng, là hàng không, không phải đi bộ xíng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个航班延误了。",
+        "pinyin": "Zhè ge háng bān yán wù le.",
+        "vi": "Chuyến bay này bị trễ.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "航 đọc háng, là hàng không, không phải đi bộ xíng."
+    ],
+    "app_note_vi": "航 đọc háng, là hàng không, không phải đi bộ xíng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "航班 nghĩa là gì?",
+        "answer": "chuyến bay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____延误了。",
+        "answer": "航班"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0057",
+    "level": "HSK4",
+    "hanzi": "公里",
+    "pinyin": "gōnglǐ",
+    "topic_id": "travel",
+    "display_meaning_vi": "kilômét",
+    "meaning_en": "kilometer",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "两公里 / 多少公里",
+    "collocations": [
+      "两公里",
+      "多少公里",
+      "公里数"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "里 đọc lǐ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校离家里有两公里。",
+        "pinyin": "Xué xiào lí jiā lǐ yǒu liǎng gōng lǐ.",
+        "vi": "Trường cách nhà hai kilômét.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "里 đọc lǐ."
+    ],
+    "app_note_vi": "里 đọc lǐ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "公里 nghĩa là gì?",
+        "answer": "kilômét"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校离家里有两____。",
+        "answer": "公里"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0058",
+    "level": "HSK4",
+    "hanzi": "地址",
+    "pinyin": "dìzhǐ",
+    "topic_id": "travel",
+    "display_meaning_vi": "địa chỉ",
+    "meaning_en": "address",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "家庭地址 / 写地址",
+    "collocations": [
+      "家庭地址",
+      "写地址",
+      "地址栏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "地 trong 地址 đọc dì, là đất, không phải trợ từ de.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把地址写清楚。",
+        "pinyin": "Qǐng bǎ dì zhǐ xiě qīng chǔ.",
+        "vi": "Hãy viết địa chỉ cho rõ.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "地 trong 地址 đọc dì, là đất, không phải trợ từ de."
+    ],
+    "app_note_vi": "地 trong 地址 đọc dì, là đất, không phải trợ từ de.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "地址 nghĩa là gì?",
+        "answer": "địa chỉ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把____写清楚。",
+        "answer": "地址"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0059",
+    "level": "HSK4",
+    "hanzi": "参观",
+    "pinyin": "cānguān",
+    "topic_id": "travel",
+    "display_meaning_vi": "tham quan",
+    "meaning_en": "to visit",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "参观博物馆 / 参观学习",
+    "collocations": [
+      "参观博物馆",
+      "参观学习",
+      "去参观"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "参 đọc cān.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学生们参观了博物馆。",
+        "pinyin": "Xué shēng men cān guān le bó wù guǎn.",
+        "vi": "Học sinh đã tham quan bảo tàng.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "参 đọc cān."
+    ],
+    "app_note_vi": "参 đọc cān.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "参观 nghĩa là gì?",
+        "answer": "tham quan"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学生们____了博物馆。",
+        "answer": "参观"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0060",
+    "level": "HSK4",
+    "hanzi": "逛",
+    "pinyin": "guàng",
+    "topic_id": "travel",
+    "display_meaning_vi": "đi dạo; đi xem",
+    "meaning_en": "to stroll",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "travel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "逛公园 / 逛商店",
+    "collocations": [
+      "逛公园",
+      "逛商店",
+      "出去逛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "逛 đọc guàng, thanh 4.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末我们去逛公园。",
+        "pinyin": "Zhōu mò wǒ men qù guàng gōng yuán.",
+        "vi": "Cuối tuần chúng tôi đi dạo công viên.",
+        "context": "travel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "逛 đọc guàng, thanh 4."
+    ],
+    "app_note_vi": "逛 đọc guàng, thanh 4.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "逛 nghĩa là gì?",
+        "answer": "đi dạo; đi xem"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末我们去____公园。",
+        "answer": "逛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

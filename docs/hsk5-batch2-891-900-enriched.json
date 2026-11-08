@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_891",
+    "level": "HSK5",
+    "hanzi": "录音",
+    "pinyin": "lùyīn",
+    "topic_id": "tech",
+    "display_meaning_vi": "ghi âm",
+    "meaning_en": "to record; a recording",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "录音笔 / 听录音",
+    "collocations": [
+      "录音笔",
+      "把话录音",
+      "听录音"
+    ],
+    "near_synonyms": [
+      {
+        "word": "录像",
+        "difference_vi": "录音 là ghi tiếng; 录像 là ghi hình."
+      }
+    ],
+    "app_synonym_note_vi": "录音 = ghi tiếng; 录像 = ghi hình.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这段话录音。",
+        "pinyin": "Qǐng bǎ zhè duàn huà lùyīn.",
+        "vi": "Xin ghi âm đoạn này.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "录音 vừa là việc ghi, vừa là bản đã ghi."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ. 录音笔 là bút ghi âm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "录音 nghĩa là gì?",
+        "answer": "ghi âm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这段话____。",
+        "answer": "录音"
+      },
+      {
+        "type": "synonym",
+        "prompt": "录音 khác 录像 ở điểm nào?",
+        "answer": "录音 là ghi tiếng; 录像 là ghi hình."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_892",
+    "level": "HSK5",
+    "hanzi": "录取",
+    "pinyin": "lùqǔ",
+    "topic_id": "study",
+    "display_meaning_vi": "trúng tuyển",
+    "meaning_en": "to admit; to enroll",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "被录取 / 录取通知",
+    "collocations": [
+      "被录取",
+      "录取通知",
+      "录取名单"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她被大学录取了。",
+        "pinyin": "Tā bèi dàxué lùqǔ le.",
+        "vi": "Cô ấy đã được đại học nhận.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "录取 là trường hoặc đơn vị nhận. Người đi thi nói 考上."
+    ],
+    "app_note_vi": "Động từ. 录取通知 là giấy báo trúng tuyển.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "录取 nghĩa là gì?",
+        "answer": "trúng tuyển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她被大学____了。",
+        "answer": "录取"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_893",
+    "level": "HSK5",
+    "hanzi": "挂号",
+    "pinyin": "guàhào",
+    "topic_id": "daily",
+    "display_meaning_vi": "lấy số",
+    "meaning_en": "to register (at a hospital or counter)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "先挂号 / 挂号处",
+    "collocations": [
+      "先挂号",
+      "挂号处",
+      "网上挂号"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "看病要先挂号。",
+        "pinyin": "Kàn bìng yào xiān guàhào.",
+        "vi": "Khám bệnh thì lấy số trước.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "看 đọc kàn. 挂号 là lấy số thứ tự, hay gặp ở bệnh viện."
+    ],
+    "app_note_vi": "Động từ. 挂号处 là chỗ lấy số.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "挂号 nghĩa là gì?",
+        "answer": "lấy số"
+      },
+      {
+        "type": "cloze",
+        "prompt": "看病要先____。",
+        "answer": "挂号"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_894",
+    "level": "HSK5",
+    "hanzi": "救护车",
+    "pinyin": "jiùhùchē",
+    "topic_id": "daily",
+    "display_meaning_vi": "xe cứu thương",
+    "meaning_en": "ambulance",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "叫救护车 / 救护车来了",
+    "collocations": [
+      "叫救护车",
+      "救护车来了",
+      "一辆救护车"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "快叫救护车。",
+        "pinyin": "Kuài jiào jiùhùchē.",
+        "vi": "Mau gọi xe cứu thương.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一辆 đọc yí liàng vì 辆 là thanh 4. Xe này chở người cần cấp cứu."
+    ],
+    "app_note_vi": "Danh từ. Gọi khi cần cấp cứu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "救护车 nghĩa là gì?",
+        "answer": "xe cứu thương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "快叫____。",
+        "answer": "救护车"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_895",
+    "level": "HSK5",
+    "hanzi": "键盘",
+    "pinyin": "jiànpán",
+    "topic_id": "tech",
+    "display_meaning_vi": "bàn phím",
+    "meaning_en": "keyboard",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电脑键盘 / 敲键盘",
+    "collocations": [
+      "电脑键盘",
+      "敲键盘",
+      "键盘很轻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个键盘很好用。",
+        "pinyin": "Zhège jiànpán hěn hǎoyòng.",
+        "vi": "Bàn phím này rất dễ dùng.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "好 đọc hǎo. 键盘 là bàn phím máy tính hoặc đàn."
+    ],
+    "app_note_vi": "Danh từ. 敲键盘 là gõ phím.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "键盘 nghĩa là gì?",
+        "answer": "bàn phím"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____很好用。",
+        "answer": "键盘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_896",
+    "level": "HSK5",
+    "hanzi": "光盘",
+    "pinyin": "guāngpán",
+    "topic_id": "tech",
+    "display_meaning_vi": "đĩa quang",
+    "meaning_en": "optical disc",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一张光盘 / 光盘里",
+    "collocations": [
+      "一张光盘",
+      "光盘里",
+      "刻光盘"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "资料存在光盘里。",
+        "pinyin": "Zīliào cún zài guāngpán lǐ.",
+        "vi": "Tài liệu được lưu trong đĩa.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一张 đọc yì zhāng vì 张 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ. Đĩa CD hoặc DVD.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "光盘 nghĩa là gì?",
+        "answer": "đĩa quang"
+      },
+      {
+        "type": "cloze",
+        "prompt": "资料存在____里。",
+        "answer": "光盘"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_897",
+    "level": "HSK5",
+    "hanzi": "麦克风",
+    "pinyin": "màikèfēng",
+    "topic_id": "tech",
+    "display_meaning_vi": "micro",
+    "meaning_en": "microphone",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "用麦克风 / 拿麦克风",
+    "collocations": [
+      "用麦克风",
+      "拿麦克风",
+      "麦克风坏了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "演讲时请用麦克风。",
+        "pinyin": "Yǎnjiǎng shí qǐng yòng màikèfēng.",
+        "vi": "Khi diễn thuyết xin dùng micro.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "麦克风 là cách gọi micro. Nói to không cần máy thì không dùng từ này."
+    ],
+    "app_note_vi": "Danh từ. Đưa tiếng vào máy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "麦克风 nghĩa là gì?",
+        "answer": "micro"
+      },
+      {
+        "type": "cloze",
+        "prompt": "演讲时请用____。",
+        "answer": "麦克风"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_898",
+    "level": "HSK5",
+    "hanzi": "连续剧",
+    "pinyin": "liánxùjù",
+    "topic_id": "daily",
+    "display_meaning_vi": "phim bộ",
+    "meaning_en": "TV series",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "追连续剧 / 一部连续剧",
+    "collocations": [
+      "追连续剧",
+      "一部连续剧",
+      "电视连续剧"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我在追一部连续剧。",
+        "pinyin": "Wǒ zài zhuī yí bù liánxùjù.",
+        "vi": "Tôi đang xem một phim bộ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一部 đọc yí bù vì 部 là thanh 4. 连续剧 có nhiều tập nối nhau."
+    ],
+    "app_note_vi": "Danh từ. Phim nhiều tập.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "连续剧 nghĩa là gì?",
+        "answer": "phim bộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我在追一部____。",
+        "answer": "连续剧"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_899",
+    "level": "HSK5",
+    "hanzi": "占线",
+    "pinyin": "zhànxiàn",
+    "topic_id": "daily",
+    "display_meaning_vi": "máy bận",
+    "meaning_en": "the line is busy",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "电话占线 / 一直占线",
+    "collocations": [
+      "一直占线",
+      "电话占线",
+      "占线中"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "电话一直占线。",
+        "pinyin": "Diànhuà yìzhí zhànxiàn.",
+        "vi": "Điện thoại cứ báo máy bận.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "占 đọc zhàn, là chiếm. Bói đọc zhān, như 占卜."
+    ],
+    "app_note_vi": "Động từ. Đường dây đang có người dùng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "占线 nghĩa là gì?",
+        "answer": "máy bận"
+      },
+      {
+        "type": "cloze",
+        "prompt": "电话一直____。",
+        "answer": "占线"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_900",
+    "level": "HSK5",
+    "hanzi": "要不",
+    "pinyin": "yàobù",
+    "topic_id": "language",
+    "display_meaning_vi": "nếu không thì",
+    "meaning_en": "otherwise; or",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "要不就 / 要不这样",
+    "collocations": [
+      "要不就",
+      "要不这样",
+      "要不你去"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "坐地铁吧，要不就迟到了。",
+        "pinyin": "Zuò dìtiě ba, yàobú jiù chídào le.",
+        "vi": "Đi tàu điện ngầm đi, không thì muộn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "要不 đứng riêng đọc yàobù. Trong 要不就, 不 trước 就 thanh 4 đọc bú. 吧 đọc nhẹ ba. 地铁的 地 đọc dì."
+    ],
+    "app_note_vi": "Liên từ khẩu ngữ. Đưa một cách khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "要不 nghĩa là gì?",
+        "answer": "nếu không thì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "坐地铁吧，____就迟到了。",
+        "answer": "要不"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

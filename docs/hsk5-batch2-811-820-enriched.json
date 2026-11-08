@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk5_batch2_811",
+    "level": "HSK5",
+    "hanzi": "青少年",
+    "pinyin": "qīngshàonián",
+    "topic_id": "people",
+    "display_meaning_vi": "thanh thiếu niên",
+    "meaning_en": "teenager; youth",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "青少年朋友 / 青少年活动",
+    "collocations": [
+      "青少年朋友",
+      "青少年活动",
+      "面向青少年"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个节目适合青少年。",
+        "pinyin": "Zhège jiémù shìhé qīngshàonián.",
+        "vi": "Chương trình này hợp với thanh thiếu niên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "少 đọc shào, là trẻ. Ít đọc shǎo, như 多少."
+    ],
+    "app_note_vi": "Danh từ. Khoảng từ thiếu niên đến thanh niên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "青少年 nghĩa là gì?",
+        "answer": "thanh thiếu niên"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个节目适合____。",
+        "answer": "青少年"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_812",
+    "level": "HSK5",
+    "hanzi": "姑姑",
+    "pinyin": "gūgu",
+    "topic_id": "people",
+    "display_meaning_vi": "cô",
+    "meaning_en": "father's sister",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "我姑姑 / 姑姑家",
+    "collocations": [
+      "我姑姑",
+      "姑姑家",
+      "亲姑姑"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "姑姑周末来我家。",
+        "pinyin": "Gūgu zhōumò lái wǒ jiā.",
+        "vi": "Cô cuối tuần đến nhà tôi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Âm sau đọc nhẹ gu. 姑姑 là chị hoặc em gái của bố."
+    ],
+    "app_note_vi": "Danh từ. Gọi cô bên nội.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "姑姑 nghĩa là gì?",
+        "answer": "cô"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____周末来我家。",
+        "answer": "姑姑"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_813",
+    "level": "HSK5",
+    "hanzi": "舅舅",
+    "pinyin": "jiùjiu",
+    "topic_id": "people",
+    "display_meaning_vi": "cậu",
+    "meaning_en": "mother's brother",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "我舅舅 / 舅舅家",
+    "collocations": [
+      "我舅舅",
+      "舅舅家",
+      "亲舅舅"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "舅舅教我下棋。",
+        "pinyin": "Jiùjiu jiāo wǒ xià qí.",
+        "vi": "Cậu dạy tôi đánh cờ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Âm sau đọc nhẹ jiu. 教我的 教 đọc jiāo. Bài học, giáo trình đọc jiào, như 教训, 教材. 舅舅 là anh hoặc em trai của mẹ."
+    ],
+    "app_note_vi": "Danh từ. Gọi cậu bên ngoại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "舅舅 nghĩa là gì?",
+        "answer": "cậu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____教我下棋。",
+        "answer": "舅舅"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_814",
+    "level": "HSK5",
+    "hanzi": "姥姥",
+    "pinyin": "lǎolao",
+    "topic_id": "people",
+    "display_meaning_vi": "bà ngoại",
+    "meaning_en": "maternal grandmother",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "姥姥家 / 我姥姥",
+    "collocations": [
+      "姥姥家",
+      "我姥姥",
+      "看姥姥"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "暑假我去姥姥家。",
+        "pinyin": "Shǔjià wǒ qù lǎolao jiā.",
+        "vi": "Kỳ nghỉ hè tôi về nhà bà ngoại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Âm sau đọc nhẹ lao. 假 trong 暑假 đọc jià, là nghỉ. Giả đọc jiǎ, như 假如. 姥姥 là mẹ của mẹ."
+    ],
+    "app_note_vi": "Danh từ khẩu ngữ. Bà ngoại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "姥姥 nghĩa là gì?",
+        "answer": "bà ngoại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "暑假我去____家。",
+        "answer": "姥姥"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_815",
+    "level": "HSK5",
+    "hanzi": "家乡",
+    "pinyin": "jiāxiāng",
+    "topic_id": "people",
+    "display_meaning_vi": "quê hương",
+    "meaning_en": "hometown",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "回到家乡 / 家乡菜",
+    "collocations": [
+      "回到家乡",
+      "家乡菜",
+      "美丽的家乡"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我爱家乡的菜。",
+        "pinyin": "Wǒ ài jiāxiāng de cài.",
+        "vi": "Tôi thích món ăn quê.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "家乡 là nơi mình lớn lên. Nhà đang ở nói 家."
+    ],
+    "app_note_vi": "Danh từ. 家乡菜 là món quê.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "家乡 nghĩa là gì?",
+        "answer": "quê hương"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我爱____的菜。",
+        "answer": "家乡"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_816",
+    "level": "HSK5",
+    "hanzi": "家务",
+    "pinyin": "jiāwù",
+    "topic_id": "daily",
+    "display_meaning_vi": "việc nhà",
+    "meaning_en": "housework",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "做家务 / 分担家务",
+    "collocations": [
+      "做家务",
+      "分担家务",
+      "家务活"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末我帮妈妈做家务。",
+        "pinyin": "Zhōumò wǒ bāng māma zuò jiāwù.",
+        "vi": "Cuối tuần tôi giúp mẹ làm việc nhà.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "家务 là việc trong nhà, như nấu, dọn. Việc cơ quan không nói 家务."
+    ],
+    "app_note_vi": "Danh từ. 分担家务 là chia nhau việc nhà.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "家务 nghĩa là gì?",
+        "answer": "việc nhà"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末我帮妈妈做____。",
+        "answer": "家务"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_817",
+    "level": "HSK5",
+    "hanzi": "假如",
+    "pinyin": "jiǎrú",
+    "topic_id": "language",
+    "display_meaning_vi": "nếu",
+    "meaning_en": "if",
+    "part_of_speech": "conjunction",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "假如可以 / 假如你",
+    "collocations": [
+      "假如你",
+      "假如可以",
+      "假如明天下雨"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "假如明天下雨，我们就不去。",
+        "pinyin": "Jiǎrú míngtiān xià yǔ, wǒmen jiù bú qù.",
+        "vi": "Nếu ngày mai mưa thì chúng ta không đi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "假 đọc jiǎ, là giả, nếu. Nghỉ đọc jià, như 放假, 暑假. 不去 đọc bú qù vì 去 là thanh 4."
+    ],
+    "app_note_vi": "Liên từ. Đặt một điều chưa xảy ra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "假如 nghĩa là gì?",
+        "answer": "nếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____明天下雨，我们就不去。",
+        "answer": "假如"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_818",
+    "level": "HSK5",
+    "hanzi": "接待",
+    "pinyin": "jiēdài",
+    "topic_id": "work",
+    "display_meaning_vi": "tiếp đón",
+    "meaning_en": "to receive guests",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "接待客人 / 接待处",
+    "collocations": [
+      "接待客人",
+      "接待处",
+      "热情接待"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "酒店正在接待客人。",
+        "pinyin": "Jiǔdiàn zhèngzài jiēdài kèren.",
+        "vi": "Khách sạn đang tiếp khách.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "待 đọc dài. Ở lại một lát đọc dāi, như 待一会儿. 客人 đọc kèren, âm sau nhẹ."
+    ],
+    "app_note_vi": "Động từ. 接待处 là quầy đón khách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "接待 nghĩa là gì?",
+        "answer": "tiếp đón"
+      },
+      {
+        "type": "cloze",
+        "prompt": "酒店正在____客人。",
+        "answer": "接待"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_819",
+    "level": "HSK5",
+    "hanzi": "聚会",
+    "pinyin": "jùhuì",
+    "topic_id": "people",
+    "display_meaning_vi": "buổi họp mặt",
+    "meaning_en": "get-together",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "同学聚会 / 家庭聚会",
+    "collocations": [
+      "同学聚会",
+      "家庭聚会",
+      "参加聚会"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周六有个同学聚会。",
+        "pinyin": "Zhōuliù yǒu gè tóngxué jùhuì.",
+        "vi": "Thứ bảy có buổi họp mặt bạn học.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "个在 有个 đọc nhẹ ge. 聚会 là gặp bạn bè, không phải cuộc họp công việc. Họp việc nói 开会."
+    ],
+    "app_note_vi": "Danh từ. 参加聚会 là đến buổi gặp.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "聚会 nghĩa là gì?",
+        "answer": "buổi họp mặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周六有个同学____。",
+        "answer": "聚会"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_820",
+    "level": "HSK5",
+    "hanzi": "度过",
+    "pinyin": "dùguò",
+    "topic_id": "daily",
+    "display_meaning_vi": "trải qua",
+    "meaning_en": "to spend (time)",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "度过假期 / 度过难关",
+    "collocations": [
+      "度过假期",
+      "度过难关",
+      "愉快度过"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们一起度过了暑假。",
+        "pinyin": "Wǒmen yìqǐ dùguò le shǔjià.",
+        "vi": "Chúng tôi đã trải qua kỳ nghỉ hè cùng nhau.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "度过 là đi qua một khoảng thời gian, 度 đọc dù. Qua sông viết 渡, là chữ khác. 暑假的 假 đọc jià. 一起 đọc yìqǐ."
+    ],
+    "app_note_vi": "Động từ. 度过难关 là vượt qua lúc khó.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "度过 nghĩa là gì?",
+        "answer": "trải qua"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们一起____了暑假。",
+        "answer": "度过"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0041",
+    "level": "HSK4",
+    "hanzi": "安全",
+    "pinyin": "ānquán",
+    "topic_id": "daily",
+    "display_meaning_vi": "an toàn",
+    "meaning_en": "safe; safety",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "注意安全 / 安全问题",
+    "collocations": [
+      "注意安全",
+      "安全问题",
+      "安全保障"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "全 đọc quán.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "过马路时要注意安全。",
+        "pinyin": "Guò mǎ lù shí yào zhù yì ān quán.",
+        "vi": "Khi sang đường phải chú ý an toàn.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "全 đọc quán."
+    ],
+    "app_note_vi": "全 đọc quán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "安全 nghĩa là gì?",
+        "answer": "an toàn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "过马路时要注意____。",
+        "answer": "安全"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0042",
+    "level": "HSK4",
+    "hanzi": "窗户",
+    "pinyin": "chuānghu",
+    "topic_id": "daily",
+    "display_meaning_vi": "cửa sổ",
+    "meaning_en": "window",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打开窗户 / 窗户外面",
+    "collocations": [
+      "打开窗户",
+      "窗户外面",
+      "关上窗户"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "户 đọc nhẹ hu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把窗户打开。",
+        "pinyin": "Qǐng bǎ chuāng hu dǎ kāi.",
+        "vi": "Hãy mở cửa sổ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "户 đọc nhẹ hu."
+    ],
+    "app_note_vi": "户 đọc nhẹ hu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "窗户 nghĩa là gì?",
+        "answer": "cửa sổ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把____打开。",
+        "answer": "窗户"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0043",
+    "level": "HSK4",
+    "hanzi": "打扮",
+    "pinyin": "dǎban",
+    "topic_id": "daily",
+    "display_meaning_vi": "ăn diện; trang điểm",
+    "meaning_en": "to dress up",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打扮自己 / 仔细打扮",
+    "collocations": [
+      "打扮自己",
+      "仔细打扮",
+      "打扮得很漂亮"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "扮 đọc nhẹ ban. 打 đọc dǎ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她今天打扮得很漂亮。",
+        "pinyin": "Tā jīn tiān dǎ ban de hěn piào liang.",
+        "vi": "Hôm nay cô ấy ăn diện rất đẹp.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "扮 đọc nhẹ ban. 打 đọc dǎ."
+    ],
+    "app_note_vi": "扮 đọc nhẹ ban. 打 đọc dǎ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打扮 nghĩa là gì?",
+        "answer": "ăn diện; trang điểm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她今天____得很漂亮。",
+        "answer": "打扮"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0044",
+    "level": "HSK4",
+    "hanzi": "打扰",
+    "pinyin": "dǎrǎo",
+    "topic_id": "daily",
+    "display_meaning_vi": "làm phiền",
+    "meaning_en": "to disturb",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打扰你 / 不好意思打扰",
+    "collocations": [
+      "打扰你",
+      "不好意思打扰",
+      "别打扰"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一下 đọc yíxià.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "不好意思，打扰你一下。",
+        "pinyin": "Bù hǎo yì si dǎ rǎo nǐ yí xià.",
+        "vi": "Xin lỗi, làm phiền bạn một chút.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一下 đọc yíxià."
+    ],
+    "app_note_vi": "一下 đọc yíxià.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打扰 nghĩa là gì?",
+        "answer": "làm phiền"
+      },
+      {
+        "type": "cloze",
+        "prompt": "不好意思，____你一下。",
+        "answer": "打扰"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0045",
+    "level": "HSK4",
+    "hanzi": "打印",
+    "pinyin": "dǎyìn",
+    "topic_id": "daily",
+    "display_meaning_vi": "in (tài liệu)",
+    "meaning_en": "to print",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打印文件 / 打印出来",
+    "collocations": [
+      "打印文件",
+      "打印出来",
+      "打印店"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "印 đọc yìn. 打 đọc dǎ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我要打印这份文件。",
+        "pinyin": "Wǒ yào dǎ yìn zhè fèn wén jiàn.",
+        "vi": "Tôi cần in tài liệu này.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "印 đọc yìn. 打 đọc dǎ."
+    ],
+    "app_note_vi": "印 đọc yìn. 打 đọc dǎ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打印 nghĩa là gì?",
+        "answer": "in (tài liệu)"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我要____这份文件。",
+        "answer": "打印"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0046",
+    "level": "HSK4",
+    "hanzi": "钥匙",
+    "pinyin": "yàoshi",
+    "topic_id": "daily",
+    "display_meaning_vi": "chìa khóa",
+    "meaning_en": "key",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把钥匙 / 钥匙不见了",
+    "collocations": [
+      "一把钥匙",
+      "钥匙不见了",
+      "找钥匙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "匙 đọc nhẹ shi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我的钥匙不见了。",
+        "pinyin": "Wǒ de yào shi bú jiàn le.",
+        "vi": "Chìa khóa của tôi mất rồi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "匙 đọc nhẹ shi."
+    ],
+    "app_note_vi": "匙 đọc nhẹ shi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "钥匙 nghĩa là gì?",
+        "answer": "chìa khóa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我的____不见了。",
+        "answer": "钥匙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0047",
+    "level": "HSK4",
+    "hanzi": "袜子",
+    "pinyin": "wàzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "tất",
+    "meaning_en": "socks",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一双袜子 / 棉袜子",
+    "collocations": [
+      "一双袜子",
+      "棉袜子",
+      "洗袜子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "子 đọc nhẹ zi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这双袜子很舒服。",
+        "pinyin": "Zhè shuāng wà zi hěn shū fú.",
+        "vi": "Đôi tất này rất dễ chịu.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi."
+    ],
+    "app_note_vi": "子 đọc nhẹ zi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "袜子 nghĩa là gì?",
+        "answer": "tất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这双____很舒服。",
+        "answer": "袜子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0048",
+    "level": "HSK4",
+    "hanzi": "盒子",
+    "pinyin": "hézi",
+    "topic_id": "daily",
+    "display_meaning_vi": "hộp",
+    "meaning_en": "box",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一个盒子 / 盒子里",
+    "collocations": [
+      "一个盒子",
+      "盒子里",
+      "纸盒子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "子 đọc nhẹ zi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "礼物放在盒子里。",
+        "pinyin": "Lǐ wù fàng zài hé zi lǐ.",
+        "vi": "Quà để trong hộp.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi."
+    ],
+    "app_note_vi": "子 đọc nhẹ zi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "盒子 nghĩa là gì?",
+        "answer": "hộp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "礼物放在____里。",
+        "answer": "盒子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0049",
+    "level": "HSK4",
+    "hanzi": "牙膏",
+    "pinyin": "yágāo",
+    "topic_id": "daily",
+    "display_meaning_vi": "kem đánh răng",
+    "meaning_en": "toothpaste",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一支牙膏 / 牙膏用完了",
+    "collocations": [
+      "一支牙膏",
+      "牙膏用完了",
+      "买牙膏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "膏 đọc gāo.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "牙膏用完了。",
+        "pinyin": "Yá gāo yòng wán le.",
+        "vi": "Hết kem đánh răng rồi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "膏 đọc gāo."
+    ],
+    "app_note_vi": "膏 đọc gāo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "牙膏 nghĩa là gì?",
+        "answer": "kem đánh răng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____用完了。",
+        "answer": "牙膏"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0050",
+    "level": "HSK4",
+    "hanzi": "洗衣机",
+    "pinyin": "xǐyījī",
+    "topic_id": "daily",
+    "display_meaning_vi": "máy giặt",
+    "meaning_en": "washing machine",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一台洗衣机 / 用洗衣机",
+    "collocations": [
+      "一台洗衣机",
+      "用洗衣机",
+      "洗衣机坏了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "洗 đọc xǐ. 衣 đọc yī.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "洗衣机正在洗衣服。",
+        "pinyin": "Xǐ yī jī zhèng zài xǐ yī fú.",
+        "vi": "Máy giặt đang giặt quần áo.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "洗 đọc xǐ. 衣 đọc yī."
+    ],
+    "app_note_vi": "洗 đọc xǐ. 衣 đọc yī.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "洗衣机 nghĩa là gì?",
+        "answer": "máy giặt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____正在洗衣服。",
+        "answer": "洗衣机"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

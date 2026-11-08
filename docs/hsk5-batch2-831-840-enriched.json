@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_831",
+    "level": "HSK5",
+    "hanzi": "下载",
+    "pinyin": "xiàzǎi",
+    "topic_id": "tech",
+    "display_meaning_vi": "tải xuống",
+    "meaning_en": "to download",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "下载软件 / 免费下载",
+    "collocations": [
+      "下载软件",
+      "免费下载",
+      "已经下载"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我下载了一个软件。",
+        "pinyin": "Wǒ xiàzǎi le yí gè ruǎnjiàn.",
+        "vi": "Tôi đã tải một phần mềm.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "载 đọc zǎi, là ghi, tải. Chở đọc zài, như 载重. 一个 đọc yí gè."
+    ],
+    "app_note_vi": "Động từ. Lấy tệp từ mạng về máy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "下载 nghĩa là gì?",
+        "answer": "tải xuống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____了一个软件。",
+        "answer": "下载"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_832",
+    "level": "HSK5",
+    "hanzi": "短信",
+    "pinyin": "duǎnxìn",
+    "topic_id": "tech",
+    "display_meaning_vi": "tin nhắn",
+    "meaning_en": "text message",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "发短信 / 一条短信",
+    "collocations": [
+      "发短信",
+      "一条短信",
+      "收到短信"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我给他发了一条短信。",
+        "pinyin": "Wǒ gěi tā fā le yì tiáo duǎnxìn.",
+        "vi": "Tôi đã nhắn cho anh ấy một tin.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "发 đọc fā. 一条 đọc yì tiáo vì 条 là thanh 2."
+    ],
+    "app_note_vi": "Danh từ. Tin chữ trên điện thoại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "短信 nghĩa là gì?",
+        "answer": "tin nhắn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我给他发了一条____。",
+        "answer": "短信"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_833",
+    "level": "HSK5",
+    "hanzi": "动画片",
+    "pinyin": "dònghuàpiàn",
+    "topic_id": "daily",
+    "display_meaning_vi": "phim hoạt hình",
+    "meaning_en": "cartoon",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "看动画片 / 一部动画片",
+    "collocations": [
+      "看动画片",
+      "一部动画片",
+      "儿童动画片"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子正在看动画片。",
+        "pinyin": "Háizi zhèngzài kàn dònghuàpiàn.",
+        "vi": "Trẻ đang xem phim hoạt hình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "片 trong 动画片 đọc piàn. Ảnh kiểu 相片 đọc piān. 一部 đọc yí bù vì 部 là thanh 4."
+    ],
+    "app_note_vi": "Danh từ. Phim vẽ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "动画片 nghĩa là gì?",
+        "answer": "phim hoạt hình"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子正在看____。",
+        "answer": "动画片"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_834",
+    "level": "HSK5",
+    "hanzi": "复制",
+    "pinyin": "fùzhì",
+    "topic_id": "tech",
+    "display_meaning_vi": "sao chép",
+    "meaning_en": "to copy",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "复制文件 / 禁止复制",
+    "collocations": [
+      "复制文件",
+      "复制一份",
+      "禁止复制"
+    ],
+    "near_synonyms": [
+      {
+        "word": "抄",
+        "difference_vi": "复制 là làm một bản giống, kể cả tệp; 抄 là chép chữ bằng tay."
+      }
+    ],
+    "app_synonym_note_vi": "复制 = sao một bản; 抄 = chép tay.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请不要复制这篇文章。",
+        "pinyin": "Qǐng bú yào fùzhì zhè piān wénzhāng.",
+        "vi": "Xin đừng sao bài này.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不要 đọc bú yào vì 要 là thanh 4. 篇 đọc piān, là lượng từ bài viết, khác chữ 片."
+    ],
+    "app_note_vi": "Động từ. Làm thêm một bản y hệt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "复制 nghĩa là gì?",
+        "answer": "sao chép"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请不要____这篇文章。",
+        "answer": "复制"
+      },
+      {
+        "type": "synonym",
+        "prompt": "复制 khác 抄 ở điểm nào?",
+        "answer": "复制 là làm một bản giống, kể cả tệp; 抄 là chép chữ bằng tay."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_835",
+    "level": "HSK5",
+    "hanzi": "过期",
+    "pinyin": "guòqī",
+    "topic_id": "daily",
+    "display_meaning_vi": "quá hạn",
+    "meaning_en": "to expire",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "过期食品 / 已经过期",
+    "collocations": [
+      "过期食品",
+      "已经过期",
+      "过期作废"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这盒牛奶过期了。",
+        "pinyin": "Zhè hé niúnǎi guòqī le.",
+        "vi": "Hộp sữa này đã quá hạn.",
+        "context": "food"
+      }
+    ],
+    "common_mistakes_vi": [
+      "过期 là quá ngày dùng. Chưa đến hạn không nói 过期."
+    ],
+    "app_note_vi": "Động từ. 过期作废 là quá hạn thì hết giá trị.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "过期 nghĩa là gì?",
+        "answer": "quá hạn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这盒牛奶____了。",
+        "answer": "过期"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_836",
+    "level": "HSK5",
+    "hanzi": "行人",
+    "pinyin": "xíngrén",
+    "topic_id": "daily",
+    "display_meaning_vi": "người đi bộ",
+    "meaning_en": "pedestrian",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "注意行人 / 行人通道",
+    "collocations": [
+      "注意行人",
+      "行人很多",
+      "行人通道"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "开车要让行人。",
+        "pinyin": "Kāi chē yào ràng xíngrén.",
+        "vi": "Lái xe phải nhường người đi bộ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "行 đọc xíng, là đi. Ngành nghề và ngân hàng đọc háng, như 行业, 银行."
+    ],
+    "app_note_vi": "Danh từ. Người đang đi trên đường.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "行人 nghĩa là gì?",
+        "answer": "người đi bộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "开车要让____。",
+        "answer": "行人"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_837",
+    "level": "HSK5",
+    "hanzi": "拐弯",
+    "pinyin": "guǎiwān",
+    "topic_id": "daily",
+    "display_meaning_vi": "rẽ",
+    "meaning_en": "to turn a corner",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "向左拐弯 / 前面拐弯",
+    "collocations": [
+      "向左拐弯",
+      "前面拐弯",
+      "拐弯处"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "前面路口向左拐弯。",
+        "pinyin": "Qiánmiàn lùkǒu xiàng zuǒ guǎiwān.",
+        "vi": "Ngã tư phía trước rẽ trái.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "拐弯 là đổi hướng. Đi thẳng không nói 拐弯."
+    ],
+    "app_note_vi": "Động từ. 向左拐弯 là rẽ trái.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "拐弯 nghĩa là gì?",
+        "answer": "rẽ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "前面路口向左____。",
+        "answer": "拐弯"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_838",
+    "level": "HSK5",
+    "hanzi": "纪律",
+    "pinyin": "jìlǜ",
+    "topic_id": "study",
+    "display_meaning_vi": "kỷ luật",
+    "meaning_en": "discipline",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "遵守纪律 / 课堂纪律",
+    "collocations": [
+      "遵守纪律",
+      "课堂纪律",
+      "纪律严明"
+    ],
+    "near_synonyms": [
+      {
+        "word": "规矩",
+        "difference_vi": "纪律 là nội quy phải giữ, trang trọng; 规矩 là phép tắc trong cách cư xử."
+      }
+    ],
+    "app_synonym_note_vi": "纪律 = kỷ luật; 规矩 = phép tắc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上课要遵守纪律。",
+        "pinyin": "Shàngkè yào zūnshǒu jìlǜ.",
+        "vi": "Lên lớp phải giữ kỷ luật.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "律 chỉ đọc lǜ, dấu thanh 4 nằm trên ü, không có e theo sau. Không viết lüè."
+    ],
+    "app_note_vi": "Danh từ. 遵守纪律 là tuân thủ kỷ luật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "纪律 nghĩa là gì?",
+        "answer": "kỷ luật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上课要遵守____。",
+        "answer": "纪律"
+      },
+      {
+        "type": "synonym",
+        "prompt": "纪律 khác 规矩 ở điểm nào?",
+        "answer": "纪律 là nội quy phải giữ, trang trọng; 规矩 là phép tắc trong cách cư xử."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_839",
+    "level": "HSK5",
+    "hanzi": "无数",
+    "pinyin": "wúshù",
+    "topic_id": "language",
+    "display_meaning_vi": "vô số",
+    "meaning_en": "countless",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "无数次 / 无数人",
+    "collocations": [
+      "无数次",
+      "无数人",
+      "无数的"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他试了无数次。",
+        "pinyin": "Tā shì le wúshù cì.",
+        "vi": "Anh ấy đã thử vô số lần.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "数 đọc shù, là số. Đếm đọc shǔ, như 数一数."
+    ],
+    "app_note_vi": "Tính từ. Nhiều đến mức không đếm xuể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "无数 nghĩa là gì?",
+        "answer": "vô số"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他试了____次。",
+        "answer": "无数"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_840",
+    "level": "HSK5",
+    "hanzi": "中介",
+    "pinyin": "zhōngjiè",
+    "topic_id": "work",
+    "display_meaning_vi": "môi giới",
+    "meaning_en": "intermediary; agency",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "房屋中介 / 中介公司",
+    "collocations": [
+      "房屋中介",
+      "通过中介",
+      "中介公司"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们通过中介租了房。",
+        "pinyin": "Tāmen tōngguò zhōngjiè zū le fáng.",
+        "vi": "Họ thuê nhà qua môi giới.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "中 đọc zhōng, là ở giữa. Trúng đọc zhòng, như 中奖."
+    ],
+    "app_note_vi": "Danh từ. Người hoặc công ty đứng giữa hai bên.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "中介 nghĩa là gì?",
+        "answer": "môi giới"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们通过____租了房。",
+        "answer": "中介"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

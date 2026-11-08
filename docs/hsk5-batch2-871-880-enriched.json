@@ -1,0 +1,562 @@
+[
+  {
+    "id": "hsk5_batch2_871",
+    "level": "HSK5",
+    "hanzi": "招待",
+    "pinyin": "zhāodài",
+    "topic_id": "people",
+    "display_meaning_vi": "tiếp đãi",
+    "meaning_en": "to entertain; to host",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "招待客人 / 热情招待",
+    "collocations": [
+      "招待客人",
+      "热情招待",
+      "招待会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "接待",
+        "difference_vi": "招待 là chủ mời và tiếp khách; 接待 là đón khách, hay gặp ở quầy."
+      }
+    ],
+    "app_synonym_note_vi": "招待 = chủ tiếp khách; 接待 = đón khách.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "主人热情地招待客人。",
+        "pinyin": "Zhǔrén rèqíng de zhāodài kèren.",
+        "vi": "Chủ nhà tiếp khách rất nhiệt tình.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "待 đọc dài. Ở lại một lát đọc dāi, như 待一会儿. 地 đọc nhẹ de. 客人 đọc kèren, âm sau nhẹ. 招 chỉ đọc zhāo, không phải chữ 朝."
+    ],
+    "app_note_vi": "Động từ. Chủ mời và chăm khách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "招待 nghĩa là gì?",
+        "answer": "tiếp đãi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "主人热情地____客人。",
+        "answer": "招待"
+      },
+      {
+        "type": "synonym",
+        "prompt": "招待 khác 接待 ở điểm nào?",
+        "answer": "招待 là chủ mời và tiếp khách; 接待 là đón khách, hay gặp ở quầy."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_872",
+    "level": "HSK5",
+    "hanzi": "对待",
+    "pinyin": "duìdài",
+    "topic_id": "people",
+    "display_meaning_vi": "đối xử",
+    "meaning_en": "to treat; to approach",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对待工作 / 认真对待",
+    "collocations": [
+      "对待工作",
+      "认真对待",
+      "对待朋友"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "要认真对待每一次考试。",
+        "pinyin": "Yào rènzhēn duìdài měi yí cì kǎoshì.",
+        "vi": "Phải nghiêm túc với mỗi kỳ thi.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "待 đọc dài. 一次 đọc yí cì vì 次 là thanh 4."
+    ],
+    "app_note_vi": "Động từ. Cách mình nhìn và xử lý một việc hoặc một người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "对待 nghĩa là gì?",
+        "answer": "đối xử"
+      },
+      {
+        "type": "cloze",
+        "prompt": "要认真____每一次考试。",
+        "answer": "对待"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_873",
+    "level": "HSK5",
+    "hanzi": "告别",
+    "pinyin": "gàobié",
+    "topic_id": "people",
+    "display_meaning_vi": "từ biệt",
+    "meaning_en": "to say goodbye",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "告别朋友 / 互相告别",
+    "collocations": [
+      "告别朋友",
+      "互相告别",
+      "告别仪式"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们在机场告别。",
+        "pinyin": "Wǒmen zài jīchǎng gàobié.",
+        "vi": "Chúng tôi từ biệt ở sân bay.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "告别 trang trọng hơn 再见. 再见 là lời chào khi tạm rời."
+    ],
+    "app_note_vi": "Động từ. Chia tay trước khi đi xa hoặc kết thúc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "告别 nghĩa là gì?",
+        "answer": "từ biệt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们在机场____。",
+        "answer": "告别"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_874",
+    "level": "HSK5",
+    "hanzi": "合影",
+    "pinyin": "héyǐng",
+    "topic_id": "people",
+    "display_meaning_vi": "chụp ảnh chung",
+    "meaning_en": "group photo",
+    "part_of_speech": "noun/verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "合影留念 / 一起合影",
+    "collocations": [
+      "合影留念",
+      "一起合影",
+      "毕业合影"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "毕业时我们合影留念。",
+        "pinyin": "Bìyè shí wǒmen héyǐng liúniàn.",
+        "vi": "Lúc tốt nghiệp chúng tôi chụp ảnh chung.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "影 ở đây là ảnh. Bóng nói 影子."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. Ảnh có nhiều người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "合影 nghĩa là gì?",
+        "answer": "chụp ảnh chung"
+      },
+      {
+        "type": "cloze",
+        "prompt": "毕业时我们____留念。",
+        "answer": "合影"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_875",
+    "level": "HSK5",
+    "hanzi": "光临",
+    "pinyin": "guānglín",
+    "topic_id": "people",
+    "display_meaning_vi": "ghé đến",
+    "meaning_en": "to honor with one's presence",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "欢迎光临 / 光临本店",
+    "collocations": [
+      "欢迎光临",
+      "光临本店",
+      "敬请光临"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "欢迎光临本店。",
+        "pinyin": "Huānyíng guānglín běn diàn.",
+        "vi": "Hoan nghênh quý khách đến cửa hàng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "光临 là lời mời trang trọng. Bạn bè đến nhà nói 来."
+    ],
+    "app_note_vi": "Động từ trang trọng. Hay thấy ở cửa hàng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "光临 nghĩa là gì?",
+        "answer": "ghé đến"
+      },
+      {
+        "type": "cloze",
+        "prompt": "欢迎____本店。",
+        "answer": "光临"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_876",
+    "level": "HSK5",
+    "hanzi": "光荣",
+    "pinyin": "guāngróng",
+    "topic_id": "people",
+    "display_meaning_vi": "vinh dự",
+    "meaning_en": "honor; glorious",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "光荣传统 / 很光荣",
+    "collocations": [
+      "光荣传统",
+      "很光荣",
+      "一件光荣"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这是一件光荣的事。",
+        "pinyin": "Zhè shì yí jiàn guāngróng de shì.",
+        "vi": "Đây là một việc đáng tự hào.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一件 đọc yí jiàn vì 件 là thanh 4."
+    ],
+    "app_note_vi": "Tính từ. Được người khác coi trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "光荣 nghĩa là gì?",
+        "answer": "vinh dự"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这是一件____的事。",
+        "answer": "光荣"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_877",
+    "level": "HSK5",
+    "hanzi": "豪华",
+    "pinyin": "háohuá",
+    "topic_id": "abstract",
+    "display_meaning_vi": "sang trọng",
+    "meaning_en": "luxurious",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "豪华轿车 / 很豪华",
+    "collocations": [
+      "豪华轿车",
+      "很豪华",
+      "豪华酒店"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这辆车很豪华。",
+        "pinyin": "Zhè liàng chē hěn háohuá.",
+        "vi": "Xe này rất sang.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "华 đọc huá. Tên núi Hoa Sơn đọc Huà, như 华山."
+    ],
+    "app_note_vi": "Tính từ. Đắt và cầu kỳ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "豪华 nghĩa là gì?",
+        "answer": "sang trọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这辆车很____。",
+        "answer": "豪华"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_878",
+    "level": "HSK5",
+    "hanzi": "高档",
+    "pinyin": "gāodàng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "cao cấp",
+    "meaning_en": "high-grade",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "高档商品 / 很高档",
+    "collocations": [
+      "高档商品",
+      "很高档",
+      "高档餐厅"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这家店的东西很高档。",
+        "pinyin": "Zhè jiā diàn de dōngxi hěn gāodàng.",
+        "vi": "Đồ của cửa hàng này thuộc hàng cao cấp.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "东西 đọc dōngxi, âm sau nhẹ. 高档 nói phẩm cấp, không chỉ nói đắt."
+    ],
+    "app_note_vi": "Tính từ. Hàng tốt, giá cao.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "高档 nghĩa là gì?",
+        "answer": "cao cấp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这家店的东西很____。",
+        "answer": "高档"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_879",
+    "level": "HSK5",
+    "hanzi": "规矩",
+    "pinyin": "guīju",
+    "topic_id": "people",
+    "display_meaning_vi": "phép tắc",
+    "meaning_en": "rule; well-behaved",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "懂规矩 / 守规矩",
+    "collocations": [
+      "懂规矩",
+      "守规矩",
+      "老规矩"
+    ],
+    "near_synonyms": [
+      {
+        "word": "纪律",
+        "difference_vi": "规矩 là phép trong cách ăn ở; 纪律 là nội quy phải giữ."
+      }
+    ],
+    "app_synonym_note_vi": "规矩 = phép tắc; 纪律 = kỷ luật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子要懂规矩。",
+        "pinyin": "Háizi yào dǒng guīju.",
+        "vi": "Trẻ phải biết phép tắc.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "矩 đọc nhẹ ju: guīju."
+    ],
+    "app_note_vi": "Danh từ. Cách cư xử được cộng đồng công nhận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "规矩 nghĩa là gì?",
+        "answer": "phép tắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子要懂____。",
+        "answer": "规矩"
+      },
+      {
+        "type": "synonym",
+        "prompt": "规矩 khác 纪律 ở điểm nào?",
+        "answer": "规矩 là phép trong cách ăn ở; 纪律 là nội quy phải giữ."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_880",
+    "level": "HSK5",
+    "hanzi": "讲究",
+    "pinyin": "jiǎngjiu",
+    "topic_id": "people",
+    "display_meaning_vi": "cầu kỳ",
+    "meaning_en": "particular about; exquisite",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "people"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很讲究 / 讲究卫生",
+    "collocations": [
+      "很讲究",
+      "讲究卫生",
+      "讲究吃穿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他很讲究穿衣。",
+        "pinyin": "Tā hěn jiǎngjiu chuānyī.",
+        "vi": "Anh ấy rất cầu kỳ trong cách ăn mặc.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "究 đọc nhẹ jiu: jiǎngjiu. 讲究 là để ý cho đẹp hoặc đúng cách."
+    ],
+    "app_note_vi": "Tính từ. Hay đi với ăn, mặc và vệ sinh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "讲究 nghĩa là gì?",
+        "answer": "cầu kỳ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他很____穿衣。",
+        "answer": "讲究"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "id": "hsk5_batch2_241",
+    "level": "HSK5",
+    "hanzi": "正",
+    "pinyin": "zhèng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "đúng; vừa khít",
+    "meaning_en": "correct; just right",
+    "part_of_speech": "adjective",
+    "difficulty": 3,
+    "topic_tags": [
+      "description",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "正好 / 正合适",
+    "collocations": [
+      "正好",
+      "正常",
+      "正面"
+    ],
+    "near_synonyms": [
+      {
+        "word": "对",
+        "difference_vi": "正强调刚刚好或正面；对只是正确。"
+      }
+    ],
+    "app_synonym_note_vi": "正 = vừa đúng hoặc mặt chính; 对 = đúng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这双鞋大小正合适。",
+        "pinyin": "Zhè shuāng xié dàxiǎo zhèng héshì.",
+        "vi": "Đôi giày này cỡ vừa khít.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "正 ở đây đọc zhèng. 正月 là tháng Giêng, đọc zhēngyuè."
+    ],
+    "app_note_vi": "正好 là vừa khít hoặc vừa đúng lúc. Đừng đọc thành zhēng khi nói kích cỡ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "正 nghĩa là gì?",
+        "answer": "đúng; vừa khít"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这双鞋大小____合适。",
+        "answer": "正"
+      },
+      {
+        "type": "synonym",
+        "prompt": "正 khác 对 ở điểm nào?",
+        "answer": "正强调刚刚好或正面；对只是正确。"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_242",
+    "level": "HSK5",
+    "hanzi": "唯一",
+    "pinyin": "wéiyī",
+    "topic_id": "abstract",
+    "display_meaning_vi": "duy nhất",
+    "meaning_en": "only; sole",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "唯一的 + 名词",
+    "collocations": [
+      "唯一的",
+      "唯一选择",
+      "唯一办法"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "家人是我唯一的牵挂。",
+        "pinyin": "Jiārén shì wǒ wéiyī de qiānguà.",
+        "vi": "Gia đình là điều duy nhất tôi luôn nhớ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "唯一后面通常加 的 再接名词：唯一的办法。"
+    ],
+    "app_note_vi": "Chỉ có một, không có cái thứ hai.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "唯一 nghĩa là gì?",
+        "answer": "duy nhất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "家人是我____的牵挂。",
+        "answer": "唯一"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_243",
+    "level": "HSK5",
+    "hanzi": "整个",
+    "pinyin": "zhěnggè",
+    "topic_id": "abstract",
+    "display_meaning_vi": "cả; toàn bộ",
+    "meaning_en": "whole; entire",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "整个 + 名词",
+    "collocations": [
+      "整个世界",
+      "整个城市",
+      "整个过程"
+    ],
+    "near_synonyms": [
+      {
+        "word": "全部",
+        "difference_vi": "整个强调一个整体的范围；全部强调没有剩下。"
+      }
+    ],
+    "app_synonym_note_vi": "整个 = cả một khối; 全部 = tất cả, không còn sót.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "整个上午都在下雨。",
+        "pinyin": "Zhěnggè shàngwǔ dōu zài xià yǔ.",
+        "vi": "Cả buổi sáng trời mưa suốt.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "整个 đứng trước danh từ, không nói 整个地雨."
+    ],
+    "app_note_vi": "Đứng trước danh từ để nói hết một đơn vị: buổi, thành phố, quá trình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "整个 nghĩa là gì?",
+        "answer": "cả; toàn bộ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____上午都在下雨。",
+        "answer": "整个"
+      },
+      {
+        "type": "synonym",
+        "prompt": "整个 khác 全部 ở điểm nào?",
+        "answer": "整个强调一个整体的范围；全部强调没有剩下。"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_244",
+    "level": "HSK5",
+    "hanzi": "绝对",
+    "pinyin": "juéduì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "tuyệt đối",
+    "meaning_en": "absolute; absolutely",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "绝对 + 不 / 会",
+    "collocations": [
+      "绝对不会",
+      "绝对正确",
+      "绝对多数"
+    ],
+    "near_synonyms": [
+      {
+        "word": "一定",
+        "difference_vi": "绝对 mạnh hơn, gần như không có ngoại lệ; 一定 là chắc, vẫn có thể đổi."
+      }
+    ],
+    "app_synonym_note_vi": "绝对 = tuyệt đối, không ngoại lệ; 一定 = chắc chắn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件事我绝对同意。",
+        "pinyin": "Zhè jiàn shì wǒ juéduì tóngyì.",
+        "vi": "Việc này tôi tuyệt đối đồng ý.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "绝对不会 là chắc chắn không. Đừng rút thành 绝对不 rồi bỏ động từ trong câu viết."
+    ],
+    "app_note_vi": "Phó từ nhấn mạnh. Hay đứng trước 不, 会 hoặc tính từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "绝对 nghĩa là gì?",
+        "answer": "tuyệt đối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件事我____同意。",
+        "answer": "绝对"
+      },
+      {
+        "type": "synonym",
+        "prompt": "绝对 khác 一定 ở điểm nào?",
+        "answer": "绝对 mạnh hơn, gần như không có ngoại lệ; 一定 là chắc, vẫn có thể đổi."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_245",
+    "level": "HSK5",
+    "hanzi": "基本",
+    "pinyin": "jīběn",
+    "topic_id": "abstract",
+    "display_meaning_vi": "cơ bản; gần như",
+    "meaning_en": "basic; basically",
+    "part_of_speech": "adjective/adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "基本 + 完成 / 要求",
+    "collocations": [
+      "基本情况",
+      "基本要求",
+      "基本概念"
+    ],
+    "near_synonyms": [
+      {
+        "word": "根本",
+        "difference_vi": "基本是 gần như đã đạt; 根本不 là hoàn toàn không."
+      }
+    ],
+    "app_synonym_note_vi": "基本 = về cơ bản, gần như; 根本不 = hoàn toàn không.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这项工作基本完成了。",
+        "pinyin": "Zhè xiàng gōngzuò jīběn wánchéng le.",
+        "vi": "Công việc này về cơ bản đã xong.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "基本完成 nghĩa là gần xong, chưa phải 全部完成."
+    ],
+    "app_note_vi": "Vừa là “cơ bản”, vừa là “gần như” khi đứng trước động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "基本 nghĩa là gì?",
+        "answer": "cơ bản; gần như"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这项工作____完成了。",
+        "answer": "基本"
+      },
+      {
+        "type": "synonym",
+        "prompt": "基本 khác 根本 ở điểm nào?",
+        "answer": "基本是 gần như đã đạt; 根本不 là hoàn toàn không."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_246",
+    "level": "HSK5",
+    "hanzi": "相当",
+    "pinyin": "xiāngdāng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "khá; ngang nhau",
+    "meaning_en": "quite; comparable",
+    "part_of_speech": "adverb",
+    "difficulty": 3,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "相当 + 形容词 / 与…相当",
+    "collocations": [
+      "相当不错",
+      "相当重要",
+      "旗鼓相当"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里的冬天相当冷。",
+        "pinyin": "Zhèlǐ de dōngtiān xiāngdāng lěng.",
+        "vi": "Mùa đông ở đây khá lạnh.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Trước tính từ, 相当 là “khá”. 旗鼓相当 mới là hai bên ngang nhau."
+    ],
+    "app_note_vi": "Hai hướng: mức độ khá cao, hoặc tương đương với một bên khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "相当 nghĩa là gì?",
+        "answer": "khá; ngang nhau"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里的冬天____冷。",
+        "answer": "相当"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_247",
+    "level": "HSK5",
+    "hanzi": "更加",
+    "pinyin": "gèngjiā",
+    "topic_id": "abstract",
+    "display_meaning_vi": "càng thêm",
+    "meaning_en": "even more",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "description"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "更加 + 形容词 / 动词",
+    "collocations": [
+      "更加重要",
+      "更加明显",
+      "更加清楚"
+    ],
+    "near_synonyms": [
+      {
+        "word": "更",
+        "difference_vi": "更加 trang trọng hơn một chút; 更 ngắn và rất thông dụng. Nghĩa cùng là mức độ tăng."
+      }
+    ],
+    "app_synonym_note_vi": "更加 = càng thêm, hơi trang trọng; 更 = càng, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "听到鼓励，她更加努力了。",
+        "pinyin": "Tīngdào gǔlì, tā gèngjiā nǔlì le.",
+        "vi": "Nghe lời động viên, cô ấy càng cố gắng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "更加 phải có cái để so, dù câu không nhắc lại mốc cũ."
+    ],
+    "app_note_vi": "Đứng trước tính từ hoặc động từ. Mức độ cao hơn trước.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "更加 nghĩa là gì?",
+        "answer": "càng thêm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "听到鼓励，她____努力了。",
+        "answer": "更加"
+      },
+      {
+        "type": "synonym",
+        "prompt": "更加 khác 更 ở điểm nào?",
+        "answer": "更加 trang trọng hơn một chút; 更 ngắn và rất thông dụng. Nghĩa cùng là mức độ tăng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_248",
+    "level": "HSK5",
+    "hanzi": "自由",
+    "pinyin": "zìyóu",
+    "topic_id": "abstract",
+    "display_meaning_vi": "tự do",
+    "meaning_en": "free; freedom",
+    "part_of_speech": "adjective/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自由 + 选择 / 时间",
+    "collocations": [
+      "自由选择",
+      "自由时间",
+      "言论自由"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末的安排很自由。",
+        "pinyin": "Zhōumò de ānpái hěn zìyóu.",
+        "vi": "Lịch cuối tuần rất tự do.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "自由 là được tự quyết. Muốn nói “tùy ý, không câu nệ” thì dùng 随便."
+    ],
+    "app_note_vi": "Tính từ hoặc danh từ. 言论自由 là tự do ngôn luận.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自由 nghĩa là gì?",
+        "answer": "tự do"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末的安排很____。",
+        "answer": "自由"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_249",
+    "level": "HSK5",
+    "hanzi": "全面",
+    "pinyin": "quánmiàn",
+    "topic_id": "abstract",
+    "display_meaning_vi": "toàn diện",
+    "meaning_en": "comprehensive; all-round",
+    "part_of_speech": "adjective",
+    "difficulty": 2,
+    "topic_tags": [
+      "description",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "全面 + 了解 / 发展",
+    "collocations": [
+      "全面发展",
+      "全面了解",
+      "全面检查"
+    ],
+    "near_synonyms": [
+      {
+        "word": "整个",
+        "difference_vi": "全面强调各个面都照顾到；整个强调一个整体。"
+      }
+    ],
+    "app_synonym_note_vi": "全面 = đủ các mặt; 整个 = cả một khối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "报告要全面介绍情况。",
+        "pinyin": "Bàogào yào quánmiàn jièshào qíngkuàng.",
+        "vi": "Báo cáo phải giới thiệu tình hình cho đủ các mặt.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "全面 không phải “mặt trước”. Mặt trước là 正面."
+    ],
+    "app_note_vi": "Hay gặp khi đánh giá báo cáo, phát triển và kiểm tra.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "全面 nghĩa là gì?",
+        "answer": "toàn diện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "报告要____介绍情况。",
+        "answer": "全面"
+      },
+      {
+        "type": "synonym",
+        "prompt": "全面 khác 整个 ở điểm nào?",
+        "answer": "全面强调各个面都照顾到；整个强调一个整体。"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_250",
+    "level": "HSK5",
+    "hanzi": "秒",
+    "pinyin": "miǎo",
+    "topic_id": "daily",
+    "display_meaning_vi": "giây",
+    "meaning_en": "second",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "time",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "数字 + 秒",
+    "collocations": [
+      "几秒钟",
+      "三十秒",
+      "秒表"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请大家再等三十秒。",
+        "pinyin": "Qǐng dàjiā zài děng sānshí miǎo.",
+        "vi": "Xin mọi người đợi thêm ba mươi giây.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "秒 là đơn vị thời gian, không phải “một chút” nói chung. Một chút là 一会儿."
+    ],
+    "app_note_vi": "Đếm thời gian rất ngắn. Đồng hồ bấm giây là 秒表.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "秒 nghĩa là gì?",
+        "answer": "giây"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请大家再等三十____。",
+        "answer": "秒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

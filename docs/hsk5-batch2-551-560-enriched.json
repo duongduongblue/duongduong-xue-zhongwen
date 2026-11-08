@@ -1,0 +1,619 @@
+[
+  {
+    "id": "hsk5_batch2_551",
+    "level": "HSK5",
+    "hanzi": "瞧",
+    "pinyin": "qiáo",
+    "topic_id": "language",
+    "display_meaning_vi": "nhìn",
+    "meaning_en": "to look",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "informal",
+    "grammar_pattern": "瞧一瞧 / 你瞧",
+    "collocations": [
+      "瞧一瞧",
+      "瞧病",
+      "瞧得起"
+    ],
+    "near_synonyms": [
+      {
+        "word": "看",
+        "difference_vi": "瞧 khẩu ngữ hơn; 看 trung tính và dùng được khi viết."
+      }
+    ],
+    "app_synonym_note_vi": "瞧 = nhìn, khẩu ngữ; 看 = nhìn, trung tính.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你瞧，外面已经下雪了。",
+        "pinyin": "Nǐ qiáo, wàimiàn yǐjīng xià xuě le.",
+        "vi": "Bạn nhìn kìa, ngoài kia đã có tuyết.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "瞧 đọc qiáo, không đọc qiào. 瞧病 là đi khám, cách nói miệng."
+    ],
+    "app_note_vi": "Động từ. 瞧得起 là coi trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "瞧 nghĩa là gì?",
+        "answer": "nhìn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你____，外面已经下雪了。",
+        "answer": "瞧"
+      },
+      {
+        "type": "synonym",
+        "prompt": "瞧 khác 看 ở điểm nào?",
+        "answer": "瞧 khẩu ngữ hơn; 看 trung tính và dùng được khi viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_552",
+    "level": "HSK5",
+    "hanzi": "交换",
+    "pinyin": "jiāohuàn",
+    "topic_id": "language",
+    "display_meaning_vi": "trao đổi",
+    "meaning_en": "to exchange",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "交换意见 / 交换联系方式",
+    "collocations": [
+      "交换意见",
+      "交换礼物",
+      "交换生"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两人交换了联系方式。",
+        "pinyin": "Liǎng rén jiāohuàn le liánxì fāngshì.",
+        "vi": "Hai người đã đổi cách liên lạc.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "交换 là đưa cho nhau. Nói chuyện qua lại là 交流, không phải lúc nào cũng 交换."
+    ],
+    "app_note_vi": "Động từ. 交换生 là sinh viên trao đổi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "交换 nghĩa là gì?",
+        "answer": "trao đổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两人____了联系方式。",
+        "answer": "交换"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_553",
+    "level": "HSK5",
+    "hanzi": "除非",
+    "pinyin": "chúfēi",
+    "topic_id": "language",
+    "display_meaning_vi": "trừ khi",
+    "meaning_en": "unless",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "除非…不然…",
+    "collocations": [
+      "除非你",
+      "除非这样",
+      "除非万不得已"
+    ],
+    "near_synonyms": [
+      {
+        "word": "除了",
+        "difference_vi": "除非 là điều kiện nếu không có thì việc không xảy ra; 除了 là ngoài ra."
+      }
+    ],
+    "app_synonym_note_vi": "除非 = trừ khi; 除了 = ngoài ra.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "除非下雨，不然我们去爬山。",
+        "pinyin": "Chúfēi xià yǔ, bùrán wǒmen qù pá shān.",
+        "vi": "Trừ khi mưa, không thì chúng ta đi leo núi.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "除非 hay đi với 不然 hoặc 否则 ở vế sau."
+    ],
+    "app_note_vi": "Liên từ. 除非万不得已 là trừ khi bất đắc dĩ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "除非 nghĩa là gì?",
+        "answer": "trừ khi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____下雨，不然我们去爬山。",
+        "answer": "除非"
+      },
+      {
+        "type": "synonym",
+        "prompt": "除非 khác 除了 ở điểm nào?",
+        "answer": "除非 là điều kiện nếu không có thì việc không xảy ra; 除了 là ngoài ra."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_554",
+    "level": "HSK5",
+    "hanzi": "总之",
+    "pinyin": "zǒngzhī",
+    "topic_id": "language",
+    "display_meaning_vi": "tóm lại",
+    "meaning_en": "in short; anyway",
+    "part_of_speech": "conjunction",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "logic"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "总之就是 / 总之一句话",
+    "collocations": [
+      "总之就是",
+      "总之一句话",
+      "总之如此"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "总之，我们不能再等了。",
+        "pinyin": "Zǒngzhī, wǒmen bù néng zài děng le.",
+        "vi": "Tóm lại, chúng ta không thể đợi nữa.",
+        "context": "logic"
+      }
+    ],
+    "common_mistakes_vi": [
+      "总之 gom các ý trước thành một kết luận. Không mở đầu một câu chuyện mới."
+    ],
+    "app_note_vi": "Liên từ. Hay đứng đầu câu kết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "总之 nghĩa là gì?",
+        "answer": "tóm lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____，我们不能再等了。",
+        "answer": "总之"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_555",
+    "level": "HSK5",
+    "hanzi": "据说",
+    "pinyin": "jùshuō",
+    "topic_id": "language",
+    "display_meaning_vi": "nghe nói",
+    "meaning_en": "it is said",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "据说如此 / 据说明天",
+    "collocations": [
+      "据说如此",
+      "据说明天",
+      "据说是"
+    ],
+    "near_synonyms": [
+      {
+        "word": "听说",
+        "difference_vi": "据说 trang trọng hơn, nguồn không nêu tên; 听说 thông dụng, có thể là nghe từ người quen."
+      }
+    ],
+    "app_synonym_note_vi": "据说 = nghe nói, trang trọng; 听说 = nghe nói, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "据说这家面馆很有名。",
+        "pinyin": "Jùshuō zhè jiā miànguǎn hěn yǒumíng.",
+        "vi": "Nghe nói quán mì này rất nổi tiếng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "据说 đứng đầu câu. Người nói chưa tự kiểm chứng."
+    ],
+    "app_note_vi": "Phó từ. Không cam kết tin đó là đúng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "据说 nghĩa là gì?",
+        "answer": "nghe nói"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____这家面馆很有名。",
+        "answer": "据说"
+      },
+      {
+        "type": "synonym",
+        "prompt": "据说 khác 听说 ở điểm nào?",
+        "answer": "据说 trang trọng hơn, nguồn không nêu tên; 听说 thông dụng, có thể là nghe từ người quen."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_556",
+    "level": "HSK5",
+    "hanzi": "询问",
+    "pinyin": "xúnwèn",
+    "topic_id": "language",
+    "display_meaning_vi": "hỏi để biết",
+    "meaning_en": "to inquire",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "询问情况 / 询问处",
+    "collocations": [
+      "询问情况",
+      "询问处",
+      "详细询问"
+    ],
+    "near_synonyms": [
+      {
+        "word": "问",
+        "difference_vi": "询问 trang trọng hơn 问, hay gặp ở quầy hoặc văn bản."
+      }
+    ],
+    "app_synonym_note_vi": "询问 = hỏi để nắm tình hình; 问 = hỏi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "详情可以向服务台询问。",
+        "pinyin": "Xiángqíng kěyǐ xiàng fúwùtái xúnwèn.",
+        "vi": "Chi tiết có thể hỏi quầy phục vụ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "向某人询问 là hỏi ai đó. Không dùng cho một câu hỏi rất nhỏ giữa bạn bè."
+    ],
+    "app_note_vi": "Động từ trang trọng. 询问处 là quầy hỏi thông tin.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "询问 nghĩa là gì?",
+        "answer": "hỏi để biết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "详情可以向服务台____。",
+        "answer": "询问"
+      },
+      {
+        "type": "synonym",
+        "prompt": "询问 khác 问 ở điểm nào?",
+        "answer": "询问 trang trọng hơn 问, hay gặp ở quầy hoặc văn bản."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_557",
+    "level": "HSK5",
+    "hanzi": "自从",
+    "pinyin": "zìcóng",
+    "topic_id": "language",
+    "display_meaning_vi": "kể từ khi",
+    "meaning_en": "since",
+    "part_of_speech": "preposition",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自从…就…",
+    "collocations": [
+      "自从那时",
+      "自从离开",
+      "自从认识"
+    ],
+    "near_synonyms": [
+      {
+        "word": "从",
+        "difference_vi": "自从 đánh dấu mốc bắt đầu một thay đổi kéo dài đến nay; 从 chỉ là từ, rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "自从 = kể từ khi; 从 = từ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "自从毕业我们就没见过面。",
+        "pinyin": "Zìcóng bìyè wǒmen jiù méi jiàn guo miàn.",
+        "vi": "Kể từ khi tốt nghiệp chúng tôi chưa gặp lại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "过 trong 见过 đọc nhẹ guo. 自从 hay đi với 就."
+    ],
+    "app_note_vi": "Giới từ. Mốc thời gian đứng ngay sau 自从.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自从 nghĩa là gì?",
+        "answer": "kể từ khi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____毕业我们就没见过面。",
+        "answer": "自从"
+      },
+      {
+        "type": "synonym",
+        "prompt": "自从 khác 从 ở điểm nào?",
+        "answer": "自从 đánh dấu mốc bắt đầu một thay đổi kéo dài đến nay; 从 chỉ là từ, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_558",
+    "level": "HSK5",
+    "hanzi": "简直",
+    "pinyin": "jiǎnzhí",
+    "topic_id": "language",
+    "display_meaning_vi": "thật sự là",
+    "meaning_en": "simply; practically",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "简直太… / 简直不敢相信",
+    "collocations": [
+      "简直不敢相信",
+      "简直是",
+      "简直太好了"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这道题简直太难了。",
+        "pinyin": "Zhè dào tí jiǎnzhí tài nán le.",
+        "vi": "Câu này thật sự là quá khó.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "简直 nhấn mức độ gần như không thể tin. Không dùng thay 很 trong câu bình thường."
+    ],
+    "app_note_vi": "Phó từ. Hay đi với 太.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "简直 nghĩa là gì?",
+        "answer": "thật sự là"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这道题____太难了。",
+        "answer": "简直"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_559",
+    "level": "HSK5",
+    "hanzi": "依然",
+    "pinyin": "yīrán",
+    "topic_id": "language",
+    "display_meaning_vi": "vẫn",
+    "meaning_en": "still",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "依然如故 / 依然存在",
+    "collocations": [
+      "依然如故",
+      "依然存在",
+      "依然坚持"
+    ],
+    "near_synonyms": [
+      {
+        "word": "还",
+        "difference_vi": "依然 trang trọng hơn; 还 thông dụng. Cùng ý một tình trạng chưa đổi."
+      }
+    ],
+    "app_synonym_note_vi": "依然 = vẫn, trang trọng; 还 = vẫn, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "多年以后，他依然很乐观。",
+        "pinyin": "Duō nián yǐhòu, tā yīrán hěn lèguān.",
+        "vi": "Nhiều năm sau anh ấy vẫn rất lạc quan.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "依然 đứng trước tính từ hoặc động từ."
+    ],
+    "app_note_vi": "Phó từ. 依然如故 là vẫn như cũ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "依然 nghĩa là gì?",
+        "answer": "vẫn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "多年以后，他____很乐观。",
+        "answer": "依然"
+      },
+      {
+        "type": "synonym",
+        "prompt": "依然 khác 还 ở điểm nào?",
+        "answer": "依然 trang trọng hơn; 还 thông dụng. Cùng ý một tình trạng chưa đổi."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_560",
+    "level": "HSK5",
+    "hanzi": "通常",
+    "pinyin": "tōngcháng",
+    "topic_id": "language",
+    "display_meaning_vi": "thông thường",
+    "meaning_en": "usually",
+    "part_of_speech": "adverb",
+    "difficulty": 2,
+    "topic_tags": [
+      "talk",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "通常来说 / 通常情况",
+    "collocations": [
+      "通常来说",
+      "通常情况",
+      "通常不会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "常常",
+        "difference_vi": "通常 là theo lệ thường; 常常 là thường xuyên, nhấn số lần."
+      }
+    ],
+    "app_synonym_note_vi": "通常 = thông thường; 常常 = hay, thường xuyên.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我通常坐地铁上班。",
+        "pinyin": "Wǒ tōngcháng zuò dìtiě shàngbān.",
+        "vi": "Tôi thường đi tàu điện ngầm đi làm.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "通常 không có nghĩa là mỗi lần đều vậy. Muốn nói mỗi lần thì dùng 每次."
+    ],
+    "app_note_vi": "Phó từ. 通常来说 là nói chung.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "通常 nghĩa là gì?",
+        "answer": "thông thường"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____坐地铁上班。",
+        "answer": "通常"
+      },
+      {
+        "type": "synonym",
+        "prompt": "通常 khác 常常 ở điểm nào?",
+        "answer": "通常 là theo lệ thường; 常常 là thường xuyên, nhấn số lần."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

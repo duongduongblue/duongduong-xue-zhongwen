@@ -1,0 +1,631 @@
+[
+  {
+    "id": "hsk5_batch2_181",
+    "level": "HSK5",
+    "hanzi": "处理",
+    "pinyin": "chǔlǐ",
+    "topic_id": "work",
+    "display_meaning_vi": "xử lý",
+    "meaning_en": "to handle; to deal with",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "处理 + 问题 / 及时处理",
+    "collocations": [
+      "处理问题",
+      "及时处理",
+      "垃圾处理"
+    ],
+    "near_synonyms": [
+      {
+        "word": "解决",
+        "difference_vi": "处理 là giải quyết việc đang có, gồm cả sắp xếp và xử phạt; 解决 nhấn mạnh làm cho vấn đề hết."
+      }
+    ],
+    "app_synonym_note_vi": "处理 = xử lý việc đang có; 解决 = làm cho vấn đề hết hẳn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个问题要马上处理。",
+        "pinyin": "Zhège wèntí yào mǎshàng chǔlǐ.",
+        "vi": "Việc này phải xử lý ngay.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Trong 处理, 处 đọc chǔ. 处 đọc chù khi chỉ nơi chốn, như 到处."
+    ],
+    "app_note_vi": "Dùng cho việc, rác, thông tin hoặc xử lý một người. 处 ở đây là chǔ, không phải chù.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "处理 nghĩa là gì?",
+        "answer": "xử lý"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个问题要马上____。",
+        "answer": "处理"
+      },
+      {
+        "type": "synonym",
+        "prompt": "处理 khác 解决 ở điểm nào?",
+        "answer": "处理 là giải quyết việc đang có, gồm cả sắp xếp và xử phạt; 解决 nhấn mạnh làm cho vấn đề hết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_182",
+    "level": "HSK5",
+    "hanzi": "目前",
+    "pinyin": "mùqián",
+    "topic_id": "work",
+    "display_meaning_vi": "hiện nay",
+    "meaning_en": "at present; currently",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "目前 + 情况 / 截至目前",
+    "collocations": [
+      "截至目前",
+      "目前情况",
+      "目前为止"
+    ],
+    "near_synonyms": [
+      {
+        "word": "现在",
+        "difference_vi": "目前 trang trọng hơn, chỉ giai đoạn trước mắt trong bài viết hoặc báo cáo; 现在 dùng trong lời nói hàng ngày."
+      }
+    ],
+    "app_synonym_note_vi": "目前 = hiện nay, trang trọng; 现在 = bây giờ, thông dụng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "目前我们还没有结果。",
+        "pinyin": "Mùqián wǒmen hái méiyǒu jiéguǒ.",
+        "vi": "Hiện nay chúng tôi vẫn chưa có kết quả.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "目前 không đứng sau 在. Không nói 在目前."
+    ],
+    "app_note_vi": "Từ chỉ thời điểm trước mắt, hay gặp trong báo cáo và tin tức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "目前 nghĩa là gì?",
+        "answer": "hiện nay"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____我们还没有结果。",
+        "answer": "目前"
+      },
+      {
+        "type": "synonym",
+        "prompt": "目前 khác 现在 ở điểm nào?",
+        "answer": "目前 trang trọng hơn, chỉ giai đoạn trước mắt trong bài viết hoặc báo cáo; 现在 dùng trong lời nói hàng ngày."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_183",
+    "level": "HSK5",
+    "hanzi": "确定",
+    "pinyin": "quèdìng",
+    "topic_id": "work",
+    "display_meaning_vi": "xác định; chốt",
+    "meaning_en": "to fix; to be certain",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "确定 + 时间 / 不能确定",
+    "collocations": [
+      "确定时间",
+      "确定下来",
+      "不能确定"
+    ],
+    "near_synonyms": [
+      {
+        "word": "确认",
+        "difference_vi": "确定 là chốt hoặc cho là chắc; 确认 là kiểm lại xem một thông tin có đúng không."
+      }
+    ],
+    "app_synonym_note_vi": "确定 = chốt, cho là chắc; 确认 = kiểm lại cho đúng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "会议时间还没确定。",
+        "pinyin": "Huìyì shíjiān hái méi quèdìng.",
+        "vi": "Giờ họp vẫn chưa được chốt.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "确定 không phải lúc nào cũng là “chắc chắn đúng”. Khi chưa kiểm, nói 还没确认."
+    ],
+    "app_note_vi": "Vừa là ấn định (thời gian, kế hoạch), vừa là thấy một việc đã chắc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "确定 nghĩa là gì?",
+        "answer": "xác định; chốt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "会议时间还没____。",
+        "answer": "确定"
+      },
+      {
+        "type": "synonym",
+        "prompt": "确定 khác 确认 ở điểm nào?",
+        "answer": "确定 là chốt hoặc cho là chắc; 确认 là kiểm lại xem một thông tin có đúng không."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_184",
+    "level": "HSK5",
+    "hanzi": "行动",
+    "pinyin": "xíngdòng",
+    "topic_id": "work",
+    "display_meaning_vi": "hành động",
+    "meaning_en": "action; to act",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "采取行动 / 行动计划",
+    "collocations": [
+      "采取行动",
+      "行动计划",
+      "行动不便"
+    ],
+    "near_synonyms": [
+      {
+        "word": "行为",
+        "difference_vi": "行动 là bắt tay làm một việc; 行为 là cách cư xử, thường kèm đánh giá."
+      }
+    ],
+    "app_synonym_note_vi": "行动 = bắt tay làm; 行为 = cách cư xử.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "计划定了就要马上行动。",
+        "pinyin": "Jìhuà dìng le jiù yào mǎshàng xíngdòng.",
+        "vi": "Kế hoạch đã chốt thì phải hành động ngay.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "行动不便 là đi lại khó khăn, không phải “hành động không tiện”."
+    ],
+    "app_note_vi": "Danh từ hoặc động từ. 采取行动 là bắt đầu làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "行动 nghĩa là gì?",
+        "answer": "hành động"
+      },
+      {
+        "type": "cloze",
+        "prompt": "计划定了就要马上____。",
+        "answer": "行动"
+      },
+      {
+        "type": "synonym",
+        "prompt": "行动 khác 行为 ở điểm nào?",
+        "answer": "行动 là bắt tay làm một việc; 行为 là cách cư xử, thường kèm đánh giá."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_185",
+    "level": "HSK5",
+    "hanzi": "报告",
+    "pinyin": "bàogào",
+    "topic_id": "work",
+    "display_meaning_vi": "báo cáo; báo lại",
+    "meaning_en": "report; to report",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "写报告 / 向 + 人 + 报告",
+    "collocations": [
+      "写报告",
+      "做报告",
+      "报告老师"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我明天要交一份调查报告。",
+        "pinyin": "Wǒ míngtiān yào jiāo yí fèn diàochá bàogào.",
+        "vi": "Ngày mai tôi phải nộp một bản báo cáo điều tra.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "做报告 là thuyết trình một báo cáo, không phải “làm một bản báo cáo trên giấy”. Viết ra giấy là 写报告."
+    ],
+    "app_note_vi": "Vừa là bài báo cáo, vừa là động từ báo với người trên: 向老师报告.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "报告 nghĩa là gì?",
+        "answer": "báo cáo; báo lại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我明天要交一份调查____。",
+        "answer": "报告"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_186",
+    "level": "HSK5",
+    "hanzi": "设计",
+    "pinyin": "shèjì",
+    "topic_id": "work",
+    "display_meaning_vi": "thiết kế",
+    "meaning_en": "to design; a design",
+    "part_of_speech": "verb/noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "设计 + 方案 / 是某人设计的",
+    "collocations": [
+      "设计方案",
+      "室内设计",
+      "精心设计"
+    ],
+    "near_synonyms": [
+      {
+        "word": "计划",
+        "difference_vi": "设计 là tạo kiểu, bố trí hình thức hoặc chức năng; 计划 là dự định việc sẽ làm."
+      }
+    ],
+    "app_synonym_note_vi": "设计 = thiết kế; 计划 = kế hoạch việc sẽ làm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新教室是她设计的。",
+        "pinyin": "Xīn jiàoshì shì tā shèjì de.",
+        "vi": "Phòng học mới do cô ấy thiết kế.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "设计 là bố trí cho ra một sản phẩm hoặc không gian, không thay cho mọi chữ “sắp xếp lịch”."
+    ],
+    "app_note_vi": "Dùng cho đồ họa, không gian, sản phẩm và phương án.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "设计 nghĩa là gì?",
+        "answer": "thiết kế"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新教室是她____的。",
+        "answer": "设计"
+      },
+      {
+        "type": "synonym",
+        "prompt": "设计 khác 计划 ở điểm nào?",
+        "answer": "设计 là tạo kiểu, bố trí hình thức hoặc chức năng; 计划 là dự định việc sẽ làm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_187",
+    "level": "HSK5",
+    "hanzi": "利用",
+    "pinyin": "lìyòng",
+    "topic_id": "work",
+    "display_meaning_vi": "tận dụng; lợi dụng",
+    "meaning_en": "to make use of",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "利用 + 时间 / 机会 / 材料",
+    "collocations": [
+      "利用时间",
+      "合理利用",
+      "利用机会"
+    ],
+    "near_synonyms": [
+      {
+        "word": "使用",
+        "difference_vi": "利用 nhấn mạnh dùng một thứ để đạt mục đích; 使用 chỉ là dùng, trung tính và rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "利用 = dùng để đạt mục đích; 使用 = sử dụng, trung tính.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我们可以利用旧材料。",
+        "pinyin": "Wǒmen kěyǐ lìyòng jiù cáiliào.",
+        "vi": "Chúng ta có thể tận dụng nguyên liệu cũ.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "利用别人 mang ý lợi dụng người khác. Nói về đồ vật thì 利用 thường trung tính."
+    ],
+    "app_note_vi": "Hợp lý thì là tận dụng. Nhắm vào người để lấy lợi thì là lợi dụng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "利用 nghĩa là gì?",
+        "answer": "tận dụng; lợi dụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我们可以____旧材料。",
+        "answer": "利用"
+      },
+      {
+        "type": "synonym",
+        "prompt": "利用 khác 使用 ở điểm nào?",
+        "answer": "利用 nhấn mạnh dùng một thứ để đạt mục đích; 使用 chỉ là dùng, trung tính và rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_188",
+    "level": "HSK5",
+    "hanzi": "系统",
+    "pinyin": "xìtǒng",
+    "topic_id": "work",
+    "display_meaning_vi": "hệ thống",
+    "meaning_en": "system",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work",
+      "technology"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "系统 + 更新 / 运行",
+    "collocations": [
+      "操作系统",
+      "系统更新",
+      "生态系统"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新系统今天运行很稳定。",
+        "pinyin": "Xīn xìtǒng jīntiān yùnxíng hěn wěndìng.",
+        "vi": "Hệ thống mới hôm nay chạy rất ổn.",
+        "context": "technology"
+      }
+    ],
+    "common_mistakes_vi": [
+      "系统是名词。想说 “một cách có hệ thống” thì dùng 系统地, phải có 地."
+    ],
+    "app_note_vi": "Chỉ phần mềm, tổ chức hoặc một chỉnh thể gồm nhiều phần liên kết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "系统 nghĩa là gì?",
+        "answer": "hệ thống"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新____今天运行很稳定。",
+        "answer": "系统"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_189",
+    "level": "HSK5",
+    "hanzi": "人员",
+    "pinyin": "rényuán",
+    "topic_id": "work",
+    "display_meaning_vi": "nhân viên; người phụ trách",
+    "meaning_en": "staff; personnel",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "工作人员 / 相关人员",
+    "collocations": [
+      "工作人员",
+      "人员名单",
+      "相关人员"
+    ],
+    "near_synonyms": [
+      {
+        "word": "人才",
+        "difference_vi": "人员 là người trong một tổ hoặc một nhiệm vụ; 人才 là người có năng lực nổi bật."
+      }
+    ],
+    "app_synonym_note_vi": "人员 = nhân sự của một việc; 人才 = người có tài.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "工作人员正在检查票。",
+        "pinyin": "Gōngzuò rényuán zhèngzài jiǎnchá piào.",
+        "vi": "Nhân viên đang soát vé.",
+        "context": "work"
+      }
+    ],
+    "common_mistakes_vi": [
+      "人员 không phải lời khen. Muốn khen người giỏi, nói 人才."
+    ],
+    "app_note_vi": "Chỉ người thuộc một nhóm việc: bảo vệ, y tế, công tác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "人员 nghĩa là gì?",
+        "answer": "nhân viên; người phụ trách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "工作____正在检查票。",
+        "answer": "人员"
+      },
+      {
+        "type": "synonym",
+        "prompt": "人员 khác 人才 ở điểm nào?",
+        "answer": "人员 là người trong một tổ hoặc một nhiệm vụ; 人才 là người có năng lực nổi bật."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_190",
+    "level": "HSK5",
+    "hanzi": "搞",
+    "pinyin": "gǎo",
+    "topic_id": "work",
+    "display_meaning_vi": "làm; xoay xở",
+    "meaning_en": "to do; to get something done",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "work",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "usage",
+      "collocation"
+    ],
+    "register": "informal",
+    "grammar_pattern": "搞清楚 / 搞 + 活动",
+    "collocations": [
+      "搞清楚",
+      "搞活动",
+      "搞笑"
+    ],
+    "near_synonyms": [
+      {
+        "word": "做",
+        "difference_vi": "搞 là khẩu ngữ, nghĩa đổi theo chữ đi sau; 做 trung tính hơn và dùng được khi viết."
+      }
+    ],
+    "app_synonym_note_vi": "搞 = làm, khẩu ngữ; 做 = làm, trung tính.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末的活动是学生会搞的。",
+        "pinyin": "Zhōumò de huódòng shì xuéshēnghuì gǎo de.",
+        "vi": "Hoạt động cuối tuần do hội sinh viên tổ chức.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "搞 không dùng trong bài viết trang trọng. Văn viết nên đổi thành 组织, 做 hoặc 处理."
+    ],
+    "app_note_vi": "Nghĩa tùy cụm: 搞清楚 là làm cho rõ, 搞笑 là làm trò, 搞活动 là tổ chức hoạt động.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "搞 nghĩa là gì?",
+        "answer": "làm; xoay xở"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末的活动是学生会____的。",
+        "answer": "搞"
+      },
+      {
+        "type": "synonym",
+        "prompt": "搞 khác 做 ở điểm nào?",
+        "answer": "搞 là khẩu ngữ, nghĩa đổi theo chữ đi sau; 做 trung tính hơn và dùng được khi viết."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

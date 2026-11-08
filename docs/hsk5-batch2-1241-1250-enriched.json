@@ -1,0 +1,577 @@
+[
+  {
+    "id": "hsk5_batch2_1241",
+    "level": "HSK5",
+    "hanzi": "逃避",
+    "pinyin": "táobì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "trốn tránh",
+    "meaning_en": "to evade",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "逃避责任 / 逃避现实",
+    "collocations": [
+      "逃避责任",
+      "逃避现实",
+      "逃避困难"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "逃避 là né tránh; 逃 là chạy trốn cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "逃避问题只会更麻烦。",
+        "pinyin": "Táo bì wèn tí zhǐ huì gèng má fán.",
+        "vi": "Trốn tránh vấn đề chỉ càng thêm phiền.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Mang ý tiêu cực, tránh việc đáng đối mặt."
+    ],
+    "app_note_vi": "Mang ý tiêu cực, tránh việc đáng đối mặt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "逃避 nghĩa là gì?",
+        "answer": "trốn tránh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____问题只会更麻烦。",
+        "answer": "逃避"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 逃避?",
+        "answer": "逃避 là né tránh; 逃 là chạy trốn cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1242",
+    "level": "HSK5",
+    "hanzi": "体会",
+    "pinyin": "tǐhuì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "cảm nhận qua trải nghiệm",
+    "meaning_en": "insight from experience",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "深有体会 / 谈体会",
+    "collocations": [
+      "深有体会",
+      "谈体会",
+      "体会深刻"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "体会 là điều rút ra sau khi trải; 体验 là chính việc trải nghiệm.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这段实习让我深有体会。",
+        "pinyin": "Zhè duàn shí xí ràng wǒ shēn yǒu tǐ huì.",
+        "vi": "Kỳ thực tập này cho tôi nhiều cảm nhận.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hiểu nhờ tự mình trải, không chỉ đọc sách."
+    ],
+    "app_note_vi": "Hiểu nhờ tự mình trải, không chỉ đọc sách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "体会 nghĩa là gì?",
+        "answer": "cảm nhận qua trải nghiệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这段实习让我深有____。",
+        "answer": "体会"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 体会?",
+        "answer": "体会 là điều rút ra sau khi trải; 体验 là chính việc trải nghiệm."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1243",
+    "level": "HSK5",
+    "hanzi": "体现",
+    "pinyin": "tǐxiàn",
+    "topic_id": "abstract",
+    "display_meaning_vi": "thể hiện",
+    "meaning_en": "to show a quality in concrete form",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "充分体现 / 体现价值",
+    "collocations": [
+      "充分体现",
+      "体现价值",
+      "具体体现"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "体现 là làm hiện ra một ý; 表现 còn chỉ thái độ hoặc thành tích.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "礼物体现了他的心意。",
+        "pinyin": "Lǐ wù tǐ xiàn le tā de xīn yì.",
+        "vi": "Món quà thể hiện tấm lòng của anh ấy.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Một việc cụ thể làm lộ ra ý trừu tượng."
+    ],
+    "app_note_vi": "Một việc cụ thể làm lộ ra ý trừu tượng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "体现 nghĩa là gì?",
+        "answer": "thể hiện"
+      },
+      {
+        "type": "cloze",
+        "prompt": "礼物____了他的心意。",
+        "answer": "体现"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 体现?",
+        "answer": "体现 là làm hiện ra một ý; 表现 còn chỉ thái độ hoặc thành tích."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1244",
+    "level": "HSK5",
+    "hanzi": "围绕",
+    "pinyin": "wéirào",
+    "topic_id": "abstract",
+    "display_meaning_vi": "xoay quanh",
+    "meaning_en": "to center on",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "围绕主题 / 围绕着",
+    "collocations": [
+      "围绕主题",
+      "围绕着",
+      "围绕中心"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "讨论围绕着这次旅行。",
+        "pinyin": "Tǎo lùn wéi rào zhe zhè cì lǚ xíng.",
+        "vi": "Cuộc bàn bạc xoay quanh chuyến đi này.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là vây quanh, vừa là lấy một chủ đề làm tâm."
+    ],
+    "app_note_vi": "Vừa là vây quanh, vừa là lấy một chủ đề làm tâm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "围绕 nghĩa là gì?",
+        "answer": "xoay quanh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "讨论____着这次旅行。",
+        "answer": "围绕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1245",
+    "level": "HSK5",
+    "hanzi": "未必",
+    "pinyin": "wèibì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "chưa chắc",
+    "meaning_en": "not necessarily",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "未必如此 / 未必能",
+    "collocations": [
+      "未必如此",
+      "未必能",
+      "未必是"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "未必 là chưa chắc; 一定 là chắc chắn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "贵的东西未必质量更好。",
+        "pinyin": "Guì de dōng xī wèi bì zhì liàng gèng hǎo.",
+        "vi": "Đồ đắt chưa chắc chất lượng đã tốt hơn.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phủ định nhẹ một lời khẳng định."
+    ],
+    "app_note_vi": "Phủ định nhẹ một lời khẳng định.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "未必 nghĩa là gì?",
+        "answer": "chưa chắc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "贵的东西____质量更好。",
+        "answer": "未必"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 未必?",
+        "answer": "未必 là chưa chắc; 一定 là chắc chắn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1246",
+    "level": "HSK5",
+    "hanzi": "性质",
+    "pinyin": "xìngzhì",
+    "topic_id": "abstract",
+    "display_meaning_vi": "tính chất",
+    "meaning_en": "nature of something",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "性质不同 / 问题性质",
+    "collocations": [
+      "性质不同",
+      "问题性质",
+      "化学性质"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这两件事的性质不一样。",
+        "pinyin": "Zhè liǎng jiàn shì de xìng zhì bù yí yàng.",
+        "vi": "Hai việc này tính chất không giống nhau.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Bản chất của sự việc hoặc của một chất."
+    ],
+    "app_note_vi": "Bản chất của sự việc hoặc của một chất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "性质 nghĩa là gì?",
+        "answer": "tính chất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这两件事的____不一样。",
+        "answer": "性质"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1247",
+    "level": "HSK5",
+    "hanzi": "疑问",
+    "pinyin": "yíwèn",
+    "topic_id": "abstract",
+    "display_meaning_vi": "nghi vấn",
+    "meaning_en": "a doubt",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "毫无疑问 / 有疑问",
+    "collocations": [
+      "毫无疑问",
+      "有疑问",
+      "疑问句"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "疑问 là điều còn nghi; 问题 rộng hơn, là vấn đề hoặc câu hỏi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "对这个结果我还有疑问。",
+        "pinyin": "Duì zhè ge jié guǒ wǒ hái yǒu yí wèn.",
+        "vi": "Với kết quả này tôi vẫn còn nghi vấn.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Điều chưa rõ cần hỏi thêm."
+    ],
+    "app_note_vi": "Điều chưa rõ cần hỏi thêm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "疑问 nghĩa là gì?",
+        "answer": "nghi vấn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "对这个结果我还有____。",
+        "answer": "疑问"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 疑问?",
+        "answer": "疑问 là điều còn nghi; 问题 rộng hơn, là vấn đề hoặc câu hỏi."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1248",
+    "level": "HSK5",
+    "hanzi": "因而",
+    "pinyin": "yīnér",
+    "topic_id": "abstract",
+    "display_meaning_vi": "do đó",
+    "meaning_en": "thus",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "因而产生 / 因而导致",
+    "collocations": [
+      "因而产生",
+      "因而导致",
+      "因而得以"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "因而 dùng khi viết; 所以 dùng mọi lúc.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "路面结冰，因而好几辆车慢了下来。",
+        "pinyin": "Lù miàn jié bīng yīn ér hǎo jǐ liàng chē màn le xià lái.",
+        "vi": "Mặt đường đóng băng, do đó mấy xe đều đi chậm lại.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nối kết quả, dùng khi viết. Nói thường hay dùng từ khác."
+    ],
+    "app_note_vi": "Nối kết quả, dùng khi viết. Nói thường hay dùng từ khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "因而 nghĩa là gì?",
+        "answer": "do đó"
+      },
+      {
+        "type": "cloze",
+        "prompt": "路面结冰，____好几辆车慢了下来。",
+        "answer": "因而"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 因而?",
+        "answer": "因而 dùng khi viết; 所以 dùng mọi lúc."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1249",
+    "level": "HSK5",
+    "hanzi": "与其",
+    "pinyin": "yǔqí",
+    "topic_id": "abstract",
+    "display_meaning_vi": "thay vì",
+    "meaning_en": "rather than",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "与其说 / 与其如此",
+    "collocations": [
+      "与其说",
+      "与其如此",
+      "与其这样"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "与其生气，不如沟通。",
+        "pinyin": "Yǔ qí shēng qì bù rú gōu tōng.",
+        "vi": "Thay vì giận, chi bằng nói chuyện.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đi với 不如: 与其A不如B nghĩa là chọn B thay vì A."
+    ],
+    "app_note_vi": "Đi với 不如: 与其A不如B nghĩa là chọn B thay vì A.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "与其 nghĩa là gì?",
+        "answer": "thay vì"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____生气，不如沟通。",
+        "answer": "与其"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1250",
+    "level": "HSK5",
+    "hanzi": "缘故",
+    "pinyin": "yuángù",
+    "topic_id": "abstract",
+    "display_meaning_vi": "lý do",
+    "meaning_en": "the reason",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "什么缘故 / 毫无缘故",
+    "collocations": [
+      "什么缘故",
+      "毫无缘故",
+      "因何缘故"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "缘故 là lý do của một việc; 原因 gần nghĩa và dùng rộng hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他迟到是因为堵车的缘故。",
+        "pinyin": "Tā chí dào shì yīn wèi dǔ chē de yuán gù.",
+        "vi": "Anh ấy đến muộn vì bị tắc đường.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thường đứng sau 因为 hoặc 由于 để nêu nguyên do."
+    ],
+    "app_note_vi": "Thường đứng sau 因为 hoặc 由于 để nêu nguyên do.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "缘故 nghĩa là gì?",
+        "answer": "lý do"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他迟到是因为堵车的____。",
+        "answer": "缘故"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 缘故?",
+        "answer": "缘故 là lý do của một việc; 原因 gần nghĩa và dùng rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

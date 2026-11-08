@@ -1,0 +1,575 @@
+[
+  {
+    "id": "hsk5_batch2_521",
+    "level": "HSK5",
+    "hanzi": "课程",
+    "pinyin": "kèchéng",
+    "topic_id": "study",
+    "display_meaning_vi": "môn học; khóa học",
+    "meaning_en": "course",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "课程表 / 必修课程",
+    "collocations": [
+      "课程表",
+      "课程内容",
+      "必修课程"
+    ],
+    "near_synonyms": [
+      {
+        "word": "课",
+        "difference_vi": "课程 là cả môn hoặc cả khóa; 课 là một tiết hoặc một bài."
+      }
+    ],
+    "app_synonym_note_vi": "课程 = môn, khóa học; 课 = tiết, bài học.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这学期的课程很多。",
+        "pinyin": "Zhè xuéqī de kèchéng hěn duō.",
+        "vi": "Học kỳ này có rất nhiều môn.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "课程表 là thời khóa biểu. Một tiết nói 一节课, không nói 一节课程."
+    ],
+    "app_note_vi": "Danh từ. 必修课程 là môn bắt buộc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "课程 nghĩa là gì?",
+        "answer": "môn học; khóa học"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这学期的____很多。",
+        "answer": "课程"
+      },
+      {
+        "type": "synonym",
+        "prompt": "课程 khác 课 ở điểm nào?",
+        "answer": "课程 là cả môn hoặc cả khóa; 课 là một tiết hoặc một bài."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_522",
+    "level": "HSK5",
+    "hanzi": "翻",
+    "pinyin": "fān",
+    "topic_id": "study",
+    "display_meaning_vi": "lật; giở",
+    "meaning_en": "to turn over",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "翻开 / 翻书",
+    "collocations": [
+      "翻书",
+      "翻开",
+      "翻过一页"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她翻开相册找老照片。",
+        "pinyin": "Tā fān kāi xiàngcè zhǎo lǎo zhàopiàn.",
+        "vi": "Cô ấy giở album để tìm ảnh cũ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "翻开 là giở ra. 翻来覆去 là trằn trọc hoặc lặp đi lặp lại."
+    ],
+    "app_note_vi": "Động từ. Đọc fān.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "翻 nghĩa là gì?",
+        "answer": "lật; giở"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她____开相册找老照片。",
+        "answer": "翻"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_523",
+    "level": "HSK5",
+    "hanzi": "制作",
+    "pinyin": "zhìzuò",
+    "topic_id": "study",
+    "display_meaning_vi": "làm ra",
+    "meaning_en": "to make; to produce",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "制作海报 / 制作过程",
+    "collocations": [
+      "制作过程",
+      "精心制作",
+      "制作视频"
+    ],
+    "near_synonyms": [
+      {
+        "word": "创造",
+        "difference_vi": "制作 là làm ra một sản phẩm cụ thể; 创造 là tạo ra cái trước đó chưa có."
+      }
+    ],
+    "app_synonym_note_vi": "制作 = làm ra; 创造 = sáng tạo cái mới.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "同学们一起制作了海报。",
+        "pinyin": "Tóngxuémen yìqǐ zhìzuò le hǎibào.",
+        "vi": "Các bạn cùng làm một tấm áp phích.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一起 đọc yìqǐ. 制作 hay đi với video, poster, đồ ăn."
+    ],
+    "app_note_vi": "Động từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "制作 nghĩa là gì?",
+        "answer": "làm ra"
+      },
+      {
+        "type": "cloze",
+        "prompt": "同学们一起____了海报。",
+        "answer": "制作"
+      },
+      {
+        "type": "synonym",
+        "prompt": "制作 khác 创造 ở điểm nào?",
+        "answer": "制作 là làm ra một sản phẩm cụ thể; 创造 là tạo ra cái trước đó chưa có."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_524",
+    "level": "HSK5",
+    "hanzi": "念",
+    "pinyin": "niàn",
+    "topic_id": "study",
+    "display_meaning_vi": "đọc; nhớ",
+    "meaning_en": "to read aloud; to miss",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "念书 / 念课文 / 想念",
+    "collocations": [
+      "念书",
+      "念诗",
+      "想念"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "奶奶让孩子念课文。",
+        "pinyin": "Nǎinai ràng háizi niàn kèwén.",
+        "vi": "Bà bảo cháu đọc bài.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "念课文 là đọc thành tiếng. 想念 là nhớ nhung, cùng chữ 念. Đọc niàn."
+    ],
+    "app_note_vi": "Động từ. 念书 còn có nghĩa đi học.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "念 nghĩa là gì?",
+        "answer": "đọc; nhớ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "奶奶让孩子____课文。",
+        "answer": "念"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_525",
+    "level": "HSK5",
+    "hanzi": "领域",
+    "pinyin": "lǐngyù",
+    "topic_id": "study",
+    "display_meaning_vi": "lĩnh vực",
+    "meaning_en": "field; domain",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "研究领域 / 各个领域",
+    "collocations": [
+      "各个领域",
+      "研究领域",
+      "领域广泛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他在医学领域很有名。",
+        "pinyin": "Tā zài yīxué lǐngyù hěn yǒumíng.",
+        "vi": "Anh ấy rất nổi tiếng trong lĩnh vực y.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "领域 là phạm vi chuyên môn. Một căn phòng không gọi là 领域."
+    ],
+    "app_note_vi": "Danh từ trang trọng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "领域 nghĩa là gì?",
+        "answer": "lĩnh vực"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他在医学____很有名。",
+        "answer": "领域"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_526",
+    "level": "HSK5",
+    "hanzi": "金属",
+    "pinyin": "jīnshǔ",
+    "topic_id": "study",
+    "display_meaning_vi": "kim loại",
+    "meaning_en": "metal",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "金属材料 / 金属制品",
+    "collocations": [
+      "金属材料",
+      "贵重金属",
+      "金属制品"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这种金属又轻又结实。",
+        "pinyin": "Zhè zhǒng jīnshǔ yòu qīng yòu jiēshi.",
+        "vi": "Loại kim loại này vừa nhẹ vừa chắc.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "结实 đọc jiēshi, âm sau nhẹ, nghĩa là chắc. Không đọc jiēshí khi nói đồ bền."
+    ],
+    "app_note_vi": "Danh từ. 贵重金属 là kim loại quý.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "金属 nghĩa là gì?",
+        "answer": "kim loại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这种____又轻又结实。",
+        "answer": "金属"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_527",
+    "level": "HSK5",
+    "hanzi": "纪念",
+    "pinyin": "jìniàn",
+    "topic_id": "society",
+    "display_meaning_vi": "kỷ niệm",
+    "meaning_en": "to commemorate",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "纪念品 / 纪念日",
+    "collocations": [
+      "纪念日",
+      "纪念品",
+      "纪念活动"
+    ],
+    "near_synonyms": [
+      {
+        "word": "记忆",
+        "difference_vi": "纪念 là làm gì đó để nhớ một người hoặc một ngày; 记忆 là trí nhớ hoặc ký ức."
+      }
+    ],
+    "app_synonym_note_vi": "纪念 = kỷ niệm; 记忆 = trí nhớ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这张照片留作纪念。",
+        "pinyin": "Zhè zhāng zhàopiàn liú zuò jìniàn.",
+        "vi": "Tấm ảnh này giữ làm kỷ niệm.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "留作纪念 là giữ để nhớ. 纪念日 là ngày kỷ niệm."
+    ],
+    "app_note_vi": "Động từ hoặc danh từ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "纪念 nghĩa là gì?",
+        "answer": "kỷ niệm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这张照片留作____。",
+        "answer": "纪念"
+      },
+      {
+        "type": "synonym",
+        "prompt": "纪念 khác 记忆 ở điểm nào?",
+        "answer": "纪念 là làm gì đó để nhớ một người hoặc một ngày; 记忆 là trí nhớ hoặc ký ức."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_528",
+    "level": "HSK5",
+    "hanzi": "出版",
+    "pinyin": "chūbǎn",
+    "topic_id": "society",
+    "display_meaning_vi": "xuất bản",
+    "meaning_en": "to publish",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "formal",
+    "grammar_pattern": "出版社 / 出版图书",
+    "collocations": [
+      "出版社",
+      "出版图书",
+      "正式出版"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她的新书下月出版。",
+        "pinyin": "Tā de xīn shū xià yuè chūbǎn.",
+        "vi": "Sách mới của cô ấy xuất bản tháng sau.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "出版 là đưa sách, báo ra công chúng. In một bản photo không nói 出版."
+    ],
+    "app_note_vi": "Động từ. 出版社 là nhà xuất bản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "出版 nghĩa là gì?",
+        "answer": "xuất bản"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她的新书下月____。",
+        "answer": "出版"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_529",
+    "level": "HSK5",
+    "hanzi": "甲",
+    "pinyin": "jiǎ",
+    "topic_id": "study",
+    "display_meaning_vi": "hạng A",
+    "meaning_en": "first; grade A",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "甲等 / 甲级",
+    "collocations": [
+      "甲等",
+      "甲级",
+      "甲等奖"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他的论文被评为甲等。",
+        "pinyin": "Tā de lùnwén bèi píng wéi jiǎ děng.",
+        "vi": "Luận văn của anh ấy được xếp hạng A.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "甲 đọc jiǎ. Trong 甲乙丙丁, 甲 là hạng nhất. Không phải “áo giáp” trong câu này."
+    ],
+    "app_note_vi": "Danh từ. 甲等 là loại ưu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "甲 nghĩa là gì?",
+        "answer": "hạng A"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他的论文被评为____等。",
+        "answer": "甲"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_530",
+    "level": "HSK5",
+    "hanzi": "丁",
+    "pinyin": "dīng",
+    "topic_id": "study",
+    "display_meaning_vi": "hạng D",
+    "meaning_en": "fourth; grade D",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "formal",
+    "grammar_pattern": "丁等 / 甲乙丙丁",
+    "collocations": [
+      "丁等",
+      "甲乙丙丁",
+      "丁字路口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这批货被定为丁级。",
+        "pinyin": "Zhè pī huò bèi dìng wéi dīng jí.",
+        "vi": "Lô hàng này bị xếp loại D.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "丁 đọc dīng. Họ 丁 cũng đọc Dīng. 丁字路口 là ngã ba hình chữ đinh."
+    ],
+    "app_note_vi": "Danh từ. Trong dãy 甲乙丙丁 thì 丁 là hạng cuối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "丁 nghĩa là gì?",
+        "answer": "hạng D"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这批货被定为____级。",
+        "answer": "丁"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0101",
+    "level": "HSK4",
+    "hanzi": "大夫",
+    "pinyin": "dàifu",
+    "topic_id": "health",
+    "display_meaning_vi": "bác sĩ",
+    "meaning_en": "doctor",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "看大夫 / 一位大夫",
+    "collocations": [
+      "看大夫",
+      "一位大夫",
+      "请大夫"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "大夫 là bác sĩ, đọc dài fu. 大 đọc dài, 夫 đọc nhẹ fu. Quan lại thời xưa mới đọc dàfū.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我去看大夫。",
+        "pinyin": "Wǒ qù kàn dài fu.",
+        "vi": "Tôi đi khám bác sĩ.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "大夫 là bác sĩ, đọc dài fu. 大 đọc dài, 夫 đọc nhẹ fu. Quan lại thời xưa mới đọc dàfū."
+    ],
+    "app_note_vi": "大夫 là bác sĩ, đọc dài fu. 大 đọc dài, 夫 đọc nhẹ fu. Quan lại thời xưa mới đọc dàfū.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "大夫 nghĩa là gì?",
+        "answer": "bác sĩ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我去看____。",
+        "answer": "大夫"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0102",
+    "level": "HSK4",
+    "hanzi": "打针",
+    "pinyin": "dǎzhēn",
+    "topic_id": "health",
+    "display_meaning_vi": "tiêm",
+    "meaning_en": "to give or have an injection",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "害怕打针 / 打针吃药",
+    "collocations": [
+      "害怕打针",
+      "打针吃药",
+      "去打针"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "针 đọc zhēn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子害怕打针。",
+        "pinyin": "Hái zi hài pà dǎ zhēn.",
+        "vi": "Đứa trẻ sợ tiêm.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "针 đọc zhēn."
+    ],
+    "app_note_vi": "针 đọc zhēn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "打针 nghĩa là gì?",
+        "answer": "tiêm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子害怕____。",
+        "answer": "打针"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0103",
+    "level": "HSK4",
+    "hanzi": "抽烟",
+    "pinyin": "chōuyān",
+    "topic_id": "health",
+    "display_meaning_vi": "hút thuốc",
+    "meaning_en": "to smoke",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "不要抽烟 / 抽烟有害",
+    "collocations": [
+      "不要抽烟",
+      "抽烟有害",
+      "禁止抽烟"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "抽烟 có hại cho sức khỏe.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里不能抽烟。",
+        "pinyin": "Zhè lǐ bù néng chōu yān.",
+        "vi": "Ở đây không được hút thuốc.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "抽烟 có hại cho sức khỏe."
+    ],
+    "app_note_vi": "抽烟 có hại cho sức khỏe.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抽烟 nghĩa là gì?",
+        "answer": "hút thuốc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里不能____。",
+        "answer": "抽烟"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0104",
+    "level": "HSK4",
+    "hanzi": "肚子",
+    "pinyin": "dùzi",
+    "topic_id": "health",
+    "display_meaning_vi": "bụng",
+    "meaning_en": "belly",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "肚子疼 / 肚子饿",
+    "collocations": [
+      "肚子疼",
+      "肚子饿",
+      "拍肚子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "子 đọc nhẹ zi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我肚子有点疼。",
+        "pinyin": "Wǒ dù zi yǒu diǎn téng.",
+        "vi": "Bụng tôi hơi đau.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ zi."
+    ],
+    "app_note_vi": "子 đọc nhẹ zi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "肚子 nghĩa là gì?",
+        "answer": "bụng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我____有点疼。",
+        "answer": "肚子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0105",
+    "level": "HSK4",
+    "hanzi": "咳嗽",
+    "pinyin": "késou",
+    "topic_id": "health",
+    "display_meaning_vi": "ho",
+    "meaning_en": "to cough",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一直咳嗽 / 咳嗽声",
+    "collocations": [
+      "一直咳嗽",
+      "咳嗽声",
+      "咳嗽药"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "嗽 đọc nhẹ sou.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他咳嗽了好几天。",
+        "pinyin": "Tā ké sou le hǎo jǐ tiān.",
+        "vi": "Anh ấy ho mấy ngày rồi.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "嗽 đọc nhẹ sou."
+    ],
+    "app_note_vi": "嗽 đọc nhẹ sou.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "咳嗽 nghĩa là gì?",
+        "answer": "ho"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____了好几天。",
+        "answer": "咳嗽"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0106",
+    "level": "HSK4",
+    "hanzi": "护士",
+    "pinyin": "hùshi",
+    "topic_id": "health",
+    "display_meaning_vi": "y tá",
+    "meaning_en": "nurse",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一位护士 / 护士站",
+    "collocations": [
+      "一位护士",
+      "护士站",
+      "当护士"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "士 đọc nhẹ shi.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "护士正在照顾病人。",
+        "pinyin": "Hù shi zhèng zài zhào gù bìng rén.",
+        "vi": "Y tá đang chăm bệnh nhân.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "士 đọc nhẹ shi."
+    ],
+    "app_note_vi": "士 đọc nhẹ shi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "护士 nghĩa là gì?",
+        "answer": "y tá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____正在照顾病人。",
+        "answer": "护士"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0107",
+    "level": "HSK4",
+    "hanzi": "汗",
+    "pinyin": "hàn",
+    "topic_id": "health",
+    "display_meaning_vi": "mồ hôi",
+    "meaning_en": "sweat",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "出汗 / 很多汗",
+    "collocations": [
+      "出汗",
+      "很多汗",
+      "擦汗"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "汗 là mồ hôi, đọc hàn. Chữ trong 汗国 đọc hán.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "跑完步我出了很多汗。",
+        "pinyin": "Pǎo wán bù wǒ chū le hěn duō hàn.",
+        "vi": "Chạy xong tôi ra rất nhiều mồ hôi.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "汗 là mồ hôi, đọc hàn. Chữ trong 汗国 đọc hán."
+    ],
+    "app_note_vi": "汗 là mồ hôi, đọc hàn. Chữ trong 汗国 đọc hán.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "汗 nghĩa là gì?",
+        "answer": "mồ hôi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "跑完步我出了很多____。",
+        "answer": "汗"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0108",
+    "level": "HSK4",
+    "hanzi": "躺",
+    "pinyin": "tǎng",
+    "topic_id": "health",
+    "display_meaning_vi": "nằm",
+    "meaning_en": "to lie down",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "躺下 / 躺在床上",
+    "collocations": [
+      "躺下",
+      "躺在床上",
+      "躺一会儿"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "躺 là đặt người nằm ngang.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "你躺下休息一下。",
+        "pinyin": "Nǐ tǎng xià xiū xī yí xià.",
+        "vi": "Bạn nằm xuống nghỉ một chút.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "躺 là đặt người nằm ngang."
+    ],
+    "app_note_vi": "躺 là đặt người nằm ngang.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "躺 nghĩa là gì?",
+        "answer": "nằm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "你____下休息一下。",
+        "answer": "躺"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0109",
+    "level": "HSK4",
+    "hanzi": "醒",
+    "pinyin": "xǐng",
+    "topic_id": "health",
+    "display_meaning_vi": "tỉnh",
+    "meaning_en": "to wake up",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "醒了 / 醒过来",
+    "collocations": [
+      "醒了",
+      "醒过来",
+      "醒来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "醒 là không ngủ nữa.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "早上六点我就醒了。",
+        "pinyin": "Zǎo shàng liù diǎn wǒ jiù xǐng le.",
+        "vi": "Sáu giờ sáng tôi đã tỉnh.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "醒 là không ngủ nữa."
+    ],
+    "app_note_vi": "醒 là không ngủ nữa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "醒 nghĩa là gì?",
+        "answer": "tỉnh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "早上六点我就____了。",
+        "answer": "醒"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0110",
+    "level": "HSK4",
+    "hanzi": "危险",
+    "pinyin": "wēixiǎn",
+    "topic_id": "health",
+    "display_meaning_vi": "nguy hiểm",
+    "meaning_en": "danger; dangerous",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "health"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "很危险 / 危险地区",
+    "collocations": [
+      "很危险",
+      "危险地区",
+      "有危险"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "险 đọc xiǎn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这里很危险，别过去。",
+        "pinyin": "Zhè lǐ hěn wēi xiǎn bié guò qù.",
+        "vi": "Chỗ này rất nguy hiểm, đừng qua đó.",
+        "context": "health"
+      }
+    ],
+    "common_mistakes_vi": [
+      "险 đọc xiǎn."
+    ],
+    "app_note_vi": "险 đọc xiǎn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "危险 nghĩa là gì?",
+        "answer": "nguy hiểm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这里很____，别过去。",
+        "answer": "危险"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

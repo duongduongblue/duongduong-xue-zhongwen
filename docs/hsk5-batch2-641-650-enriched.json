@@ -1,0 +1,545 @@
+[
+  {
+    "id": "hsk5_batch2_641",
+    "level": "HSK5",
+    "hanzi": "岸",
+    "pinyin": "àn",
+    "topic_id": "nature",
+    "display_meaning_vi": "bờ",
+    "meaning_en": "shore; bank",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "河岸 / 上岸",
+    "collocations": [
+      "河岸",
+      "上岸",
+      "岸边"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "孩子们在河岸边散步。",
+        "pinyin": "Háizimen zài hé àn biān sàn bù.",
+        "vi": "Bọn trẻ đi dạo bên bờ sông.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "岸 là bờ sông, bờ biển. Bến xe nói 车站."
+    ],
+    "app_note_vi": "Danh từ. 上岸 là lên bờ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "岸 nghĩa là gì?",
+        "answer": "bờ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "孩子们在河____边散步。",
+        "answer": "岸"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_642",
+    "level": "HSK5",
+    "hanzi": "傍晚",
+    "pinyin": "bàngwǎn",
+    "topic_id": "nature",
+    "display_meaning_vi": "chập choạng tối",
+    "meaning_en": "toward evening",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "傍晚时分 / 到了傍晚",
+    "collocations": [
+      "傍晚时分",
+      "傍晚回来",
+      "到了傍晚"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "傍晚的风很凉快。",
+        "pinyin": "Bàngwǎn de fēng hěn liángkuai.",
+        "vi": "Gió lúc chập choạng rất mát.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "凉快 đọc liángkuai, âm sau nhẹ. 傍晚 muộn hơn buổi chiều, sát tối."
+    ],
+    "app_note_vi": "Danh từ chỉ thời gian. Sát lúc trời tối.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "傍晚 nghĩa là gì?",
+        "answer": "chập choạng tối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____的风很凉快。",
+        "answer": "傍晚"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_643",
+    "level": "HSK5",
+    "hanzi": "彩虹",
+    "pinyin": "cǎihóng",
+    "topic_id": "nature",
+    "display_meaning_vi": "cầu vồng",
+    "meaning_en": "rainbow",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一道彩虹 / 彩虹出现",
+    "collocations": [
+      "一道彩虹",
+      "彩虹出现",
+      "看见彩虹"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雨后天上出现一道彩虹。",
+        "pinyin": "Yǔ hòu tiānshang chūxiàn yí dào cǎihóng.",
+        "vi": "Sau mưa, trên trời có một cầu vồng.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一道 đọc yí dào vì 道 là thanh 4. 天上 đọc tiānshang, âm sau nhẹ."
+    ],
+    "app_note_vi": "Danh từ. Lượng từ thường là 道.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "彩虹 nghĩa là gì?",
+        "answer": "cầu vồng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雨后天上出现一道____。",
+        "answer": "彩虹"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_644",
+    "level": "HSK5",
+    "hanzi": "池子",
+    "pinyin": "chízi",
+    "topic_id": "nature",
+    "display_meaning_vi": "ao",
+    "meaning_en": "pond; pool",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "informal",
+    "grammar_pattern": "游泳池 / 池子里",
+    "collocations": [
+      "池子里",
+      "一个池子",
+      "小池子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夏天孩子们在池子里玩水。",
+        "pinyin": "Xiàtiān háizimen zài chízi lǐ wán shuǐ.",
+        "vi": "Mùa hè bọn trẻ chơi nước dưới ao.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "子 đọc nhẹ. 池子 là cách nói miệng của 水池."
+    ],
+    "app_note_vi": "Danh từ khẩu ngữ. 游泳池 là bể bơi.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "池子 nghĩa là gì?",
+        "answer": "ao"
+      },
+      {
+        "type": "cloze",
+        "prompt": "夏天孩子们在____里玩水。",
+        "answer": "池子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_645",
+    "level": "HSK5",
+    "hanzi": "除夕",
+    "pinyin": "chúxī",
+    "topic_id": "nature",
+    "display_meaning_vi": "đêm giao thừa",
+    "meaning_en": "lunar New Year's Eve",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "除夕夜 / 过除夕",
+    "collocations": [
+      "除夕夜",
+      "除夕晚饭",
+      "过除夕"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "除夕晚上全家在一起吃饭。",
+        "pinyin": "Chúxī wǎnshang quánjiā zài yìqǐ chī fàn.",
+        "vi": "Đêm giao thừa cả nhà ăn cùng nhau.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "晚上 đọc wǎnshang. 一起 đọc yìqǐ vì 起 là thanh 3. 除夕 là đêm cuối năm âm lịch."
+    ],
+    "app_note_vi": "Danh từ. Đêm trước mùng một.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "除夕 nghĩa là gì?",
+        "answer": "đêm giao thừa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____晚上全家在一起吃饭。",
+        "answer": "除夕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_646",
+    "level": "HSK5",
+    "hanzi": "从前",
+    "pinyin": "cóngqián",
+    "topic_id": "daily",
+    "display_meaning_vi": "ngày xưa",
+    "meaning_en": "once upon a time; formerly",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "从前有 / 从前的事",
+    "collocations": [
+      "从前有",
+      "从前的事",
+      "很久从前"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "从前这里是一片农田。",
+        "pinyin": "Cóngqián zhèlǐ shì yí piàn nóngtián.",
+        "vi": "Ngày xưa chỗ này là một cánh đồng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一片 đọc yí piàn vì 片 là thanh 4. 从前 hay mở đầu chuyện cũ."
+    ],
+    "app_note_vi": "Danh từ chỉ thời đã qua. Hay đứng đầu câu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "从前 nghĩa là gì?",
+        "answer": "ngày xưa"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____这里是一片农田。",
+        "answer": "从前"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_647",
+    "level": "HSK5",
+    "hanzi": "朝代",
+    "pinyin": "cháodài",
+    "topic_id": "daily",
+    "display_meaning_vi": "triều đại",
+    "meaning_en": "dynasty",
+    "part_of_speech": "noun",
+    "difficulty": 3,
+    "topic_tags": [
+      "time",
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "哪个朝代 / 朝代更替",
+    "collocations": [
+      "古代朝代",
+      "哪个朝代",
+      "朝代更替"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这首诗是哪个朝代写的？",
+        "pinyin": "Zhè shǒu shī shì nǎge cháodài xiě de?",
+        "vi": "Bài thơ này viết ở triều đại nào?",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "朝 trong 朝代 đọc cháo. Buổi sáng đọc zhāo, như 朝阳. Hướng về cũng đọc cháo, như 朝南."
+    ],
+    "app_note_vi": "Danh từ. Dùng khi nói lịch sử Trung Quốc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "朝代 nghĩa là gì?",
+        "answer": "triều đại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这首诗是哪个____写的？",
+        "answer": "朝代"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_648",
+    "level": "HSK5",
+    "hanzi": "博物馆",
+    "pinyin": "bówùguǎn",
+    "topic_id": "society",
+    "display_meaning_vi": "bảo tàng",
+    "meaning_en": "museum",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "参观博物馆 / 博物馆门票",
+    "collocations": [
+      "历史博物馆",
+      "参观博物馆",
+      "博物馆门票"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "周末我们去博物馆看展览。",
+        "pinyin": "Zhōumò wǒmen qù bówùguǎn kàn zhǎnlǎn.",
+        "vi": "Cuối tuần chúng tôi đi bảo tàng xem triển lãm.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "博 đọc bó, không đọc báo. Nơi lưu giữ và trưng bày hiện vật."
+    ],
+    "app_note_vi": "Danh từ. 博物馆门票 là vé bảo tàng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "博物馆 nghĩa là gì?",
+        "answer": "bảo tàng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "周末我们去____看展览。",
+        "answer": "博物馆"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_649",
+    "level": "HSK5",
+    "hanzi": "鞭炮",
+    "pinyin": "biānpào",
+    "topic_id": "society",
+    "display_meaning_vi": "pháo",
+    "meaning_en": "firecrackers",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "culture"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "放鞭炮 / 鞭炮声",
+    "collocations": [
+      "放鞭炮",
+      "一挂鞭炮",
+      "鞭炮声"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "春节时村里放起了鞭炮。",
+        "pinyin": "Chūnjié shí cūn lǐ fàng qǐ le biānpào.",
+        "vi": "Tết, trong làng đốt pháo.",
+        "context": "culture"
+      }
+    ],
+    "common_mistakes_vi": [
+      "炮 trong 鞭炮 đọc pào. 一挂 đọc yí guà vì 挂 là thanh 4. Đây là pháo ngày lễ, không phải súng."
+    ],
+    "app_note_vi": "Danh từ. 放鞭炮 là đốt pháo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "鞭炮 nghĩa là gì?",
+        "answer": "pháo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "春节时村里放起了____。",
+        "answer": "鞭炮"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_650",
+    "level": "HSK5",
+    "hanzi": "丙",
+    "pinyin": "bǐng",
+    "topic_id": "study",
+    "display_meaning_vi": "hạng ba",
+    "meaning_en": "third; grade C",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "丙等 / 甲乙丙",
+    "collocations": [
+      "甲乙丙",
+      "丙等",
+      "丙级"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次考试他得了丙等。",
+        "pinyin": "Zhè cì kǎoshì tā dé le bǐng děng.",
+        "vi": "Lần thi này anh ấy được hạng ba.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "丙 đọc bǐng. 得了的 得 đọc dé, là đạt được. 甲 là hạng nhất, 丙 là hạng ba."
+    ],
+    "app_note_vi": "Danh từ. Thiên can thứ ba, cũng dùng để xếp hạng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "丙 nghĩa là gì?",
+        "answer": "hạng ba"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次考试他得了____等。",
+        "answer": "丙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

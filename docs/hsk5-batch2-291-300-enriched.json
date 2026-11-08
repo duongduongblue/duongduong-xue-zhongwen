@@ -1,0 +1,622 @@
+[
+  {
+    "id": "hsk5_batch2_291",
+    "level": "HSK5",
+    "hanzi": "产品",
+    "pinyin": "chǎnpǐn",
+    "topic_id": "money",
+    "display_meaning_vi": "sản phẩm",
+    "meaning_en": "product",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "产品 + 质量 / 新",
+    "collocations": [
+      "新产品",
+      "产品质量",
+      "农产品"
+    ],
+    "near_synonyms": [
+      {
+        "word": "商品",
+        "difference_vi": "产品 là thứ được làm ra; 商品 là hàng đã đưa ra bán."
+      }
+    ],
+    "app_synonym_note_vi": "产品 = sản phẩm làm ra; 商品 = hàng đang bán.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这款产品卖得很好。",
+        "pinyin": "Zhè kuǎn chǎnpǐn mài de hěn hǎo.",
+        "vi": "Sản phẩm này bán rất chạy.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "卖得很好 dùng 得, đọc de. 这款 dùng cho một mẫu sản phẩm."
+    ],
+    "app_note_vi": "Danh từ. 农产品 là nông sản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "产品 nghĩa là gì?",
+        "answer": "sản phẩm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这款____卖得很好。",
+        "answer": "产品"
+      },
+      {
+        "type": "synonym",
+        "prompt": "产品 khác 商品 ở điểm nào?",
+        "answer": "产品 là thứ được làm ra; 商品 là hàng đã đưa ra bán."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_292",
+    "level": "HSK5",
+    "hanzi": "风险",
+    "pinyin": "fēngxiǎn",
+    "topic_id": "money",
+    "display_meaning_vi": "rủi ro",
+    "meaning_en": "risk",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "有风险 / 承担风险",
+    "collocations": [
+      "风险很大",
+      "承担风险",
+      "风险控制"
+    ],
+    "near_synonyms": [
+      {
+        "word": "危险",
+        "difference_vi": "风险 là khả năng bị thiệt, chưa chắc đã xảy ra; 危险 là mối nguy đang có."
+      }
+    ],
+    "app_synonym_note_vi": "风险 = rủi ro có thể xảy ra; 危险 = nguy hiểm đang có.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "投资有风险，要先了解。",
+        "pinyin": "Tóuzī yǒu fēngxiǎn, yào xiān liǎojiě.",
+        "vi": "Đầu tư có rủi ro, phải tìm hiểu trước.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "风险不是事故 đã xảy ra. Tai nạn đã xảy ra nói 事故 hoặc 损失."
+    ],
+    "app_note_vi": "Danh từ. Hay gặp khi nói đầu tư, quyết định và an toàn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "风险 nghĩa là gì?",
+        "answer": "rủi ro"
+      },
+      {
+        "type": "cloze",
+        "prompt": "投资有____，要先了解。",
+        "answer": "风险"
+      },
+      {
+        "type": "synonym",
+        "prompt": "风险 khác 危险 ở điểm nào?",
+        "answer": "风险 là khả năng bị thiệt, chưa chắc đã xảy ra; 危险 là mối nguy đang có."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_293",
+    "level": "HSK5",
+    "hanzi": "损失",
+    "pinyin": "sǔnshī",
+    "topic_id": "money",
+    "display_meaning_vi": "tổn thất",
+    "meaning_en": "loss",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "造成损失 / 弥补损失",
+    "collocations": [
+      "经济损失",
+      "弥补损失",
+      "造成损失"
+    ],
+    "near_synonyms": [
+      {
+        "word": "失去",
+        "difference_vi": "损失 là thiệt hại đã tính được, thường về tiền hoặc của; 失去 là mất một thứ từng có, kể cả cơ hội."
+      }
+    ],
+    "app_synonym_note_vi": "损失 = thiệt hại; 失去 = mất đi cái từng có.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "延误给公司带来了损失。",
+        "pinyin": "Yánwù gěi gōngsī dàilái le sǔnshī.",
+        "vi": "Chậm trễ gây tổn thất cho công ty.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "损失 là danh từ trong câu này. Muốn nói “làm tổn thất” thì dùng 带来损失 hoặc 造成损失."
+    ],
+    "app_note_vi": "Danh từ. 弥补损失 là bù đắp thiệt hại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "损失 nghĩa là gì?",
+        "answer": "tổn thất"
+      },
+      {
+        "type": "cloze",
+        "prompt": "延误给公司带来了____。",
+        "answer": "损失"
+      },
+      {
+        "type": "synonym",
+        "prompt": "损失 khác 失去 ở điểm nào?",
+        "answer": "损失 là thiệt hại đã tính được, thường về tiền hoặc của; 失去 là mất một thứ từng có, kể cả cơ hội."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_294",
+    "level": "HSK5",
+    "hanzi": "利益",
+    "pinyin": "lìyì",
+    "topic_id": "money",
+    "display_meaning_vi": "lợi ích",
+    "meaning_en": "interest; benefit",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "关系到利益 / 利益冲突",
+    "collocations": [
+      "经济利益",
+      "利益冲突",
+      "个人利益"
+    ],
+    "near_synonyms": [
+      {
+        "word": "利润",
+        "difference_vi": "利益 là quyền lợi hoặc cái được của một bên; 利润 là tiền lời kinh doanh."
+      }
+    ],
+    "app_synonym_note_vi": "利益 = lợi ích; 利润 = tiền lời.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这件事关系到大家的利益。",
+        "pinyin": "Zhè jiàn shì guānxì dào dàjiā de lìyì.",
+        "vi": "Việc này liên quan đến lợi ích của mọi người.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "利益 không phải lãi suất. Lãi suất là 利息, tiền lời là 利润."
+    ],
+    "app_note_vi": "Danh từ. Có thể là lợi ích cá nhân hoặc của cả nhóm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "利益 nghĩa là gì?",
+        "answer": "lợi ích"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这件事关系到大家的____。",
+        "answer": "利益"
+      },
+      {
+        "type": "synonym",
+        "prompt": "利益 khác 利润 ở điểm nào?",
+        "answer": "利益 là quyền lợi hoặc cái được của một bên; 利润 là tiền lời kinh doanh."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_295",
+    "level": "HSK5",
+    "hanzi": "财产",
+    "pinyin": "cáichǎn",
+    "topic_id": "money",
+    "display_meaning_vi": "tài sản",
+    "meaning_en": "property; assets",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "个人财产 / 财产安全",
+    "collocations": [
+      "个人财产",
+      "财产安全",
+      "继承财产"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "房子是家里最重要的财产。",
+        "pinyin": "Fángzi shì jiā lǐ zuì zhòngyào de cáichǎn.",
+        "vi": "Ngôi nhà là tài sản quan trọng nhất của gia đình.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "财产 gồm nhà, tiền và đồ có giá trị. Một món đồ nhỏ thường không gọi là 财产."
+    ],
+    "app_note_vi": "Danh từ. 继承财产 là thừa kế tài sản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "财产 nghĩa là gì?",
+        "answer": "tài sản"
+      },
+      {
+        "type": "cloze",
+        "prompt": "房子是家里最重要的____。",
+        "answer": "财产"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_296",
+    "level": "HSK5",
+    "hanzi": "资金",
+    "pinyin": "zījīn",
+    "topic_id": "money",
+    "display_meaning_vi": "vốn",
+    "meaning_en": "funds; capital",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "work"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "投入资金 / 资金不足",
+    "collocations": [
+      "投入资金",
+      "资金来源",
+      "资金紧张"
+    ],
+    "near_synonyms": [
+      {
+        "word": "钱",
+        "difference_vi": "资金 là khoản tiền dành cho một việc hoặc một dự án; 钱 là tiền nói chung."
+      }
+    ],
+    "app_synonym_note_vi": "资金 = vốn cho một việc; 钱 = tiền.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "项目因资金不足暂停了。",
+        "pinyin": "Xiàngmù yīn zījīn bùzú zàntíng le.",
+        "vi": "Dự án tạm dừng vì không đủ vốn.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "资金不足 là thiếu vốn. Không nói 钱不足 theo cùng cách trang trọng này."
+    ],
+    "app_note_vi": "Danh từ. 因 đọc yīn khi nghĩa là “vì”.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "资金 nghĩa là gì?",
+        "answer": "vốn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "项目因____不足暂停了。",
+        "answer": "资金"
+      },
+      {
+        "type": "synonym",
+        "prompt": "资金 khác 钱 ở điểm nào?",
+        "answer": "资金 là khoản tiền dành cho một việc hoặc một dự án; 钱 là tiền nói chung."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_297",
+    "level": "HSK5",
+    "hanzi": "费用",
+    "pinyin": "fèiyòng",
+    "topic_id": "money",
+    "display_meaning_vi": "chi phí",
+    "meaning_en": "cost; expense",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "生活费用 / 承担费用",
+    "collocations": [
+      "生活费用",
+      "费用清单",
+      "承担费用"
+    ],
+    "near_synonyms": [
+      {
+        "word": "价格",
+        "difference_vi": "费用 là các khoản phải chi; 价格 là giá của một món."
+      }
+    ],
+    "app_synonym_note_vi": "费用 = chi phí; 价格 = giá một món.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次旅行的费用不高。",
+        "pinyin": "Zhè cì lǚxíng de fèiyòng bù gāo.",
+        "vi": "Chi phí chuyến đi này không cao.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "费用 thường là tổng các khoản, không phải giá niêm yết của một đồ vật."
+    ],
+    "app_note_vi": "Danh từ. 承担费用 là chịu chi phí.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "费用 nghĩa là gì?",
+        "answer": "chi phí"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次旅行的____不高。",
+        "answer": "费用"
+      },
+      {
+        "type": "synonym",
+        "prompt": "费用 khác 价格 ở điểm nào?",
+        "answer": "费用 là các khoản phải chi; 价格 là giá của một món."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_298",
+    "level": "HSK5",
+    "hanzi": "商业",
+    "pinyin": "shāngyè",
+    "topic_id": "money",
+    "display_meaning_vi": "thương mại",
+    "meaning_en": "commerce; business",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "synonym"
+    ],
+    "register": "formal",
+    "grammar_pattern": "商业区 / 商业活动",
+    "collocations": [
+      "商业区",
+      "商业活动",
+      "商业价值"
+    ],
+    "near_synonyms": [
+      {
+        "word": "商品",
+        "difference_vi": "商业 là hoạt động mua bán của một khu hoặc một ngành; 商品 là từng món hàng."
+      }
+    ],
+    "app_synonym_note_vi": "商业 = hoạt động thương mại; 商品 = món hàng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这条街商业很发达。",
+        "pinyin": "Zhè tiáo jiē shāngyè hěn fādá.",
+        "vi": "Phố này buôn bán rất phát đạt.",
+        "context": "economy"
+      }
+    ],
+    "common_mistakes_vi": [
+      "商业很发达 nói cả khu buôn bán sôi nổi, không phải một cửa hàng bán chạy."
+    ],
+    "app_note_vi": "Danh từ. 商业区 là khu thương mại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "商业 nghĩa là gì?",
+        "answer": "thương mại"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这条街____很发达。",
+        "answer": "商业"
+      },
+      {
+        "type": "synonym",
+        "prompt": "商业 khác 商品 ở điểm nào?",
+        "answer": "商业 là hoạt động mua bán của một khu hoặc một ngành; 商品 là từng món hàng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_299",
+    "level": "HSK5",
+    "hanzi": "退",
+    "pinyin": "tuì",
+    "topic_id": "money",
+    "display_meaning_vi": "trả lại; rút",
+    "meaning_en": "to return; to withdraw",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "退货 / 退票 / 退出",
+    "collocations": [
+      "退货",
+      "退票",
+      "退出"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "鞋码不对，我想退货。",
+        "pinyin": "Xiémǎ bú duì, wǒ xiǎng tuìhuò.",
+        "vi": "Cỡ giày không đúng, tôi muốn trả hàng.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "不对里的 不 đọc bú. 退货 là trả hàng, 退票 là trả vé."
+    ],
+    "app_note_vi": "Động từ. 退出 là rút khỏi một việc hoặc một chỗ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "退 nghĩa là gì?",
+        "answer": "trả lại; rút"
+      },
+      {
+        "type": "cloze",
+        "prompt": "鞋码不对，我想____货。",
+        "answer": "退"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_300",
+    "level": "HSK5",
+    "hanzi": "欠",
+    "pinyin": "qiàn",
+    "topic_id": "money",
+    "display_meaning_vi": "nợ; còn thiếu",
+    "meaning_en": "to owe",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "economy",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "欠钱 / 还欠",
+    "collocations": [
+      "欠钱",
+      "欠债",
+      "欠款"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个月还欠一百块。",
+        "pinyin": "Zhège yuè hái qiàn yìbǎi kuài.",
+        "vi": "Tháng này còn nợ một trăm tệ.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "欠钱 là nợ tiền. Ngáp là 打哈欠, cùng chữ 欠 nhưng là từ khác."
+    ],
+    "app_note_vi": "Động từ. 还 trong 还欠 đọc hái, nghĩa là vẫn còn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "欠 nghĩa là gì?",
+        "answer": "nợ; còn thiếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个月还____一百块。",
+        "answer": "欠"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "hsk4_0011",
+    "level": "HSK4",
+    "hanzi": "毕业",
+    "pinyin": "bìyè",
+    "topic_id": "study",
+    "display_meaning_vi": "tốt nghiệp",
+    "meaning_en": "to graduate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大学毕业 / 毕业典礼",
+    "collocations": [
+      "大学毕业",
+      "毕业典礼",
+      "毕业以后"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "业 đọc yè. 毕业 là kết thúc một cấp học.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她去年大学毕业了。",
+        "pinyin": "Tā qù nián dà xué bì yè le.",
+        "vi": "Năm ngoái cô ấy tốt nghiệp đại học.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "业 đọc yè. 毕业 là kết thúc một cấp học."
+    ],
+    "app_note_vi": "业 đọc yè. 毕业 là kết thúc một cấp học.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "毕业 nghĩa là gì?",
+        "answer": "tốt nghiệp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她去年大学____了。",
+        "answer": "毕业"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0012",
+    "level": "HSK4",
+    "hanzi": "博士",
+    "pinyin": "bóshì",
+    "topic_id": "study",
+    "display_meaning_vi": "tiến sĩ",
+    "meaning_en": "PhD; doctor",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "读博士 / 博士学位",
+    "collocations": [
+      "读博士",
+      "博士学位",
+      "博士生"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "博 đọc bó, không phải bác sĩ. Bác sĩ thường nói 医生 hoặc 大夫 dàifu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他正在读博士。",
+        "pinyin": "Tā zhèng zài dú bó shì.",
+        "vi": "Anh ấy đang học tiến sĩ.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "博 đọc bó, không phải bác sĩ. Bác sĩ thường nói 医生 hoặc 大夫 dàifu."
+    ],
+    "app_note_vi": "博 đọc bó, không phải bác sĩ. Bác sĩ thường nói 医生 hoặc 大夫 dàifu.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "博士 nghĩa là gì?",
+        "answer": "tiến sĩ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他正在读____。",
+        "answer": "博士"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0013",
+    "level": "HSK4",
+    "hanzi": "词典",
+    "pinyin": "cídiǎn",
+    "topic_id": "study",
+    "display_meaning_vi": "từ điển",
+    "meaning_en": "dictionary",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "查词典 / 电子词典",
+    "collocations": [
+      "查词典",
+      "电子词典",
+      "一本词典"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一 trước 下 thanh 4 đọc yí: yí xià.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我不认识这个字，查一下词典。",
+        "pinyin": "Wǒ bú rèn shí zhè ge zì chá yí xià cí diǎn.",
+        "vi": "Tôi không biết chữ này, tra từ điển một chút.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 下 thanh 4 đọc yí: yí xià."
+    ],
+    "app_note_vi": "一 trước 下 thanh 4 đọc yí: yí xià.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "词典 nghĩa là gì?",
+        "answer": "từ điển"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我不认识这个字，查一下____。",
+        "answer": "词典"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0014",
+    "level": "HSK4",
+    "hanzi": "答案",
+    "pinyin": "dáàn",
+    "topic_id": "study",
+    "display_meaning_vi": "đáp án; câu trả lời",
+    "meaning_en": "answer",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "标准答案 / 正确答案",
+    "collocations": [
+      "标准答案",
+      "正确答案",
+      "寻找答案"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "页 đọc yè, không đọc xié.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这道题的答案在最后一页。",
+        "pinyin": "Zhè dào tí de dá àn zài zuì hòu yí yè.",
+        "vi": "Đáp án câu này ở trang cuối.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "页 đọc yè, không đọc xié."
+    ],
+    "app_note_vi": "页 đọc yè, không đọc xié.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "答案 nghĩa là gì?",
+        "answer": "đáp án; câu trả lời"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这道题的____在最后一页。",
+        "answer": "答案"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0015",
+    "level": "HSK4",
+    "hanzi": "翻译",
+    "pinyin": "fānyì",
+    "topic_id": "study",
+    "display_meaning_vi": "dịch; thông dịch",
+    "meaning_en": "to translate",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "翻译成 / 翻译工作",
+    "collocations": [
+      "翻译成",
+      "翻译工作",
+      "做翻译"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "译 đọc yì.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请把这句话翻译成中文。",
+        "pinyin": "Qǐng bǎ zhè jù huà fān yì chéng zhōng wén.",
+        "vi": "Hãy dịch câu này sang tiếng Trung.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "译 đọc yì."
+    ],
+    "app_note_vi": "译 đọc yì.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "翻译 nghĩa là gì?",
+        "answer": "dịch; thông dịch"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请把这句话____成中文。",
+        "answer": "翻译"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0016",
+    "level": "HSK4",
+    "hanzi": "语法",
+    "pinyin": "yǔfǎ",
+    "topic_id": "study",
+    "display_meaning_vi": "ngữ pháp",
+    "meaning_en": "grammar",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "语法点 / 语法错误",
+    "collocations": [
+      "语法点",
+      "语法错误",
+      "学习语法"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "语 đọc yǔ.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这个语法点有点难。",
+        "pinyin": "Zhè ge yǔ fǎ diǎn yǒu diǎn nán.",
+        "vi": "Điểm ngữ pháp này hơi khó.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "语 đọc yǔ."
+    ],
+    "app_note_vi": "语 đọc yǔ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "语法 nghĩa là gì?",
+        "answer": "ngữ pháp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这个____点有点难。",
+        "answer": "语法"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0017",
+    "level": "HSK4",
+    "hanzi": "语言",
+    "pinyin": "yǔyán",
+    "topic_id": "study",
+    "display_meaning_vi": "ngôn ngữ",
+    "meaning_en": "language",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "语言能力 / 学习语言",
+    "collocations": [
+      "语言能力",
+      "学习语言",
+      "语言文字"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "语 đọc yǔ, cùng âm với 语法.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "语言是交流的工具。",
+        "pinyin": "Yǔ yán shì jiāo liú de gōng jù.",
+        "vi": "Ngôn ngữ là công cụ giao tiếp.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "语 đọc yǔ, cùng âm với 语法."
+    ],
+    "app_note_vi": "语 đọc yǔ, cùng âm với 语法.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "语言 nghĩa là gì?",
+        "answer": "ngôn ngữ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____是交流的工具。",
+        "answer": "语言"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0018",
+    "level": "HSK4",
+    "hanzi": "预习",
+    "pinyin": "yùxí",
+    "topic_id": "study",
+    "display_meaning_vi": "chuẩn bị bài; học trước",
+    "meaning_en": "to preview a lesson",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "预习课文 / 提前预习",
+    "collocations": [
+      "预习课文",
+      "提前预习",
+      "预习生词"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "预习 là học trước. 复习 là ôn lại.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上课前要先预习课文。",
+        "pinyin": "Shàng kè qián yào xiān yù xí kè wén.",
+        "vi": "Trước giờ học phải chuẩn bị bài trước.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "预习 là học trước. 复习 là ôn lại."
+    ],
+    "app_note_vi": "预习 là học trước. 复习 là ôn lại.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "预习 nghĩa là gì?",
+        "answer": "chuẩn bị bài; học trước"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上课前要先____课文。",
+        "answer": "预习"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0019",
+    "level": "HSK4",
+    "hanzi": "阅读",
+    "pinyin": "yuèdú",
+    "topic_id": "study",
+    "display_meaning_vi": "đọc",
+    "meaning_en": "to read",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "阅读理解 / 阅读文章",
+    "collocations": [
+      "阅读理解",
+      "阅读文章",
+      "课外阅读"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "阅 đọc yuè.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他每天阅读三十分钟。",
+        "pinyin": "Tā měi tiān yuè dú sān shí fēn zhōng.",
+        "vi": "Anh ấy đọc ba mươi phút mỗi ngày.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "阅 đọc yuè."
+    ],
+    "app_note_vi": "阅 đọc yuè.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "阅读 nghĩa là gì?",
+        "answer": "đọc"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他每天____三十分钟。",
+        "answer": "阅读"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  },
+  {
+    "id": "hsk4_0020",
+    "level": "HSK4",
+    "hanzi": "研究生",
+    "pinyin": "yánjiūshēng",
+    "topic_id": "study",
+    "display_meaning_vi": "nghiên cứu sinh",
+    "meaning_en": "postgraduate student",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一名研究生 / 研究生课程",
+    "collocations": [
+      "一名研究生",
+      "研究生课程",
+      "读研究生"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "一 trước 名 thanh 2 đọc yì: yì míng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "我姐姐是一名研究生。",
+        "pinyin": "Wǒ jiě jiě shì yì míng yán jiū shēng.",
+        "vi": "Chị tôi là nghiên cứu sinh.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一 trước 名 thanh 2 đọc yì: yì míng."
+    ],
+    "app_note_vi": "一 trước 名 thanh 2 đọc yì: yì míng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "研究生 nghĩa là gì?",
+        "answer": "nghiên cứu sinh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "我姐姐是一名____。",
+        "answer": "研究生"
+      }
+    ],
+    "source_note": "HSK 2.0 level-4 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "id": "hsk5_batch2_1151",
+    "level": "HSK5",
+    "hanzi": "综合",
+    "pinyin": "zōnghé",
+    "topic_id": "study",
+    "display_meaning_vi": "tổng hợp",
+    "meaning_en": "comprehensive",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "综合能力 / 综合分析",
+    "collocations": [
+      "综合能力",
+      "综合分析",
+      "综合大学"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "综合 là gộp nhiều mặt; 总结 là đúc kết sau một quá trình.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师给了一个综合评价。",
+        "pinyin": "Lǎo shī gěi le yí gè zōng hé píng jià.",
+        "vi": "Thầy đã cho một đánh giá tổng hợp.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Gộp nhiều mặt lại để xem hoặc để làm."
+    ],
+    "app_note_vi": "Gộp nhiều mặt lại để xem hoặc để làm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "综合 nghĩa là gì?",
+        "answer": "tổng hợp"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师给了一个____评价。",
+        "answer": "综合"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 综合?",
+        "answer": "综合 là gộp nhiều mặt; 总结 là đúc kết sau một quá trình."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1152",
+    "level": "HSK5",
+    "hanzi": "作文",
+    "pinyin": "zuòwén",
+    "topic_id": "study",
+    "display_meaning_vi": "bài văn",
+    "meaning_en": "a school essay",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "study"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "写作文 / 作文比赛",
+    "collocations": [
+      "写作文",
+      "作文比赛",
+      "一篇作文"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "作文 là bài làm văn ở trường; 论文 là luận văn, dài và học thuật hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "今天的作文我还没写完。",
+        "pinyin": "Jīn tiān de zuò wén wǒ hái méi xiě wán.",
+        "vi": "Bài văn hôm nay tôi vẫn chưa viết xong.",
+        "context": "study"
+      }
+    ],
+    "common_mistakes_vi": [
+      "作 đọc zuò. Xưởng 作坊 đọc zuō."
+    ],
+    "app_note_vi": "Bài tập làm văn của học sinh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "作文 nghĩa là gì?",
+        "answer": "bài văn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "今天的____我还没写完。",
+        "answer": "作文"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 作文?",
+        "answer": "作文 là bài làm văn ở trường; 论文 là luận văn, dài và học thuật hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1153",
+    "level": "HSK5",
+    "hanzi": "大型",
+    "pinyin": "dàxíng",
+    "topic_id": "society",
+    "display_meaning_vi": "quy mô lớn",
+    "meaning_en": "large-scale",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "大型活动 / 大型超市",
+    "collocations": [
+      "大型活动",
+      "大型超市",
+      "大型企业"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "市中心新开了一家大型超市。",
+        "pinyin": "Shì zhōng xīn xīn kāi le yì jiā dà xíng chāo shì.",
+        "vi": "Trung tâm thành phố vừa mở một siêu thị lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đặt trước danh từ để nói quy mô."
+    ],
+    "app_note_vi": "Đặt trước danh từ để nói quy mô.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "大型 nghĩa là gì?",
+        "answer": "quy mô lớn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "市中心新开了一家____超市。",
+        "answer": "大型"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1154",
+    "level": "HSK5",
+    "hanzi": "革命",
+    "pinyin": "gémìng",
+    "topic_id": "society",
+    "display_meaning_vi": "cách mạng",
+    "meaning_en": "a revolution",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "革命传统 / 工业革命",
+    "collocations": [
+      "革命传统",
+      "工业革命",
+      "技术革命"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "老师讲了一段革命历史。",
+        "pinyin": "Lǎo shī jiǎng le yí duàn gé mìng lì shǐ.",
+        "vi": "Thầy kể một đoạn lịch sử cách mạng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là cách mạng chính trị, vừa chỉ thay đổi rất lớn."
+    ],
+    "app_note_vi": "Vừa là cách mạng chính trị, vừa chỉ thay đổi rất lớn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "革命 nghĩa là gì?",
+        "answer": "cách mạng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "老师讲了一段____历史。",
+        "answer": "革命"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1155",
+    "level": "HSK5",
+    "hanzi": "官",
+    "pinyin": "guān",
+    "topic_id": "society",
+    "display_meaning_vi": "quan chức",
+    "meaning_en": "an official",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "当官 / 官员",
+    "collocations": [
+      "当官",
+      "官员",
+      "官职"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他父亲是一名警官。",
+        "pinyin": "Tā fù qīn shì yì míng jǐng guān.",
+        "vi": "Bố anh ấy là một sĩ quan cảnh sát.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Người giữ chức vụ công."
+    ],
+    "app_note_vi": "Người giữ chức vụ công.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "官 nghĩa là gì?",
+        "answer": "quan chức"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他父亲是一名警____。",
+        "answer": "官"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1156",
+    "level": "HSK5",
+    "hanzi": "集体",
+    "pinyin": "jítǐ",
+    "topic_id": "society",
+    "display_meaning_vi": "tập thể",
+    "meaning_en": "a group, collective",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "集体活动 / 集体荣誉",
+    "collocations": [
+      "集体活动",
+      "集体荣誉",
+      "集体主义"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "学校组织了一次集体劳动。",
+        "pinyin": "Xué xiào zǔ zhī le yí cì jí tǐ láo dòng.",
+        "vi": "Trường tổ chức một lần lao động tập thể.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Nhiều người như một nhóm, không phải việc riêng."
+    ],
+    "app_note_vi": "Nhiều người như một nhóm, không phải việc riêng.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "集体 nghĩa là gì?",
+        "answer": "tập thể"
+      },
+      {
+        "type": "cloze",
+        "prompt": "学校组织了一次____劳动。",
+        "answer": "集体"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1157",
+    "level": "HSK5",
+    "hanzi": "抗议",
+    "pinyin": "kàngyì",
+    "topic_id": "society",
+    "display_meaning_vi": "phản đối",
+    "meaning_en": "to protest",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "提出抗议 / 抗议活动",
+    "collocations": [
+      "提出抗议",
+      "抗议活动",
+      "强烈抗议"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "居民抗议噪音太大。",
+        "pinyin": "Jū mín kàng yì zào yīn tài dà.",
+        "vi": "Cư dân phản đối tiếng ồn quá lớn.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phản đối rõ ràng, mạnh hơn 反对 một chút khi nói hành động."
+    ],
+    "app_note_vi": "Phản đối rõ ràng, mạnh hơn 反对 một chút khi nói hành động.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "抗议 nghĩa là gì?",
+        "answer": "phản đối"
+      },
+      {
+        "type": "cloze",
+        "prompt": "居民____噪音太大。",
+        "answer": "抗议"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1158",
+    "level": "HSK5",
+    "hanzi": "民主",
+    "pinyin": "mínzhǔ",
+    "topic_id": "society",
+    "display_meaning_vi": "dân chủ",
+    "meaning_en": "democracy, or democratic",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "民主选举 / 民主决策",
+    "collocations": [
+      "民主选举",
+      "民主决策",
+      "民主监督"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "班长是大家民主选的。",
+        "pinyin": "Bān zhǎng shì dà jiā mín zhǔ xuǎn de.",
+        "vi": "Lớp trưởng do mọi người bầu một cách dân chủ.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa là thể chế, vừa là cách bàn bạc để cùng quyết."
+    ],
+    "app_note_vi": "Vừa là thể chế, vừa là cách bàn bạc để cùng quyết.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "民主 nghĩa là gì?",
+        "answer": "dân chủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "班长是大家____选的。",
+        "answer": "民主"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1159",
+    "level": "HSK5",
+    "hanzi": "枪",
+    "pinyin": "qiāng",
+    "topic_id": "society",
+    "display_meaning_vi": "súng",
+    "meaning_en": "a gun",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "手枪 / 枪声",
+    "collocations": [
+      "手枪",
+      "枪声",
+      "枪支"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "门口的警卫带着枪。",
+        "pinyin": "Mén kǒu de jǐng wèi dài zhe qiāng.",
+        "vi": "Bảo vệ ở cửa đeo súng.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vũ khí. Súng ngắn là 手枪. Không dùng từ này để chỉ đồ chơi nếu muốn nói rõ."
+    ],
+    "app_note_vi": "Vũ khí. Súng ngắn là 手枪. Không dùng từ này để chỉ đồ chơi nếu muốn nói rõ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "枪 nghĩa là gì?",
+        "answer": "súng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "门口的警卫带着____。",
+        "answer": "枪"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1160",
+    "level": "HSK5",
+    "hanzi": "荣誉",
+    "pinyin": "róngyù",
+    "topic_id": "society",
+    "display_meaning_vi": "danh dự",
+    "meaning_en": "an honor one receives",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "荣誉称号 / 荣誉证书",
+    "collocations": [
+      "荣誉称号",
+      "荣誉证书",
+      "集体荣誉"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "荣誉 là danh dự, giải thưởng; 荣幸 là cảm giác được vinh dự.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他获得了最高荣誉。",
+        "pinyin": "Tā huò dé le zuì gāo róng yù.",
+        "vi": "Anh ấy nhận được danh dự cao nhất.",
+        "context": "society"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Danh hiệu, giải, sự vinh dự bên ngoài trao cho."
+    ],
+    "app_note_vi": "Danh hiệu, giải, sự vinh dự bên ngoài trao cho.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "荣誉 nghĩa là gì?",
+        "answer": "danh dự"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他获得了最高____。",
+        "answer": "荣誉"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 荣誉?",
+        "answer": "荣誉 là danh dự, giải thưởng; 荣幸 là cảm giác được vinh dự."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "hsk5_batch2_1231",
+    "level": "HSK5",
+    "hanzi": "愿望",
+    "pinyin": "yuànwàng",
+    "topic_id": "emotion",
+    "display_meaning_vi": "nguyện vọng",
+    "meaning_en": "a wish",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "美好愿望 / 实现愿望",
+    "collocations": [
+      "美好愿望",
+      "实现愿望",
+      "共同愿望"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "愿望 là điều mong ước; 希望 còn là động từ, nghĩa là mong rằng.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "出国留学是她的愿望。",
+        "pinyin": "Chū guó liú xué shì tā de yuàn wàng.",
+        "vi": "Du học là nguyện vọng của cô ấy.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Điều mong trong lòng, thường khá lâu dài."
+    ],
+    "app_note_vi": "Điều mong trong lòng, thường khá lâu dài.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "愿望 nghĩa là gì?",
+        "answer": "nguyện vọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "出国留学是她的____。",
+        "answer": "愿望"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 愿望?",
+        "answer": "愿望 là điều mong ước; 希望 còn là động từ, nghĩa là mong rằng."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1232",
+    "level": "HSK5",
+    "hanzi": "运气",
+    "pinyin": "yùnqi",
+    "topic_id": "emotion",
+    "display_meaning_vi": "vận may",
+    "meaning_en": "luck",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "碰运气 / 运气好",
+    "collocations": [
+      "碰运气",
+      "运气好",
+      "运气差"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这次能买到票纯属运气。",
+        "pinyin": "Zhè cì néng mǎi dào piào chún shǔ yùn qi.",
+        "vi": "Lần này mua được vé hoàn toàn là nhờ may.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Có thể tốt hoặc xấu, không phải năng lực."
+    ],
+    "app_note_vi": "Có thể tốt hoặc xấu, không phải năng lực.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "运气 nghĩa là gì?",
+        "answer": "vận may"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这次能买到票纯属____。",
+        "answer": "运气"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1233",
+    "level": "HSK5",
+    "hanzi": "糟糕",
+    "pinyin": "zāogāo",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tệ quá",
+    "meaning_en": "terrible",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "糟糕透了 / 真糟糕",
+    "collocations": [
+      "糟糕透了",
+      "真糟糕",
+      "情况糟糕"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "糟糕，我把车票忘在家里了。",
+        "pinyin": "Zāo gāo wǒ bǎ chē piào wàng zài jiā lǐ le.",
+        "vi": "Hỏng rồi, tôi để quên vé ở nhà.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Vừa tả tình hình xấu, vừa là tiếng than khi xảy ra chuyện dở."
+    ],
+    "app_note_vi": "Vừa tả tình hình xấu, vừa là tiếng than khi xảy ra chuyện dở.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "糟糕 nghĩa là gì?",
+        "answer": "tệ quá"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____，我把车票忘在家里了。",
+        "answer": "糟糕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1234",
+    "level": "HSK5",
+    "hanzi": "珍惜",
+    "pinyin": "zhēnxī",
+    "topic_id": "emotion",
+    "display_meaning_vi": "trân trọng",
+    "meaning_en": "to cherish",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "珍惜时间 / 珍惜机会",
+    "collocations": [
+      "珍惜时间",
+      "珍惜机会",
+      "倍加珍惜"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "珍惜 là trân trọng thứ quý, dễ mất; 爱惜 là yêu quý và giữ gìn đồ vật.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他很珍惜这次学习机会。",
+        "pinyin": "Tā hěn zhēn xī zhè cì xué xí jī huì.",
+        "vi": "Anh ấy rất trân trọng cơ hội học lần này.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Coi trọng thứ quý và dễ mất, rồi giữ gìn."
+    ],
+    "app_note_vi": "Coi trọng thứ quý và dễ mất, rồi giữ gìn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "珍惜 nghĩa là gì?",
+        "answer": "trân trọng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他很____这次学习机会。",
+        "answer": "珍惜"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 珍惜?",
+        "answer": "珍惜 là trân trọng thứ quý, dễ mất; 爱惜 là yêu quý và giữ gìn đồ vật."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1235",
+    "level": "HSK5",
+    "hanzi": "自豪",
+    "pinyin": "zìháo",
+    "topic_id": "emotion",
+    "display_meaning_vi": "tự hào",
+    "meaning_en": "proud",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "自豪感 / 值得自豪",
+    "collocations": [
+      "自豪感",
+      "值得自豪",
+      "为之自豪"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "自豪 là tự hào về điều tốt; 骄傲 có thể là tự hào, cũng có thể là kiêu.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "父母为他的进步感到自豪。",
+        "pinyin": "Fù mǔ wèi tā de jìn bù gǎn dào zì háo.",
+        "vi": "Bố mẹ tự hào vì anh ấy tiến bộ.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Thấy vinh dự về thành quả của mình hoặc của người thân."
+    ],
+    "app_note_vi": "Thấy vinh dự về thành quả của mình hoặc của người thân.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "自豪 nghĩa là gì?",
+        "answer": "tự hào"
+      },
+      {
+        "type": "cloze",
+        "prompt": "父母为他的进步感到____。",
+        "answer": "自豪"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 自豪?",
+        "answer": "自豪 là tự hào về điều tốt; 骄傲 có thể là tự hào, cũng có thể là kiêu."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1236",
+    "level": "HSK5",
+    "hanzi": "总算",
+    "pinyin": "zǒngsuàn",
+    "topic_id": "emotion",
+    "display_meaning_vi": "cuối cùng cũng",
+    "meaning_en": "at last",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "feel"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "总算完成 / 总算明白",
+    "collocations": [
+      "总算完成",
+      "总算明白",
+      "总算赶上"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "总算 nhấn mạnh cuối cùng cũng được, có cảm giác nhẹ nhõm; 终于 là cuối cùng, ít kèm ý may mắn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "雨停了，我们总算到了。",
+        "pinyin": "Yǔ tíng le wǒ men zǒng suàn dào le.",
+        "vi": "Mưa tạnh, cuối cùng chúng tôi cũng đến.",
+        "context": "feel"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Việc chờ lâu cuối cùng cũng xong, thường kèm cảm giác nhẹ người."
+    ],
+    "app_note_vi": "Việc chờ lâu cuối cùng cũng xong, thường kèm cảm giác nhẹ người.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "总算 nghĩa là gì?",
+        "answer": "cuối cùng cũng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "雨停了，我们____到了。",
+        "answer": "总算"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 总算?",
+        "answer": "总算 nhấn mạnh cuối cùng cũng được, có cảm giác nhẹ nhõm; 终于 là cuối cùng, ít kèm ý may mắn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1237",
+    "level": "HSK5",
+    "hanzi": "对比",
+    "pinyin": "duìbǐ",
+    "topic_id": "abstract",
+    "display_meaning_vi": "so sánh đối chiếu",
+    "meaning_en": "to compare side by side",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "对比分析 / 对比鲜明",
+    "collocations": [
+      "对比分析",
+      "对比鲜明",
+      "形成对比"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "对比 là so để thấy khác; 比较 hay nói hơn kém.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "两份方案一对比就清楚了。",
+        "pinyin": "Liǎng fèn fān gàn yí duì bǐ jiù qīng chǔ le.",
+        "vi": "Đặt hai phương án cạnh nhau là thấy rõ ngay.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Đặt cạnh nhau để thấy chỗ khác."
+    ],
+    "app_note_vi": "Đặt cạnh nhau để thấy chỗ khác.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "对比 nghĩa là gì?",
+        "answer": "so sánh đối chiếu"
+      },
+      {
+        "type": "cloze",
+        "prompt": "两份方案一____就清楚了。",
+        "answer": "对比"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 对比?",
+        "answer": "对比 là so để thấy khác; 比较 hay nói hơn kém."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1238",
+    "level": "HSK5",
+    "hanzi": "幻想",
+    "pinyin": "huànxiǎng",
+    "topic_id": "abstract",
+    "display_meaning_vi": "ảo tưởng",
+    "meaning_en": "a fantasy",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "科学幻想 / 幻想破灭",
+    "collocations": [
+      "科学幻想",
+      "幻想破灭",
+      "充满幻想"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "幻想 xa thực tế; 想象 là tưởng tượng, trung tính.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他幻想有一天能环游世界。",
+        "pinyin": "Tā huàn xiǎng yǒu yì tiān néng huán yóu shì jiè.",
+        "vi": "Anh ấy mơ một ngày sẽ đi vòng quanh thế giới.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Hình dung điều khó thành sự thật."
+    ],
+    "app_note_vi": "Hình dung điều khó thành sự thật.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "幻想 nghĩa là gì?",
+        "answer": "ảo tưởng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他____有一天能环游世界。",
+        "answer": "幻想"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 幻想?",
+        "answer": "幻想 xa thực tế; 想象 là tưởng tượng, trung tính."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1239",
+    "level": "HSK5",
+    "hanzi": "巧妙",
+    "pinyin": "qiǎomiào",
+    "topic_id": "abstract",
+    "display_meaning_vi": "khéo léo",
+    "meaning_en": "cleverly worked out",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "构思巧妙 / 巧妙安排",
+    "collocations": [
+      "构思巧妙",
+      "巧妙安排",
+      "手法巧妙"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他用了个巧妙的办法。",
+        "pinyin": "Tā yòng le gè qiǎo miào de bàn fǎ.",
+        "vi": "Anh ấy dùng một cách rất khéo.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khen cách làm thông minh, gọn, không thô."
+    ],
+    "app_note_vi": "Khen cách làm thông minh, gọn, không thô.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "巧妙 nghĩa là gì?",
+        "answer": "khéo léo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他用了个____的办法。",
+        "answer": "巧妙"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1240",
+    "level": "HSK5",
+    "hanzi": "事物",
+    "pinyin": "shìwù",
+    "topic_id": "abstract",
+    "display_meaning_vi": "sự vật",
+    "meaning_en": "things in general",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "think"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "新事物 / 事物发展",
+    "collocations": [
+      "新事物",
+      "事物发展",
+      "具体事物"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "事物 là sự vật nói chung; 东西 là đồ vật cụ thể.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新事物一开始常被怀疑。",
+        "pinyin": "Xīn shì wù yì kāi shǐ cháng bèi huái yí.",
+        "vi": "Cái mới lúc đầu thường bị nghi ngờ.",
+        "context": "think"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Từ trừu tượng, không phải một món đồ cụ thể."
+    ],
+    "app_note_vi": "Từ trừu tượng, không phải một món đồ cụ thể.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "事物 nghĩa là gì?",
+        "answer": "sự vật"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新____一开始常被怀疑。",
+        "answer": "事物"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 事物?",
+        "answer": "事物 là sự vật nói chung; 东西 là đồ vật cụ thể."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

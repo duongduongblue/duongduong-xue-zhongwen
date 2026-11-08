@@ -1,0 +1,552 @@
+[
+  {
+    "id": "hsk5_batch2_1271",
+    "level": "HSK5",
+    "hanzi": "铃",
+    "pinyin": "líng",
+    "topic_id": "daily",
+    "display_meaning_vi": "chuông",
+    "meaning_en": "a bell",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "铃声 / 门铃",
+    "collocations": [
+      "铃声",
+      "门铃",
+      "摇铃"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "上课铃一响大家就安静。",
+        "pinyin": "Shàng kè líng yì xiǎng dà jiā jiù ān jìng.",
+        "vi": "Chuông vào lớp vừa reo là mọi người im.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Chuông cửa là 门铃, tiếng chuông là 铃声."
+    ],
+    "app_note_vi": "Chuông cửa là 门铃, tiếng chuông là 铃声.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "铃 nghĩa là gì?",
+        "answer": "chuông"
+      },
+      {
+        "type": "cloze",
+        "prompt": "上课____一响大家就安静。",
+        "answer": "铃"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1272",
+    "level": "HSK5",
+    "hanzi": "杀",
+    "pinyin": "shā",
+    "topic_id": "daily",
+    "display_meaning_vi": "diệt, giết",
+    "meaning_en": "to kill or wipe out",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "杀毒 / 杀灭",
+    "collocations": [
+      "杀毒",
+      "杀灭",
+      "杀害"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "厨房每天都要注意杀菌。",
+        "pinyin": "Chú fáng měi tiān dōu yào zhù yì shā jūn.",
+        "vi": "Nhà bếp mỗi ngày đều phải chú ý diệt khuẩn.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Diệt vi khuẩn, vi rút nói 杀菌, 杀毒. 杀害 là giết người, từ nặng trong tin tức."
+    ],
+    "app_note_vi": "Diệt vi khuẩn, vi rút nói 杀菌, 杀毒. 杀害 là giết người, từ nặng trong tin tức.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "杀 nghĩa là gì?",
+        "answer": "diệt, giết"
+      },
+      {
+        "type": "cloze",
+        "prompt": "厨房每天都要注意____菌。",
+        "answer": "杀"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1273",
+    "level": "HSK5",
+    "hanzi": "书架",
+    "pinyin": "shūjià",
+    "topic_id": "daily",
+    "display_meaning_vi": "giá sách",
+    "meaning_en": "bookshelf",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "书架上 / 一个书架",
+    "collocations": [
+      "书架上",
+      "一个书架",
+      "整理书架"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "新买的书放上书架了。",
+        "pinyin": "Xīn mǎi de shū fàng shàng shū jià le.",
+        "vi": "Sách mới mua đã để lên giá.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Kệ để sách, khác tủ sách có cửa."
+    ],
+    "app_note_vi": "Kệ để sách, khác tủ sách có cửa.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "书架 nghĩa là gì?",
+        "answer": "giá sách"
+      },
+      {
+        "type": "cloze",
+        "prompt": "新买的书放上____了。",
+        "answer": "书架"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1274",
+    "level": "HSK5",
+    "hanzi": "梳子",
+    "pinyin": "shūzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "cái lược",
+    "meaning_en": "comb",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一把梳子 / 用梳子",
+    "collocations": [
+      "一把梳子",
+      "用梳子",
+      "塑料梳子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "包里总带着一把梳子。",
+        "pinyin": "Bāo lǐ zǒng dài zhe yì bǎ shū zi.",
+        "vi": "Trong túi lúc nào cũng có một cái lược.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Danh từ. Động từ chải tóc là chữ khác đứng một mình."
+    ],
+    "app_note_vi": "Danh từ. Động từ chải tóc là chữ khác đứng một mình.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "梳子 nghĩa là gì?",
+        "answer": "cái lược"
+      },
+      {
+        "type": "cloze",
+        "prompt": "包里总带着一把____。",
+        "answer": "梳子"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1275",
+    "level": "HSK5",
+    "hanzi": "撕",
+    "pinyin": "sī",
+    "topic_id": "daily",
+    "display_meaning_vi": "xé",
+    "meaning_en": "to tear",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "撕开 / 撕碎",
+    "collocations": [
+      "撕开",
+      "撕碎",
+      "撕毁"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "她把过期的票据撕了。",
+        "pinyin": "Tā bǎ guò qī de piào jù sī le.",
+        "vi": "Cô ấy xé tờ biên lai hết hạn.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Xé bằng tay, thường là giấy."
+    ],
+    "app_note_vi": "Xé bằng tay, thường là giấy.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "撕 nghĩa là gì?",
+        "answer": "xé"
+      },
+      {
+        "type": "cloze",
+        "prompt": "她把过期的票据____了。",
+        "answer": "撕"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1276",
+    "level": "HSK5",
+    "hanzi": "台阶",
+    "pinyin": "táijiē",
+    "topic_id": "daily",
+    "display_meaning_vi": "bậc thềm",
+    "meaning_en": "steps",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "上台阶 / 下台阶",
+    "collocations": [
+      "上台阶",
+      "下台阶",
+      "台阶上"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "下雨以后台阶有点滑。",
+        "pinyin": "Xià yǔ yǐ hòu tái jiē yǒu diǎn huá.",
+        "vi": "Sau mưa bậc thềm hơi trơn.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Ngoài bậc cấp, còn chỉ lối để người khác giữ thể diện."
+    ],
+    "app_note_vi": "Ngoài bậc cấp, còn chỉ lối để người khác giữ thể diện.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "台阶 nghĩa là gì?",
+        "answer": "bậc thềm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "下雨以后____有点滑。",
+        "answer": "台阶"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1277",
+    "level": "HSK5",
+    "hanzi": "围巾",
+    "pinyin": "wéijīn",
+    "topic_id": "daily",
+    "display_meaning_vi": "khăn quàng",
+    "meaning_en": "scarf",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一条围巾 / 羊毛围巾",
+    "collocations": [
+      "一条围巾",
+      "羊毛围巾",
+      "围围巾"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "冬天我常戴这条围巾。",
+        "pinyin": "Dōng tiān wǒ cháng dài zhè tiáo wéi jīn.",
+        "vi": "Mùa đông tôi hay đeo chiếc khăn này.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khăn quàng cổ, thường đếm bằng chiếc."
+    ],
+    "app_note_vi": "Khăn quàng cổ, thường đếm bằng chiếc.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "围巾 nghĩa là gì?",
+        "answer": "khăn quàng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "冬天我常戴这条____。",
+        "answer": "围巾"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1278",
+    "level": "HSK5",
+    "hanzi": "卫生间",
+    "pinyin": "wèishēngjiān",
+    "topic_id": "daily",
+    "display_meaning_vi": "nhà vệ sinh",
+    "meaning_en": "bathroom",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "公共卫生间 / 卫生间里",
+    "collocations": [
+      "公共卫生间",
+      "卫生间里",
+      "找卫生间"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "卫生间 lịch sự hơn; 厕所 thẳng và thân mật hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "请问卫生间在走廊尽头吗？",
+        "pinyin": "Qǐng wèn wèi shēng jiān zài zǒu láng jìn tóu ma.",
+        "vi": "Xin hỏi nhà vệ sinh có ở cuối hành lang không?",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cách nói lịch sự khi hỏi chỗ vệ sinh."
+    ],
+    "app_note_vi": "Cách nói lịch sự khi hỏi chỗ vệ sinh.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "卫生间 nghĩa là gì?",
+        "answer": "nhà vệ sinh"
+      },
+      {
+        "type": "cloze",
+        "prompt": "请问____在走廊尽头吗？",
+        "answer": "卫生间"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 卫生间?",
+        "answer": "卫生间 lịch sự hơn; 厕所 thẳng và thân mật hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1279",
+    "level": "HSK5",
+    "hanzi": "卧室",
+    "pinyin": "wòshì",
+    "topic_id": "daily",
+    "display_meaning_vi": "phòng ngủ",
+    "meaning_en": "bedroom",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "主卧室 / 卧室里",
+    "collocations": [
+      "主卧室",
+      "卧室里",
+      "卧室门"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "卧室朝南，上午很亮。",
+        "pinyin": "Wò shì cháo nán shàng wǔ hěn liàng.",
+        "vi": "Phòng ngủ hướng nam, buổi sáng rất sáng.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Phòng để ngủ, khác phòng khách."
+    ],
+    "app_note_vi": "Phòng để ngủ, khác phòng khách.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "卧室 nghĩa là gì?",
+        "answer": "phòng ngủ"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____朝南，上午很亮。",
+        "answer": "卧室"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_1280",
+    "level": "HSK5",
+    "hanzi": "屋子",
+    "pinyin": "wūzi",
+    "topic_id": "daily",
+    "display_meaning_vi": "căn phòng",
+    "meaning_en": "room",
+    "part_of_speech": "word",
+    "difficulty": 2,
+    "topic_tags": [
+      "home"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一间屋子 / 屋子里",
+    "collocations": [
+      "一间屋子",
+      "屋子里",
+      "空屋子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "屋子 khẩu ngữ; 房间 trung tính hơn.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这间屋子虽小但很干净。",
+        "pinyin": "Zhè jiān wū zi suī xiǎo dàn hěn gān jìng.",
+        "vi": "Căn phòng này tuy nhỏ nhưng rất sạch.",
+        "context": "home"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Khẩu ngữ, chỉ gian phòng hoặc nhà nhỏ."
+    ],
+    "app_note_vi": "Khẩu ngữ, chỉ gian phòng hoặc nhà nhỏ.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "屋子 nghĩa là gì?",
+        "answer": "căn phòng"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这间____虽小但很干净。",
+        "answer": "屋子"
+      },
+      {
+        "type": "synonym",
+        "prompt": "Cách dùng 屋子?",
+        "answer": "屋子 khẩu ngữ; 房间 trung tính hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]

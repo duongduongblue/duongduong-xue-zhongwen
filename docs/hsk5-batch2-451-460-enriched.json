@@ -1,0 +1,556 @@
+[
+  {
+    "id": "hsk5_batch2_451",
+    "level": "HSK5",
+    "hanzi": "夜",
+    "pinyin": "yè",
+    "topic_id": "nature",
+    "display_meaning_vi": "đêm",
+    "meaning_en": "night",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature",
+      "time"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "夜里 / 夜班",
+    "collocations": [
+      "夜里",
+      "夜班",
+      "昼夜"
+    ],
+    "near_synonyms": [
+      {
+        "word": "晚上",
+        "difference_vi": "夜 hẹp hơn, thường là đêm khuya; 晚上 là buổi tối, rộng hơn."
+      }
+    ],
+    "app_synonym_note_vi": "夜 = đêm khuya; 晚上 = buổi tối.",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夜深了，你还在看书吗？",
+        "pinyin": "Yè shēn le, nǐ hái zài kàn shū ma?",
+        "vi": "Đêm đã khuya, bạn còn đọc sách à?",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "夜里 là ban đêm. 昼夜 là cả ngày lẫn đêm."
+    ],
+    "app_note_vi": "Danh từ. 夜深了 là đêm đã khuya.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "夜 nghĩa là gì?",
+        "answer": "đêm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "____深了，你还在看书吗？",
+        "answer": "夜"
+      },
+      {
+        "type": "synonym",
+        "prompt": "夜 khác 晚上 ở điểm nào?",
+        "answer": "夜 hẹp hơn, thường là đêm khuya; 晚上 là buổi tối, rộng hơn."
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_452",
+    "level": "HSK5",
+    "hanzi": "根",
+    "pinyin": "gēn",
+    "topic_id": "nature",
+    "display_meaning_vi": "rễ; cái",
+    "meaning_en": "root; measure for long thin things",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "树根 / 一根头发",
+    "collocations": [
+      "树根",
+      "根部",
+      "一根头发"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "这棵老树的根很深。",
+        "pinyin": "Zhè kē lǎo shù de gēn hěn shēn.",
+        "vi": "Rễ cây già này rất sâu.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "根 vừa là rễ, vừa đếm vật dài mảnh như tóc, dây, que. 一根 đọc yì gēn vì 根 là thanh 1."
+    ],
+    "app_note_vi": "Danh từ hoặc lượng từ. 根本 là từ khác, nghĩa căn bản.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "根 nghĩa là gì?",
+        "answer": "rễ; cái"
+      },
+      {
+        "type": "cloze",
+        "prompt": "这棵老树的____很深。",
+        "answer": "根"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_453",
+    "level": "HSK5",
+    "hanzi": "雷",
+    "pinyin": "léi",
+    "topic_id": "nature",
+    "display_meaning_vi": "sấm",
+    "meaning_en": "thunder",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "打雷 / 雷雨",
+    "collocations": [
+      "打雷",
+      "雷雨",
+      "雷声"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "夏天常常打雷下雨。",
+        "pinyin": "Xiàtiān chángcháng dǎ léi xià yǔ.",
+        "vi": "Mùa hè hay có sấm và mưa.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "雷 đọc léi khi là sấm. Họ 雷 cũng đọc Léi. Ánh chớp là 闪电, không phải 雷."
+    ],
+    "app_note_vi": "Danh từ. 打雷 là có sấm.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "雷 nghĩa là gì?",
+        "answer": "sấm"
+      },
+      {
+        "type": "cloze",
+        "prompt": "夏天常常打____下雨。",
+        "answer": "雷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_454",
+    "level": "HSK5",
+    "hanzi": "土地",
+    "pinyin": "tǔdì",
+    "topic_id": "nature",
+    "display_meaning_vi": "đất đai",
+    "meaning_en": "land",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature",
+      "society"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一片土地 / 土地肥沃",
+    "collocations": [
+      "一片土地",
+      "土地肥沃",
+      "土地使用权"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "家乡的土地很肥沃。",
+        "pinyin": "Jiāxiāng de tǔdì hěn féiwò.",
+        "vi": "Đất quê rất màu mỡ.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "土地 đọc tǔdì khi nói đất đai, ruộng đất. Không phải đất bùn dính tay; đất bùn nói 泥土."
+    ],
+    "app_note_vi": "Danh từ. 土地使用权 là quyền sử dụng đất.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "土地 nghĩa là gì?",
+        "answer": "đất đai"
+      },
+      {
+        "type": "cloze",
+        "prompt": "家乡的____很肥沃。",
+        "answer": "土地"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_455",
+    "level": "HSK5",
+    "hanzi": "岛",
+    "pinyin": "dǎo",
+    "topic_id": "nature",
+    "display_meaning_vi": "hòn đảo",
+    "meaning_en": "island",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature",
+      "place"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "海岛 / 岛上",
+    "collocations": [
+      "一个岛",
+      "岛上",
+      "海岛"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他们在岛上住了三天。",
+        "pinyin": "Tāmen zài dǎo shàng zhù le sān tiān.",
+        "vi": "Họ ở trên đảo ba ngày.",
+        "context": "place"
+      }
+    ],
+    "common_mistakes_vi": [
+      "岛 là đất có nước bao quanh. Một hòn nói 一个岛 hoặc 一座岛."
+    ],
+    "app_note_vi": "Danh từ. 岛上 là trên đảo.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "岛 nghĩa là gì?",
+        "answer": "hòn đảo"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他们在____上住了三天。",
+        "answer": "岛"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_456",
+    "level": "HSK5",
+    "hanzi": "吹",
+    "pinyin": "chuī",
+    "topic_id": "nature",
+    "display_meaning_vi": "thổi",
+    "meaning_en": "to blow",
+    "part_of_speech": "verb",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature",
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "吹风 / 吹灭 / 吹牛",
+    "collocations": [
+      "吹风",
+      "吹牛",
+      "吹灭"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "风把蜡烛吹灭了。",
+        "pinyin": "Fēng bǎ làzhú chuī miè le.",
+        "vi": "Gió thổi tắt nến.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "吹牛 là khoe khoang, nói quá, không phải thổi trâu. 吹灭 là thổi tắt."
+    ],
+    "app_note_vi": "Động từ. Gió, miệng hoặc máy đều có thể 吹.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "吹 nghĩa là gì?",
+        "answer": "thổi"
+      },
+      {
+        "type": "cloze",
+        "prompt": "风把蜡烛____灭了。",
+        "answer": "吹"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_457",
+    "level": "HSK5",
+    "hanzi": "滴",
+    "pinyin": "dī",
+    "topic_id": "nature",
+    "display_meaning_vi": "giọt",
+    "meaning_en": "drop",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "usage"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "一滴 / 水滴",
+    "collocations": [
+      "水滴",
+      "一滴油",
+      "滴水不漏"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "窗外的雨滴打在玻璃上。",
+        "pinyin": "Chuāng wài de yǔdī dǎ zài bōli shàng.",
+        "vi": "Những giọt mưa ngoài cửa sổ rơi trên kính.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "滴 vừa là danh từ giọt, vừa là lượng từ: 一滴油. 一滴 đọc yì dī vì 滴 là thanh 1."
+    ],
+    "app_note_vi": "Lượng từ cho chất lỏng rơi từng giọt.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "滴 nghĩa là gì?",
+        "answer": "giọt"
+      },
+      {
+        "type": "cloze",
+        "prompt": "窗外的雨____打在玻璃上。",
+        "answer": "滴"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_458",
+    "level": "HSK5",
+    "hanzi": "洞",
+    "pinyin": "dòng",
+    "topic_id": "nature",
+    "display_meaning_vi": "lỗ; hang",
+    "meaning_en": "hole; cave",
+    "part_of_speech": "noun",
+    "difficulty": 2,
+    "topic_tags": [
+      "nature"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "cloze"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "山洞 / 洞口",
+    "collocations": [
+      "山洞",
+      "树洞",
+      "洞口"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "小狗钻进了一个小洞。",
+        "pinyin": "Xiǎo gǒu zuān jìn le yí gè xiǎo dòng.",
+        "vi": "Chú chó chui vào một cái hang nhỏ.",
+        "context": "nature"
+      }
+    ],
+    "common_mistakes_vi": [
+      "一个 đọc yí gè. 洞 là danh từ, không phải động từ “đục lỗ”."
+    ],
+    "app_note_vi": "Danh từ. 山洞 là hang núi, 树洞 là hốc cây.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "洞 nghĩa là gì?",
+        "answer": "lỗ; hang"
+      },
+      {
+        "type": "cloze",
+        "prompt": "小狗钻进了一个小____。",
+        "answer": "洞"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_459",
+    "level": "HSK5",
+    "hanzi": "卷",
+    "pinyin": "juǎn",
+    "topic_id": "daily",
+    "display_meaning_vi": "cuộn",
+    "meaning_en": "to roll up",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "卷起来 / 卷尺",
+    "collocations": [
+      "卷起来",
+      "卷尺",
+      "卷土重来"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "他把袖子卷了起来。",
+        "pinyin": "Tā bǎ xiùzi juǎn le qǐlái.",
+        "vi": "Anh ấy xắn tay áo lên.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "Cuộn, xắn đọc juǎn. Cuốn bài thi hoặc một tập, như 考卷, 试卷, đọc juàn."
+    ],
+    "app_note_vi": "Động từ trong bài này. 卷土重来 là quay lại gây chuyện, cũng đọc juǎn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "卷 nghĩa là gì?",
+        "answer": "cuộn"
+      },
+      {
+        "type": "cloze",
+        "prompt": "他把袖子____了起来。",
+        "answer": "卷"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  },
+  {
+    "id": "hsk5_batch2_460",
+    "level": "HSK5",
+    "hanzi": "盖",
+    "pinyin": "gài",
+    "topic_id": "daily",
+    "display_meaning_vi": "đậy; che",
+    "meaning_en": "to cover; lid",
+    "part_of_speech": "verb",
+    "difficulty": 3,
+    "topic_tags": [
+      "daily"
+    ],
+    "exam_tags": [
+      "meaning",
+      "collocation",
+      "reading"
+    ],
+    "register": "neutral",
+    "grammar_pattern": "盖好 / 盖子 / 盖章",
+    "collocations": [
+      "盖子",
+      "盖章",
+      "盖被子"
+    ],
+    "near_synonyms": [],
+    "app_synonym_note_vi": "",
+    "antonyms": [],
+    "example_sentences": [
+      {
+        "zh": "沙尘来了，把水果盖好。",
+        "pinyin": "Shāchén lái le, bǎ shuǐguǒ gài hǎo.",
+        "vi": "Bụi đến rồi, đậy hoa quả lại.",
+        "context": "daily"
+      }
+    ],
+    "common_mistakes_vi": [
+      "盖 đọc gài khi là đậy, che hoặc đóng dấu. Họ 盖 đọc Gě, không dùng cho đậy nắp."
+    ],
+    "app_note_vi": "Động từ. 盖章 là đóng dấu. 盖被子 là đắp chăn.",
+    "review_prompts": [
+      {
+        "type": "meaning",
+        "prompt": "盖 nghĩa là gì?",
+        "answer": "đậy; che"
+      },
+      {
+        "type": "cloze",
+        "prompt": "沙尘来了，把水果____好。",
+        "answer": "盖"
+      }
+    ],
+    "source_note": "HSK 2.0 level-5 exclusive vocabulary"
+  }
+]
